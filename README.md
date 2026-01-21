@@ -1,4 +1,4 @@
-# Engineering-Forward
+# Mapping-Forward
 Technical watch for mapping and geographical intelligence
 
 ## Statistics
