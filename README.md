@@ -5,13 +5,14 @@ Technical watch for mapping and geographical intelligence
 
 Articles per month:
 
-2026-01 | █████████████ 13
+2026-01 | ██████████████ 14
 
 ## Articles
 
 ### 2026
 
-#### January (13 articles)
+#### January (14 articles)
+- [TomTom Area Analytics](src/2026-01/tomtom-area-analytics.md)
 - [State of the Map 2026 : rendez-vous a Paris !](src/2026-01/state-of-the-map-2026-paris.md)
 - [Adding HERE Maps to your website in 2026](src/2026-01/adding-here-maps-to-your-website-in-2026.md)
 - [January 2026 Platform Release Notes](src/2026-01/january-2026-platform-release-notes.md)
