@@ -5,13 +5,14 @@ Technical watch for mapping and geographical intelligence
 
 Articles per month:
 
-2026-01 | ████████████ 12
+2026-01 | █████████████ 13
 
 ## Articles
 
 ### 2026
 
-#### January (12 articles)
+#### January (13 articles)
+- [State of the Map 2026 : rendez-vous a Paris !](src/2026-01/state-of-the-map-2026-paris.md)
 - [Adding HERE Maps to your website in 2026](src/2026-01/adding-here-maps-to-your-website-in-2026.md)
 - [January 2026 Platform Release Notes](src/2026-01/january-2026-platform-release-notes.md)
 - [HERE at CES 2026: every reveal, announcement and award](src/2026-01/here-at-ces-2026-every-reveal-announcement-and-award.md)
