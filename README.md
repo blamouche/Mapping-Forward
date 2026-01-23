@@ -5,13 +5,14 @@ Technical watch for mapping and geographical intelligence
 
 Articles per month:
 
-2026-01 | ███████████ 11
+2026-01 | ████████████ 12
 
 ## Articles
 
 ### 2026
 
-#### January (11 articles)
+#### January (12 articles)
+- [Adding HERE Maps to your website in 2026](src/2026-01/adding-here-maps-to-your-website-in-2026.md)
 - [January 2026 Platform Release Notes](src/2026-01/january-2026-platform-release-notes.md)
 - [HERE at CES 2026: every reveal, announcement and award](src/2026-01/here-at-ces-2026-every-reveal-announcement-and-award.md)
 - [Seeing Beyond the Sensors: HERE Showcases AI-Powered Map Data with Snapdragon Ride](src/2026-01/ces-2026-snapdragon-ride.md)
