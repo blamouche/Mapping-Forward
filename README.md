@@ -5,13 +5,14 @@ Technical watch for mapping and geographical intelligence
 
 Articles per month:
 
-2026-01 | █████████████████ 17
+2026-01 | ██████████████████ 18
 
 ## Articles
 
 ### 2026
 
-#### January (17 articles)
+#### January (18 articles)
+- [Map shows what would happen to Gaza under the US master plan](src/2026-01/map-shows-what-would-happen-to-gaza-under-the-us-master-plan.md)
 - [Carte : Ou se trouvent les bases militaires americaines en Europe ?](src/2026-01/carte-ou-se-trouvent-les-bases-militaires-americaines-en-europe.md)
 - [Iran. Cartographie d'un soulèvement](src/2026-01/iran-cartographie-dun-soulevement.md)
 - [5 best spatial analytics and visualizations of 2025](src/2026-01/5-best-spatial-analytics-and-visualizations-of-2025.md)
