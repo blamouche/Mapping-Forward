@@ -5,13 +5,14 @@ Technical watch for mapping and geographical intelligence
 
 Articles per month:
 
-2026-01 | ██████████████████ 18
+2026-01 | ███████████████████ 19
 
 ## Articles
 
 ### 2026
 
-#### January (18 articles)
+#### January (19 articles)
+- [Webb's biggest dark matter map shows the Universe's invisible scaffolding in stunning detail](src/2026-01/james-webb-space-telescope-dark-matter-map.md)
 - [Map shows what would happen to Gaza under the US master plan](src/2026-01/map-shows-what-would-happen-to-gaza-under-the-us-master-plan.md)
 - [Carte : Ou se trouvent les bases militaires americaines en Europe ?](src/2026-01/carte-ou-se-trouvent-les-bases-militaires-americaines-en-europe.md)
 - [Iran. Cartographie d'un soulèvement](src/2026-01/iran-cartographie-dun-soulevement.md)

@@ -1,4 +1,3 @@
-https://www.skyatnightmagazine.com/news/james-webb-space-telescope-dark-matter-map
 https://www.esri.com/about/newsroom/blog/gis-ai-urban-forestry-heat-mitigation
 https://theconversation.com/the-cold-war-maps-that-can-help-us-rethink-todays-arctic-conflict-274058
 https://www.courrierinternational.com/article/cartographie-un-manuscrit-decouvert-en-espagne-eclaire-les-origines-de-la-projection-de-mercator_239284
