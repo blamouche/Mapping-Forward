@@ -5,13 +5,14 @@ Technical watch for mapping and geographical intelligence
 
 Articles per month:
 
-2026-01 | ███████████████████████ 23
+2026-01 | ████████████████████████ 24
 
 ## Articles
 
 ### 2026
 
-#### January (23 articles)
+#### January (24 articles)
+- [Protomaps Adds Overture Maps Data Source Support](src/2026-01/protomaps-overture-data-source-support.md)
 - [TomTom Joins Precisely Data Link Program](src/2026-01/tomtom-joins-precisely-data-link-program.md)
 - [Un manuscrit decouvert en Espagne eclaire les origines de la projection de Mercator](src/2026-01/manuscrit-mercator-espagne.md)
 - [The cold war maps that can help us rethink today's Arctic conflict](src/2026-01/cold-war-maps-arctic-conflict.md)
