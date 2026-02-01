@@ -5,13 +5,14 @@ Technical watch for mapping and geographical intelligence
 
 Articles per month:
 
-2026-01 | ████████████████████████ 24
+2026-01 | █████████████████████████ 25
 
 ## Articles
 
 ### 2026
 
-#### January (24 articles)
+#### January (25 articles)
+- [Gemini in navigation is now available for walking and cycling in Google Maps](src/2026-01/gemini-navigation-biking-walking-google-maps.md)
 - [Protomaps Adds Overture Maps Data Source Support](src/2026-01/protomaps-overture-data-source-support.md)
 - [TomTom Joins Precisely Data Link Program](src/2026-01/tomtom-joins-precisely-data-link-program.md)
 - [Un manuscrit decouvert en Espagne eclaire les origines de la projection de Mercator](src/2026-01/manuscrit-mercator-espagne.md)
