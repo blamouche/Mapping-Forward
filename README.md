@@ -5,13 +5,14 @@ Technical watch for mapping and geographical intelligence
 
 Articles per month:
 
-2026-01 | ███████████████ 15
+2026-01 | ████████████████ 16
 
 ## Articles
 
 ### 2026
 
-#### January (15 articles)
+#### January (16 articles)
+- [Iran. Cartographie d'un soulèvement](src/2026-01/iran-cartographie-dun-soulevement.md)
 - [5 best spatial analytics and visualizations of 2025](src/2026-01/5-best-spatial-analytics-and-visualizations-of-2025.md)
 - [TomTom Area Analytics](src/2026-01/tomtom-area-analytics.md)
 - [State of the Map 2026 : rendez-vous a Paris !](src/2026-01/state-of-the-map-2026-paris.md)

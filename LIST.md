@@ -1,5 +1,3 @@
-https://carto.com/blog/5-best-spatial-analytics-and-visualizations-of-2025
-https://orientxxi.info/Iran-Cartographie-d-un-soulevement
 https://www.touteleurope.eu/l-ue-dans-le-monde/carte-ou-se-trouvent-les-bases-militaires-americaines-en-europe/
 https://www.aljazeera.com/news/2026/1/27/map-shows-what-would-happen-to-gaza-under-the-us-master-plan
 https://www.skyatnightmagazine.com/news/james-webb-space-telescope-dark-matter-map
