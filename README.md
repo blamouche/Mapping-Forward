@@ -5,13 +5,14 @@ Technical watch for mapping and geographical intelligence
 
 Articles per month:
 
-2026-01 | ██████████████ 14
+2026-01 | ███████████████ 15
 
 ## Articles
 
 ### 2026
 
-#### January (14 articles)
+#### January (15 articles)
+- [5 best spatial analytics and visualizations of 2025](src/2026-01/5-best-spatial-analytics-and-visualizations-of-2025.md)
 - [TomTom Area Analytics](src/2026-01/tomtom-area-analytics.md)
 - [State of the Map 2026 : rendez-vous a Paris !](src/2026-01/state-of-the-map-2026-paris.md)
 - [Adding HERE Maps to your website in 2026](src/2026-01/adding-here-maps-to-your-website-in-2026.md)
