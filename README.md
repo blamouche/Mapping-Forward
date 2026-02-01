@@ -5,13 +5,14 @@ Technical watch for mapping and geographical intelligence
 
 Articles per month:
 
-2026-01 | █████████████████████ 21
+2026-01 | ██████████████████████ 22
 
 ## Articles
 
 ### 2026
 
-#### January (21 articles)
+#### January (22 articles)
+- [Un manuscrit decouvert en Espagne eclaire les origines de la projection de Mercator](src/2026-01/manuscrit-mercator-espagne.md)
 - [The cold war maps that can help us rethink today's Arctic conflict](src/2026-01/cold-war-maps-arctic-conflict.md)
 - [GIS and AI Transform Urban Forestry for Heat Mitigation](src/2026-01/gis-ai-urban-forestry-heat-mitigation.md)
 - [Webb's biggest dark matter map shows the Universe's invisible scaffolding in stunning detail](src/2026-01/james-webb-space-telescope-dark-matter-map.md)
