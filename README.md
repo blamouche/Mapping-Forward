@@ -5,13 +5,14 @@ Technical watch for mapping and geographical intelligence
 
 Articles per month:
 
-2026-01 | ████████████████ 16
+2026-01 | █████████████████ 17
 
 ## Articles
 
 ### 2026
 
-#### January (16 articles)
+#### January (17 articles)
+- [Carte : Ou se trouvent les bases militaires americaines en Europe ?](src/2026-01/carte-ou-se-trouvent-les-bases-militaires-americaines-en-europe.md)
 - [Iran. Cartographie d'un soulèvement](src/2026-01/iran-cartographie-dun-soulevement.md)
 - [5 best spatial analytics and visualizations of 2025](src/2026-01/5-best-spatial-analytics-and-visualizations-of-2025.md)
 - [TomTom Area Analytics](src/2026-01/tomtom-area-analytics.md)

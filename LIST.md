@@ -1,4 +1,3 @@
-https://www.touteleurope.eu/l-ue-dans-le-monde/carte-ou-se-trouvent-les-bases-militaires-americaines-en-europe/
 https://www.aljazeera.com/news/2026/1/27/map-shows-what-would-happen-to-gaza-under-the-us-master-plan
 https://www.skyatnightmagazine.com/news/james-webb-space-telescope-dark-matter-map
 https://www.esri.com/about/newsroom/blog/gis-ai-urban-forestry-heat-mitigation
