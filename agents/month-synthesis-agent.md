@@ -78,3 +78,8 @@ When the user provides a month `YYYY-MM`:
 - Editorial style
 - Maximum 4 paragraphs for the summary
 - Prefer ASCII for file names
+- **Avoid strong or hyperbolic words**: Do not use words like "pivotal", "groundbreaking", "revolutionary", "transformative", "game-changing", "unprecedented", or similar superlatives. Prefer neutral, descriptive language.
+- **Consult previous syntheses before writing**: Before drafting the summary, read the syntheses from the 2-3 previous months (e.g., for 2026-03, read `synthesis/2026-02.md`, `synthesis/2026-01.md`, and `synthesis/2025-12.md` if they exist). This ensures:
+  - No repetition of themes or insights already covered
+  - Continuity and progression in the narrative across months
+  - Focus on what is genuinely new or evolving in the current month
