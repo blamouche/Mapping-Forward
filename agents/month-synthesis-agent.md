@@ -63,6 +63,15 @@ When the user provides a month `YYYY-MM`:
 - [Article Title](src/2026-01/article.md)
 ```
 
+7. **Commit and push changes**:
+   - First, check if the local branch is up to date with the remote:
+     - Run `git fetch origin` to get the latest remote state
+     - Check if there are upstream changes with `git status`
+     - If the branch is behind, pull the latest changes with `git pull --rebase origin <branch>`
+   - Stage all changes (the new synthesis file and the updated README.md)
+   - Commit with a message following this format: `Add monthly synthesis for YYYY-MM`
+   - Push to the remote repository
+
 ## Notes
 
 - Stay factual and concise
