@@ -19,7 +19,7 @@ Generates a thematic synthesis of articles from the last 7 days.
 
 4. **Select up to 10** most relevant articles
 
-5. **Output** (display only, no file created):
+5. **Create file** at `recap/YYYY-MM-DD-<theme-slug>.md`:
 ```markdown
 [Executive summary: key insight and relevance to theme]
 
@@ -29,6 +29,8 @@ Generates a thematic synthesis of articles from the last 7 days.
 
 [Next article...]
 ```
+
+6. **Commit and push**: `git fetch/pull` if behind, commit: `Add weekly recap: <theme>`
 
 ## Notes
 - Strict 7-day filtering
