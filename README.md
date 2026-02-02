@@ -11,7 +11,7 @@ Articles per month:
 
 ### 2026
 
-#### January (25 articles)
+#### January (25 articles) - [Synthesis](synthesis/2026-01.md)
 - [Gemini in navigation is now available for walking and cycling in Google Maps](src/2026-01/gemini-navigation-biking-walking-google-maps.md)
 - [Protomaps Adds Overture Maps Data Source Support](src/2026-01/protomaps-overture-data-source-support.md)
 - [TomTom Joins Precisely Data Link Program](src/2026-01/tomtom-joins-precisely-data-link-program.md)
