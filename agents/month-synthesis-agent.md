@@ -33,6 +33,7 @@ Produces a monthly synthesis from articles in a given month.
 6. **Commit and push**: `git fetch/pull` if behind, commit: `Add monthly synthesis for YYYY-MM`
 
 ## Notes
+- Write in English
 - Factual, editorial style, max 4 paragraphs
 - Avoid hyperbolic words (pivotal, groundbreaking, revolutionary, etc.)
 - ASCII filenames preferred
