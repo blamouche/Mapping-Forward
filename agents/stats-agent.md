@@ -28,8 +28,7 @@ When invoked, this agent updates the README.md with statistics:
 
 Articles per month:
 
-2026-01 | ████████ 46
-
+2026-01 | ████████ 46<br>
 2026-02 | ██ 3
 ```
 
@@ -37,7 +36,7 @@ Articles per month:
    - Show months in chronological order (oldest to newest)
    - Only show months that have articles
    - Display the actual article count as a number at the end of each bar
-   - **Add a blank line between each month** for better readability
+   - **Add `<br>` at the end of each line** (except the last) to create a line break without blank line
 
 4. **Update month headers with counts**:
    - Add the article count next to each month name
@@ -87,8 +86,7 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | ██ 3
-
+2026-01 | ██ 3<br>
 2026-02 | █ 1
 
 ## Articles
