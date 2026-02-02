@@ -6,13 +6,14 @@ Technical watch for mapping and geographical intelligence
 Articles per month:
 
 2026-01 | █████████████████████████ 25
-2026-02 | █ 1
+2026-02 | ██ 2
 
 ## Articles
 
 ### 2026
 
-#### February (1 article)
+#### February (2 articles)
+- [Google Maps : Gemini arrive pour les cyclistes et pietons](src/2026-02/google-maps-gemini-cyclistes-pietons.md)
 - [Mapbox 3D Lanes: A game-changing navigation feature challenging Waze and Google Maps](src/2026-02/mapbox-3d-lanes-navigation.md)
 
 #### January (25 articles) - [Synthesis](synthesis/2026-01.md)
