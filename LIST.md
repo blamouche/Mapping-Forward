@@ -1,17 +1,3 @@
-https://ai.meta.com/ai-for-good/datasets/building-footprints/geospatial-sovereignty-why-it-requires-both-law-and-architecture
-https://carto.com/blog/5-best-spatial-analytics-and-visualizations-of-2025
-https://orientxxi.info/Iran-Cartographie-d-un-soulevement
-https://www.touteleurope.eu/l-ue-dans-le-monde/carte-ou-se-trouvent-les-bases-militaires-americaines-en-europe/
-https://www.aljazeera.com/news/2026/1/27/map-shows-what-would-happen-to-gaza-under-the-us-master-plan
-https://www.skyatnightmagazine.com/news/james-webb-space-telescope-dark-matter-map
-https://www.esri.com/about/newsroom/blog/gis-ai-urban-forestry-heat-mitigation
-https://theconversation.com/the-cold-war-maps-that-can-help-us-rethink-todays-arctic-conflict-274058
-https://www.courrierinternational.com/article/cartographie-un-manuscrit-decouvert-en-espagne-eclaire-les-origines-de-la-projection-de-mercator_239284
-https://www.precisely.com/de/press-release/tomtom-joins-precisely-data-link-program-bringing-authoritative-map-and-street-data-to-the-pre%E2%80%91linked-data-ecosystem/
-https://www.linkedin.com/posts/oliver-wipfli-562258210_michal-migurski-started-porting-the-protomaps-activity-7418242732877340673-mqeg/
-https://github.com/protomaps/basemaps/pull/541
-https://www.precisely.com/press-release/tomtom-joins-precisely-data-link-program-bringing-authoritative-map-and-street-data-to-the-pre%E2%80%91linked-data-ecosystem/
-https://blog.google/products-and-platforms/products/maps/gemini-navigation-biking-walking/
 https://supercarblondie.com/game-changing-feature-alternative-to-waze-and-google-maps/
 https://www.lesnumeriques.com/gps/google-maps-cyclistes-pietons-cette-nouvelle-mise-a-jour-est-enfin-pour-vous-n250729.html
 https://timesofindia.indiatimes.com/technology/tech-news/google-maps-expands-gemini-ai-to-walking-and-cycling-routes/articleshow/127790335.cms
