@@ -39,7 +39,9 @@ Generates a journalistic article from the 15 most recent technical watch article
 [list all 15]
 ```
 
-7. **Save** to `substack/YYYYMMDD-post-<slug>.md` (no commit)
+7. **Save** to `substack/YYYYMMDD-post-<slug>.md`
+
+8. **Commit and push**: `git fetch/pull` if behind, commit: `Add substack post: [TITLE]`
 
 ## Style Guidelines
 - Confident editorial voice, write for intelligent non-technical readers
