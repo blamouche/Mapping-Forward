@@ -5,19 +5,21 @@ Technical watch for mapping and geographical intelligence
 
 Articles per month:
 
-2026-01 | █████████████ 25<br>
-2026-02 | ██ 3
+2026-01 | █████████████ 26<br>
+2026-02 | ██ 4
 
 ## Articles
 
 ### 2026
 
-#### February (3 articles)
+#### February (4 articles)
+- [Honda's AI-Powered Proactive Roadway Maintenance System](src/2026-02/honda-pothole-mapping-ai.md)
 - [Google Maps expands Gemini AI to walking and cycling routes](src/2026-02/google-maps-gemini-walking-cycling-india.md)
 - [Google Maps : Gemini arrive pour les cyclistes et pietons](src/2026-02/google-maps-gemini-cyclistes-pietons.md)
 - [Mapbox 3D Lanes: A game-changing navigation feature challenging Waze and Google Maps](src/2026-02/mapbox-3d-lanes-navigation.md)
 
-#### January (25 articles) - [Synthesis](synthesis/2026-01.md)
+#### January (26 articles) - [Synthesis](synthesis/2026-01.md)
+- [Announcing MapLibre Tile: a modern and efficient vector tile format](src/2026-01/maplibre-tile-mlt-release.md)
 - [Gemini in navigation is now available for walking and cycling in Google Maps](src/2026-01/gemini-navigation-biking-walking-google-maps.md)
 - [Protomaps Adds Overture Maps Data Source Support](src/2026-01/protomaps-overture-data-source-support.md)
 - [TomTom Joins Precisely Data Link Program](src/2026-01/tomtom-joins-precisely-data-link-program.md)
