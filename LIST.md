@@ -16,3 +16,4 @@ https://supercarblondie.com/game-changing-feature-alternative-to-waze-and-google
 https://www.lesnumeriques.com/gps/google-maps-cyclistes-pietons-cette-nouvelle-mise-a-jour-est-enfin-pour-vous-n250729.html
 https://timesofindia.indiatimes.com/technology/tech-news/google-maps-expands-gemini-ai-to-walking-and-cycling-routes/articleshow/127790335.cms
 https://maplibre.org/news/2026-01-23-mlt-release/
+https://fr.futuroprossimo.it/2026/02/buche-stradali-honda-ha-un-piano-per-mapparle-con-le-sue-auto/
