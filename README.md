@@ -6,13 +6,14 @@ Technical watch for mapping and geographical intelligence
 Articles per month:
 
 2026-01 | █████████████ 26<br>
-2026-02 | ██ 4
+2026-02 | ██ 5
 
 ## Articles
 
 ### 2026
 
-#### February (4 articles)
+#### February (5 articles)
+- [Mapbox Brings Doorway-Level Accuracy to Delivery, Logistics, and Ride-Hailing](src/2026-02/mapbox-doorway-level-entrance-data.md)
 - [Honda's AI-Powered Proactive Roadway Maintenance System](src/2026-02/honda-pothole-mapping-ai.md)
 - [Google Maps expands Gemini AI to walking and cycling routes](src/2026-02/google-maps-gemini-walking-cycling-india.md)
 - [Google Maps : Gemini arrive pour les cyclistes et pietons](src/2026-02/google-maps-gemini-cyclistes-pietons.md)
