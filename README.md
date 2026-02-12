@@ -6,13 +6,14 @@ Technical watch for mapping and geographical intelligence
 Articles per month:
 
 2026-01 | █████████████ 26<br>
-2026-02 | ████ 8
+2026-02 | █████ 9
 
 ## Articles
 
 ### 2026
 
-#### February (8 articles)
+#### February (9 articles)
+- [New Maps Show Why Some Land Slowly Sinks Over Time](src/2026-02/insar-maps-land-subsidence.md)
 - [Magic Earth](src/2026-02/magic-earth-privacy-first-navigation.md)
 - [Google Maps prepares to get a lot more talkative with Ask Maps](src/2026-02/google-maps-ask-maps-gemini.md)
 - [TomTom (ENXTAM:TOM2) Losses Narrow Yet FY 2025 Profitability Story Remains Unfinished](src/2026-02/tomtom-losses-narrow-fy-2025-profitability-story.md)
