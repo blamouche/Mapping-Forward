@@ -6,13 +6,14 @@ Technical watch for mapping and geographical intelligence
 Articles per month:
 
 2026-01 | █████████████ 26<br>
-2026-02 | ███ 6
+2026-02 | ████ 7
 
 ## Articles
 
 ### 2026
 
-#### February (6 articles)
+#### February (7 articles)
+- [Google Maps prepares to get a lot more talkative with Ask Maps](src/2026-02/google-maps-ask-maps-gemini.md)
 - [TomTom (ENXTAM:TOM2) Losses Narrow Yet FY 2025 Profitability Story Remains Unfinished](src/2026-02/tomtom-losses-narrow-fy-2025-profitability-story.md)
 - [Mapbox Brings Doorway-Level Accuracy to Delivery, Logistics, and Ride-Hailing](src/2026-02/mapbox-doorway-level-entrance-data.md)
 - [Honda's AI-Powered Proactive Roadway Maintenance System](src/2026-02/honda-pothole-mapping-ai.md)
