@@ -6,13 +6,20 @@ Technical watch for mapping and geographical intelligence
 Articles per month:
 
 2026-01 | █████████████ 26<br>
-2026-02 | █████ 9
+2026-02 | ████████ 16
 
 ## Articles
 
 ### 2026
 
-#### February (9 articles)
+#### February (16 articles)
+- [Geographic Information System (GIS) Market size to cross $28.1 Billion by 2035](src/2026-02/20260218-gis-market-size-to-cross-28-1b-by-2035.md)
+- [Ces cartes, atlas et globes extraordinaires patiemment restaurés pour une prochaine exposition à la BnF](src/2026-02/20260218-cartes-atlas-globes-restaures-exposition-bnf.md)
+- [Le SHOM teste en Manche la norme S-100, future référence mondiale de cartographie nautique](src/2026-02/20260218-shom-teste-en-manche-norme-s-100-cartographie-nautique.md)
+- [NISAR maps India’s soil at 100m resolution; NSIL–GalaxEye pact boosts space sector](src/2026-02/20260214-nisar-maps-india-soil-100m-resolution.md)
+- [TomTom and AECOM partner to deliver enhanced global infrastructure planning and road traffic management](src/2026-02/20260212-tomtom-aecom-partnership-traffic-infrastructure-planning.md)
+- [Tom by TomTom review | Auto Express](src/2026-02/20260211-tom-by-tomtom-review-auto-express.md)
+- [HERE Technologies Named Official Navigation Partner for Indias First ADAS Test City at the ADAS Show](src/2026-02/20260211-here-navigation-partner-india-adas-test-city.md)
 - [New Maps Show Why Some Land Slowly Sinks Over Time](src/2026-02/20260212-insar-maps-land-subsidence.md)
 - [Magic Earth](src/2026-02/20260212-magic-earth-privacy-first-navigation.md)
 - [Google Maps prepares to get a lot more talkative with Ask Maps](src/2026-02/20260212-google-maps-ask-maps-gemini.md)
