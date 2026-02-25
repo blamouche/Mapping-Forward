@@ -5,8 +5,8 @@ Technical watch for mapping and geographical intelligence
 
 Articles per month:
 
-2026-01 | █████████████ 26<br>
-2026-02 | ████████ 16
+2026-01 | █████████ 26<br>
+2026-02 | ██████ 16
 
 ## Articles
 
