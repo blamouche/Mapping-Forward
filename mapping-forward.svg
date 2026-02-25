@@ -1,0 +1,389 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 200" width="700" height="200">
+  <defs>
+    <style>
+      .title1 {
+        font-family: 'Press Start 2P', 'Courier New', monospace;
+        font-size: 20px;
+        fill: #1a88dd;
+      }
+      .title2 {
+        font-family: 'Press Start 2P', 'Courier New', monospace;
+        font-size: 20px;
+        fill: #ee9900;
+      }
+
+      .map-scroll {
+        animation: map-move 10s linear infinite;
+      }
+      @keyframes map-move {
+        from { transform: translateX(0); }
+        to   { transform: translateX(-350px); }
+      }
+
+      .pin-a {
+        animation: pin-bob 1.2s ease-in-out infinite alternate;
+        transform-origin: 0px 0px;
+      }
+      .pin-b {
+        animation: pin-bob 1.6s ease-in-out infinite alternate;
+        transform-origin: 0px 0px;
+        animation-delay: 0.3s;
+      }
+      .pin-c {
+        animation: pin-bob 1.0s ease-in-out infinite alternate;
+        transform-origin: 0px 0px;
+        animation-delay: 0.7s;
+      }
+      @keyframes pin-bob {
+        from { transform: translateY(0); }
+        to   { transform: translateY(-7px); }
+      }
+
+      .pulse {
+        animation: pulse-ring 2s ease-out infinite;
+      }
+      @keyframes pulse-ring {
+        0%   { r: 6;  opacity: 0.8; }
+        100% { r: 18; opacity: 0; }
+      }
+
+      .road-dash {
+        animation: dash-anim 0.35s linear infinite;
+      }
+      @keyframes dash-anim {
+        from { transform: translateX(0); }
+        to   { transform: translateX(-24px); }
+      }
+
+      .title-group {
+        animation: fadein 0.8s ease-out both;
+      }
+      @keyframes fadein {
+        from { opacity: 0; transform: translateY(-6px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
+
+      .border-box {
+        animation: border-pulse 3s ease-in-out infinite;
+      }
+      @keyframes border-pulse {
+        0%, 100% { opacity: 1; }
+        50%       { opacity: 0.5; }
+      }
+    </style>
+
+    <filter id="glow-blue" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feFlood flood-color="#1a88dd" flood-opacity="0.7" result="c"/>
+      <feComposite in="c" in2="b" operator="in" result="s"/>
+      <feMerge><feMergeNode in="s"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow-yellow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feFlood flood-color="#ee9900" flood-opacity="0.7" result="c"/>
+      <feComposite in="c" in2="b" operator="in" result="s"/>
+      <feMerge><feMergeNode in="s"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="drop-pin">
+      <feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#000" flood-opacity="0.3"/>
+    </filter>
+
+    <clipPath id="map-clip">
+      <rect x="0" y="0" width="700" height="200"/>
+    </clipPath>
+
+    <linearGradient id="fade-l" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="white" stop-opacity="1"/>
+      <stop offset="100%" stop-color="white" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fade-r" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="white" stop-opacity="0"/>
+      <stop offset="100%" stop-color="white" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Transparent background -->
+
+  <!-- ===== SCROLLING MAP ===== -->
+  <g clip-path="url(#map-clip)">
+    <g class="map-scroll">
+
+      <!-- Generate 3 tiles of 350px = 1050px total (viewport 700px, scroll 350px) -->
+
+      <!-- MACRO: define one tile contents as a group, then repeat -->
+      <!-- TILE A at x=0 -->
+      <g transform="translate(0,0)">
+        <!-- Base land -->
+        <rect x="0" y="0" width="350" height="200" fill="#e8f4d0"/>
+        <!-- Water patches -->
+        <rect x="0"   y="130" width="55"  height="70"  fill="#b8ddf0"/>
+        <rect x="290" y="110" width="60"  height="90"  fill="#b8ddf0"/>
+        <!-- Darker green zones (forests) -->
+        <rect x="30"  y="10"  width="90"  height="70"  fill="#c0d89e"/>
+        <rect x="195" y="40"  width="80"  height="60"  fill="#c0d89e"/>
+        <rect x="300" y="140" width="50"  height="40"  fill="#c0d89e"/>
+        <!-- Sandy / desert patch -->
+        <rect x="120" y="85"  width="80"  height="55"  fill="#f0dfa0"/>
+        <rect x="55"  y="150" width="50"  height="35"  fill="#f0dfa0"/>
+
+        <!-- Pixel grid -->
+        <g stroke="#c0ccb0" stroke-width="1" opacity="0.6">
+          <line x1="0"   y1="50"  x2="350" y2="50"/>
+          <line x1="0"   y1="100" x2="350" y2="100"/>
+          <line x1="0"   y1="150" x2="350" y2="150"/>
+          <line x1="70"  y1="0"   x2="70"  y2="200"/>
+          <line x1="140" y1="0"   x2="140" y2="200"/>
+          <line x1="210" y1="0"   x2="210" y2="200"/>
+          <line x1="280" y1="0"   x2="280" y2="200"/>
+        </g>
+
+        <!-- Contour lines -->
+        <path d="M40,20 Q75,5 110,30 Q135,50 115,72 Q95,88 65,78 Q35,65 40,20Z"
+              fill="none" stroke="#9dbf77" stroke-width="1.5" opacity="0.6"/>
+        <path d="M200,45 Q238,25 268,55 Q288,80 260,100 Q232,115 207,96 Q185,76 200,45Z"
+              fill="none" stroke="#9dbf77" stroke-width="1.5" opacity="0.6"/>
+
+        <!-- Main road (horizontal yellow) -->
+        <rect x="0" y="94" width="350" height="12" fill="#e8d060"/>
+        <!-- Road border lines -->
+        <line x1="0" y1="94"  x2="350" y2="94"  stroke="#cc9900" stroke-width="1.5" opacity="0.6"/>
+        <line x1="0" y1="106" x2="350" y2="106" stroke="#cc9900" stroke-width="1.5" opacity="0.6"/>
+        <!-- Dashes -->
+        <g class="road-dash" fill="white" opacity="0.8">
+          <rect x="0"   y="99" width="12" height="3"/>
+          <rect x="24"  y="99" width="12" height="3"/>
+          <rect x="48"  y="99" width="12" height="3"/>
+          <rect x="72"  y="99" width="12" height="3"/>
+          <rect x="96"  y="99" width="12" height="3"/>
+          <rect x="120" y="99" width="12" height="3"/>
+          <rect x="144" y="99" width="12" height="3"/>
+          <rect x="168" y="99" width="12" height="3"/>
+          <rect x="192" y="99" width="12" height="3"/>
+          <rect x="216" y="99" width="12" height="3"/>
+          <rect x="240" y="99" width="12" height="3"/>
+          <rect x="264" y="99" width="12" height="3"/>
+          <rect x="288" y="99" width="12" height="3"/>
+          <rect x="312" y="99" width="12" height="3"/>
+          <rect x="336" y="99" width="12" height="3"/>
+          <rect x="360" y="99" width="12" height="3"/>
+          <rect x="384" y="99" width="12" height="3"/>
+        </g>
+        <!-- Secondary road -->
+        <line x1="140" y1="0"  x2="200" y2="94"  stroke="#e8d060" stroke-width="7" opacity="0.75"/>
+        <line x1="200" y1="106" x2="265" y2="200" stroke="#e8d060" stroke-width="7" opacity="0.75"/>
+        <!-- River -->
+        <path d="M0,165 Q28,153 58,167 Q88,180 118,163 Q148,146 178,160 Q208,174 238,158 Q268,142 298,158 Q325,170 350,163"
+              fill="none" stroke="#7abcdd" stroke-width="6" opacity="0.75"/>
+        <path d="M0,165 Q28,153 58,167 Q88,180 118,163 Q148,146 178,160 Q208,174 238,158 Q268,142 298,158 Q325,170 350,163"
+              fill="none" stroke="white" stroke-width="2" opacity="0.4"/>
+
+        <!-- Pixel trees -->
+        <g fill="#4a8833">
+          <rect x="32"  y="18" width="10" height="10"/>
+          <rect x="52"  y="26" width="10" height="10"/>
+          <rect x="22"  y="36" width="10" height="10"/>
+          <rect x="88"  y="15" width="10" height="10"/>
+          <rect x="108" y="28" width="10" height="10"/>
+          <rect x="70"  y="32" width="10" height="10"/>
+          <rect x="204" y="48" width="10" height="10"/>
+          <rect x="224" y="36" width="10" height="10"/>
+          <rect x="245" y="52" width="10" height="10"/>
+          <rect x="262" y="28" width="10" height="10"/>
+          <rect x="310" y="148" width="10" height="10"/>
+          <rect x="328" y="136" width="10" height="10"/>
+        </g>
+        <g fill="#7a4a20" opacity="0.7">
+          <rect x="35"  y="28" width="4" height="5"/>
+          <rect x="55"  y="36" width="4" height="5"/>
+          <rect x="25"  y="46" width="4" height="5"/>
+          <rect x="91"  y="25" width="4" height="5"/>
+          <rect x="111" y="38" width="4" height="5"/>
+          <rect x="73"  y="42" width="4" height="5"/>
+          <rect x="207" y="58" width="4" height="5"/>
+          <rect x="227" y="46" width="4" height="5"/>
+          <rect x="248" y="62" width="4" height="5"/>
+          <rect x="265" y="38" width="4" height="5"/>
+        </g>
+
+        <!-- City block -->
+        <rect x="145" y="108" width="14" height="20" fill="#aab0c4"/>
+        <rect x="163" y="112" width="10" height="16" fill="#aab0c4"/>
+        <rect x="177" y="106" width="16" height="22" fill="#aab0c4"/>
+        <rect x="197" y="110" width="12" height="18" fill="#aab0c4"/>
+        <rect x="147" y="103" width="10" height="6"  fill="#8890a0"/>
+        <rect x="179" y="102" width="12" height="6"  fill="#8890a0"/>
+
+        <!-- Compass -->
+        <g transform="translate(326, 26)" opacity="0.75">
+          <polygon points="0,-13 -4,-4 0,-7 4,-4" fill="#cc2222"/>
+          <polygon points="0,13 -4,4 0,7 4,4"   fill="#667788"/>
+          <polygon points="13,0 4,-3 7,0 4,3"   fill="#667788"/>
+          <polygon points="-13,0 -4,-3 -7,0 -4,3" fill="#667788"/>
+          <circle cx="0" cy="0" r="3" fill="#334455"/>
+        </g>
+
+        <!-- PIN A (red) at x=168, y=58 -->
+        <g class="pin-a" transform="translate(168, 58)">
+          <circle class="pulse" cx="0" cy="0" r="6" fill="none" stroke="#ff3344" stroke-width="2"/>
+          <rect x="-8" y="-24" width="16" height="16" rx="2" fill="#ff3344" filter="url(#drop-pin)"/>
+          <rect x="-4" y="-20" width="8"  height="8"  fill="#ff8899"/>
+          <polygon points="-5,0 5,0 0,9" fill="#ff3344"/>
+        </g>
+
+        <!-- PIN B (blue) at x=308, y=72 -->
+        <g class="pin-b" transform="translate(308, 72)">
+          <rect x="-8" y="-24" width="16" height="16" rx="2" fill="#1a88dd" filter="url(#drop-pin)"/>
+          <rect x="-4" y="-20" width="8"  height="8"  fill="#88ccff"/>
+          <polygon points="-5,0 5,0 0,9" fill="#1a88dd"/>
+        </g>
+      </g>
+
+      <!-- TILE B at x=350 (identical) -->
+      <g transform="translate(350,0)">
+        <rect x="0" y="0" width="350" height="200" fill="#e8f4d0"/>
+        <rect x="0"   y="130" width="55"  height="70"  fill="#b8ddf0"/>
+        <rect x="290" y="110" width="60"  height="90"  fill="#b8ddf0"/>
+        <rect x="30"  y="10"  width="90"  height="70"  fill="#c0d89e"/>
+        <rect x="195" y="40"  width="80"  height="60"  fill="#c0d89e"/>
+        <rect x="300" y="140" width="50"  height="40"  fill="#c0d89e"/>
+        <rect x="120" y="85"  width="80"  height="55"  fill="#f0dfa0"/>
+        <rect x="55"  y="150" width="50"  height="35"  fill="#f0dfa0"/>
+        <g stroke="#c0ccb0" stroke-width="1" opacity="0.6">
+          <line x1="0"   y1="50"  x2="350" y2="50"/>
+          <line x1="0"   y1="100" x2="350" y2="100"/>
+          <line x1="0"   y1="150" x2="350" y2="150"/>
+          <line x1="70"  y1="0"   x2="70"  y2="200"/>
+          <line x1="140" y1="0"   x2="140" y2="200"/>
+          <line x1="210" y1="0"   x2="210" y2="200"/>
+          <line x1="280" y1="0"   x2="280" y2="200"/>
+        </g>
+        <path d="M40,20 Q75,5 110,30 Q135,50 115,72 Q95,88 65,78 Q35,65 40,20Z"
+              fill="none" stroke="#9dbf77" stroke-width="1.5" opacity="0.6"/>
+        <path d="M200,45 Q238,25 268,55 Q288,80 260,100 Q232,115 207,96 Q185,76 200,45Z"
+              fill="none" stroke="#9dbf77" stroke-width="1.5" opacity="0.6"/>
+        <rect x="0" y="94" width="350" height="12" fill="#e8d060"/>
+        <line x1="0" y1="94"  x2="350" y2="94"  stroke="#cc9900" stroke-width="1.5" opacity="0.6"/>
+        <line x1="0" y1="106" x2="350" y2="106" stroke="#cc9900" stroke-width="1.5" opacity="0.6"/>
+        <line x1="140" y1="0"  x2="200" y2="94"  stroke="#e8d060" stroke-width="7" opacity="0.75"/>
+        <line x1="200" y1="106" x2="265" y2="200" stroke="#e8d060" stroke-width="7" opacity="0.75"/>
+        <path d="M0,165 Q28,153 58,167 Q88,180 118,163 Q148,146 178,160 Q208,174 238,158 Q268,142 298,158 Q325,170 350,163"
+              fill="none" stroke="#7abcdd" stroke-width="6" opacity="0.75"/>
+        <path d="M0,165 Q28,153 58,167 Q88,180 118,163 Q148,146 178,160 Q208,174 238,158 Q268,142 298,158 Q325,170 350,163"
+              fill="none" stroke="white" stroke-width="2" opacity="0.4"/>
+        <g fill="#4a8833">
+          <rect x="32"  y="18" width="10" height="10"/>
+          <rect x="52"  y="26" width="10" height="10"/>
+          <rect x="22"  y="36" width="10" height="10"/>
+          <rect x="88"  y="15" width="10" height="10"/>
+          <rect x="108" y="28" width="10" height="10"/>
+          <rect x="70"  y="32" width="10" height="10"/>
+          <rect x="204" y="48" width="10" height="10"/>
+          <rect x="224" y="36" width="10" height="10"/>
+          <rect x="245" y="52" width="10" height="10"/>
+          <rect x="262" y="28" width="10" height="10"/>
+          <rect x="310" y="148" width="10" height="10"/>
+          <rect x="328" y="136" width="10" height="10"/>
+        </g>
+        <g fill="#7a4a20" opacity="0.7">
+          <rect x="35"  y="28" width="4" height="5"/>
+          <rect x="55"  y="36" width="4" height="5"/>
+          <rect x="25"  y="46" width="4" height="5"/>
+          <rect x="91"  y="25" width="4" height="5"/>
+          <rect x="111" y="38" width="4" height="5"/>
+          <rect x="73"  y="42" width="4" height="5"/>
+          <rect x="207" y="58" width="4" height="5"/>
+          <rect x="227" y="46" width="4" height="5"/>
+          <rect x="248" y="62" width="4" height="5"/>
+          <rect x="265" y="38" width="4" height="5"/>
+        </g>
+        <rect x="145" y="108" width="14" height="20" fill="#aab0c4"/>
+        <rect x="163" y="112" width="10" height="16" fill="#aab0c4"/>
+        <rect x="177" y="106" width="16" height="22" fill="#aab0c4"/>
+        <rect x="197" y="110" width="12" height="18" fill="#aab0c4"/>
+        <rect x="147" y="103" width="10" height="6"  fill="#8890a0"/>
+        <rect x="179" y="102" width="12" height="6"  fill="#8890a0"/>
+        <g transform="translate(326, 26)" opacity="0.75">
+          <polygon points="0,-13 -4,-4 0,-7 4,-4" fill="#cc2222"/>
+          <polygon points="0,13 -4,4 0,7 4,4"   fill="#667788"/>
+          <polygon points="13,0 4,-3 7,0 4,3"   fill="#667788"/>
+          <polygon points="-13,0 -4,-3 -7,0 -4,3" fill="#667788"/>
+          <circle cx="0" cy="0" r="3" fill="#334455"/>
+        </g>
+        <g class="pin-c" transform="translate(75, 138)">
+          <rect x="-8" y="-24" width="16" height="16" rx="2" fill="#ee8800" filter="url(#drop-pin)"/>
+          <rect x="-4" y="-20" width="8"  height="8"  fill="#ffcc66"/>
+          <polygon points="-5,0 5,0 0,9" fill="#ee8800"/>
+        </g>
+        <g class="pin-a" transform="translate(168, 58)">
+          <circle class="pulse" cx="0" cy="0" r="6" fill="none" stroke="#ff3344" stroke-width="2"/>
+          <rect x="-8" y="-24" width="16" height="16" rx="2" fill="#ff3344" filter="url(#drop-pin)"/>
+          <rect x="-4" y="-20" width="8"  height="8"  fill="#ff8899"/>
+          <polygon points="-5,0 5,0 0,9" fill="#ff3344"/>
+        </g>
+        <g class="pin-b" transform="translate(308, 72)">
+          <rect x="-8" y="-24" width="16" height="16" rx="2" fill="#1a88dd" filter="url(#drop-pin)"/>
+          <rect x="-4" y="-20" width="8"  height="8"  fill="#88ccff"/>
+          <polygon points="-5,0 5,0 0,9" fill="#1a88dd"/>
+        </g>
+      </g>
+
+      <!-- TILE C at x=700 -->
+      <g transform="translate(700,0)">
+        <rect x="0" y="0" width="350" height="200" fill="#e8f4d0"/>
+        <rect x="0"   y="130" width="55"  height="70"  fill="#b8ddf0"/>
+        <rect x="290" y="110" width="60"  height="90"  fill="#b8ddf0"/>
+        <rect x="30"  y="10"  width="90"  height="70"  fill="#c0d89e"/>
+        <rect x="195" y="40"  width="80"  height="60"  fill="#c0d89e"/>
+        <rect x="300" y="140" width="50"  height="40"  fill="#c0d89e"/>
+        <rect x="120" y="85"  width="80"  height="55"  fill="#f0dfa0"/>
+        <rect x="55"  y="150" width="50"  height="35"  fill="#f0dfa0"/>
+        <g stroke="#c0ccb0" stroke-width="1" opacity="0.6">
+          <line x1="0"   y1="50"  x2="350" y2="50"/>
+          <line x1="0"   y1="100" x2="350" y2="100"/>
+          <line x1="0"   y1="150" x2="350" y2="150"/>
+          <line x1="70"  y1="0"   x2="70"  y2="200"/>
+          <line x1="140" y1="0"   x2="140" y2="200"/>
+          <line x1="210" y1="0"   x2="210" y2="200"/>
+          <line x1="280" y1="0"   x2="280" y2="200"/>
+        </g>
+        <rect x="0" y="94" width="350" height="12" fill="#e8d060"/>
+        <line x1="0" y1="94"  x2="350" y2="94"  stroke="#cc9900" stroke-width="1.5" opacity="0.6"/>
+        <line x1="0" y1="106" x2="350" y2="106" stroke="#cc9900" stroke-width="1.5" opacity="0.6"/>
+        <line x1="140" y1="0"  x2="200" y2="94"  stroke="#e8d060" stroke-width="7" opacity="0.75"/>
+        <line x1="200" y1="106" x2="265" y2="200" stroke="#e8d060" stroke-width="7" opacity="0.75"/>
+        <path d="M0,165 Q28,153 58,167 Q88,180 118,163 Q148,146 178,160 Q208,174 238,158 Q268,142 298,158 Q325,170 350,163"
+              fill="none" stroke="#7abcdd" stroke-width="6" opacity="0.75"/>
+        <g fill="#4a8833">
+          <rect x="32"  y="18" width="10" height="10"/>
+          <rect x="52"  y="26" width="10" height="10"/>
+          <rect x="88"  y="15" width="10" height="10"/>
+          <rect x="70"  y="32" width="10" height="10"/>
+          <rect x="224" y="36" width="10" height="10"/>
+          <rect x="262" y="28" width="10" height="10"/>
+        </g>
+        <g class="pin-a" transform="translate(168, 58)">
+          <circle class="pulse" cx="0" cy="0" r="6" fill="none" stroke="#ff3344" stroke-width="2"/>
+          <rect x="-8" y="-24" width="16" height="16" rx="2" fill="#ff3344" filter="url(#drop-pin)"/>
+          <rect x="-4" y="-20" width="8"  height="8"  fill="#ff8899"/>
+          <polygon points="-5,0 5,0 0,9" fill="#ff3344"/>
+        </g>
+      </g>
+
+    </g>
+  </g>
+
+  <!-- Edge vignettes -->
+  <rect x="0"   y="0" width="70"  height="200" fill="url(#fade-l)"/>
+  <rect x="630" y="0" width="70"  height="200" fill="url(#fade-r)"/>
+
+  <!-- ===== TITLE ===== -->
+  <g class="title-group">
+    <rect class="border-box" x="198" y="30" width="304" height="100"
+          fill="rgba(255,255,255,0.88)" stroke="#1a88dd" stroke-width="3"/>
+    <rect class="border-box" x="202" y="34" width="296" height="92"
+          fill="none" stroke="#1a88dd" stroke-width="1" opacity="0.35"/>
+    <text class="title1" x="350" y="84"  text-anchor="middle" filter="url(#glow-blue)">MAPPING</text>
+    <text class="title2" x="350" y="114" text-anchor="middle" filter="url(#glow-yellow)">FORWARD</text>
+  </g>
+
+</svg>
