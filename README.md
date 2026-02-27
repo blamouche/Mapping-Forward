@@ -10,13 +10,13 @@ Technical watch for mapping and geographical intelligence
 Articles per month:
 
 2026-01 | █████████ 26<br>
-2026-02 | █████████ 26
+2026-02 | █████████ 27
 
 ## Articles
 
 ### 2026
 
-#### February (26 articles)
+#### February (27 articles)
 - [Cartographier l’invisible : le défi scientifique qui explore enfin les abysses](src/2026-02/20260227-cartographier-linvisible-abysses.md)
 - [Google Maps makes another pitch for better South Korean data](src/2026-02/20260226-google-maps-better-south-korean-data.md)
 - [Russian Families Turn To Google Maps To Search For Missing Soldiers](src/2026-02/20260226-russian-families-google-maps-missing-soldiers.md)
@@ -26,6 +26,7 @@ Articles per month:
 - [Integrating Geospatial Intelligence and Machine Learning for Flood Susceptibility Mapping](src/2026-02/20260226-flood-susceptibility-geospatial-ml.md)
 - [Mapping Antarctica and the Arctic - British Antarctic Survey](src/2026-02/20260226-british-antarctic-survey-polar-mapping.md)
 - [What's New in Map Viewer (February 2026)](src/2026-02/20260225-whats-new-in-map-viewer-february-2026.md)
+- [Histoire d’un carrefour : le Moyen-Orient à travers les cartes et le temps](src/2026-02/20260225-histoire-dun-carrefour-moyen-orient.md)
 - [Google Maps Might Let You Restyle Street View with Nano Banana](src/2026-02/20260225-google-maps-nano-banana-street-view.md)
 - [Geographic Information System (GIS) Market size to cross $28.1 Billion by 2035](src/2026-02/20260218-gis-market-size-to-cross-28-1b-by-2035.md)
 - [Ces cartes, atlas et globes extraordinaires patiemment restaurés pour une prochaine exposition à la BnF](src/2026-02/20260218-cartes-atlas-globes-restaures-exposition-bnf.md)
