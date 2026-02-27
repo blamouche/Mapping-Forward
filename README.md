@@ -2,6 +2,8 @@
 
 ![Mapping Forward](mapping-forward.svg)
 
+Synthèses are published on https://mappingforward.substack.com
+
 
 Technical watch for mapping and geographical intelligence
 
