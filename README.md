@@ -10,14 +10,15 @@ Technical watch for mapping and geographical intelligence
 Articles per month:
 
 2026-01 | █████████ 26<br>
-2026-02 | █████████ 27
+2026-02 | ██████████ 28
 
 ## Articles
 
 ### 2026
 
-#### February (27 articles)
+#### February (28 articles)
 - [Cartographier l’invisible : le défi scientifique qui explore enfin les abysses](src/2026-02/20260227-cartographier-linvisible-abysses.md)
+- [Roole Map, l’application française concurrente de Waze, s’impose progressivement](src/2026-02/20260227-roole-map-application-francaise-concurrente-waze.md)
 - [Google Maps makes another pitch for better South Korean data](src/2026-02/20260226-google-maps-better-south-korean-data.md)
 - [Russian Families Turn To Google Maps To Search For Missing Soldiers](src/2026-02/20260226-russian-families-google-maps-missing-soldiers.md)
 - [Is TomTom Traffic Data Access Quietly Redefining AECOM’s Digital Infrastructure Ambitions (ACM)?](src/2026-02/20260226-tomtom-traffic-data-aecom-digital-infrastructure.md)
