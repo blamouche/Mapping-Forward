@@ -9,6 +9,7 @@ Technical watch for mapping and geographical intelligence
 
 Articles per month:
 
+2025-12 | █ 1<br>
 2026-01 | █████████ 26<br>
 2026-02 | ██████████ 28
 
@@ -73,3 +74,8 @@ Articles per month:
 - [Overture Maps Explained on Software Engineering Radio](src/2026-01/20260121-overture-maps-explained-on-software-engineering-radio.md)
 - [Overture Maps Foundation Names William Mortenson as New Executive Director](src/2026-01/20260121-overture-maps-foundation-names-william-mortenson-as-new-executive-director.md)
 - [TomTom Traffic Index 2025](src/2026-01/20260121-tomtom-traffic-index-2025.md)
+
+### 2025
+
+#### December (1 article)
+- [MapTrace: Scalable Data Generation for Route Tracing on Maps](src/2025-12/20251222-maptrace-scalable-data-generation-route-tracing.md)
