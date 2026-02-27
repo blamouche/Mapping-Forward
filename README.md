@@ -10,15 +10,16 @@ Technical watch for mapping and geographical intelligence
 Articles per month:
 
 2026-01 | █████████ 26<br>
-2026-02 | ████████ 24
+2026-02 | █████████ 25
 
 ## Articles
 
 ### 2026
 
-#### February (24 articles)
+#### February (25 articles)
 - [Google Maps makes another pitch for better South Korean data](src/2026-02/20260226-google-maps-better-south-korean-data.md)
 - [Russian Families Turn To Google Maps To Search For Missing Soldiers](src/2026-02/20260226-russian-families-google-maps-missing-soldiers.md)
+- [Is TomTom Traffic Data Access Quietly Redefining AECOM’s Digital Infrastructure Ambitions (ACM)?](src/2026-02/20260226-tomtom-traffic-data-aecom-digital-infrastructure.md)
 - [Waymo's Self-Driving Cars Get Remote Guidance From Workers in the Philippines](src/2026-02/20260226-waymo-remote-operators-philippines.md)
 - [Une nouvelle technique permet de révéler les fonds marins côtiers du monde entier](src/2026-02/20260226-satellite-coastal-seafloor-mapping-s2shores.md)
 - [Integrating Geospatial Intelligence and Machine Learning for Flood Susceptibility Mapping](src/2026-02/20260226-flood-susceptibility-geospatial-ml.md)
