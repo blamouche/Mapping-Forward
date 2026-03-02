@@ -13,13 +13,14 @@ Articles per month:
 
 2025-12 | █ 1<br>
 2026-01 | █████████ 26<br>
-2026-02 | ██████████ 30
+2026-02 | ███████████ 31
 
 ## Articles
 
 ### 2026
 
-#### February (30 articles)
+#### February (31 articles)
+- [TomTom GO Navigation: Is This App Finally Good Enough to Drop Google Maps?](src/2026-02/20260228-tomtom-go-navigation-good-enough-drop-google-maps.md)
 - [La Corée du sud se résigne à se dévoiler sur Google Maps](src/2026-02/20260228-la-coree-du-sud-se-resigne-a-se-devoiler-sur-google-maps.md)
 - [Maps for Machines: A Paradigm Shift in Cartography](src/2026-02/20260228-maps-for-machines-paradigm-shift-cartography.md)
 - [Cartographier l’invisible : le défi scientifique qui explore enfin les abysses](src/2026-02/20260227-cartographier-linvisible-abysses.md)
