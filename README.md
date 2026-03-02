@@ -13,14 +13,15 @@ Articles per month:
 
 2025-12 | █ 1<br>
 2026-01 | █████████ 26<br>
-2026-02 | ██████████ 29
+2026-02 | ██████████ 30
 
 ## Articles
 
 ### 2026
 
-#### February (29 articles)
+#### February (30 articles)
 - [La Corée du sud se résigne à se dévoiler sur Google Maps](src/2026-02/20260228-la-coree-du-sud-se-resigne-a-se-devoiler-sur-google-maps.md)
+- [Maps for Machines: A Paradigm Shift in Cartography](src/2026-02/20260228-maps-for-machines-paradigm-shift-cartography.md)
 - [Cartographier l’invisible : le défi scientifique qui explore enfin les abysses](src/2026-02/20260227-cartographier-linvisible-abysses.md)
 - [Roole Map, l’application française concurrente de Waze, s’impose progressivement](src/2026-02/20260227-roole-map-application-francaise-concurrente-waze.md)
 - [Google Maps makes another pitch for better South Korean data](src/2026-02/20260226-google-maps-better-south-korean-data.md)
