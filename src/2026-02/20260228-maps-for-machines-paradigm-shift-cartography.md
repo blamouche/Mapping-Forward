@@ -1,15 +1,15 @@
 # Maps for Machines: A Paradigm Shift in Cartography
 **Source**: https://geoawesome.com/maps-for-machines-a-paradigm-shift-in-cartography/
 **Date**: 2026-02-28
-**Author**: Gene Rokov
+**Author**: Aleks Buczkowski
 **Keywords**: machine-readable maps, cartography, autonomous systems, HD maps, geospatial data, AI
 
 ## Elevator pitch
-L’article explique comment la cartographie évolue vers des “maps for machines”, conçues pour les algorithmes plutôt que pour l’œil humain, afin d’alimenter la robotique, les véhicules autonomes et l’IA.
+L’article explique comment la cartographie évolue vers des “maps for machines”, conçues pour les algorithmes plutôt que pour l’œil humain, à partir d’un travail académique sur les HD maps et les véhicules autonomes.
 
 ## Takeaways
 - Les cartes deviennent un produit de données pour l’automatisation, pas seulement un support de navigation humaine.
-- La précision, la mise à jour en temps réel et la structuration sémantique sont centrales pour les machines.
+- La précision centimétrique, la mise à jour continue et la structuration sémantique sont centrales pour les machines.
 - Les HD maps et les jumeaux numériques s’imposent comme nouvelles couches d’infrastructure.
 - Les pipelines de collecte (capteurs, Lidar, imagerie) et de validation deviennent critiques.
 - L’enjeu se déplace vers l’interopérabilité et les standards pour des écosystèmes multi-acteurs.
@@ -19,7 +19,7 @@ La cartographie vit une transition majeure: les cartes ne sont plus uniquement c
 
 Cette nouvelle génération de cartes exige un niveau de détail et de fiabilité bien supérieur aux cartes traditionnelles. Les machines ont besoin d’une représentation fine des voies, des limitations, des panneaux, des zones interdites, ainsi que d’informations sémantiques qui permettent à un algorithme de comprendre l’environnement. Les HD maps, les jumeaux numériques et les modèles sémantiques deviennent alors des couches essentielles, capables de décrire le monde avec un niveau de granularité opérationnel.
 
-L’article met en avant l’importance des pipelines de production. Les données proviennent d’une combinaison de sources: capteurs embarqués, Lidar, imagerie satellite, collecte mobile ou crowdsourcing. Mais la collecte n’est qu’une première étape. Les données doivent être nettoyées, normalisées, validées et fusionnées pour produire des cartes exploitables par des machines. La mise à jour continue est un impératif, car les environnements changent rapidement et les systèmes automatisés exigent une vision à jour.
+L’article met en avant l’importance des pipelines de production. Les données proviennent d’une combinaison de sources: capteurs embarqués, Lidar, imagerie satellite, collecte mobile ou crowdsourcing. Mais la collecte n’est qu’une première étape. Les données doivent être nettoyées, normalisées, validées et fusionnées pour produire des cartes exploitables par des machines. La mise à jour continue est un impératif, car les environnements changent rapidement et les systèmes automatisés exigent une vision à jour. Le texte s’appuie notamment sur un papier académique qui examine les implications des HD maps pour la théorie cartographique, soulignant que la cartographie devient un composant d’infrastructure algorithmique.
 
 Le passage aux cartes pour machines modifie aussi les attentes en matière de standards et d’interopérabilité. Là où les cartes destinées aux humains pouvaient tolérer des variations de style ou de projection, les cartes pour machines nécessitent des formats robustes, des ontologies communes et des schémas de données cohérents. Cela ouvre la question de la gouvernance des données: qui produit, qui maintient, qui certifie la fiabilité des cartes et comment elles sont partagées entre acteurs publics et privés.
 
