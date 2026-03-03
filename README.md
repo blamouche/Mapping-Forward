@@ -13,16 +13,33 @@ Articles per month:
 
 2025-12 | █ 1<br>
 2026-01 | █████████ 26<br>
-2026-02 | ███████████ 31
+2026-02 | ███████████ 32<br>
+2026-03 | █████ 13
 
 ## Articles
 
 ### 2026
 
-#### February (31 articles)
+#### March (13 articles)
+- [WebWire Press Release (ID: 351270)](src/2026-03/20260303-webwire-viewpressrel-351270.md)
+- [ArcGIS StoryMaps Collection (ID: 5507488315a04484952c64a9c01b984d)](src/2026-03/20260303-arcgis-storymaps-collection-5507488315a04484952c64a9c01b984d.md)
+- [Automated Driving Needs a Map: CARIAD Is Proof](src/2026-03/20260303-tomtom-automated-driving-needs-a-map-cariad-is-proof.md)
+- [ScienceDirect Article (PII: S0924271626000857)](src/2026-03/20260303-sciencedirect-s0924271626000857.md)
+- [India’s first AI-driven skill census launched in Mumbai](src/2026-03/20260302-indias-first-ai-driven-skill-census-launched-in-mumbai.md)
+- [Delineation and geolocation of chestnut tree crowns from high-resolution orthophotos and deep learning](src/2026-03/20260302-chestnut-crown-delineation-remote-sensing.md)
+- [Mapping and prediction of thermal comfort in urban environments using geospatial and machine learning approaches](src/2026-03/20260302-mapping-urban-thermal-comfort-prediction.md)
+- [ArcGIS Monitor at Esri 2026 Developer & Technology Summit](src/2026-03/20260301-arcgis-monitor-esri-developer-technology-summit.md)
+- [Waze ou Google Maps: quelle appli domine pour signaler les incidents sur la route?](src/2026-03/20260301-waze-ou-google-maps-signalement-incidents.md)
+- [Comment activer facilement les alertes radars sur Google Maps](src/2026-03/20260301-activer-alertes-radars-google-maps.md)
+- [Que devient TomTom, le geant de la route detroné par nos smartphones?](src/2026-03/20260301-que-devient-tomtom-geant-route.md)
+- [New Google Maps Alternative Gets Essential Feature Update](src/2026-03/20260301-google-maps-alternative-update-essential-features.md)
+- [Pourquoi Google Maps n’a jamais bien fonctionne en Coree du Sud](src/2026-03/20260301-pourquoi-google-maps-fonctionne-mal-coree-sud.md)
+
+#### February (32 articles)
 - [TomTom GO Navigation: Is This App Finally Good Enough to Drop Google Maps?](src/2026-02/20260228-tomtom-go-navigation-good-enough-drop-google-maps.md)
 - [La Corée du sud se résigne à se dévoiler sur Google Maps](src/2026-02/20260228-la-coree-du-sud-se-resigne-a-se-devoiler-sur-google-maps.md)
 - [Maps for Machines: A Paradigm Shift in Cartography](src/2026-02/20260228-maps-for-machines-paradigm-shift-cartography.md)
+- [Why Google Maps Still Struggles in South Korea](src/2026-02/20260227-google-maps-south-korea-restrictions-nyt.md)
 - [Cartographier l’invisible : le défi scientifique qui explore enfin les abysses](src/2026-02/20260227-cartographier-linvisible-abysses.md)
 - [Roole Map, l’application française concurrente de Waze, s’impose progressivement](src/2026-02/20260227-roole-map-application-francaise-concurrente-waze.md)
 - [Google Maps makes another pitch for better South Korean data](src/2026-02/20260226-google-maps-better-south-korean-data.md)
