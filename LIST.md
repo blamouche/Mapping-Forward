@@ -1,0 +1,13 @@
+https://www.autojournal.fr/actu/insolites-actu/guides-google-maps-routiers-touristes-pieges-ruelle-catalane-405999.html
+https://www.wearetech.africa/fr/fils/tech-stars/catherine-njeri-cartographie-et-analyse-les-terres-agricoles-d-afrique
+https://medias24.com/2026/03/03/cartographie-des-accidents-routiers-au-maroc-le-bilan-de-lannee-2025-1636011/
+https://www.hyundai.news/eu/articles/press-releases/online-map-download.html
+https://www.mathrubhumi.com/auto/news/kerala-launches-gis-safety-system-for-chemical-tankers-qaa7erf4
+https://www.ft.com/content/dfe5d496-c628-4a51-becd-6162e266193f
+https://www.esri.com/arcgis-blog/products/unity/3d-gis/creating-a-cinematic-scene-with-arcgis-maps-sdk-for-unity
+https://www.natureasia.com/en/info/press-releases/detail/9258
+https://www.tomtom.com/newsroom/press-releases/general/29451/tomtom-announces-leadership-transition-co-founder-harold-goddijn-and-alain-de-taeye-to-step-down-long-serving-chief-revenue-officer-mike-schoofs-nominated-as-chief-executive-officer/
+https://www.reuters.com/sustainability/boards-policy-regulation/tomtom-ceo-harold-goddijn-step-down-2026-03-05/
+https://itrnews.com/articles/209056/mike-schoofs-devient-directeur-general-de-tomtom.html
+https://www.canadianconsultingengineer.com/aecom-partners-with-tomtom-for-traffic-and-infrastructure-planning/
+https://techcommunity.microsoft.com/blog/azuremapsblog/announcing-the-general-availability-of-the-azure-maps-geocode-autocomplete-api/4499242
