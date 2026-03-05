@@ -12,19 +12,23 @@ Technical watch for mapping and geographical intelligence
 Articles per month:
 
 2025-12 | █ 1<br>
-2026-01 | █████████ 26<br>
+2026-01 | █████████ 27<br>
 2026-02 | ███████████ 32<br>
-2026-03 | █████ 13
+2026-03 | ██████ 17
 
 ## Articles
 
 ### 2026
 
-#### March (13 articles)
+#### March (17 articles)
+- [Catherine Njeri cartographie et analyse les terres agricoles d’Afrique](src/2026-03/20260305-catherine-njeri-cartographie-et-analyse-les-terres-agricoles-dafrique.md)
 - [WebWire Press Release (ID: 351270)](src/2026-03/20260303-webwire-viewpressrel-351270.md)
 - [ArcGIS StoryMaps Collection (ID: 5507488315a04484952c64a9c01b984d)](src/2026-03/20260303-arcgis-storymaps-collection-5507488315a04484952c64a9c01b984d.md)
 - [Automated Driving Needs a Map: CARIAD Is Proof](src/2026-03/20260303-tomtom-automated-driving-needs-a-map-cariad-is-proof.md)
 - [ScienceDirect Article (PII: S0924271626000857)](src/2026-03/20260303-sciencedirect-s0924271626000857.md)
+- [Kerala launches GIS safety system for chemical tankers](src/2026-03/20260303-kerala-launches-gis-safety-system-for-chemical-tankers.md)
+- [Cartographie des accidents routiers au Maroc le bilan de l’année 2025](src/2026-03/20260303-cartographie-des-accidents-routiers-au-maroc-le-bilan-de-lannee-2025.md)
+- [Google Maps guide des routiers et des touristes vers le piège d’une ruelle catalane](src/2026-03/20260303-guides-google-maps-routiers-touristes-pieges-ruelle-catalane.md)
 - [India’s first AI-driven skill census launched in Mumbai](src/2026-03/20260302-indias-first-ai-driven-skill-census-launched-in-mumbai.md)
 - [Delineation and geolocation of chestnut tree crowns from high-resolution orthophotos and deep learning](src/2026-03/20260302-chestnut-crown-delineation-remote-sensing.md)
 - [Mapping and prediction of thermal comfort in urban environments using geospatial and machine learning approaches](src/2026-03/20260302-mapping-urban-thermal-comfort-prediction.md)
@@ -69,7 +73,8 @@ Articles per month:
 - [Google Maps : Gemini arrive pour les cyclistes et pietons](src/2026-02/20260202-google-maps-gemini-cyclistes-pietons.md)
 - [Mapbox 3D Lanes: A game-changing navigation feature challenging Waze and Google Maps](src/2026-02/20260202-mapbox-3d-lanes-navigation.md)
 
-#### January (26 articles) - [Synthesis](synthesis/2026-01.md)
+#### January (27 articles) - [Synthesis](synthesis/2026-01.md)
+- [Hyundai Offers Online Map Updates for Connected Cars](src/2026-01/20260109-hyundai-offers-online-map-updates-for-connected-cars.md)
 - [Announcing MapLibre Tile: a modern and efficient vector tile format](src/2026-01/20260203-maplibre-tile-mlt-release.md)
 - [Gemini in navigation is now available for walking and cycling in Google Maps](src/2026-01/20260201-gemini-navigation-biking-walking-google-maps.md)
 - [Protomaps Adds Overture Maps Data Source Support](src/2026-01/20260201-protomaps-overture-data-source-support.md)
