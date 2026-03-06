@@ -13,14 +13,21 @@ Articles per month:
 
 2025-12 | █ 1<br>
 2026-01 | █████████ 27<br>
-2026-02 | ███████████ 32<br>
-2026-03 | ██████ 17
+2026-02 | ███████████ 33<br>
+2026-03 | ████████ 24
 
 ## Articles
 
 ### 2026
 
-#### March (17 articles)
+#### March (24 articles)
+- [Has GPS destroyed the art of maps? These Enlightenment masters show us how it’s done](src/2026-03/20260306-has-gps-destroyed-the-art-of-maps-enlightenment-masters-ft.md)
+- [TomTom CEO Harold Goddijn to step down (Reuters)](src/2026-03/20260305-tomtom-ceo-harold-goddijn-step-down-reuters.md)
+- [TomTom announces leadership transition: Mike Schoofs nominated as Chief Executive Officer](src/2026-03/20260305-tomtom-announces-leadership-transition-mike-schoofs-ceo.md)
+- [Mike Schoofs devient directeur général de TomTom](src/2026-03/20260305-mike-schoofs-devient-directeur-general-de-tomtom.md)
+- [Geoscience: Satellite maps reveal global river changes (Nature)](src/2026-03/20260305-geoscience-satellite-maps-reveal-global-river-changes.md)
+- [Creating a Cinematic Scene with ArcGIS Maps SDK for Unity](src/2026-03/20260304-creating-a-cinematic-scene-with-arcgis-maps-sdk-for-unity.md)
+- [Announcing the General Availability of the Azure Maps Geocode Autocomplete API](src/2026-03/20260304-azure-maps-geocode-autocomplete-api-ga.md)
 - [Catherine Njeri cartographie et analyse les terres agricoles d’Afrique](src/2026-03/20260305-catherine-njeri-cartographie-et-analyse-les-terres-agricoles-dafrique.md)
 - [WebWire Press Release (ID: 351270)](src/2026-03/20260303-webwire-viewpressrel-351270.md)
 - [ArcGIS StoryMaps Collection (ID: 5507488315a04484952c64a9c01b984d)](src/2026-03/20260303-arcgis-storymaps-collection-5507488315a04484952c64a9c01b984d.md)
@@ -39,7 +46,8 @@ Articles per month:
 - [New Google Maps Alternative Gets Essential Feature Update](src/2026-03/20260301-google-maps-alternative-update-essential-features.md)
 - [Pourquoi Google Maps n’a jamais bien fonctionne en Coree du Sud](src/2026-03/20260301-pourquoi-google-maps-fonctionne-mal-coree-sud.md)
 
-#### February (32 articles)
+#### February (33 articles)
+- [AECOM partners with TomTom for traffic and infrastructure planning](src/2026-02/20260212-aecom-partners-with-tomtom-for-traffic-and-infrastructure-planning.md)
 - [TomTom GO Navigation: Is This App Finally Good Enough to Drop Google Maps?](src/2026-02/20260228-tomtom-go-navigation-good-enough-drop-google-maps.md)
 - [La Corée du sud se résigne à se dévoiler sur Google Maps](src/2026-02/20260228-la-coree-du-sud-se-resigne-a-se-devoiler-sur-google-maps.md)
 - [Maps for Machines: A Paradigm Shift in Cartography](src/2026-02/20260228-maps-for-machines-paradigm-shift-cartography.md)
