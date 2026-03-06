@@ -1,4 +1,3 @@
-https://www.hyundai.news/eu/articles/press-releases/online-map-download.html
 https://www.mathrubhumi.com/auto/news/kerala-launches-gis-safety-system-for-chemical-tankers-qaa7erf4
 https://www.ft.com/content/dfe5d496-c628-4a51-becd-6162e266193f
 https://www.esri.com/arcgis-blog/products/unity/3d-gis/creating-a-cinematic-scene-with-arcgis-maps-sdk-for-unity
