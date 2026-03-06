@@ -1,4 +1,3 @@
-https://www.esri.com/arcgis-blog/products/unity/3d-gis/creating-a-cinematic-scene-with-arcgis-maps-sdk-for-unity
 https://www.natureasia.com/en/info/press-releases/detail/9258
 https://www.tomtom.com/newsroom/press-releases/general/29451/tomtom-announces-leadership-transition-co-founder-harold-goddijn-and-alain-de-taeye-to-step-down-long-serving-chief-revenue-officer-mike-schoofs-nominated-as-chief-executive-officer/
 https://www.reuters.com/sustainability/boards-policy-regulation/tomtom-ceo-harold-goddijn-step-down-2026-03-05/
