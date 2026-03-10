@@ -21,3 +21,9 @@ https://nationaltoday.com/us/ca/san-francisco/news/2026/02/25/brightquery-joins-
 https://www.esri.com/arcgis-blog/products/arcgis-online/announcements/whats-new-in-arcgis-online-february-2026
 https://www.timesnownews.com/world/can-google-finally-beat-koreas-homegrown-map-giants-after-landmark-approval-article-153711646
 https://oceanographicmagazine.com/news/scientists-to-map-vulnerable-ecosystems-in-the-high-seas-with-ai/
+https://9to5google.com/2026/03/09/google-maps-go-gains-gradient-app-icon-redesign/
+https://www.iranintl.com/en/202603092333
+https://news.mongabay.com/2026/03/study-maps-tree-planting-risks-and-rewards-for-climate-and-biodiversity/
+https://supercarblondie.com/tech/waze-vs-google-maps-incident-reporting/
+https://finance.yahoo.com/news/tomtom-recognized-star-marketsandmarkets-latest-144500361.html
+https://www.thehindu.com/education/why-gis-and-geoai-must-be-in-every-students-toolkit/article70687665.ece
