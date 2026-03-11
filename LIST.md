@@ -27,3 +27,8 @@ https://news.mongabay.com/2026/03/study-maps-tree-planting-risks-and-rewards-for
 https://supercarblondie.com/tech/waze-vs-google-maps-incident-reporting/
 https://finance.yahoo.com/news/tomtom-recognized-star-marketsandmarkets-latest-144500361.html
 https://www.thehindu.com/education/why-gis-and-geoai-must-be-in-every-students-toolkit/article70687665.ece
+https://www.automotiveworld.com/articles/tomtom-ceo-shake-up-as-mapping-pioneers-depart/
+https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/
+https://www.wired.com/story/gps-attacks-near-iran-are-wreaking-havoc-on-delivery-and-mapping-apps/
+https://mcetv.ouest-france.fr/2026/google-maps-cette-mise-a-jour-100-ia-passe-inapercu-pourtant-elle-change-tout-2026/
+https://www.commentcamarche.net/applis-sites/transports-cartes/37275-astuce-radars-google-maps/
