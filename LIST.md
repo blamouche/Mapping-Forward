@@ -22,7 +22,6 @@ https://www.esri.com/arcgis-blog/products/arcgis-online/announcements/whats-new-
 https://www.timesnownews.com/world/can-google-finally-beat-koreas-homegrown-map-giants-after-landmark-approval-article-153711646
 https://oceanographicmagazine.com/news/scientists-to-map-vulnerable-ecosystems-in-the-high-seas-with-ai/
 https://9to5google.com/2026/03/09/google-maps-go-gains-gradient-app-icon-redesign/
-https://www.iranintl.com/en/202603092333
 https://news.mongabay.com/2026/03/study-maps-tree-planting-risks-and-rewards-for-climate-and-biodiversity/
 https://supercarblondie.com/tech/waze-vs-google-maps-incident-reporting/
 https://finance.yahoo.com/news/tomtom-recognized-star-marketsandmarkets-latest-144500361.html
@@ -32,3 +31,10 @@ https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/
 https://www.wired.com/story/gps-attacks-near-iran-are-wreaking-havoc-on-delivery-and-mapping-apps/
 https://mcetv.ouest-france.fr/2026/google-maps-cette-mise-a-jour-100-ia-passe-inapercu-pourtant-elle-change-tout-2026/
 https://www.commentcamarche.net/applis-sites/transports-cartes/37275-astuce-radars-google-maps/
+https://www.tomtom.com/newsroom/press-releases/general/153460808373436/kapsch-trafficcom-selects-tomtom-traffic-to-enhance-its-global-traffic-management-solutions/
+https://www.automotiveworld.com/news/kapsch-trafficcom-integrates-tomtom-data-into-ecotrafix/
+https://www.marketsandmarkets.com/blog/ICT/tom-tom-geospatial-analytics-360quadrants
+https://from.ncl.ac.uk/how-hand-drawn-maps-are-revealing-real-stories-from-bosnia-and-herzegovina
+https://missingmaps.org/projects/
+https://www.sfu.ca/geography/news-events/news-kudos-archives/2026-archives/SFU-GIS-Team-Crowned-Champions-2026-National-Geomatics-Competition.html
+https://www.iqair.com/ca-fr/newsroom/wildfire-map-spotlight-yellow-fire-texas
