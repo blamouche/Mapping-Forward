@@ -13,14 +13,49 @@ Articles per month:
 
 2025-12 | █ 1<br>
 2026-01 | █████████ 27<br>
-2026-02 | ███████████ 33<br>
-2026-03 | ████████ 24
+2026-02 | ████████████ 34<br>
+2026-03 | █████████████████ 51
 
 ## Articles
 
 ### 2026
 
-#### March (24 articles)
+#### March (51 articles)
+- [El País publishes the TSR map Adif ordered withdrawn](src/2026-03/20260313-el-pais-tsr-map-adif-withdrawn.md)
+- [Current Projects - Missing Maps](src/2026-03/20260313-missing-maps-projects.md)
+- [Google Maps va lancer la navigation 3D immersive](src/2026-03/20260312-google-maps-navigation-3d-immersive-iphonesoft.md)
+- [Google Maps ajoute une navigation 3D immersive, son plus gros changement](src/2026-03/20260312-google-maps-navigation-3d-immersive-kulturegeek.md)
+- [Le guidage GPS Google Maps fait sa révolution en intégrant l’IA et la 3D](src/2026-03/20260312-google-maps-revolution-ia-3d-automobile-sportive.md)
+- [Google Maps : navigation 3D immersive en voiture et recherche en langage naturel sont en route](src/2026-03/20260312-google-maps-navigation-3d-immersive-igen.md)
+- [Google Maps : ces deux nouveautés dopées à Gemini vont révolutionner vos trajets, voici comment](src/2026-03/20260312-google-maps-nouveautes-gemini-phonandroid.md)
+- [Google Maps va faire peau neuve et voilà à quoi cela ressemble](src/2026-03/20260312-google-maps-clubic-peau-neuve.md)
+- [Google (Alphabet) lance la nouvelle fonctionnalité « Ask Maps » et des capacités de navigation immersive](src/2026-03/20260312-google-maps-ask-maps-zonebourse.md)
+- [Kapsch TrafficCom selects TomTom Traffic to enhance its global traffic management solutions](src/2026-03/20260312-kapsch-tomtom-traffic-press-release.md)
+- [Kapsch TrafficCom Selects TomTom Traffic to Enhance Its Global Traffic Management Solutions](src/2026-03/20260312-kapsch-tomtom-traffic-highways-news.md)
+- [INTERTRAFFIC: Kapsch integrates TomTom traffic data](src/2026-03/20260312-intertraffic-kapsch-tomtom-traffic-data.md)
+- [Kapsch TrafficCom wybiera TomTom Traffic do systemów zarządzania ruchem drogowym](src/2026-03/20260312-kapsch-tomtom-geoforum-pl.md)
+- [Twój samochód to mobilny czujnik. Jak miliony aut na drogach pomagają miastom sterować ruchem](src/2026-03/20260312-floating-car-data-tomtom-kapsch-smart-city.md)
+- [High-Precision Real-Time Map Market Moving in the Right Direction](src/2026-03/20260312-high-precision-realtime-map-market.md)
+- [Kapsch TrafficCom integrates TomTom data into EcoTrafiX](src/2026-03/20260311-kapsch-tomtom-ecotrafix-integration.md)
+- [TomTom Recognized as a ‘Star’ in the Geospatial Analytics Market by 360Quadrants](src/2026-03/20260311-tomtom-geospatial-analytics-marketsandmarkets-360quadrants.md)
+- [How hand-drawn maps are revealing real stories from Bosnia and Herzegovina](src/2026-03/20260311-hand-drawn-maps-bosnia-herzegovina.md)
+- [TomTom CEO shake-up as mapping pioneers depart](src/2026-03/20260310-tomtom-ceo-shake-up-mapping-pioneers-depart.md)
+- [Mapping the World’s Forests with Greater Precision: Introducing Canopy Height Maps v2](src/2026-03/20260310-meta-wri-canopy-height-maps-v2.md)
+- [TomTom recognized as ‘Star’ in MarketsandMarkets’ latest 360Quadrant for the Geospatial Analytics Market](src/2026-03/20260309-tomtom-star-marketsandmarkets-geospatial-analytics.md)
+- [Man comparing Waze vs. Google Maps reveals which app has better incident reporting](src/2026-03/20260309-waze-vs-google-maps-incident-reporting.md)
+- [Study maps tree-planting risks and rewards for climate and biodiversity](src/2026-03/20260309-tree-planting-risks-rewards-climate-biodiversity.md)
+- [Google Maps Go gains gradient app icon redesign](src/2026-03/20260309-google-maps-go-gradient-icon-redesign.md)
+- [TomTom GO Navigation im Praxischeck: Lohnt sich das Abo fürs Handy wirklich?](src/2026-03/20260307-tomtom-go-navigation-praxischeck-abo-handy.md)
+- [TomTom GO Navigation im Check: Lohnt sich das Abo auf dem Smartphone wirklich?](src/2026-03/20260307-tomtom-go-navigation-check-abo-smartphone.md)
+- [I changed these 5 Google Maps settings, and my commute is actually faster now](src/2026-03/20260308-google-maps-settings-faster-commute.md)
+- [Google Maps dévoile son nouveau logo](src/2026-03/20260307-google-maps-nouveau-logo.md)
+- [The new Google Maps logo is a gaping monstrosity](src/2026-03/20260307-google-maps-logo-gaping-monstrosity.md)
+- [I just realized how bad Google Maps is on CarPlay — why does it look so terrible?](src/2026-03/20260307-google-maps-bad-on-carplay.md)
+- [New Google Maps alternative has a feature that has everyone saying the underdogs might truly be taking over](src/2026-03/20260307-mapquest-google-maps-alternative-underdog.md)
+- [Scientists to map vulnerable ecosystems in the High Seas with AI](src/2026-03/20260306-scientists-map-high-seas-ecosystems-ai.md)
+- [TomTom GO Navigation Just Got Serious: Is It Time To Ditch Google Maps?](src/2026-03/20260306-tomtom-go-navigation-ditch-google-maps.md)
+- [Goddijn en Vigreux, mede-oprichters TomTom, vertrekken](src/2026-03/20260306-goddijn-vigreux-tomtom-vertrekken.md)
+- [Chyron Releases New Edition of AXIS Maps](src/2026-03/20260306-chyron-axis-maps-new-edition.md)
 - [Has GPS destroyed the art of maps? These Enlightenment masters show us how it’s done](src/2026-03/20260306-has-gps-destroyed-the-art-of-maps-enlightenment-masters-ft.md)
 - [TomTom CEO Harold Goddijn to step down (Reuters)](src/2026-03/20260305-tomtom-ceo-harold-goddijn-step-down-reuters.md)
 - [TomTom announces leadership transition: Mike Schoofs nominated as Chief Executive Officer](src/2026-03/20260305-tomtom-announces-leadership-transition-mike-schoofs-ceo.md)
@@ -46,8 +81,9 @@ Articles per month:
 - [New Google Maps Alternative Gets Essential Feature Update](src/2026-03/20260301-google-maps-alternative-update-essential-features.md)
 - [Pourquoi Google Maps n’a jamais bien fonctionne en Coree du Sud](src/2026-03/20260301-pourquoi-google-maps-fonctionne-mal-coree-sud.md)
 
-#### February (33 articles)
+#### February (34 articles)
 - [AECOM partners with TomTom for traffic and infrastructure planning](src/2026-02/20260212-aecom-partners-with-tomtom-for-traffic-and-infrastructure-planning.md)
+- [BrightQuery Joins Overture Maps Foundation to Expand Open Places Data Coverage](src/2026-02/20260225-brightquery-overture-maps-foundation.md)
 - [TomTom GO Navigation: Is This App Finally Good Enough to Drop Google Maps?](src/2026-02/20260228-tomtom-go-navigation-good-enough-drop-google-maps.md)
 - [La Corée du sud se résigne à se dévoiler sur Google Maps](src/2026-02/20260228-la-coree-du-sud-se-resigne-a-se-devoiler-sur-google-maps.md)
 - [Maps for Machines: A Paradigm Shift in Cartography](src/2026-02/20260228-maps-for-machines-paradigm-shift-cartography.md)
