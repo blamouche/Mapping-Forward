@@ -1,0 +1,13 @@
+https://www.01net.com/actualites/google-maps-change-tout-decouvrez-la-plus-grande-mise-a-jour-de-la-navigation-depuis-10-ans.html
+https://www.journaldugeek.com/2026/03/13/google-maps-change-completement-grace-a-lia-ces-fonctionnalites-vont-tout-ameliorer/
+https://www.zdnet.fr/actualites/google-maps-recoit-sa-plus-importante-mise-a-jour-depuis-plus-de-dix-ans-491761.htm
+https://siecledigital.fr/2026/03/12/google-maps-se-reinvente-avec-lia-gemini-et-une-navigation-3d/
+https://www.dhnet.be/actu/new-tech/2026/03/13/lapplication-google-maps-sapprete-a-changer-voici-ce-qui-vous-attend-B3S3OZA2GVAPJKRCAHUUEP2SP4/
+https://geeko.lesoir.be/2026/03/13/google-maps-recoit-sa-plus-grande-mise-a-jour-de-navigation-depuis-dix-ans/
+https://fr.motor1.com/news/789934/google-maps-mise-jour-fonctionnalit%C3%A9s/
+https://www.lalibre.be/economie/digital/2026/03/13/lapplication-google-maps-sapprete-a-changer-la-plus-grande-mise-a-jour-de-navigation-depuis-plus-de-dix-ans-sera-dopee-a-lia-6OPEGHNIOND5VJOPUXKDVE5TIU/
+https://www.jeuxvideo.com/news/2069335/google-maps-va-lancer-sa-plus-grosse-mise-a-jour-des-itineraires-bien-plus-precis-facon-jeux-video.htm
+https://www.tomtom.com/newsroom/explainers-and-insights/defining-the-ai-defined-car
+https://www.bfmtv.com/economie/replay-emissions/en-route-pour-demain/que-devient-tom-tom-le-geant-de-la-route-detrone-par-nos-smartphones_EN-202603130510.html
+https://www.tomtom.com/newsroom/partner-stories/bringing-europes-freshest-maps-to-hyundai-and-kia-vehicles
+https://www.automotiveworld.com/articles/tomtom-ceo-shake-up-as-mapping-pioneers-depart/
