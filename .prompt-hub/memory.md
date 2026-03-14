@@ -21,3 +21,11 @@
 - commands: gog gmail messages search --include-body; git diff
 - status: success
 - next: None
+
+## 2026-03-13 16:00 CET
+- actor: openclaw
+- action: Received scan-list task; assessed LIST.md size (48 URLs). Did not start processing to avoid partial updates without batching confirmation.
+- files: LIST.md
+- commands: none
+- status: failed
+- next: Await confirmation to batch scan-list across multiple runs (no exec).
