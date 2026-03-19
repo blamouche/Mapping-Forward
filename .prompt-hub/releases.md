@@ -8,3 +8,6 @@
 
 ## 0.1.1 - 2026-03-19
 - Log sync commit details in .prompt-hub/memory.md.
+
+## 0.1.2 - 2026-03-19
+- Add 63 mapping-related URLs from Gmail veille to LIST.md (deduped and filtered).
