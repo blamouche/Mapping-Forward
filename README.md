@@ -14,13 +14,25 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 34<br>
-2026-03 | █████████████████ 51
+2026-03 | ██████████████████████ 63
 
 ## Articles
 
 ### 2026
 
-#### March (51 articles)
+#### March (63 articles)
+- [TomTom CEO shake-up as mapping pioneers depart](src/2026-03/20260319-tomtom-ceo-shake-up-automotiveworld.md)
+- [Google Maps s’apprête à évoluer](src/2026-03/20260319-google-maps-sapprete-a-evoluer-motor1.md)
+- [Google Maps reçoit sa « plus importante mise à jour depuis plus de dix ans »](src/2026-03/20260319-google-maps-plus-importante-mise-a-jour-zdnet.md)
+- [La plus grande mise à jour depuis 10 ans : le nouveau Google Maps veut vous en mettre plein la vue](src/2026-03/20260319-google-maps-plus-grande-mise-a-jour-10-ans-01net.md)
+- [Next-generation navigation: Bringing Europe’s freshest maps to Hyundai and Kia vehicles](src/2026-03/20260313-tomtom-hyundai-kia-freshest-maps.md)
+- [Que devient TomTom, le géant de la route détrôné par nos smartphones?](src/2026-03/20260313-que-devient-tomtom-geant-route-bfmtv.md)
+- [The AI-defined vehicle is here](src/2026-03/20260313-ai-defined-vehicle-tomtom.md)
+- [L'application Google Maps s'apprête à changer : la "plus grande mise à jour de navigation depuis plus de dix ans" sera dopée à l'IA](src/2026-03/20260313-google-maps-sapprete-a-changer-lalibre.md)
+- [Google Maps reçoit sa plus grande mise à jour de navigation depuis dix ans](src/2026-03/20260313-google-maps-plus-grande-mise-a-jour-geeko.md)
+- [L'application Google Maps s'apprête à changer ! Voici ce qui vous attend](src/2026-03/20260313-google-maps-sapprete-a-changer-dhnet.md)
+- [Google Maps change complètement grâce à l’IA : ces fonctionnalités vont tout améliorer](src/2026-03/20260313-google-maps-change-completement-ia-journaldugeek.md)
+- [Google dévoile la plus grande refonte de Google Maps depuis plus de dix ans](src/2026-03/20260312-google-maps-refonte-gemini-navigation-3d-siecledigital.md)
 - [El País publishes the TSR map Adif ordered withdrawn](src/2026-03/20260313-el-pais-tsr-map-adif-withdrawn.md)
 - [Current Projects - Missing Maps](src/2026-03/20260313-missing-maps-projects.md)
 - [Google Maps va lancer la navigation 3D immersive](src/2026-03/20260312-google-maps-navigation-3d-immersive-iphonesoft.md)

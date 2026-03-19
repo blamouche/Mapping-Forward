@@ -29,3 +29,28 @@
 - commands: none
 - status: failed
 - next: Await confirmation to batch scan-list across multiple runs (no exec).
+
+## 2026-03-14 16:00 CET
+- actor: openclaw
+- action: Initialized task (created missing lessons/releases files, updated .last-update-check, created scan-list todo). Auto-update check skipped (requires curl/exec, disallowed by task).
+- files: .prompt-hub/lessons.md, .prompt-hub/releases.md, .prompt-hub/.last-update-check, .prompt-hub/todo/todo-20260314-160000-scan-list.md
+- commands: none
+- status: partial
+- next: Await plan approval to proceed with scan-list steps.
+
+## 2026-03-19 16:00 CET
+- actor: openclaw
+- action: Created scan-list todo with plan for batch processing; awaiting approval to execute (agents.md requires plan check-in before implementation). Auto-update check skipped (already up to date in .last-update-check).
+- files: .prompt-hub/todo/todo-20260319-160000-scan-list.md
+- commands: none
+- status: partial
+- next: Await approval to proceed with scan-list execution.
+
+## 2026-03-19 16:00 CET
+- actor: openclaw
+- action: scan-list processed 12 URLs from LIST.md; created 12 synthesis files; updated README stats and March list; LIST.md emptied; batch recap created; 1 FETCH_ERROR recorded (jeuxvideo 403). No git commands executed (per task constraint).
+- files: src/2026-03/*.md, README.md, LIST.md, synthesis/2026-03-19 - 160000 - batch recap.md
+- commands: none
+- status: partial
+- next: Run git add/commit/push for each article + recap; update .prompt-hub/version.md and .prompt-hub/releases.md per commit policy.
+- 2026-03-19 22:28 CET | agent | Created todo plan for veille mapping Gmail -> LIST.md run; awaiting plan check-in before execution. | Files: .prompt-hub/todo/todo-20260319-222800-veille-mapping.md | Status: partial | Next: Await approval to execute plan.
