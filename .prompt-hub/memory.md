@@ -62,3 +62,11 @@
 - commands: git add -A; git commit -m "Sync pending scan-list outputs"; git push
 - status: success
 - next: Proceed with daily veille mapping Gmail -> LIST.md run.
+
+## 2026-03-19 22:40 CET
+- actor: openclaw
+- action: Daily veille mapping run — extracted URLs from Gmail label 0---veille-mapping, filtered non-mapping/local items, added 63 URLs to LIST.md, committed/pushed; moved 22 processed emails to Trash.
+- files: LIST.md, .prompt-hub/version.md, .prompt-hub/releases.md
+- commands: gog gmail messages search; git pull --rebase; git add; git commit; git push; gog gmail batch modify --add TRASH
+- status: success
+- next: None

@@ -11,3 +11,6 @@
 
 ## 0.1.2 - 2026-03-19
 - Add 63 mapping-related URLs from Gmail veille to LIST.md (deduped and filtered).
+
+## 0.1.3 - 2026-03-19
+- Log daily veille mapping run and mark task completion in prompt-hub todo.
