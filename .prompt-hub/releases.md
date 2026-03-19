@@ -5,3 +5,6 @@
 - Commit backlog: add 12 March article syntheses, batch recap, and update README stats.
 - Record prompt-hub task/todo files and state updates.
 - Initialize project version tracking.
+
+## 0.1.1 - 2026-03-19
+- Log sync commit details in .prompt-hub/memory.md.
