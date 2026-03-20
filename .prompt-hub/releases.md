@@ -17,3 +17,6 @@
 
 ## 0.1.4 - 2026-03-20
 - Record new veille mapping todo and update prompt-hub update check state.
+
+## 0.1.5 - 2026-03-20
+- Log veille mapping run (no new Gmail messages) and finalize task review.
