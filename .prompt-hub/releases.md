@@ -14,3 +14,6 @@
 
 ## 0.1.3 - 2026-03-19
 - Log daily veille mapping run and mark task completion in prompt-hub todo.
+
+## 0.1.4 - 2026-03-20
+- Record new veille mapping todo and update prompt-hub update check state.
