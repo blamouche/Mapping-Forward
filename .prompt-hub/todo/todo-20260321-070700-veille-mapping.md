@@ -12,9 +12,10 @@
 - [x] Gmail URLs extracted + filtered
 - [x] LIST.md updated + deduped
 - [x] Non-mapping URLs removed
-- [ ] Emails trashed
+- [x] Emails trashed
 
 ## Review
-- Status: in progress
+- Status: done
 - Notes:
 - Added mapping-focused URLs from Google Alerts (excluded non-mapping items).
+- Trashed 5 processed Gmail alerts.

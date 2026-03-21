@@ -26,3 +26,6 @@
 
 ## 0.1.7 - 2026-03-21
 - Add new mapping-related URLs from Gmail veille to LIST.md (deduped).
+
+## 0.1.8 - 2026-03-21
+- Finalize veille mapping run (email trashing + todo review).
