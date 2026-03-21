@@ -23,3 +23,6 @@
 
 ## 0.1.6 - 2026-03-21
 - Sync prompt-hub update check state and add pending todo entries.
+
+## 0.1.7 - 2026-03-21
+- Add new mapping-related URLs from Gmail veille to LIST.md (deduped).

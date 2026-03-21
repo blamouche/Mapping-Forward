@@ -8,12 +8,13 @@
 5. Trash processed emails and log actions.
 
 ## Progress
-- [ ] Repo clean/synced
-- [ ] Gmail URLs extracted + filtered
-- [ ] LIST.md updated + deduped
-- [ ] Non-mapping URLs removed
+- [x] Repo clean/synced
+- [x] Gmail URLs extracted + filtered
+- [x] LIST.md updated + deduped
+- [x] Non-mapping URLs removed
 - [ ] Emails trashed
 
 ## Review
-- Status: pending
+- Status: in progress
 - Notes:
+- Added mapping-focused URLs from Google Alerts (excluded non-mapping items).
