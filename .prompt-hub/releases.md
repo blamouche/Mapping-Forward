@@ -20,3 +20,6 @@
 
 ## 0.1.5 - 2026-03-20
 - Log veille mapping run (no new Gmail messages) and finalize task review.
+
+## 0.1.6 - 2026-03-21
+- Sync prompt-hub update check state and add pending todo entries.
