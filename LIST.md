@@ -78,3 +78,13 @@ https://www.spatialsource.com.au/brightquery-joins-overture-maps-foundation/
 https://www.spatialsource.com.au/applying-geospatial-ai-to-solve-global-problems/
 https://www.spatialsource.com.au/vexcels-worldwide-aerial-imagery-plans-for-2026/
 https://themiilk.com/articles/a343f0f5a
+https://www.comparatel.fr/actualites-et-conseils/google-ameliore-lexperience-utilisateur-maps-pour-les-cyclistes-avec-de-nouvelles-fonctionnalites/
+https://android-mt.ouest-france.fr/news/apple-maps-visited-places-devient-incontournable-sur-ios-26/197649/
+https://www.forbes.com/sites/quickerbettertech/2026/03/21/small-business-tech-news-google-maps-gets-a-big-ai-upgrade/
+https://geoawesome.com/tech-for-earth-maps-are-getting-smarter/
+https://www.moneycontrol.com/technology/google-unveils-major-maps-overhaul-its-most-significant-in-a-decade-eight-features-to-know-article-13866904.html
+https://www.monash.edu/it/edi/research/3d-printed-maps-to-support-orientation-and-mobility
+https://www.usgs.gov/media/images/national-water-dashboard-map-south-atlantic-drought-conditions
+https://umaine.edu/news/2026/03/national-geographic-featured-new-maps-on-inuit-homelands-in-canada/
+https://www.ad-hoc-news.de/boerse/news/ueberblick/tomtom-go-navigation-la-app-de-navegacion-que-revoluciona-los-viajes-en/68944856
+https://www.openpr.com/news/4430946/geographic-information-system-software-market-growth-outlook

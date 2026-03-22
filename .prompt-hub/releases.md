@@ -32,3 +32,6 @@
 
 ## 0.1.9 - 2026-03-22
 - Sync prompt-hub update check state and add new todo entries.
+
+## 0.1.10 - 2026-03-22
+- Add 10 mapping-related URLs from Gmail veille (deduped).

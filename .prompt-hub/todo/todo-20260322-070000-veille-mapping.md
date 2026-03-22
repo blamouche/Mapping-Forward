@@ -13,11 +13,16 @@
 User request explicitly instructs execution of daily sequence (cron). Proceeding.
 
 ## Progress
-- [ ] Start
+- [x] Start
+- [x] Sync repo (clean + pull --rebase)
+- [x] Extract Gmail URLs + filter
+- [x] Update LIST.md (dedupe)
+- [x] Commit/push
+- [x] Trash processed emails
 
 ## Review
-- Outcome:
-- URLs added:
-- URLs removed:
-- Emails trashed:
-- Notes:
+- Outcome: success
+- URLs added: 10
+- URLs removed: 0
+- Emails trashed: 6
+- Notes: Excluded non-mapping/local items from Gmail alerts; LIST.md already mapping-focused.
