@@ -29,3 +29,6 @@
 
 ## 0.1.8 - 2026-03-21
 - Finalize veille mapping run (email trashing + todo review).
+
+## 0.1.9 - 2026-03-22
+- Sync prompt-hub update check state and add new todo entries.
