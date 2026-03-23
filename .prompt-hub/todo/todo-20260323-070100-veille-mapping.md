@@ -11,18 +11,18 @@ Exécuter la séquence quotidienne veille mapping Gmail -> LIST.md, filtrer, dé
 5. Mettre à jour version/release/prompt-hub mémoire et commit/push.
 
 ## Progress
-- [ ] Repo clean sync
-- [ ] Gmail scan + extraction URLs
-- [ ] Filtering/dedupe + LIST.md update
-- [ ] Trash emails
-- [ ] Versioning + releases + commit/push
+- [x] Repo clean sync
+- [x] Gmail scan + extraction URLs
+- [x] Filtering/dedupe + LIST.md update
+- [x] Trash emails
+- [x] Versioning + releases + commit/push
 
 ## Notes
 Plan exécuté directement selon la demande explicite (cron) de Ben.
 
 ## Review
-- Outcome: 
-- URLs added: 
-- URLs removed: 
-- Emails trashed: 
-- Notes:
+- Outcome: Added mapping URLs from veille Gmail alerts.
+- URLs added: 5
+- URLs removed: 0
+- Emails trashed: 3
+- Notes: Excluded non-mapping/local/news noise (YouTube, local traffic survey, finance ticker, etc.).

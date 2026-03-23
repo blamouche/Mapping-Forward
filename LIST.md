@@ -88,3 +88,8 @@ https://www.usgs.gov/media/images/national-water-dashboard-map-south-atlantic-dr
 https://umaine.edu/news/2026/03/national-geographic-featured-new-maps-on-inuit-homelands-in-canada/
 https://www.ad-hoc-news.de/boerse/news/ueberblick/tomtom-go-navigation-la-app-de-navegacion-que-revoluciona-los-viajes-en/68944856
 https://www.openpr.com/news/4430946/geographic-information-system-software-market-growth-outlook
+https://www.lemonde.fr/en/les-decodeurs/article/2026/03/22/map-french-municipal-election-results-after-second-round_6751704_8.html
+https://www.msn.com/en-us/autos/news/tomtom-signs-agreement-with-hyundai-for-traffic-services-in-europe/ar-AA1NOyab
+https://www.aajtak.in/visualstories/technology/google-maps-new-update-smart-navigation-features-ttecr-276783-22-03-2026
+https://www.dailysabah.com/politics/turkiye-maps-social-risks-for-preemptive-action/news
+https://link.springer.com/article/10.1007/s41060-026-01046-4

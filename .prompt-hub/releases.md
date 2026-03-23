@@ -1,6 +1,9 @@
 # Releases
 
 
+## 0.1.12 - 2026-03-23
+- Add 5 mapping-related URLs from Gmail veille (deduped) and trash processed emails.
+
 ## 0.1.11 - 2026-03-23
 - Sync prompt-hub state (update check date + pending todo entries).
 
