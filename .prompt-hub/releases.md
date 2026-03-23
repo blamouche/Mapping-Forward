@@ -1,6 +1,9 @@
 # Releases
 
 
+## 0.1.11 - 2026-03-23
+- Sync prompt-hub state (update check date + pending todo entries).
+
 ## 0.1.0 - 2026-03-19
 - Commit backlog: add 12 March article syntheses, batch recap, and update README stats.
 - Record prompt-hub task/todo files and state updates.

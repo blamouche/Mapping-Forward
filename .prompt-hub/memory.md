@@ -1,6 +1,8 @@
 # Memory Log
 
+- 2026-03-23 07:01 CET | agent | Sync prompt-hub state before veille mapping run (update-check date + todo entries). | Files: .prompt-hub/.last-update-check, .prompt-hub/todo/todo-20260322-160000-scan-list.md, .prompt-hub/todo/todo-20260323-070100-veille-mapping.md, .prompt-hub/version.md, .prompt-hub/releases.md | Status: success | Next: Proceed with veille mapping execution.
 - 2026-03-22 07:05 CET | agent | Daily veille mapping run: extracted mapping-related URLs from Gmail label 0---veille-mapping, added 10 URLs to LIST.md (deduped), trashed 6 processed emails. | Files: LIST.md, .prompt-hub/version.md, .prompt-hub/releases.md, .prompt-hub/todo/todo-20260322-070000-veille-mapping.md | Status: success | Next: none
+- 2026-03-22 16:00 CET | agent | Initialized scan-list todo and plan (no shell/commands constraint). | Files: .prompt-hub/todo/todo-20260322-160000-scan-list.md | Status: success | Next: Await approval to proceed with scan-list execution on LIST.md.
 
 - 2026-03-08 21:43:49 CET | agent | Added 23 mapping-related URLs from Gmail label 0---veille-mapping to LIST.md (filtered non-mapping/local items). | Files: LIST.md | Status: success | Next: none
 - 2026-03-09 07:02:00 CET | agent | Scanned Gmail label 0---veille-mapping; no mapping-relevant URLs found; LIST.md unchanged. | Files: none | Status: success | Next: none
