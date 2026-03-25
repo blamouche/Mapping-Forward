@@ -47,3 +47,6 @@
 
 ## 0.1.14 - 2026-03-25
 - Sync prompt-hub state (pending veille mapping todo + memory log).
+
+## 0.1.15 - 2026-03-25
+- Add veille mapping todo (daily run plan/check-in).
