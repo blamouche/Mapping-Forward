@@ -44,3 +44,6 @@
 
 ## 0.1.10 - 2026-03-22
 - Add 10 mapping-related URLs from Gmail veille (deduped).
+
+## 0.1.14 - 2026-03-25
+- Sync prompt-hub state (pending veille mapping todo + memory log).

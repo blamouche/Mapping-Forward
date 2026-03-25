@@ -88,3 +88,7 @@
 - 2026-03-21 16:00 CET | agent | Initialized scan-list todo (no exec allowed). Plan ready; awaiting confirmation to run full scan-list on current LIST.md batch (large queue). | Files: .prompt-hub/todo/todo-20260321-160000-scan-list.md | Status: partial | Next: Await approval to proceed with scan-list execution.
 
 - 2026-03-25 13:30 CET | assistant | Update repo (git pull --rebase), no changes; created update-repo todo and completed review. | Files: .prompt-hub/todo/todo-20260325-133005-update-repo.md, .prompt-hub/memory.md | Status: success | Next: Commit prompt-hub tracking files.
+
+- 2026-03-25 14:06 CET | agent | Initialized veille mapping todo and plan; awaiting plan check-in before execution. | Files: .prompt-hub/todo/todo-20260325-140622-veille-mapping.md | Status: partial | Next: Await approval to execute daily Gmail->LIST.md sequence.
+
+- 2026-03-25 14:10 CET | agent | Commit pending veille mapping plan + memory log before daily run. | Files: .prompt-hub/memory.md, .prompt-hub/todo/todo-20260325-140622-veille-mapping.md | Status: success | Next: Execute daily veille mapping run.
