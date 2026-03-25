@@ -101,3 +101,5 @@
 - 2026-03-25 14:21 CET | agent | Initialized scan-list todo with plan/check-in (no exec). Awaiting confirmation before processing LIST.md batch. | Files: .prompt-hub/todo/todo-20260325-142100-scan-list.md | Status: partial | Next: Await approval to proceed with scan-list execution.
 
 - 2026-03-25 14:26 CET | assistant | Updated repo rule to allow exec by default unless explicitly forbidden. | Files: .prompt-hub/lessons.md, .prompt-hub/todo/todo-20260325-142522-allow-exec.md | Status: success | Next: Commit prompt-hub tracking updates.
+
+- 2026-03-25 14:28 CET | assistant | Updated rules to allow git commit/push even under no-shell/no-command constraint unless explicitly prohibited. | Files: .prompt-hub/lessons.md, .prompt-hub/todo/todo-20260325-142746-allow-commit-push.md | Status: success | Next: Commit prompt-hub tracking updates.
