@@ -63,7 +63,6 @@ https://www.boerse-express.com/news/articles/kapsch-trafficcom-aktie-tomtom-part
 https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/marketsandmarkets-united-states-of-america-united-kingdom/68717818
 https://www.clubic.com/actualite-605476-google-maps-ce-nouveau-bouton-qui-va-rassurer-vos-proches-et-vous-simplifier-la-vie.html
 https://www.presse-citron.net/google-maps-corrige-son-gros-defaut-avec-ce-bouton-que-tout-le-monde-attendait/
-https://www.fao.org/family-farming/detail/fr/c/1757923/
 https://android-mt.ouest-france.fr/news/google-maps-du-nouveau-pour-le-partage-de-position/197617/
 https://www.vietnam.vn/fr/google-maps-bat-dau-cap-nhat-ban-do-hanh-chinh-moi-cua-viet-nam
 https://www.theguardian.com/world/video/2026/mar/19/how-google-maps-is-shaping-where-we-eat-video
@@ -77,7 +76,6 @@ https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/decision-support/e
 https://www.spatialsource.com.au/brightquery-joins-overture-maps-foundation/
 https://www.spatialsource.com.au/applying-geospatial-ai-to-solve-global-problems/
 https://www.spatialsource.com.au/vexcels-worldwide-aerial-imagery-plans-for-2026/
-https://themiilk.com/articles/a343f0f5a
 https://www.comparatel.fr/actualites-et-conseils/google-ameliore-lexperience-utilisateur-maps-pour-les-cyclistes-avec-de-nouvelles-fonctionnalites/
 https://android-mt.ouest-france.fr/news/apple-maps-visited-places-devient-incontournable-sur-ios-26/197649/
 https://www.forbes.com/sites/quickerbettertech/2026/03/21/small-business-tech-news-google-maps-gets-a-big-ai-upgrade/
@@ -88,8 +86,19 @@ https://www.usgs.gov/media/images/national-water-dashboard-map-south-atlantic-dr
 https://umaine.edu/news/2026/03/national-geographic-featured-new-maps-on-inuit-homelands-in-canada/
 https://www.ad-hoc-news.de/boerse/news/ueberblick/tomtom-go-navigation-la-app-de-navegacion-que-revoluciona-los-viajes-en/68944856
 https://www.openpr.com/news/4430946/geographic-information-system-software-market-growth-outlook
-https://www.lemonde.fr/en/les-decodeurs/article/2026/03/22/map-french-municipal-election-results-after-second-round_6751704_8.html
 https://www.msn.com/en-us/autos/news/tomtom-signs-agreement-with-hyundai-for-traffic-services-in-europe/ar-AA1NOyab
 https://www.aajtak.in/visualstories/technology/google-maps-new-update-smart-navigation-features-ttecr-276783-22-03-2026
 https://www.dailysabah.com/politics/turkiye-maps-social-risks-for-preemptive-action/news
 https://link.springer.com/article/10.1007/s41060-026-01046-4
+https://www.geoweeknews.com/news/around-the-geospatial-3d-and-aec-industries-delta-s-nsrs-modernization-and-relative-error-ellipses
+https://techcrunch.com/2026/03/23/apple-maps-may-be-about-to-get-ads/
+https://www.theverge.com/tech/899597/apple-maps-ads-launch-summer-2026
+https://www.bloomberg.com/news/articles/2026-03-23/apple-is-set-to-add-search-advertising-to-maps-in-services-push
+https://consomac.fr/news-23460-la-pub-arrive-sur-apple-maps-cet-ete-mais-pas-encore-en-france.html
+https://www.vietnam.vn/fr/google-maps-cap-nhat-dia-gioi-hanh-chinh-moi-den-cap-xa-phuong-o-viet-nam
+https://www.bangkokpost.com/life/tech/3223124/google-maps-adds-3d-immersive-navigation-and-ai-chat
+https://www.ndtv.com/world-news/china-is-mapping-the-ocean-floor-as-it-prepares-for-submarine-warfare-with-the-us-11258718
+https://www.skyatnightmagazine.com/news/news/global-map-seafloor-swot-satellite
+https://www.usgs.gov/observatories/yvo/news/mapping-snow-and-ice-free-zones-monitor-thermal-activity-yellowstone-using
+https://www.ad-hoc-news.de/boerse/news/ueberblick/tomtom-go-navigation-die-smarte-navigations-app-mit-live-verkehr-und/68970234
+https://www.marketsandmarkets.com/ResearchInsight/hd-maps-market-size-share-growth-forecast.asp

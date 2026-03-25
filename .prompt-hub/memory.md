@@ -94,3 +94,5 @@
 - 2026-03-25 14:10 CET | agent | Commit pending veille mapping plan + memory log before daily run. | Files: .prompt-hub/memory.md, .prompt-hub/todo/todo-20260325-140622-veille-mapping.md | Status: success | Next: Execute daily veille mapping run.
 
 - 2026-03-25 14:10 CET | agent | Created new veille mapping todo with plan/check-in for daily run. | Files: .prompt-hub/todo/todo-20260325-141000-veille-mapping.md | Status: success | Next: Execute daily Gmail->LIST.md sequence.
+
+- 2026-03-25 14:10 CET | agent | Updated LIST.md from Gmail veille (added 12 URLs, removed 3 non-mapping). | Files: LIST.md, .prompt-hub/todo/todo-20260325-141000-veille-mapping.md | Status: success | Next: Commit/push + trash processed emails.

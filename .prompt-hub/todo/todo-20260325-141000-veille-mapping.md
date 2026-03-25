@@ -15,9 +15,9 @@ Exécuter la séquence quotidienne Gmail -> LIST.md (mapping only), nettoyer la 
 Plan confirmé par la demande explicite de l’utilisateur ("Exécute la séquence quotidienne").
 
 ## Progress
-- [ ] Repo sync + clean
-- [ ] Gmail extraction + filtering
-- [ ] LIST.md update + dedupe + prune non-mapping
+- [x] Repo sync + clean
+- [x] Gmail extraction + filtering
+- [x] LIST.md update + dedupe + prune non-mapping
 - [ ] Commit + push (incl. version/release)
 - [ ] Trash processed emails
 - [ ] Review + close
