@@ -1,6 +1,9 @@
 # Releases
 
 
+## 0.1.18 - 2026-03-25
+- Allow exec by default unless explicitly restricted (lesson update).
+
 ## 0.1.13 - 2026-03-25
 - Repo sync check (git pull --rebase), no changes.
 

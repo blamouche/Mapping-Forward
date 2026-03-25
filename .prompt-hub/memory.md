@@ -98,3 +98,6 @@
 - 2026-03-25 14:10 CET | agent | Updated LIST.md from Gmail veille (added 12 URLs, removed 3 non-mapping). | Files: LIST.md, .prompt-hub/todo/todo-20260325-141000-veille-mapping.md | Status: success | Next: Commit/push + trash processed emails.
 
 - 2026-03-25 14:10 CET | agent | Trashed 9 Gmail veille messages and finalized veille mapping todo/review. | Files: .prompt-hub/todo/todo-20260325-141000-veille-mapping.md | Status: success | Next: none.
+- 2026-03-25 14:21 CET | agent | Initialized scan-list todo with plan/check-in (no exec). Awaiting confirmation before processing LIST.md batch. | Files: .prompt-hub/todo/todo-20260325-142100-scan-list.md | Status: partial | Next: Await approval to proceed with scan-list execution.
+
+- 2026-03-25 14:26 CET | assistant | Updated repo rule to allow exec by default unless explicitly forbidden. | Files: .prompt-hub/lessons.md, .prompt-hub/todo/todo-20260325-142522-allow-exec.md | Status: success | Next: Commit prompt-hub tracking updates.
