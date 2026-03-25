@@ -53,3 +53,6 @@
 
 ## 0.1.16 - 2026-03-25
 - Add 12 mapping-related URLs from Gmail veille; remove 3 non-mapping items from LIST.md.
+
+## 0.1.17 - 2026-03-25
+- Finalize veille mapping run (trash Gmail messages, close todo).

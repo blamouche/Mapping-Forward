@@ -18,9 +18,10 @@ Plan confirmé par la demande explicite de l’utilisateur ("Exécute la séquen
 - [x] Repo sync + clean
 - [x] Gmail extraction + filtering
 - [x] LIST.md update + dedupe + prune non-mapping
-- [ ] Commit + push (incl. version/release)
-- [ ] Trash processed emails
-- [ ] Review + close
+- [x] Commit + push (incl. version/release)
+- [x] Trash processed emails
+- [x] Review + close
 
 ## Review
-_TBD_
+- Added 12 URLs from Gmail veille; removed 3 non-mapping URLs from LIST.md.
+- Trashed 9 processed Gmail messages.
