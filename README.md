@@ -11,13 +11,14 @@ Technical watch for mapping and geographical intelligence
 
 Articles per month:
 
-2026-03 | ██████████████████████████████████████████████████████ 161<br>2026-02 | █████████████████████ 61<br>2026-12 | █ 1
+2026-03 | ██████████████████████████████████████████████████████ 162<br>2026-02 | █████████████████████ 61<br>2026-12 | █ 1
 
 ## Articles
 
 ### 2026
 
-#### March (161 articles)
+#### March (162 articles)
+- [A $275 billion project maps every building on Earth for the first time — and the results are astonishing](src/2026-03/20260326-a-275-billion-project-maps-every-building-on-earth-for-the-first-time-and-the-results-are-astonishing.md)
 - [Map-Making Is in the Hands of Big Tech. So Is Your Citizenship.](src/2026-03/20260326-map-making-is-in-the-hands-of-big-tech-so-is-your-citizenship.md)
 - [Apple Confirms It's Bringing Ads to Maps as Part of New Apple Business Platform](src/2026-03/20260326-apple-confirms-its-bringing-ads-to-maps-as-part-of-new-apple-business-platform.md)
 - [Türkiye maps social risks for preemptive action](src/2026-03/20260325-turkiye-maps-social-risks-for-preemptive-action.md)

@@ -1,6 +1,9 @@
 # Releases
 
 
+## 0.1.24 - 2026-03-26
+- Process article: A $275 billion project maps every building on Earth for the first time — and the results are astonishing.
+
 ## 0.1.23 - 2026-03-26
 - Process article: Map-Making Is in the Hands of Big Tech. So Is Your Citizenship.
 
