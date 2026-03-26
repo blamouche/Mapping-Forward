@@ -1,6 +1,9 @@
 # Releases
 
 
+## 0.1.28 - 2026-03-26
+- Finalize scan-list todo and memory log after recap push.
+
 ## 0.1.27 - 2026-03-26
 - Add batch recap: 2026-03-26 162030.
 
