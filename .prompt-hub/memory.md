@@ -3,6 +3,8 @@
 - 2026-03-26 16:06 CET | agent | Created scan-list todo with plan/checklist per prompt-hub rules. | Files: .prompt-hub/todo/todo-20260326-160600-scan-list.md | Status: success | Next: Sync repo (git pull --rebase) then process LIST.md.
 - 2026-03-26 16:08 CET | agent | Synced repo prep: stashed prompt-hub changes, ran git pull --rebase, then restored stash. | Files: .prompt-hub/memory.md, .prompt-hub/todo/todo-20260326-160600-scan-list.md | Status: success | Next: Process LIST.md URLs.
 - 2026-03-26 16:10 CET | agent | Processed CNET Apple Maps ads article: created synthesis, updated README stats, removed URL from LIST.md. | Files: src/2026-03/20260326-apple-confirms-its-bringing-ads-to-maps-as-part-of-new-apple-business-platform.md, README.md, LIST.md | Status: success | Next: Commit and push per-article.
+- 2026-03-26 16:12 CET | agent | YouTube URL could not be summarized (WebFetch returned no usable content). Marked for batch recap error and removed from LIST.md per scan-list rules. | Files: LIST.md | Status: partial | Next: Continue with remaining URLs.
+- 2026-03-26 16:14 CET | agent | Processed Swaddle map-making/Big Tech article: created synthesis, updated README stats, removed URL from LIST.md. | Files: src/2026-03/20260326-map-making-is-in-the-hands-of-big-tech-so-is-your-citizenship.md, README.md, LIST.md | Status: success | Next: Commit and push per-article.
 
 - 2026-03-25 07:07 CET | agent | Initialized veille mapping todo with plan; awaiting plan confirmation before execution. | Files: .prompt-hub/todo/todo-20260325-070731-veille-mapping.md | Status: partial | Next: Await approval to execute daily Gmail->LIST.md sequence.
 

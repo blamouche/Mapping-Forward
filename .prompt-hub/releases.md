@@ -1,6 +1,9 @@
 # Releases
 
 
+## 0.1.23 - 2026-03-26
+- Process article: Map-Making Is in the Hands of Big Tech. So Is Your Citizenship.
+
 ## 0.1.22 - 2026-03-26
 - Process article: Apple Confirms It's Bringing Ads to Maps as Part of New Apple Business Platform.
 
