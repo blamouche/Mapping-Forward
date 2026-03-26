@@ -11,16 +11,14 @@ Technical watch for mapping and geographical intelligence
 
 Articles per month:
 
-2025-12 | █ 1<br>
-2026-01 | █████████ 27<br>
-2026-02 | ████████████ 34<br>
-2026-03 | ██████████████████████████████████████████████████████████ 151
+2026-03 | ██████████████████████████████████████████████████████ 160<br>2026-02 | █████████████████████ 61<br>2026-12 | █ 1
 
 ## Articles
 
 ### 2026
 
-#### March (151 articles)
+#### March (160 articles)
+- [Apple Confirms It's Bringing Ads to Maps as Part of New Apple Business Platform](src/2026-03/20260326-apple-confirms-its-bringing-ads-to-maps-as-part-of-new-apple-business-platform.md)
 - [Türkiye maps social risks for preemptive action](src/2026-03/20260325-turkiye-maps-social-risks-for-preemptive-action.md)
 - [UnTrNet: a transformer-based hyperspectral change detection using abundance maps](src/2026-03/20260325-untrnet-hyperspectral-change-detection-abundance-maps.md)
 - [HD Maps Market Size, Share & Growth Analysis](src/2026-03/20260325-hd-maps-market-size-growth-outlook.md)
@@ -181,7 +179,7 @@ Articles per month:
 - [New Google Maps Alternative Gets Essential Feature Update](src/2026-03/20260301-google-maps-alternative-update-essential-features.md)
 - [Pourquoi Google Maps n’a jamais bien fonctionne en Coree du Sud](src/2026-03/20260301-pourquoi-google-maps-fonctionne-mal-coree-sud.md)
 
-#### February (34 articles)
+#### February (61 articles)
 - [AECOM partners with TomTom for traffic and infrastructure planning](src/2026-02/20260212-aecom-partners-with-tomtom-for-traffic-and-infrastructure-planning.md)
 - [BrightQuery Joins Overture Maps Foundation to Expand Open Places Data Coverage](src/2026-02/20260225-brightquery-overture-maps-foundation.md)
 - [TomTom GO Navigation: Is This App Finally Good Enough to Drop Google Maps?](src/2026-02/20260228-tomtom-go-navigation-good-enough-drop-google-maps.md)

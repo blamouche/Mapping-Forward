@@ -1,4 +1,3 @@
-https://www.cnet.com/tech/services-and-software/apple-maps-ads-apple-business/
 https://www.youtube.com/watch?v=nD390fkSmz4
 https://www.theswaddle.com/map-making-is-in-the-hands-of-big-tech-so-is-your-citizenship
 https://www.futura-sciences.com/en/a-275-billion-project-maps-every-building-on-earth-for-the-first-time-and-the-results-are-astonishing_28581/

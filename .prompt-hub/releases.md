@@ -1,6 +1,9 @@
 # Releases
 
 
+## 0.1.22 - 2026-03-26
+- Process article: Apple Confirms It's Bringing Ads to Maps as Part of New Apple Business Platform.
+
 ## 0.1.19 - 2026-03-25
 - Allow git commit/push even with no-shell constraint (lesson update).
 
