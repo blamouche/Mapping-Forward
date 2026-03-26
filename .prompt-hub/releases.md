@@ -1,6 +1,9 @@
 # Releases
 
 
+## 0.1.26 - 2026-03-26
+- Process article: Innovation avec l’IA, Google Maps entend passer du statut d’application de navigation à véritable assistant de voyage. (FETCH_ERROR)
+
 ## 0.1.25 - 2026-03-26
 - Process article: Government maps climate risk in 651 districts scales up climate-resilient farming across India. (FETCH_ERROR)
 
