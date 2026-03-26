@@ -7,6 +7,9 @@
 ## 0.1.20 - 2026-03-26
 - Sync prompt-hub state (pending todo files and memory log).
 
+## 0.1.21 - 2026-03-26
+- Add mapping-related URLs from Gmail veille and trash processed emails.
+
 ## 0.1.18 - 2026-03-25
 - Allow exec by default unless explicitly restricted (lesson update).
 
