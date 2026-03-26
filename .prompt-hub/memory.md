@@ -6,6 +6,8 @@
 - 2026-03-26 16:12 CET | agent | YouTube URL could not be summarized (WebFetch returned no usable content). Marked for batch recap error and removed from LIST.md per scan-list rules. | Files: LIST.md | Status: partial | Next: Continue with remaining URLs.
 - 2026-03-26 16:14 CET | agent | Processed Swaddle map-making/Big Tech article: created synthesis, updated README stats, removed URL from LIST.md. | Files: src/2026-03/20260326-map-making-is-in-the-hands-of-big-tech-so-is-your-citizenship.md, README.md, LIST.md | Status: success | Next: Commit and push per-article.
 - 2026-03-26 16:16 CET | agent | Processed Global Building Atlas article: created synthesis, updated README stats, removed URL from LIST.md. | Files: src/2026-03/20260326-a-275-billion-project-maps-every-building-on-earth-for-the-first-time-and-the-results-are-astonishing.md, README.md, LIST.md | Status: success | Next: Commit and push per-article.
+- 2026-03-26 16:18 CET | agent | WebFetch failed for DD News climate risk mapping article; removed URL and logged FETCH_ERROR for recap. | Files: LIST.md | Status: partial | Next: Continue with remaining URLs.
+- 2026-03-26 16:19 CET | agent | Auto-Infos article blocked by bot manager; removed URL and logged FETCH_ERROR for recap. | Files: LIST.md | Status: partial | Next: Continue with remaining URLs.
 
 - 2026-03-25 07:07 CET | agent | Initialized veille mapping todo with plan; awaiting plan confirmation before execution. | Files: .prompt-hub/todo/todo-20260325-070731-veille-mapping.md | Status: partial | Next: Await approval to execute daily Gmail->LIST.md sequence.
 

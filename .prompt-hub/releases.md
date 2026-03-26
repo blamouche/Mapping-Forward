@@ -1,6 +1,9 @@
 # Releases
 
 
+## 0.1.25 - 2026-03-26
+- Process article: Government maps climate risk in 651 districts scales up climate-resilient farming across India. (FETCH_ERROR)
+
 ## 0.1.24 - 2026-03-26
 - Process article: A $275 billion project maps every building on Earth for the first time — and the results are astonishing.
 
