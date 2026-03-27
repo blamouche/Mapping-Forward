@@ -1,6 +1,9 @@
 # Releases
 
 
+## 0.1.47 - 2026-03-27
+- Add batch recap: 2026-03-27 211140.
+
 ## 0.1.46 - 2026-03-27
 - Process article: Geographic Information Systems Market Set to Surge: A $44 Billion Opportunity by 2034.
 
