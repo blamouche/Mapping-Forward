@@ -11,13 +11,14 @@ Technical watch for mapping and geographical intelligence
 
 Articles per month:
 
-2026-03 | █████████████████████████████████████████████████████████ 169<br>2026-02 | █████████████████████ 62<br>2026-12 | █ 1
+2026-03 | █████████████████████████████████████████████████████████ 170<br>2026-02 | █████████████████████ 62<br>2026-12 | █ 1
 
 ## Articles
 
 ### 2026
 
-#### March (169 articles)
+#### March (170 articles)
+- [Geographic Information Systems Market Set to Surge: A $44 Billion Opportunity by 2034](src/2026-03/20260327-geographic-information-systems-market-set-to-surge-a-44-billion-opportunity-by-2034.md)
 - [Latest release delivers Britain's most detailed digital map](src/2026-03/20260327-latest-release-delivers-britains-most-detailed-digital-map.md)
 - [Contextual Location Data, Unified Foundational Maps Paramount for Industry](src/2026-03/20260327-contextual-location-data-unified-foundational-maps-paramount-for-industry.md)
 - [TomTom GO Navigation: La app de navegación que redefine la movilidad en 2026 con mapas inteligentes](src/2026-03/20260326-tomtom-go-navigation-la-app-de-navegacion-que-redefine-la-movilidad-en-2026-con-mapas-inteligentes.md)

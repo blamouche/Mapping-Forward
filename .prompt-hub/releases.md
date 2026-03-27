@@ -1,6 +1,9 @@
 # Releases
 
 
+## 0.1.46 - 2026-03-27
+- Process article: Geographic Information Systems Market Set to Surge: A $44 Billion Opportunity by 2034.
+
 ## 0.1.45 - 2026-03-27
 - Process article: TomTom GO Navigation: La app de navegación que redefine la movilidad en 2026 con mapas inteligentes.
 
