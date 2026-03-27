@@ -1,6 +1,9 @@
 # Releases
 
 
+## 0.1.49 - 2026-03-27
+- Add 6 mapping-related URLs from Gmail veille (filtered/deduped).
+
 ## 0.1.48 - 2026-03-27
 - Finalize scan-list run tracking (todo + memory log).
 
