@@ -1,6 +1,9 @@
 # Releases
 
 
+## 0.1.59 - 2026-03-28
+- Log veille mapping run (no Gmail messages; LIST.md unchanged).
+
 ## 0.1.58 - 2026-03-28
 - Finalize scan-list todo review and log completion.
 
