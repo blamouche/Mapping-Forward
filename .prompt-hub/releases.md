@@ -1,6 +1,9 @@
 # Releases
 
 
+## 0.1.45 - 2026-03-27
+- Process article: TomTom GO Navigation: La app de navegación que redefine la movilidad en 2026 con mapas inteligentes.
+
 ## 0.1.44 - 2026-03-27
 - Process article: Latest release delivers Britain's most detailed digital map.
 

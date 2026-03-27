@@ -11,15 +11,16 @@ Technical watch for mapping and geographical intelligence
 
 Articles per month:
 
-2026-03 | ████████████████████████████████████████████████████████ 168<br>2026-02 | █████████████████████ 62<br>2026-12 | █ 1
+2026-03 | █████████████████████████████████████████████████████████ 169<br>2026-02 | █████████████████████ 62<br>2026-12 | █ 1
 
 ## Articles
 
 ### 2026
 
-#### March (168 articles)
+#### March (169 articles)
 - [Latest release delivers Britain's most detailed digital map](src/2026-03/20260327-latest-release-delivers-britains-most-detailed-digital-map.md)
 - [Contextual Location Data, Unified Foundational Maps Paramount for Industry](src/2026-03/20260327-contextual-location-data-unified-foundational-maps-paramount-for-industry.md)
+- [TomTom GO Navigation: La app de navegación que redefine la movilidad en 2026 con mapas inteligentes](src/2026-03/20260326-tomtom-go-navigation-la-app-de-navegacion-que-redefine-la-movilidad-en-2026-con-mapas-inteligentes.md)
 - [Google Maps gets Gemini AI upgrade with 'Ask Maps' conversational feature](src/2026-03/20260326-google-maps-gets-gemini-ai-upgrade-with-ask-maps-conversational-feature.md)
 - [Google Maps Down for Thousands, Downdetector Reports](src/2026-03/20260326-google-maps-down-for-thousands-downdetector-reports.md)
 - [Google Maps : les applis GPS se réinventent avec l'IA](src/2026-03/20260326-google-maps-les-applis-gps-se-reinventent-avec-l-ia.md)
