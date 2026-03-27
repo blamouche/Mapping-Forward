@@ -1,6 +1,9 @@
 # Releases
 
 
+## 0.1.48 - 2026-03-27
+- Finalize scan-list run tracking (todo + memory log).
+
 ## 0.1.47 - 2026-03-27
 - Add batch recap: 2026-03-27 211140.
 
