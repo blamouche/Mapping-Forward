@@ -1,4 +1,3 @@
-https://www.hornbilltv.com/topstories/google-maps-gets-gemini-ai-upgrade-with-ask-maps-conversational-feature/151854
 https://geospatialworld.net/videos/contextual-location-data-foundational-maps-overture/
 https://www.newswise.com/articles/smarter-maps-reveal-four-decades-of-change
 https://www.ordnancesurvey.co.uk/news/latest-data-release-delivers-britains-most-detailed-digital-map
