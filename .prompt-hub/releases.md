@@ -1,6 +1,9 @@
 # Releases
 
 
+## 0.1.40 - 2026-03-27
+- Process article: Google Maps Down for Thousands, Downdetector Reports.
+
 ## 0.1.39 - 2026-03-27
 - Process article: Google Maps : les applis GPS se réinventent avec l'IA.
 
