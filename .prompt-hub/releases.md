@@ -1,6 +1,9 @@
 # Releases
 
 
+## 0.1.39 - 2026-03-27
+- Process article: Google Maps : les applis GPS se réinventent avec l'IA.
+
 ## 0.1.38 - 2026-03-27
 - Process article: Waze, Google Maps: comment l'IA va révolutionner vos trajets (et votre façon de conduire).
 

@@ -11,13 +11,14 @@ Technical watch for mapping and geographical intelligence
 
 Articles per month:
 
-2026-03 | ███████████████████████████████████████████████████████ 163<br>2026-02 | █████████████████████ 61<br>2026-12 | █ 1
+2026-03 | ███████████████████████████████████████████████████████ 164<br>2026-02 | █████████████████████ 61<br>2026-12 | █ 1
 
 ## Articles
 
 ### 2026
 
-#### March (163 articles)
+#### March (164 articles)
+- [Google Maps : les applis GPS se réinventent avec l'IA](src/2026-03/20260326-google-maps-les-applis-gps-se-reinventent-avec-l-ia.md)
 - [Waze, Google Maps: comment l'IA va révolutionner vos trajets (et votre façon de conduire)](src/2026-03/20260326-waze-google-maps-comment-l-ia-va-revolutionner-vos-trajets-et-votre-facon-de-conduire.md)
 - [A $275 billion project maps every building on Earth for the first time — and the results are astonishing](src/2026-03/20260326-a-275-billion-project-maps-every-building-on-earth-for-the-first-time-and-the-results-are-astonishing.md)
 - [Map-Making Is in the Hands of Big Tech. So Is Your Citizenship.](src/2026-03/20260326-map-making-is-in-the-hands-of-big-tech-so-is-your-citizenship.md)

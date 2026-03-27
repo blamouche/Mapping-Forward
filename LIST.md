@@ -1,4 +1,3 @@
-https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-google-maps-les-applis-gps-se-reinventent-avec-l-ia_VN-202603260257.html
 https://gvwire.com/2026/03/26/google-maps-down-for-thousands-downdetector-reports/
 https://www.hornbilltv.com/topstories/google-maps-gets-gemini-ai-upgrade-with-ask-maps-conversational-feature/151854
 https://geospatialworld.net/videos/contextual-location-data-foundational-maps-overture/
