@@ -2,6 +2,7 @@
 
 - 2026-03-28 00:01 CET | agent | Created scan-list todo with plan/check-in for autonomous run. | Files: .prompt-hub/todo/todo-20260328-000100-scan-list.md | Status: success | Next: Sync repo then process LIST.md URLs.
 - 2026-03-28 00:19 CET | agent | Processed article: Mieux que Google Maps : cette appli GPS gratuite vous guide partout sans connexion Internet. | Files: src/2026-03/20260328-mieux-que-google-maps-cette-appli-gps-gratuite-vous-guide-partout-sans-connexion-internet.md, README.md, LIST.md, .prompt-hub/version.md, .prompt-hub/releases.md | Status: success | Next: Commit per-article and continue scan-list.
+- 2026-03-28 00:22 CET | agent | WebFetch failed for phys.org (403). Removed URL from LIST.md and logged FETCH_ERROR for recap. | Files: LIST.md, .prompt-hub/version.md, .prompt-hub/releases.md | Status: partial | Next: Commit error removal and continue scan-list.
 
 - 2026-03-27 20:12 CET | agent | Veille mapping run: Gmail label empty; removed 1 non-mapping/local URL from LIST.md; no emails trashed. | Files: LIST.md, .prompt-hub/todo/todo-20260327-200600-veille-mapping.md | Status: success | Next: Update prompt-hub tracking files and commit.
 - 2026-03-27 20:06 CET | agent | Created veille-mapping todo for daily run (20:06). | Files: .prompt-hub/todo/todo-20260327-200600-veille-mapping.md | Status: success | Next: Commit prompt-hub state, then execute Gmail->LIST.md sequence.

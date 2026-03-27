@@ -1,6 +1,9 @@
 # Releases
 
 
+## 0.1.52 - 2026-03-28
+- Process article: Global alien invasion hotspots shifting. (FETCH_ERROR: 403)
+
 ## 0.1.51 - 2026-03-28
 - Process article: Mieux que Google Maps : cette appli GPS gratuite vous guide partout sans connexion Internet.
 
