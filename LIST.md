@@ -1,0 +1,10 @@
+https://rmc.bfmtv.com/actualites/tech/waze-google-maps-comment-l-ia-va-revolutionner-vos-trajets-et-votre-facon-de-conduire_AV-202603260666.html
+https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-google-maps-les-applis-gps-se-reinventent-avec-l-ia_VN-202603260257.html
+https://gvwire.com/2026/03/26/google-maps-down-for-thousands-downdetector-reports/
+https://www.hornbilltv.com/topstories/google-maps-gets-gemini-ai-upgrade-with-ask-maps-conversational-feature/151854
+https://geospatialworld.net/videos/contextual-location-data-foundational-maps-overture/
+https://www.newswise.com/articles/smarter-maps-reveal-four-decades-of-change
+https://www.ordnancesurvey.co.uk/news/latest-data-release-delivers-britains-most-detailed-digital-map
+https://www.ad-hoc-news.de/boerse/news/ueberblick/tomtom-go-navigation-la-app-de-navegacion-que-redefine-la-movilidad-en/68992402
+https://vocal.media/trader/geographic-information-systems-market-set-to-surge-a-44-billion-opportunity-by-2034
+https://www.kommune21.de/k21-meldungen/webgis-wird-modernisiert/

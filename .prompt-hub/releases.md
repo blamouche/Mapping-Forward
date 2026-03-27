@@ -1,6 +1,9 @@
 # Releases
 
 
+## 0.1.34 - 2026-03-27
+- Add 10 mapping-related URLs from Gmail veille to LIST.md (deduped/filtered).
+
 ## 0.1.33 - 2026-03-27
 - Add veille mapping todo with plan/check-in for daily run.
 
