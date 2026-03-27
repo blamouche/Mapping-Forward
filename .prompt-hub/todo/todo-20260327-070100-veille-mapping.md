@@ -14,11 +14,14 @@ Exécuter la séquence quotidienne veille mapping: extraire URLs Gmail label 0--
 Plan prêt. Exécution demandée par la tâche planifiée; je procède.
 
 ## Progress
-- [ ] Préparer repo propre
-- [ ] Extraire URLs Gmail
+- [x] Préparer repo propre
+- [ ] Extraire URLs Gmail (bloqué: gog auth invalid_grant)
 - [ ] Filtrer URLs carto
 - [ ] Mettre à jour LIST.md + commit/push
 - [ ] Mettre les emails traités à la corbeille
 
 ## Review
-- [ ] Résumé + compteurs ajout/suppression
+- [ ] Résumé + compteurs ajout/suppression (bloqué)
+
+## Blockers
+- Gog Gmail auth expired/revoked (invalid_grant). Need re-auth before extraction.

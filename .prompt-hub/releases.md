@@ -1,6 +1,9 @@
 # Releases
 
 
+## 0.1.30 - 2026-03-27
+- Log veille mapping run blocked by expired Gmail auth.
+
 ## 0.1.29 - 2026-03-27
 - Add veille mapping todo for daily Gmail -> LIST.md run.
 
