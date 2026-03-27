@@ -1,6 +1,9 @@
 # Releases
 
 
+## 0.1.43 - 2026-03-27
+- Process article: Smarter Maps Reveal Four Decades of Change.
+
 ## 0.1.42 - 2026-03-27
 - Process article: Contextual Location Data, Unified Foundational Maps Paramount for Industry.
 

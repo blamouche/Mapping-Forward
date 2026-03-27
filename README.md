@@ -11,7 +11,7 @@ Technical watch for mapping and geographical intelligence
 
 Articles per month:
 
-2026-03 | ████████████████████████████████████████████████████████ 167<br>2026-02 | █████████████████████ 61<br>2026-12 | █ 1
+2026-03 | ████████████████████████████████████████████████████████ 167<br>2026-02 | █████████████████████ 62<br>2026-12 | █ 1
 
 ## Articles
 
@@ -186,7 +186,8 @@ Articles per month:
 - [New Google Maps Alternative Gets Essential Feature Update](src/2026-03/20260301-google-maps-alternative-update-essential-features.md)
 - [Pourquoi Google Maps n’a jamais bien fonctionne en Coree du Sud](src/2026-03/20260301-pourquoi-google-maps-fonctionne-mal-coree-sud.md)
 
-#### February (61 articles)
+#### February (62 articles)
+- [Smarter Maps Reveal Four Decades of Change](src/2026-02/20260227-smarter-maps-reveal-four-decades-of-change.md)
 - [AECOM partners with TomTom for traffic and infrastructure planning](src/2026-02/20260212-aecom-partners-with-tomtom-for-traffic-and-infrastructure-planning.md)
 - [BrightQuery Joins Overture Maps Foundation to Expand Open Places Data Coverage](src/2026-02/20260225-brightquery-overture-maps-foundation.md)
 - [TomTom GO Navigation: Is This App Finally Good Enough to Drop Google Maps?](src/2026-02/20260228-tomtom-go-navigation-good-enough-drop-google-maps.md)
