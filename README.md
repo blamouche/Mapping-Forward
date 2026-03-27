@@ -11,13 +11,14 @@ Technical watch for mapping and geographical intelligence
 
 Articles per month:
 
-2026-03 | █████████████████████████████████████████████████████████ 171<br>2026-02 | █████████████████████ 62<br>2026-12 | █ 1
+2026-03 | ██████████████████████████████████████████████████████████ 172<br>2026-02 | █████████████████████ 62<br>2026-12 | █ 1
 
 ## Articles
 
 ### 2026
 
-#### March (171 articles)
+#### March (172 articles)
+- [New UN-backed atlas maps migratory lifelines of highly vulnerable bird species across the Americas](src/2026-03/20260326-new-un-backed-atlas-maps-migratory-lifelines-of-highly-vulnerable-bird-species-across-the-americas.md)
 - [Mieux que Google Maps : cette appli GPS gratuite vous guide partout sans connexion Internet](src/2026-03/20260328-mieux-que-google-maps-cette-appli-gps-gratuite-vous-guide-partout-sans-connexion-internet.md)
 - [Geographic Information Systems Market Set to Surge: A $44 Billion Opportunity by 2034](src/2026-03/20260327-geographic-information-systems-market-set-to-surge-a-44-billion-opportunity-by-2034.md)
 - [Latest release delivers Britain's most detailed digital map](src/2026-03/20260327-latest-release-delivers-britains-most-detailed-digital-map.md)
