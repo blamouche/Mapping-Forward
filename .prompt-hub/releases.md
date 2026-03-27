@@ -1,6 +1,9 @@
 # Releases
 
 
+## 0.1.56 - 2026-03-28
+- Process article: Cruisebound propose « Search by Map », la recherche de croisière par carte.
+
 ## 0.1.55 - 2026-03-28
 - Process article: Carbon Pulse 497662. (FETCH_ERROR: 403)
 
