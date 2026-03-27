@@ -1,6 +1,9 @@
 # Releases
 
 
+## 0.1.57 - 2026-03-28
+- Add batch recap: 2026-03-28 003630.
+
 ## 0.1.56 - 2026-03-28
 - Process article: Cruisebound propose « Search by Map », la recherche de croisière par carte.
 
