@@ -11,13 +11,14 @@ Technical watch for mapping and geographical intelligence
 
 Articles per month:
 
-2026-03 | ████████████████████████████████████████████████████████ 166<br>2026-02 | █████████████████████ 61<br>2026-12 | █ 1
+2026-03 | ████████████████████████████████████████████████████████ 167<br>2026-02 | █████████████████████ 61<br>2026-12 | █ 1
 
 ## Articles
 
 ### 2026
 
-#### March (166 articles)
+#### March (167 articles)
+- [Contextual Location Data, Unified Foundational Maps Paramount for Industry](src/2026-03/20260327-contextual-location-data-unified-foundational-maps-paramount-for-industry.md)
 - [Google Maps gets Gemini AI upgrade with 'Ask Maps' conversational feature](src/2026-03/20260326-google-maps-gets-gemini-ai-upgrade-with-ask-maps-conversational-feature.md)
 - [Google Maps Down for Thousands, Downdetector Reports](src/2026-03/20260326-google-maps-down-for-thousands-downdetector-reports.md)
 - [Google Maps : les applis GPS se réinventent avec l'IA](src/2026-03/20260326-google-maps-les-applis-gps-se-reinventent-avec-l-ia.md)

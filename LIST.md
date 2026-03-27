@@ -1,4 +1,3 @@
-https://geospatialworld.net/videos/contextual-location-data-foundational-maps-overture/
 https://www.newswise.com/articles/smarter-maps-reveal-four-decades-of-change
 https://www.ordnancesurvey.co.uk/news/latest-data-release-delivers-britains-most-detailed-digital-map
 https://www.ad-hoc-news.de/boerse/news/ueberblick/tomtom-go-navigation-la-app-de-navegacion-que-redefine-la-movilidad-en/68992402

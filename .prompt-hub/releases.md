@@ -1,6 +1,9 @@
 # Releases
 
 
+## 0.1.42 - 2026-03-27
+- Process article: Contextual Location Data, Unified Foundational Maps Paramount for Industry.
+
 ## 0.1.41 - 2026-03-27
 - Process article: Google Maps gets Gemini AI upgrade with 'Ask Maps' conversational feature.
 
