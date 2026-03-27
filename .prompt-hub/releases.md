@@ -1,6 +1,9 @@
 # Releases
 
 
+## 0.1.31 - 2026-03-27
+- Log scan-list run (LIST.md empty) and task completion metadata.
+
 ## 0.1.30 - 2026-03-27
 - Log veille mapping run blocked by expired Gmail auth.
 
