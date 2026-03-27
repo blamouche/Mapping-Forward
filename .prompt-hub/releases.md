@@ -1,6 +1,9 @@
 # Releases
 
 
+## 0.1.51 - 2026-03-28
+- Process article: Mieux que Google Maps : cette appli GPS gratuite vous guide partout sans connexion Internet.
+
 ## 0.1.50 - 2026-03-27
 - Finalize veille mapping run tracking (todo + memory log).
 
