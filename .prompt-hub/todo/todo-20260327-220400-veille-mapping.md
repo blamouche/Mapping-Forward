@@ -7,9 +7,14 @@
 - [x] Filter out non-mapping / local initiatives; dedupe and normalize URLs.
 - [x] Update LIST.md (one URL per line, no blanks, dedupe).
 - [x] Remove unrelated URLs already in LIST.md (non-cartography, local initiatives).
-- [ ] Commit/push LIST.md updates if any.
-- [ ] Trash processed Gmail messages.
-- [ ] Log actions in .prompt-hub/memory.md, update version/release, finalize todo review.
+- [x] Commit/push LIST.md updates if any.
+- [x] Trash processed Gmail messages.
+- [x] Log actions in .prompt-hub/memory.md, update version/release, finalize todo review.
+
+## Review
+- Added URLs: 6
+- Removed URLs: 0
+- Trashed Gmail messages: 2
 
 ## Check-in
 - User requested cron execution; proceeding per explicit instruction.
