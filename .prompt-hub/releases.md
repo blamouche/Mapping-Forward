@@ -1,6 +1,9 @@
 # Releases
 
 
+## 0.1.54 - 2026-03-28
+- Process article: USGS National Cooperative Geologic Mapping Program Announces 2026 EDMAP Funding Opportunity.
+
 ## 0.1.53 - 2026-03-28
 - Process article: New UN-backed atlas maps migratory lifelines of highly vulnerable bird species across the Americas.
 
