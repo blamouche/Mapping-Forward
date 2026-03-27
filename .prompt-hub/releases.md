@@ -1,6 +1,9 @@
 # Releases
 
 
+## 0.1.32 - 2026-03-27
+- Record scan-list empty-run tracking commit/push in prompt-hub memory log.
+
 ## 0.1.31 - 2026-03-27
 - Log scan-list run (LIST.md empty) and task completion metadata.
 
