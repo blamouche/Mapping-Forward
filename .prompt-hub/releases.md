@@ -1,6 +1,9 @@
 # Releases
 
 
+## 0.1.37 - 2026-03-27
+- Log veille mapping run (no Gmail messages; remove 1 local URL from LIST.md).
+
 ## 0.1.36 - 2026-03-27
 - Create veille-mapping todo for daily run (20:06).
 
