@@ -1,5 +1,6 @@
 # Memory Log
 
+- 2026-03-27 20:06 CET | agent | Created veille-mapping todo for daily run (20:06). | Files: .prompt-hub/todo/todo-20260327-200600-veille-mapping.md | Status: success | Next: Commit prompt-hub state, then execute Gmail->LIST.md sequence.
 - 2026-03-27 07:01 CET | agent | Created veille-mapping todo and initialized version/release update for daily run. | Files: .prompt-hub/todo/todo-20260327-070100-veille-mapping.md, .prompt-hub/version.md, .prompt-hub/releases.md | Status: success | Next: Commit prompt-hub state, then execute Gmail->LIST.md sequence.
 - 2026-03-27 07:02 CET | agent | Gmail extraction blocked: gog auth invalid_grant (token expired/revoked). Veille run halted before URL processing or email trashing. | Files: .prompt-hub/todo/todo-20260327-070100-veille-mapping.md | Status: failed | Next: Re-auth gog Gmail and rerun daily sequence.
 

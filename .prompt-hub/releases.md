@@ -1,6 +1,9 @@
 # Releases
 
 
+## 0.1.36 - 2026-03-27
+- Create veille-mapping todo for daily run (20:06).
+
 ## 0.1.35 - 2026-03-27
 - Log Gmail trashing + finalize veille mapping task tracking.
 
