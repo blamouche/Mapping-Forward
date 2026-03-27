@@ -16,15 +16,15 @@ Exécuter la veille quotidienne: extraire les URLs des emails Gmail label 0---ve
 User request received via cron trigger; proceed with execution.
 
 ## Progress
-- [ ] Repo clean/sync
-- [ ] Gmail search + URL extraction
-- [ ] Filtering (mapping relevance)
-- [ ] Update LIST.md (dedupe + removals)
-- [ ] Commit/push changes
-- [ ] Trash processed emails
-- [ ] Log memory + version/release updates, commit/push
+- [x] Repo clean/sync
+- [x] Gmail search + URL extraction
+- [x] Filtering (mapping relevance)
+- [x] Update LIST.md (dedupe + removals)
+- [x] Commit/push changes
+- [x] Trash processed emails
+- [x] Log memory + version/release updates, commit/push
 
 ## Review
 - [ ] Summary provided to user
-- [ ] URLs added/removed counted
-- [ ] Emails trashed confirmed
+- [x] URLs added/removed counted
+- [x] Emails trashed confirmed

@@ -1,6 +1,9 @@
 # Releases
 
 
+## 0.1.35 - 2026-03-27
+- Log Gmail trashing + finalize veille mapping task tracking.
+
 ## 0.1.34 - 2026-03-27
 - Add 10 mapping-related URLs from Gmail veille to LIST.md (deduped/filtered).
 

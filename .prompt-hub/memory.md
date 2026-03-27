@@ -140,3 +140,4 @@
 - 2026-03-27 16:08 CET | agent | Committed and pushed scan-list empty-run tracking updates. | Files: .prompt-hub/* | Status: success | Next: none.
 - 2026-03-27 19:00 CET | agent | Created veille mapping todo with plan/check-in for daily run. | Files: .prompt-hub/todo/todo-20260327-190000-veille-mapping.md | Status: success | Next: Commit prompt-hub tracking updates.
 - 2026-03-27 19:05 CET | agent | Extracted URLs from Gmail label 0---veille-mapping, filtered non-mapping/local items, added 10 URLs to LIST.md (deduped). | Files: LIST.md | Status: success | Next: Commit/push and trash processed emails.
+- 2026-03-27 19:10 CET | agent | Trashed 5 processed Gmail veille messages. | Files: none | Status: success | Next: Update prompt-hub tracking and finalize task.
