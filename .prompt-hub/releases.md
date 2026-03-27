@@ -1,6 +1,9 @@
 # Releases
 
 
+## 0.1.29 - 2026-03-27
+- Add veille mapping todo for daily Gmail -> LIST.md run.
+
 ## 0.1.28 - 2026-03-26
 - Finalize scan-list todo and memory log after recap push.
 

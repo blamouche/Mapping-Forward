@@ -1,5 +1,7 @@
 # Memory Log
 
+- 2026-03-27 07:01 CET | agent | Created veille-mapping todo and initialized version/release update for daily run. | Files: .prompt-hub/todo/todo-20260327-070100-veille-mapping.md, .prompt-hub/version.md, .prompt-hub/releases.md | Status: success | Next: Commit prompt-hub state, then execute Gmail->LIST.md sequence.
+
 - 2026-03-26 16:06 CET | agent | Created scan-list todo with plan/checklist per prompt-hub rules. | Files: .prompt-hub/todo/todo-20260326-160600-scan-list.md | Status: success | Next: Sync repo (git pull --rebase) then process LIST.md.
 - 2026-03-26 16:08 CET | agent | Synced repo prep: stashed prompt-hub changes, ran git pull --rebase, then restored stash. | Files: .prompt-hub/memory.md, .prompt-hub/todo/todo-20260326-160600-scan-list.md | Status: success | Next: Process LIST.md URLs.
 - 2026-03-26 16:10 CET | agent | Processed CNET Apple Maps ads article: created synthesis, updated README stats, removed URL from LIST.md. | Files: src/2026-03/20260326-apple-confirms-its-bringing-ads-to-maps-as-part-of-new-apple-business-platform.md, README.md, LIST.md | Status: success | Next: Commit and push per-article.
