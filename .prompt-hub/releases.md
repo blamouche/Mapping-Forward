@@ -1,6 +1,9 @@
 # Releases
 
 
+## 0.1.38 - 2026-03-27
+- Process article: Waze, Google Maps: comment l'IA va révolutionner vos trajets (et votre façon de conduire).
+
 ## 0.1.37 - 2026-03-27
 - Log veille mapping run (no Gmail messages; remove 1 local URL from LIST.md).
 
