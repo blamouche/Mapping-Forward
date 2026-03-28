@@ -1,5 +1,8 @@
 # Releases
 
+## 0.1.68 - 2026-03-28
+- Log scan-list empty run and finalize task tracking.
+
 ## 0.1.67 - 2026-03-28
 - Update prompt-hub todos for substack recap and scan-list run.
 

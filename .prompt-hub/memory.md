@@ -1,6 +1,9 @@
 # Memory Log
 
 - 2026-03-28 06:13 CET | agent | Created scan-list todo for autonomous run per user instruction. | Files: .prompt-hub/todo/todo-20260328-061300-scan-list.md | Status: success | Next: Sync repo (git pull --rebase) then process LIST.md.
+- 2026-03-28 06:14 CET | agent | Synced repo with stash/pull --rebase and restored local changes. | Files: .prompt-hub/memory.md, .prompt-hub/todo/todo-20260328-050200-substack-post-recents.md, .prompt-hub/todo/todo-20260328-061200-veille-mapping.md, .prompt-hub/todo/todo-20260328-061300-scan-list.md | Status: success | Next: Commit prompt-hub tracking updates.
+- 2026-03-28 06:15 CET | agent | Committed prompt-hub tracking updates (todos + version/release). | Files: .prompt-hub/memory.md, .prompt-hub/todo/todo-20260328-050200-substack-post-recents.md, .prompt-hub/todo/todo-20260328-061200-veille-mapping.md, .prompt-hub/todo/todo-20260328-061300-scan-list.md, .prompt-hub/version.md, .prompt-hub/releases.md | Status: success | Next: Process LIST.md URLs per scan-list.
+- 2026-03-28 06:16 CET | agent | LIST.md was empty; scan-list processing skipped and todo finalized. | Files: LIST.md, .prompt-hub/todo/todo-20260328-061300-scan-list.md | Status: success | Next: Commit prompt-hub tracking updates and push.
 
 - 2026-03-28 00:01 CET | agent | Created scan-list todo with plan/check-in for autonomous run. | Files: .prompt-hub/todo/todo-20260328-000100-scan-list.md | Status: success | Next: Sync repo then process LIST.md URLs.
 - 2026-03-28 00:19 CET | agent | Processed article: Mieux que Google Maps : cette appli GPS gratuite vous guide partout sans connexion Internet. | Files: src/2026-03/20260328-mieux-que-google-maps-cette-appli-gps-gratuite-vous-guide-partout-sans-connexion-internet.md, README.md, LIST.md, .prompt-hub/version.md, .prompt-hub/releases.md | Status: success | Next: Commit per-article and continue scan-list.
