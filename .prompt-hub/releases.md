@@ -1,5 +1,8 @@
 # Releases
 
+## 0.1.98 - 2026-03-29
+- Finalize scan-list todo review and tracking updates.
+
 ## 0.1.97 - 2026-03-29
 - Add batch recap: 2026-03-29 000206.
 
