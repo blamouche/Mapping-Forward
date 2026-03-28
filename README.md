@@ -11,13 +11,14 @@ Technical watch for mapping and geographical intelligence
 
 Articles per month:
 
-2026-03 | ██████████████████████████████████████████████████████████ 176<br>2026-02 | █████████████████████ 62<br>2026-12 | █ 1
+2026-03 | ██████████████████████████████████████████████████████████ 177<br>2026-02 | █████████████████████ 62<br>2026-12 | █ 1
 
 ## Articles
 
 ### 2026
 
-#### March (176 articles)
+#### March (177 articles)
+- [HydroGNSS generates first Delay Doppler Maps](src/2026-03/20260329-hydrognss-generates-first-delay-doppler-maps.md)
 - [La fin de la fonctionnalité préférée d'Apple Maps : des changements indésirables sont à venir](src/2026-03/20260329-la-fin-de-la-fonctionnalite-preferee-d-apple-maps-des-changements-indesirables-sont-a-venir.md)
 - [Donner du sens aux observations océaniques](src/2026-03/20260327-donner-du-sens-aux-observations-oceaniques.md)
 - [Cruisebound propose « Search by Map », la recherche de croisière par carte](src/2026-03/20260327-cruisebound-propose-search-by-map-la-recherche-de-croisiere-par-carte.md)
