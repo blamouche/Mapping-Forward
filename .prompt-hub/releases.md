@@ -1,5 +1,8 @@
 # Releases
 
+## 0.1.72 - 2026-03-28
+- Record scan-list empty-run completion and push tracking updates.
+
 ## 0.1.71 - 2026-03-28
 - Log scan-list empty run (LIST.md empty) and initialize task tracking.
 
