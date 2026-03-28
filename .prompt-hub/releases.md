@@ -1,5 +1,8 @@
 # Releases
 
+## 0.1.95 - 2026-03-29
+- Process article: Uber–TomTom renew partnership. (FETCH_ERROR: no readable content)
+
 ## 0.1.94 - 2026-03-29
 - Process article: La fin de la fonctionnalité préférée d'Apple Maps : des changements indésirables sont à venir.
 
