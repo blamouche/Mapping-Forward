@@ -170,3 +170,4 @@
 - 2026-03-27 22:04 CET | agent | Daily veille mapping run: extracted mapping-related URLs from Gmail label 0---veille-mapping, added 6 URLs to LIST.md (deduped/filtered), trashed 2 messages, committed and pushed updates. | Files: LIST.md, .prompt-hub/version.md, .prompt-hub/releases.md, .prompt-hub/todo/todo-20260327-220400-veille-mapping.md | Status: success | Next: none
 
 - 2026-03-28 00:30 CET | agent | Veille mapping run: Gmail label empty; LIST.md unchanged; no emails trashed. | Files: .prompt-hub/todo/todo-20260328-003000-veille-mapping.md | Status: success | Next: Update prompt-hub version/release and commit.
+- 2026-03-28 02:04 CET | agent | Created veille-mapping todo with plan/check-in for scheduled run. | Files: .prompt-hub/todo/todo-20260328-020400-veille-mapping.md | Status: success | Next: Sync repo then execute Gmail -> LIST.md sequence.
