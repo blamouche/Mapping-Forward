@@ -1,5 +1,8 @@
 # Releases
 
+## 0.1.90 - 2026-03-28
+- Add veille-mapping todo and log scheduled run setup.
+
 ## 0.1.89 - 2026-03-28
 - Log scan-list empty-run commit and push in prompt-hub memory.
 
