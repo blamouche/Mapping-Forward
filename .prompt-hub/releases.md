@@ -1,5 +1,8 @@
 # Releases
 
+## 0.1.92 - 2026-03-28
+- Finalize veille-mapping todo review and tracking updates.
+
 ## 0.1.91 - 2026-03-28
 - Add mapping-related URLs from Gmail veille (deduped/filtered) and trash processed emails.
 
