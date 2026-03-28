@@ -1,5 +1,8 @@
 # Releases
 
+## 0.1.81 - 2026-03-28
+- Log prompt-hub tracking push in memory.
+
 ## 0.1.80 - 2026-03-28
 - Log scan-list tracking commit/push in prompt-hub memory.
 
