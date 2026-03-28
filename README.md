@@ -11,13 +11,14 @@ Technical watch for mapping and geographical intelligence
 
 Articles per month:
 
-2026-03 | ██████████████████████████████████████████████████████████ 174<br>2026-02 | █████████████████████ 62<br>2026-12 | █ 1
+2026-03 | ██████████████████████████████████████████████████████████ 175<br>2026-02 | █████████████████████ 62<br>2026-12 | █ 1
 
 ## Articles
 
 ### 2026
 
-#### March (174 articles)
+#### March (175 articles)
+- [Donner du sens aux observations océaniques](src/2026-03/20260327-donner-du-sens-aux-observations-oceaniques.md)
 - [Cruisebound propose « Search by Map », la recherche de croisière par carte](src/2026-03/20260327-cruisebound-propose-search-by-map-la-recherche-de-croisiere-par-carte.md)
 - [USGS National Cooperative Geologic Mapping Program Announces 2026 EDMAP Funding Opportunity](src/2026-03/20260327-usgs-national-cooperative-geologic-mapping-program-announces-2026-edmap-funding-opportunity.md)
 - [New UN-backed atlas maps migratory lifelines of highly vulnerable bird species across the Americas](src/2026-03/20260326-new-un-backed-atlas-maps-migratory-lifelines-of-highly-vulnerable-bird-species-across-the-americas.md)

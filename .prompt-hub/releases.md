@@ -1,5 +1,8 @@
 # Releases
 
+## 0.1.93 - 2026-03-29
+- Process article: Donner du sens aux observations océaniques.
+
 ## 0.1.92 - 2026-03-28
 - Finalize veille-mapping todo review and tracking updates.
 
