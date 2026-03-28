@@ -1,5 +1,8 @@
 # Releases
 
+## 0.1.85 - 2026-03-28
+- Log veille mapping empty run (Gmail label empty).
+
 ## 0.1.84 - 2026-03-28
 - Finalize scan-list todo review after empty run.
 
