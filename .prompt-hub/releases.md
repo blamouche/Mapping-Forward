@@ -1,5 +1,8 @@
 # Releases
 
+## 0.1.82 - 2026-03-28
+- Log veille mapping empty run and task tracking updates.
+
 ## 0.1.81 - 2026-03-28
 - Log prompt-hub tracking push in memory.
 
