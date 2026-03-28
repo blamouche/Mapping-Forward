@@ -7,6 +7,7 @@
 - 2026-03-29 00:08 CET | agent | Processed article: HydroGNSS generates first Delay Doppler Maps (synthesis + README stats + LIST.md update). | Files: src/2026-03/20260329-hydrognss-generates-first-delay-doppler-maps.md, README.md, LIST.md, .prompt-hub/version.md, .prompt-hub/releases.md | Status: success | Next: Commit per-article and continue scan-list.
 - 2026-03-29 00:10 CET | agent | Created batch recap for scan-list run (3 syntheses, 1 error). | Files: synthesis/2026-03-29 - 000206 - batch recap.md, .prompt-hub/version.md, .prompt-hub/releases.md | Status: success | Next: Commit recap and push.
 - 2026-03-29 00:11 CET | agent | Updated scan-list todo review and outcomes. | Files: .prompt-hub/todo/todo-20260329-000149-scan-list.md | Status: success | Next: Commit tracking updates and push.
+- 2026-03-29 00:12 CET | agent | Pushed scan-list outputs and updated todo completion. | Files: .prompt-hub/todo/todo-20260329-000149-scan-list.md | Status: success | Next: Commit tracking updates.
 
 - 2026-03-28 20:04 CET | agent | Created veille-mapping todo with plan/check-in for scheduled run. | Files: .prompt-hub/todo/todo-20260328-200400-veille-mapping.md | Status: success | Next: Sync repo, scan Gmail label, update LIST.md, trash emails.
 - 2026-03-28 20:05 CET | agent | Veille mapping run: Gmail label empty; LIST.md empty; no URLs added/removed; no emails trashed. | Files: LIST.md, .prompt-hub/todo/todo-20260328-200400-veille-mapping.md | Status: success | Next: Update prompt-hub version/releases and commit tracking updates.

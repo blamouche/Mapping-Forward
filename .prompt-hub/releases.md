@@ -1,5 +1,8 @@
 # Releases
 
+## 0.1.99 - 2026-03-29
+- Mark scan-list todo complete after push.
+
 ## 0.1.98 - 2026-03-29
 - Finalize scan-list todo review and tracking updates.
 
