@@ -1,5 +1,8 @@
 # Releases
 
+## 0.1.73 - 2026-03-28
+- Log veille mapping run (no Gmail messages; LIST.md empty).
+
 ## 0.1.72 - 2026-03-28
 - Record scan-list empty-run completion and push tracking updates.
 
