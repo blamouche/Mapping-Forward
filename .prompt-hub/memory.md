@@ -203,3 +203,7 @@
 - 2026-03-28 10:04 CET | agent | Veille mapping run: Gmail label empty; LIST.md empty; no emails trashed. | Files: LIST.md, .prompt-hub/todo/todo-20260328-100400-veille-mapping.md | Status: success | Next: Update version/release and commit tracking updates.
 
 - 2026-03-28 10:04 CET | agent | Committed and pushed veille mapping empty-run tracking updates. | Files: .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md, .prompt-hub/todo/todo-20260328-100400-veille-mapping.md | Status: success | Next: none.
+- 2026-03-28 15:01 CET | agent | Created scan-list todo with plan/check-in note for scheduled run. | Files: .prompt-hub/todo/todo-20260328-150100-scan-list.md | Status: success | Next: Sync repo and process LIST.md URLs.
+- 2026-03-28 15:01 CET | agent | Synced repo (git pull --rebase). | Files: none | Commands: git pull --rebase | Status: success | Next: Process LIST.md URLs.
+- 2026-03-28 15:02 CET | agent | LIST.md empty; scan-list processing skipped. | Files: LIST.md, .prompt-hub/todo/todo-20260328-150100-scan-list.md | Status: success | Next: Update prompt-hub tracking and commit.
+- 2026-03-28 15:02 CET | agent | Updated prompt-hub version/releases for scan-list empty run. | Files: .prompt-hub/version.md, .prompt-hub/releases.md | Status: success | Next: Commit and push tracking updates.
