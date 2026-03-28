@@ -1,5 +1,8 @@
 # Releases
 
+## 0.1.94 - 2026-03-29
+- Process article: La fin de la fonctionnalité préférée d'Apple Maps : des changements indésirables sont à venir.
+
 ## 0.1.93 - 2026-03-29
 - Process article: Donner du sens aux observations océaniques.
 
