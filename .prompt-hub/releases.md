@@ -1,5 +1,8 @@
 # Releases
 
+## 0.1.65 - 2026-03-28
+- Add Substack recents post and update latest.md.
+
 ## 0.1.64 - 2026-03-28
 - Log veille mapping run (no Gmail messages; LIST.md unchanged).
 

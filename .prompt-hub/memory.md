@@ -176,3 +176,5 @@
 - 2026-03-28 03:02 CET | agent | LIST.md empty; scan-list processing skipped and todo noted. | Files: LIST.md, .prompt-hub/todo/todo-20260328-030100-scan-list.md | Status: success | Next: Update prompt-hub tracking and commit.
 - 2026-03-28 04:04 CET | agent | Created veille-mapping todo with plan/checklist for scheduled run. | Files: .prompt-hub/todo/todo-20260328-040400-veille-mapping.md, .prompt-hub/version.md, .prompt-hub/releases.md | Status: success | Next: Commit prompt-hub tracking updates, then execute Gmail -> LIST.md sequence.
 - 2026-03-28 04:06 CET | agent | Veille mapping run: Gmail label empty; LIST.md already empty; no emails trashed. | Files: .prompt-hub/todo/todo-20260328-040400-veille-mapping.md | Status: success | Next: Update prompt-hub version/release and commit tracking updates.
+
+- 2026-03-28 05:02 CET | agent | Drafted substack-post-recents article and updated latest.md. | Files: substack/20260328-post-the-new-map-stack-from-civic-data-to-commercial-intent.md, substack/latest.md, .prompt-hub/todo/todo-20260328-050200-substack-post-recents.md | Status: success | Next: Update prompt-hub version/releases, commit and push.
