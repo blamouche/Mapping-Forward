@@ -1,5 +1,8 @@
 # Releases
 
+## 0.1.77 - 2026-03-28
+- Add veille mapping todo for scheduled run.
+
 ## 0.1.76 - 2026-03-28
 - Log veille mapping run (no Gmail messages; LIST.md empty).
 
