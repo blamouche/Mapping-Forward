@@ -14,8 +14,11 @@ Timestamp: 2026-03-28 08:04 CET
 Proceeding per explicit cron instruction.
 
 ## Progress
-- [ ] Not started
+- [x] Synced repo (clean state confirmed, pull --rebase).
+- [x] Queried Gmail label 0---veille-mapping (no messages returned).
+- [x] LIST.md checked (empty; no filtering needed).
+- [x] No emails to trash.
 
 ## Review
-- [ ] Summary added
-- [ ] Memory log updated
+- [x] Summary added
+- [x] Memory log updated
