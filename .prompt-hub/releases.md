@@ -1,5 +1,8 @@
 # Releases
 
+## 0.1.66 - 2026-03-28
+- Log substack recents commit/push in prompt-hub memory.
+
 ## 0.1.65 - 2026-03-28
 - Add Substack recents post and update latest.md.
 
