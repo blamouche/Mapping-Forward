@@ -1,5 +1,8 @@
 # Releases
 
+## 0.1.76 - 2026-03-28
+- Log veille mapping run (no Gmail messages; LIST.md empty).
+
 ## 0.1.75 - 2026-03-28
 - Add prompt-hub todo tracking for daily veille mapping and scan-list run.
 
