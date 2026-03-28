@@ -1,5 +1,8 @@
 # Releases
 
+## 0.1.67 - 2026-03-28
+- Update prompt-hub todos for substack recap and scan-list run.
+
 ## 0.1.66 - 2026-03-28
 - Log substack recents commit/push in prompt-hub memory.
 

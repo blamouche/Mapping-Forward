@@ -17,7 +17,7 @@ Plan auto-approved per scheduled task request (no confirmation needed).
 - [x] Draft Substack post
 - [x] Save files + latest.md
 - [x] Update prompt-hub tracking
-- [ ] Commit and push
+- [x] Commit and push
 
 ## Review
-- [ ] Summary ready for user
+- [x] Summary ready for user

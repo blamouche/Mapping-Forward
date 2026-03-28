@@ -1,5 +1,7 @@
 # Memory Log
 
+- 2026-03-28 06:13 CET | agent | Created scan-list todo for autonomous run per user instruction. | Files: .prompt-hub/todo/todo-20260328-061300-scan-list.md | Status: success | Next: Sync repo (git pull --rebase) then process LIST.md.
+
 - 2026-03-28 00:01 CET | agent | Created scan-list todo with plan/check-in for autonomous run. | Files: .prompt-hub/todo/todo-20260328-000100-scan-list.md | Status: success | Next: Sync repo then process LIST.md URLs.
 - 2026-03-28 00:19 CET | agent | Processed article: Mieux que Google Maps : cette appli GPS gratuite vous guide partout sans connexion Internet. | Files: src/2026-03/20260328-mieux-que-google-maps-cette-appli-gps-gratuite-vous-guide-partout-sans-connexion-internet.md, README.md, LIST.md, .prompt-hub/version.md, .prompt-hub/releases.md | Status: success | Next: Commit per-article and continue scan-list.
 - 2026-03-28 00:22 CET | agent | WebFetch failed for phys.org (403). Removed URL from LIST.md and logged FETCH_ERROR for recap. | Files: LIST.md, .prompt-hub/version.md, .prompt-hub/releases.md | Status: partial | Next: Commit error removal and continue scan-list.
@@ -180,3 +182,4 @@
 - 2026-03-28 05:02 CET | agent | Drafted substack-post-recents article and updated latest.md. | Files: substack/20260328-post-the-new-map-stack-from-civic-data-to-commercial-intent.md, substack/latest.md, .prompt-hub/todo/todo-20260328-050200-substack-post-recents.md | Status: success | Next: Update prompt-hub version/releases, commit and push.
 
 - 2026-03-28 05:03 CET | agent | Committed and pushed substack recents post and prompt-hub updates. | Files: substack/20260328-post-the-new-map-stack-from-civic-data-to-commercial-intent.md, substack/latest.md, .prompt-hub/todo/todo-20260328-050200-substack-post-recents.md, .prompt-hub/version.md, .prompt-hub/releases.md, .prompt-hub/memory.md | Status: success | Next: Send confirmation summary.
+- 2026-03-28 06:12 CET | agent | Created veille-mapping todo with plan/check-in for daily run. | Files: .prompt-hub/todo/todo-20260328-061200-veille-mapping.md | Status: success | Next: Await plan confirmation before executing Gmail->LIST.md sequence.
