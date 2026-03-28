@@ -1,5 +1,8 @@
 # Releases
 
+## 0.1.75 - 2026-03-28
+- Add prompt-hub todo tracking for daily veille mapping and scan-list run.
+
 ## 0.1.74 - 2026-03-28
 - Record veille mapping empty-run tracking commit.
 

@@ -1,5 +1,8 @@
 # Memory Log
 
+- 2026-03-28 12:04 CET | agent | Created veille-mapping todo with plan for daily Gmail->LIST.md run. | Files: .prompt-hub/todo/todo-20260328-120400-veille-mapping.md | Status: success | Next: Commit prompt-hub tracking updates before executing run.
+- 2026-03-28 12:01 CET | agent | Created scan-list todo with plan/checklist for scheduled run. | Files: .prompt-hub/todo/todo-20260328-120139-scan-list.md | Status: success | Next: Sync repo then process LIST.md.
+
 - 2026-03-28 06:13 CET | agent | Created scan-list todo for autonomous run per user instruction. | Files: .prompt-hub/todo/todo-20260328-061300-scan-list.md | Status: success | Next: Sync repo (git pull --rebase) then process LIST.md.
 - 2026-03-28 06:14 CET | agent | Synced repo with stash/pull --rebase and restored local changes. | Files: .prompt-hub/memory.md, .prompt-hub/todo/todo-20260328-050200-substack-post-recents.md, .prompt-hub/todo/todo-20260328-061200-veille-mapping.md, .prompt-hub/todo/todo-20260328-061300-scan-list.md | Status: success | Next: Commit prompt-hub tracking updates.
 - 2026-03-28 06:15 CET | agent | Committed prompt-hub tracking updates (todos + version/release). | Files: .prompt-hub/memory.md, .prompt-hub/todo/todo-20260328-050200-substack-post-recents.md, .prompt-hub/todo/todo-20260328-061200-veille-mapping.md, .prompt-hub/todo/todo-20260328-061300-scan-list.md, .prompt-hub/version.md, .prompt-hub/releases.md | Status: success | Next: Process LIST.md URLs per scan-list.
