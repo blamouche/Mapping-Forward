@@ -1,5 +1,8 @@
 # Releases
 
+## 0.1.69 - 2026-03-28
+- Create veille-mapping todo and log plan/check-in for daily run.
+
 ## 0.1.68 - 2026-03-28
 - Log scan-list empty run and finalize task tracking.
 
