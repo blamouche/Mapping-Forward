@@ -1,5 +1,8 @@
 # Releases
 
+## 0.1.97 - 2026-03-29
+- Add batch recap: 2026-03-29 000206.
+
 ## 0.1.96 - 2026-03-29
 - Process article: HydroGNSS generates first Delay Doppler Maps.
 
