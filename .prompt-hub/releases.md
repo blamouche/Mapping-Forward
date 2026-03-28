@@ -1,5 +1,8 @@
 # Releases
 
+## 0.1.84 - 2026-03-28
+- Finalize scan-list todo review after empty run.
+
 ## 0.1.83 - 2026-03-28
 - Log scan-list empty run (LIST.md empty) and task tracking updates.
 
