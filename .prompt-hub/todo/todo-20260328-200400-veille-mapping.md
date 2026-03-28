@@ -10,8 +10,9 @@
 
 ## Status
 - Mode: plan/check-in recorded for scheduled run.
+- Gmail label empty; no URLs extracted; LIST.md already empty.
 
 ## Review
-- [ ] URLs added/removed counted and reported.
-- [ ] Gmail messages trashed.
-- [ ] Prompt-hub logs updated.
+- [x] URLs added/removed counted and reported (0 added, 0 removed).
+- [x] Gmail messages trashed (0).
+- [x] Prompt-hub logs updated.

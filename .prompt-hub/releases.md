@@ -1,5 +1,8 @@
 # Releases
 
+## 0.1.87 - 2026-03-28
+- Log veille mapping empty run (Gmail label empty; LIST.md empty).
+
 ## 0.1.86 - 2026-03-28
 - Add veille-mapping todo and log plan/check-in for scheduled run.
 
