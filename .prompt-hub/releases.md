@@ -1,5 +1,8 @@
 # Releases
 
+## 0.1.74 - 2026-03-28
+- Record veille mapping empty-run tracking commit.
+
 ## 0.1.73 - 2026-03-28
 - Log veille mapping run (no Gmail messages; LIST.md empty).
 
