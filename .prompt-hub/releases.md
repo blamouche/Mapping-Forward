@@ -1,5 +1,8 @@
 # Releases
 
+## 0.1.113 - 2026-03-29
+- Add veille-mapping todo for scheduled run.
+
 ## 0.1.112 - 2026-03-29
 - Log scan-list empty run (LIST.md empty) and task tracking updates.
 
