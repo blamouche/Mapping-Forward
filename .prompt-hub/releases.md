@@ -1,5 +1,8 @@
 # Releases
 
+## 0.1.107 - 2026-03-29
+- Log scan-list empty run (LIST.md empty) and task tracking updates.
+
 ## 0.1.106 - 2026-03-29
 - Finalize veille mapping todo checklist after empty run.
 
