@@ -1,5 +1,8 @@
 # Releases
 
+## 0.1.120 - 2026-03-29
+- Add veille-mapping todo for scheduled run.
+
 ## 0.1.119 - 2026-03-29
 - Log veille mapping run completion (commit/push, trash, todo review).
 
