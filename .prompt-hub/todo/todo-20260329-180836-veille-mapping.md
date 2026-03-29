@@ -16,17 +16,17 @@ Run daily Gmail veille mapping sequence: extract URLs, update LIST.md (dedupe/fi
 Proceeding now per scheduled cron instruction.
 
 ## Checklist
-- [ ] Repo clean or synced with commit/push
-- [ ] Gmail label scanned and URLs extracted
-- [ ] LIST.md updated (add/dedupe/remove non-mapping)
-- [ ] Commit/push completed (if changes)
-- [ ] Gmail messages trashed
-- [ ] Prompt-hub tracking updated (memory/version/releases)
-- [ ] Todo review completed
+- [x] Repo clean or synced with commit/push
+- [x] Gmail label scanned and URLs extracted
+- [x] LIST.md updated (add/dedupe/remove non-mapping)
+- [x] Commit/push completed (if changes)
+- [x] Gmail messages trashed
+- [x] Prompt-hub tracking updated (memory/version/releases)
+- [x] Todo review completed
 
 ## Review
-- Outcome: 
-- URLs added: 
-- URLs removed: 
-- Emails trashed: 
-- Notes: 
+- Outcome: Gmail label empty; LIST.md unchanged.
+- URLs added: 0
+- URLs removed: 0
+- Emails trashed: 0
+- Notes: LIST.md retained existing mapping URL.
