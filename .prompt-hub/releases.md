@@ -1,5 +1,8 @@
 # Releases
 
+## 0.1.102 - 2026-03-29
+- Log scan-list empty-run push in prompt-hub memory.
+
 ## 0.1.101 - 2026-03-29
 - Log scan-list empty run (LIST.md empty) and finalize todo tracking.
 
