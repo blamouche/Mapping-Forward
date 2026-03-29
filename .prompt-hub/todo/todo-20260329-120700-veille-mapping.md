@@ -6,9 +6,9 @@
 - [x] Extract URLs and filter non-mapping/local items
 - [x] Update LIST.md (normalize, dedupe)
 - [x] Remove non-mapping URLs already in LIST.md
-- [ ] Commit and push changes
-- [ ] Trash processed emails
-- [ ] Update prompt-hub memory/version/releases
+- [x] Commit and push changes
+- [x] Trash processed emails
+- [x] Update prompt-hub memory/version/releases
 
 ## Plan
 1. Ensure repo clean; if dirty, commit/push all changes to reset to clean state.
@@ -22,7 +22,7 @@
 9. Log actions in .prompt-hub/memory.md and bump version/releases.
 
 ## Review
-- [ ] Summary of actions
-- [ ] URLs added/removed count
-- [ ] Emails trashed count
-- [ ] Follow-ups
+- [x] Summary of actions: 1 mapping URL added to LIST.md; 1 local item filtered out; Gmail message trashed.
+- [x] URLs added/removed count: +1 / -0 (filtered 1 before add)
+- [x] Emails trashed count: 1
+- [x] Follow-ups: none

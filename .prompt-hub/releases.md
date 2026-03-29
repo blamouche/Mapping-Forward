@@ -1,5 +1,8 @@
 # Releases
 
+## 0.1.119 - 2026-03-29
+- Log veille mapping run completion (commit/push, trash, todo review).
+
 ## 0.1.118 - 2026-03-29
 - Add mapping URL from Gmail veille (1 kept, 1 filtered).
 
