@@ -1,3 +1,6 @@
+## 0.1.122 - 2026-03-29
+- Add pending todo tracking files (scan-list + veille-mapping).
+
 # Releases
 
 ## 0.1.121 - 2026-03-29
