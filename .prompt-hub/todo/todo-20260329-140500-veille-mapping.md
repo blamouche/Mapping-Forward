@@ -11,8 +11,11 @@
 User requested scheduled run via cron; proceeding.
 
 ## Progress
-- [ ] Not started
+- [x] Sync repo (clean state)
+- [x] Scan Gmail label (0 messages)
+- [x] LIST.md relevance check (no removals)
+- [x] Trashing emails (none)
 
 ## Review
-- [ ] Summary written
-- [ ] Memory log updated
+- [x] Summary written
+- [x] Memory log updated
