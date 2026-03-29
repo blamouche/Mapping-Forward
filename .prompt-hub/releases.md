@@ -1,5 +1,8 @@
 # Releases
 
+## 0.1.115 - 2026-03-29
+- Log scan-list empty run (LIST.md empty) and task tracking updates.
+
 ## 0.1.114 - 2026-03-29
 - Log veille mapping empty run (Gmail label empty; LIST.md empty).
 
