@@ -1,5 +1,8 @@
 # Releases
 
+## 0.1.104 - 2026-03-29
+- Log veille mapping empty run (Gmail label empty; LIST.md empty).
+
 ## 0.1.103 - 2026-03-29
 - Add veille-mapping todo for scheduled Gmail extraction run.
 
