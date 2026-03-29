@@ -1,5 +1,8 @@
 # Releases
 
+## 0.1.101 - 2026-03-29
+- Log scan-list empty run (LIST.md empty) and finalize todo tracking.
+
 ## 0.1.100 - 2026-03-29
 - Log veille mapping empty run (Gmail label empty; LIST.md empty).
 
