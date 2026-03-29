@@ -1,5 +1,8 @@
 # Releases
 
+## 0.1.111 - 2026-03-29
+- Log veille mapping empty-run commit/push in prompt-hub memory.
+
 ## 0.1.110 - 2026-03-29
 - Log veille mapping empty run (Gmail label empty; LIST.md empty).
 
