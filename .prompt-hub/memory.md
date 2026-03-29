@@ -1,5 +1,8 @@
 # Memory Log
 
+- 2026-03-29 04:04 CET | agent | Created veille-mapping todo with plan/check-in for scheduled run. | Files: .prompt-hub/todo/todo-20260329-040425-veille-mapping.md | Status: success | Next: Sync repo, scan Gmail label, update LIST.md, trash emails.
+- 2026-03-29 04:05 CET | agent | Veille mapping run: Gmail label empty; LIST.md empty; no URLs added/removed; no emails trashed. | Files: LIST.md, .prompt-hub/todo/todo-20260329-040425-veille-mapping.md | Status: success | Next: Update prompt-hub version/releases and commit tracking updates.
+
 - 2026-03-29 00:01 CET | agent | Created scan-list todo with plan/check-in for scheduled run. | Files: .prompt-hub/todo/todo-20260329-000149-scan-list.md | Status: success | Next: Sync repo then process LIST.md URLs.
 - 2026-03-29 00:04 CET | agent | Processed article: Donner du sens aux observations océaniques (synthesis + README stats + LIST.md update). | Files: src/2026-03/20260327-donner-du-sens-aux-observations-oceaniques.md, README.md, LIST.md, .prompt-hub/version.md, .prompt-hub/releases.md | Status: success | Next: Commit per-article and continue scan-list.
 - 2026-03-29 00:06 CET | agent | Processed article: La fin de la fonctionnalité préférée d'Apple Maps : des changements indésirables sont à venir (synthesis + README stats + LIST.md update). | Files: src/2026-03/20260329-la-fin-de-la-fonctionnalite-preferee-d-apple-maps-des-changements-indesirables-sont-a-venir.md, README.md, LIST.md, .prompt-hub/version.md, .prompt-hub/releases.md | Status: success | Next: Commit per-article and continue scan-list.
