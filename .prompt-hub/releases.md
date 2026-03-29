@@ -1,5 +1,8 @@
 # Releases
 
+## 0.1.103 - 2026-03-29
+- Add veille-mapping todo for scheduled Gmail extraction run.
+
 ## 0.1.102 - 2026-03-29
 - Log scan-list empty-run push in prompt-hub memory.
 
