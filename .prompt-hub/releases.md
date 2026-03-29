@@ -1,5 +1,8 @@
 # Releases
 
+## 0.1.106 - 2026-03-29
+- Finalize veille mapping todo checklist after empty run.
+
 ## 0.1.105 - 2026-03-29
 - Log veille mapping empty run (Gmail label empty; LIST.md empty).
 

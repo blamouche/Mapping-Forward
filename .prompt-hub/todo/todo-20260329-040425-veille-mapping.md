@@ -21,9 +21,9 @@ Scheduled cron run — proceeding with execution.
 - [x] LIST.md updated + deduped (no changes)
 - [x] Non-mapping/local URLs removed from LIST.md (none)
 - [x] Emails trashed (none)
-- [ ] Prompt-hub logs/version/releases updated
-- [ ] Commit/push updates
-- [ ] Summary sent
+- [x] Prompt-hub logs/version/releases updated
+- [x] Commit/push updates
+- [x] Summary sent
 
 ## Review
 - Result: Gmail label empty; LIST.md already empty.
