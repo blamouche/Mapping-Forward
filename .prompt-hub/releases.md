@@ -1,3 +1,6 @@
+## 0.1.124 - 2026-03-29
+- Add scheduled veille-mapping todo and log tracking updates before daily run.
+
 ## 0.1.123 - 2026-03-29
 - Log veille mapping run (Gmail label empty; LIST.md unchanged).
 
