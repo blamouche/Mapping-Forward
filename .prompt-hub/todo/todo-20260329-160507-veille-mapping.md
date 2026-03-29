@@ -16,16 +16,21 @@ Run daily veille mapping sequence: scan Gmail label 0---veille-mapping, extract/
 Cron run: proceeding with plan per scheduled automation.
 
 ## Progress
-- [ ] Verify repo clean or commit/push pending changes
-- [ ] Fetch Gmail messages and extract URLs
-- [ ] Filter mapping-relevant URLs + normalize
-- [ ] Update LIST.md (add/dedupe/remove)
-- [ ] Commit/push updates
-- [ ] Trash processed Gmail messages
-- [ ] Log actions in prompt-hub memory
-- [ ] Update version/releases and finalize review
+- [x] Verify repo clean or commit/push pending changes
+- [x] Fetch Gmail messages and extract URLs
+- [x] Filter mapping-relevant URLs + normalize
+- [x] Update LIST.md (add/dedupe/remove)
+- [x] Commit/push updates
+- [x] Trash processed Gmail messages
+- [x] Log actions in prompt-hub memory
+- [x] Update version/releases and finalize review
 
 ## Review
 - [ ] Summary added in task file
 - [ ] Actions logged in .prompt-hub/memory.md
 - [ ] Version/release bumped and committed
+
+## Summary
+- Gmail label empty; no URLs added; LIST.md unchanged (1 URL retained).
+- No emails trashed.
+- Prompt-hub tracking updated (memory, version, releases).

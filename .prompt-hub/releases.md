@@ -1,3 +1,6 @@
+## 0.1.123 - 2026-03-29
+- Log veille mapping run (Gmail label empty; LIST.md unchanged).
+
 ## 0.1.122 - 2026-03-29
 - Add pending todo tracking files (scan-list + veille-mapping).
 
