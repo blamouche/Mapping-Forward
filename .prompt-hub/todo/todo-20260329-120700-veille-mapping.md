@@ -1,11 +1,11 @@
 # Todo - Veille mapping (daily)
 
-- [ ] Clarify scope and constraints from task
-- [ ] Check repo status and sync
-- [ ] Fetch Gmail label 0---veille-mapping
-- [ ] Extract URLs and filter non-mapping/local items
-- [ ] Update LIST.md (normalize, dedupe)
-- [ ] Remove non-mapping URLs already in LIST.md
+- [x] Clarify scope and constraints from task
+- [x] Check repo status and sync
+- [x] Fetch Gmail label 0---veille-mapping
+- [x] Extract URLs and filter non-mapping/local items
+- [x] Update LIST.md (normalize, dedupe)
+- [x] Remove non-mapping URLs already in LIST.md
 - [ ] Commit and push changes
 - [ ] Trash processed emails
 - [ ] Update prompt-hub memory/version/releases

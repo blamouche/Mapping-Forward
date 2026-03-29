@@ -1,5 +1,8 @@
 # Releases
 
+## 0.1.118 - 2026-03-29
+- Add mapping URL from Gmail veille (1 kept, 1 filtered).
+
 ## 0.1.117 - 2026-03-29
 - Add veille-mapping todo for scheduled run.
 
