@@ -1,5 +1,8 @@
 # Releases
 
+## 0.1.112 - 2026-03-29
+- Log scan-list empty run (LIST.md empty) and task tracking updates.
+
 ## 0.1.111 - 2026-03-29
 - Log veille mapping empty-run commit/push in prompt-hub memory.
 
