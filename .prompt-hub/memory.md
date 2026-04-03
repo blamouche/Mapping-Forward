@@ -276,3 +276,4 @@
 
 ---
 2026-04-03 10:06 CET | agent: veille-mapping cron | action: process Gmail label:0---veille-mapping | 17 emails processed | 42 URLs added to LIST.md (cartography/GIS/Google Maps/TomTom/Bing Maps focus) | emails trashed after processing | outcome: success
+- 2026-04-03 15:01 CET | agent | Created scan-list todo for scheduled run. LIST.md empty; scan-list processing skipped. | Files: .prompt-hub/todo/todo-20260403-150100-scan-list.md | Status: success | Next: Update prompt-hub version/releases and commit tracking updates.

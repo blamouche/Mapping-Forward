@@ -1,3 +1,6 @@
+## 0.1.130 - 2026-04-03
+- Scan-list empty run at 15:01 CET: LIST.md empty, no URLs processed.
+
 ## 0.1.129 - 2026-04-03
 - Log scan-list batch completion 2026-04-03: memory updated, todo marked complete.
 
