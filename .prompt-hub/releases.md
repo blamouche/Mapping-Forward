@@ -404,3 +404,6 @@
 
 ## 0.1.132 - 2026-04-03
 - scan-list run: processed 7 URLs (4 synthesized, 3 FETCH_ERROR: neowin 403, infoq.cn minimal, hdblog 429); updated README stats; created batch recap.
+
+## 0.1.133 - 2026-04-03
+- scan-list scheduled run (21h01 CET): LIST.md empty; no URLs processed.
