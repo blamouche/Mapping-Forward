@@ -271,3 +271,6 @@
 - 2026-03-29 18:01 CET | agent | Created scan-list todo with plan/check-in for scheduled run. | Files: .prompt-hub/todo/todo-20260329-180100-scan-list.md | Status: success | Next: Await plan confirmation before executing scan-list steps.
 - 2026-03-29 18:08 CET | agent | Created veille-mapping todo for scheduled run; prep to sync prompt-hub tracking and clean repo state. | Files: .prompt-hub/todo/todo-20260329-180836-veille-mapping.md, .prompt-hub/todo/todo-20260329-180100-scan-list.md, .prompt-hub/memory.md | Status: success | Next: Commit/push prompt-hub tracking updates, then execute Gmail->LIST.md sequence.
 - 2026-03-29 18:09 CET | agent | Veille mapping run: Gmail label empty; LIST.md unchanged (1 mapping URL retained); no emails trashed. | Files: LIST.md, .prompt-hub/todo/todo-20260329-180836-veille-mapping.md | Status: success | Next: Commit prompt-hub tracking updates.
+
+---
+2026-04-03 10:06 CET | agent: veille-mapping cron | action: process Gmail label:0---veille-mapping | 17 emails processed | 42 URLs added to LIST.md (cartography/GIS/Google Maps/TomTom/Bing Maps focus) | emails trashed after processing | outcome: success

@@ -380,3 +380,6 @@
 
 ## 0.1.17 - 2026-03-25
 - Finalize veille mapping run (trash Gmail messages, close todo).
+
+## 0.1.126 - 2026-04-03
+- Add 42 mapping/GIS/cartography URLs from Gmail veille (17 emails: Mapbox, Maps, Mapping, TomTom, Here Maps, GIS geo); trash processed emails.
