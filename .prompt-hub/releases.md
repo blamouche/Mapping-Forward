@@ -1,3 +1,9 @@
+## 0.1.127 - 2026-04-03
+- Process scan-list batch: 39 articles synthesized, 4 FETCH_ERRORs (inc.com, largus.fr, bbc.com, nature.com). New synthesis files in src/2026-03/ and src/2026-04/. README updated with April section (14 articles) and March expanded to 202. LIST.md cleared.
+
+## 0.1.126 - 2026-04-03
+- Add URL(s) to processing queue.
+
 ## 0.1.125 - 2026-03-29
 - Log veille mapping run (Gmail label empty; LIST.md unchanged).
 

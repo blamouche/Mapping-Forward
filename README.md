@@ -11,13 +11,57 @@ Technical watch for mapping and geographical intelligence
 
 Articles per month:
 
-2026-03 | ██████████████████████████████████████████████████████████ 177<br>2026-02 | █████████████████████ 62<br>2026-12 | █ 1
+2026-04 | █████ 14<br>
+2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
+2026-02 | █████████████████████ 62<br>
+2026-12 | █ 1
 
 ## Articles
 
 ### 2026
 
-#### March (177 articles)
+#### April (14 articles)
+- [Get Started with the Google Maps Geocoding API v3](src/2026-04/20260331-google-maps-geocoding-api-v3.md)
+- [Nordregio Maps: Nordic and Arctic Regional Development Cartography](src/2026-04/20260403-nordregio-maps-nordic-regional-development.md)
+- [These Maps Show Exactly Where the West Might Burn This Summer](src/2026-04/20260402-grist-wildfire-risk-maps-western-us.md)
+- [New Advisory Floodplain Maps Available for Five Eastern North Carolina River Basins](src/2026-04/20260401-nc-floodplain-maps-eastern-nc-river-basins.md)
+- [Microsoft Bing Maps si aggiorna con i dati TomTom Orbis Maps](src/2026-04/20260403-microsoft-bing-maps-tomtom-orbis-it.md)
+- [National Geospatial Policy Strengthening India's Mapping Ecosystem](src/2026-04/20260403-india-national-geospatial-policy.md)
+- [TomTom selected by LOCUS to provide high-precision traffic data for location intelligence platform](src/2026-04/20260403-tomtom-selected-by-locus-traffic-data.md)
+- [Location data for a greener future](src/2026-04/20260401-tomtom-location-intelligence-greener-future.md)
+- [Microsoft integra dados da TomTom Orbis no Bing Maps e Copilot para melhorar localizações](src/2026-04/20260403-microsoft-tomtom-orbis-bing-maps-pt.md)
+- [Bing Maps draait nu volledig op TomTom Orbis-adresdata](src/2026-04/20260403-bing-maps-tomtom-orbis-nl.md)
+- [Microsoft's Bing Maps Receives Its Largest Address Data Upgrade in Years via TomTom Orbis](src/2026-04/20260403-bing-maps-tomtom-orbis-address-upgrade.md)
+- [Digital Indoor Map Market Is Going to Boom | Google, Apple, HERE Technologies, Mapbox](src/2026-04/20260403-digital-indoor-map-market-boom.md)
+- [3D Wayfinding Software Market Is Going to Boom | Mapbox, Pointr, Navigine, IndoorAtlas](src/2026-04/20260403-3d-wayfinding-software-market-boom.md)
+- [The AI-Ready Spatial Stack: How Wherobots and Felt Are Redefining GIS](src/2026-04/20260401-the-ai-ready-spatial-stack-felt-wherobots.md)
+
+#### March (202 articles)
+- [Tout savoir sur Roole Map, le nouveau GPS français qui veut détrôner Waze et Google Maps](src/2026-03/20260331-roole-map-french-gps-app.md)
+- [How GIS Technology Supports Smarter Urban Development](src/2026-03/20260331-how-gis-technology-supports-smarter-urban-development.md)
+- [Cette nouveauté dans Google Maps va changer la vie de nombreux automobilistes](src/2026-03/20260331-google-maps-ev-route-planning-android-auto-fr.md)
+- [Google Maps annonce une nouvelle fonctionnalité pour faciliter les trajets en voiture électrique](src/2026-03/20260331-google-maps-ev-presse-citron.md)
+- [Google Maps gère enfin la recharge des voitures électriques, mais...](src/2026-03/20260331-google-maps-ev-mac4ever.md)
+- [Google Maps : conducteurs de voitures électriques, ce stress du calcul mental à chaque trajet, c'est fini](src/2026-03/20260331-google-maps-ev-lesnumeriques.md)
+- [L'IA de Google Maps va totalement changer les longs trajets en voitures électriques pour plus de 350 modèles](src/2026-03/20260331-google-maps-ev-frandroid.md)
+- [Avec cette nouveauté Android Auto, Google veut simplifier vos trajets en voiture électrique](src/2026-03/20260331-google-maps-ev-automobile-propre.md)
+- [Vous roulez en électrique ? Cette nouveauté de Google Maps devrait vous plaire](src/2026-03/20260331-google-maps-ev-01net.md)
+- [Google Maps Adds AI EV Features For Smarter Travel: Here's How It Works](src/2026-03/20260331-google-maps-ev-outlookbusiness.md)
+- [Google Maps adds AI-based EV route planning to Android Auto](src/2026-03/20260330-google-maps-ev-route-planning-electrive.md)
+- [Why GIS Matters in Modern Infrastructure and Urban Planning: Building Smarter, Future-Ready Cities](src/2026-03/20260330-why-gis-matters-modern-infrastructure-urban-planning.md)
+- [Google Maps Can Now Plan EV Road Trips With Charging Stops via Android Auto](src/2026-03/20260330-google-maps-ev-trip-planning-cnet.md)
+- [Google Gets Feature Every EV Owner Has Dreamed Of](src/2026-03/20260330-google-maps-ev-droid-life.md)
+- [Google Maps Is Bringing EV Route Planning To Android Auto](src/2026-03/20260330-google-maps-ev-insideevs.md)
+- [Google Maps simplifies battery predictions and trip planning for 350+ Android Auto EV models](src/2026-03/20260330-google-maps-ev-battery-predictions-blog-google.md)
+- [Google Maps now predicts battery life for 350+ EVs](src/2026-03/20260330-google-maps-ev-android-police.md)
+- [Android Auto brings Google Maps EV trip planning to 350+ models from 16 brands](src/2026-03/20260330-android-auto-maps-ev-9to5google.md)
+- [Spectral Map Making With SPHEREx](src/2026-03/20260330-spherex-spectral-map-making.md)
+- [Google Maps : ce nouveau système de guidage ultra-pratique va changer vos trajets en voiture](src/2026-03/20260329-google-maps-ev-tf1info.md)
+- [Google Maps' AI Feature 'Ask Maps' Comes To India: How Travellers Can Use It](src/2026-03/20260329-google-maps-ask-maps-india-ndtv.md)
+- [Geologic Map of the Emmons Lake Volcanic Center, Alaska](src/2026-03/20260401-usgs-geologic-map-emmons-lake-volcanic-alaska.md)
+- [New rules for mobile phone coverage maps in Australia](src/2026-03/20260326-australia-mobile-coverage-maps-acma.md)
+- [Hanford Contractor Recognized for Advancing Cleanup With Innovative GIS Tools](src/2026-03/20260326-hanford-gis-cleanup-innovation-award.md)
+- [GIS department holds annual Geo Day](src/2026-03/20260312-gis-department-holds-annual-geo-day.md)
 - [HydroGNSS generates first Delay Doppler Maps](src/2026-03/20260329-hydrognss-generates-first-delay-doppler-maps.md)
 - [La fin de la fonctionnalité préférée d'Apple Maps : des changements indésirables sont à venir](src/2026-03/20260329-la-fin-de-la-fonctionnalite-preferee-d-apple-maps-des-changements-indesirables-sont-a-venir.md)
 - [Donner du sens aux observations océaniques](src/2026-03/20260327-donner-du-sens-aux-observations-oceaniques.md)
