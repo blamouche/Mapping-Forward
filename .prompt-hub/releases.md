@@ -401,3 +401,6 @@
 
 ## 0.1.126 - 2026-04-03
 - Add 42 mapping/GIS/cartography URLs from Gmail veille (17 emails: Mapbox, Maps, Mapping, TomTom, Here Maps, GIS geo); trash processed emails.
+
+## 0.1.132 - 2026-04-03
+- scan-list run: processed 7 URLs (4 synthesized, 3 FETCH_ERROR: neowin 403, infoq.cn minimal, hdblog 429); updated README stats; created batch recap.
