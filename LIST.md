@@ -1,4 +1,3 @@
-https://www.ictmagazine.be/nieuws/bing-maps-draait-nu-volledig-op-tomtom-orbis-adresdata/
 https://www.cnbeta.com.tw/articles/tech/1556284.htm
 https://tech.wp.pl/microsoft-zakonczyl-aktualizacje-map-ogromna-baza-danych,7270939238611136a
 https://www.hdblog.it/microsoft/articoli/n653899/microsoft-bing-maps-aggiornamento-tomtom-orbis/

@@ -20,7 +20,7 @@ Articles per month:
 
 ### 2026
 
-#### April (14 articles)
+#### April (19 articles)
 - [Get Started with the Google Maps Geocoding API v3](src/2026-04/20260331-google-maps-geocoding-api-v3.md)
 - [Nordregio Maps: Nordic and Arctic Regional Development Cartography](src/2026-04/20260403-nordregio-maps-nordic-regional-development.md)
 - [These Maps Show Exactly Where the West Might Burn This Summer](src/2026-04/20260402-grist-wildfire-risk-maps-western-us.md)
@@ -35,6 +35,11 @@ Articles per month:
 - [Digital Indoor Map Market Is Going to Boom | Google, Apple, HERE Technologies, Mapbox](src/2026-04/20260403-digital-indoor-map-market-boom.md)
 - [3D Wayfinding Software Market Is Going to Boom | Mapbox, Pointr, Navigine, IndoorAtlas](src/2026-04/20260403-3d-wayfinding-software-market-boom.md)
 - [The AI-Ready Spatial Stack: How Wherobots and Felt Are Redefining GIS](src/2026-04/20260401-the-ai-ready-spatial-stack-felt-wherobots.md)
+- [Bing Maps Receives Its Largest Address Data Upgrade in Years](src/2026-04/20260402-bing-maps-largest-address-data-upgrade-tomtom-orbis.md)
+- [Bing Maps draait nu volledig op TomTom Orbis-adresdata (ICT Magazine)](src/2026-04/20260402-bing-maps-tomtom-orbis-adresdata-ictmagazine.md)
+- [必应地图迎来最大规模地址数据升级 引入 TomTom Orbis全球数据集](src/2026-04/20260402-bing-maps-tomtom-orbis-upgrade-cnbeta.md)
+- [Microsoft zakończył aktualizację map. Ogromna baza danych](src/2026-04/20260402-microsoft-bing-maps-tomtom-aktualizacja-wppl.md)
+- [Bing Maps recibe su mayor actualización de datos en años](src/2026-04/20260402-bing-maps-actualizacion-datos-computerhoy.md)
 
 #### March (202 articles)
 - [Tout savoir sur Roole Map, le nouveau GPS français qui veut détrôner Waze et Google Maps](src/2026-03/20260331-roole-map-french-gps-app.md)
