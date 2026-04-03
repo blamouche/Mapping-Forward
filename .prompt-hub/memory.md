@@ -277,3 +277,4 @@
 ---
 2026-04-03 10:06 CET | agent: veille-mapping cron | action: process Gmail label:0---veille-mapping | 17 emails processed | 42 URLs added to LIST.md (cartography/GIS/Google Maps/TomTom/Bing Maps focus) | emails trashed after processing | outcome: success
 - 2026-04-03 15:01 CET | agent | Created scan-list todo for scheduled run. LIST.md empty; scan-list processing skipped. | Files: .prompt-hub/todo/todo-20260403-150100-scan-list.md | Status: success | Next: Update prompt-hub version/releases and commit tracking updates.
+- 2026-04-03 16:12 CET | agent | Veille mapping run: 2 emails processed (Overture Maps + GIS geo alerts); extracted 7 mapping URLs (Bing Maps/TomTom Orbis/Overture Maps focus); filtered 10 Nagaland local GIS study articles; LIST.md updated, committed and pushed; 2 emails trashed. | Files: LIST.md, .prompt-hub/version.md, .prompt-hub/releases.md, .prompt-hub/todo/todo-20260403-161243-veille-mapping.md | Status: success | Next: none.

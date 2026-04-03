@@ -1,3 +1,6 @@
+## 0.1.131 - 2026-04-03
+- Veille mapping run 16:12 CET: 2 emails processed, 7 mapping URLs added (Bing Maps/TomTom Orbis/Overture Maps), 10 filtered (Nagaland local GIS study), 2 emails trashed.
+
 ## 0.1.130 - 2026-04-03
 - Scan-list empty run at 15:01 CET: LIST.md empty, no URLs processed.
 
