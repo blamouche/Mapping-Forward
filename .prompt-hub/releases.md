@@ -1,3 +1,6 @@
+## 0.1.129 - 2026-04-03
+- Log scan-list batch completion 2026-04-03: memory updated, todo marked complete.
+
 ## 0.1.128 - 2026-04-03
 - Add batch recap for scan-list 2026-04-03 120205 (39 articles, 4 FETCH_ERRORs).
 
