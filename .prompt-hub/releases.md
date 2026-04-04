@@ -1,3 +1,6 @@
+## 0.1.137 - 2026-04-04
+- Veille mapping cron 18:04 CET: Gmail OAuth token expired/revoked (invalid_grant). Run blocked. Re-auth required.
+
 ## 0.1.131 - 2026-04-03
 - Veille mapping run 16:12 CET: 2 emails processed, 7 mapping URLs added (Bing Maps/TomTom Orbis/Overture Maps), 10 filtered (Nagaland local GIS study), 2 emails trashed.
 
