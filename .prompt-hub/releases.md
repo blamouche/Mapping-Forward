@@ -405,6 +405,9 @@
 ## 0.1.132 - 2026-04-03
 - scan-list run: processed 7 URLs (4 synthesized, 3 FETCH_ERROR: neowin 403, infoq.cn minimal, hdblog 429); updated README stats; created batch recap.
 
+## 0.1.135 - 2026-04-04
+- Add substack post: The open map stack (substack-post-recents agent, 15 most recent articles).
+
 ## 0.1.134 - 2026-04-03
 - Veille mapping cron (22h04): blocked — Gmail auth invalid_grant (token expired). No URLs processed.
 
