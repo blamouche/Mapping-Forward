@@ -12,8 +12,11 @@ Slug: substack-post-recents
 - [x] Write article (1500-2000 words)
 - [x] Save to substack/20260404-post-the-open-map-stack.md
 - [x] Copy to substack/latest.md
-- [ ] Commit and push
-- [ ] Update prompt-hub (memory, version, releases)
+- [x] Commit and push (963a93f)
+- [x] Update prompt-hub (memory, version, releases)
+
+## Review
+Completed successfully. Article ~1800 words, 15 sources, committed and pushed to origin/main.
 
 ## Articles (15 most recent from README.md)
 1. Get Started with the Google Maps Geocoding API v3 (2026-03-31)
