@@ -283,3 +283,11 @@
 
 - 2026-04-04 05:01 CET | agent | substack-post-recents run: drafted article "The open map stack" from 15 most recent articles (Bing Maps/TomTom Orbis dominant theme + climate risk maps + AI spatial stack). Files: substack/20260404-post-the-open-map-stack.md, substack/latest.md, .prompt-hub/todo/todo-20260404-050100-substack-post-recents.md | Status: success | Next: Commit and push.
 - 2026-04-03 22:04 CET | agent | Veille mapping cron (22h04): Gmail auth invalid_grant (token expired/revoked — last refresh 2026-03-27). Cannot access label:0---veille-mapping. Run blocked before any URL processing or LIST.md modification. | Files: none | Status: failed | Next: User must re-auth gog Gmail (gog auth add b.lamouche@gmail.com) then rerun veille.
+
+---
+**2026-04-04 14:04 (Paris)** | agent: veille-mapping cron
+action: Run quotidien veille-mapping
+status: failed
+reason: Gmail OAuth token expired/revoked (invalid_grant) pour b.lamouche@gmail.com
+files: none
+next: Re-auth required — `gog auth add b.lamouche@gmail.com --services gmail` (browser flow)
