@@ -413,3 +413,6 @@
 
 ## 0.1.133 - 2026-04-03
 - scan-list scheduled run (21h01 CET): LIST.md empty; no URLs processed.
+
+## 0.1.136 - 2026-04-04
+- Veille mapping cron (16:04 CET): blocked — Gmail auth invalid_grant (token expired/revoked). No URLs processed. Re-auth required.

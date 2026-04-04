@@ -291,3 +291,11 @@ status: failed
 reason: Gmail OAuth token expired/revoked (invalid_grant) pour b.lamouche@gmail.com
 files: none
 next: Re-auth required — `gog auth add b.lamouche@gmail.com --services gmail` (browser flow)
+
+---
+**2026-04-04 16:04 (Paris)** | agent: veille-mapping cron
+action: Run quotidien veille-mapping
+status: failed
+reason: Gmail OAuth token expired/revoked (invalid_grant) pour b.lamouche@gmail.com
+files: none
+next: Re-auth required — `gog auth add b.lamouche@gmail.com` (browser flow)
