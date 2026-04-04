@@ -293,6 +293,14 @@ files: none
 next: Re-auth required — `gog auth add b.lamouche@gmail.com --services gmail` (browser flow)
 
 ---
+**2026-04-04 20:04 (Paris)** | agent: veille-mapping cron
+action: Run quotidien veille-mapping
+status: failed
+reason: Gmail OAuth token expired/revoked (invalid_grant) pour b.lamouche@gmail.com — 4ème échec consécutif depuis 2026-04-03 22:04
+files: .prompt-hub/todo/todo-20260404-180451-veille-mapping.md
+next: Re-auth required — `gog auth add b.lamouche@gmail.com` (browser flow)
+
+---
 **2026-04-04 18:04 (Paris)** | agent: veille-mapping cron
 action: Run quotidien veille-mapping
 status: failed

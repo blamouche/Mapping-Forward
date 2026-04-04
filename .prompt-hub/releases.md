@@ -1,3 +1,6 @@
+## 0.1.138 - 2026-04-04
+- Veille mapping cron (20:04 CET): blocked — Gmail auth invalid_grant (token expired/revoked). No URLs processed. Re-auth required.
+
 ## 0.1.137 - 2026-04-04
 - Veille mapping cron 18:04 CET: Gmail OAuth token expired/revoked (invalid_grant). Run blocked. Re-auth required.
 
