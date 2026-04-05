@@ -309,3 +309,5 @@ files: none
 next: Re-auth required — `gog auth add b.lamouche@gmail.com` (browser flow)
 
 - 2026-04-05 22:04 CET | agent | Created veille-mapping todo for scheduled run; preparing repo sync because working tree was dirty. | Files: .prompt-hub/todo/todo-20260405-220443-veille-mapping.md, .prompt-hub/version.md, .prompt-hub/releases.md | Status: success | Next: Commit/push tracking baseline, then execute Gmail->LIST.md sequence.
+
+- 2026-04-05 22:10 CET | agent | Veille mapping run: scanned 8 Gmail alerts, kept 5 cartography/GIS/maps URLs, filtered non-mapping/local/noise items, updated LIST.md, and trashed 8 processed emails. | Files: LIST.md, .prompt-hub/version.md, .prompt-hub/releases.md, .prompt-hub/todo/todo-20260405-220443-veille-mapping.md | Status: success | Next: Commit/push updates.
