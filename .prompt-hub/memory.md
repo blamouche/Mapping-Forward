@@ -307,3 +307,5 @@ status: failed
 reason: Gmail OAuth token expired/revoked (invalid_grant) pour b.lamouche@gmail.com
 files: none
 next: Re-auth required — `gog auth add b.lamouche@gmail.com` (browser flow)
+
+- 2026-04-05 22:04 CET | agent | Created veille-mapping todo for scheduled run; preparing repo sync because working tree was dirty. | Files: .prompt-hub/todo/todo-20260405-220443-veille-mapping.md, .prompt-hub/version.md, .prompt-hub/releases.md | Status: success | Next: Commit/push tracking baseline, then execute Gmail->LIST.md sequence.

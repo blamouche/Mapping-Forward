@@ -1,3 +1,6 @@
+## 0.1.139 - 2026-04-05
+- Add veille-mapping todo for scheduled daily Gmail -> LIST.md run.
+
 ## 0.1.138 - 2026-04-04
 - Veille mapping cron (20:04 CET): blocked — Gmail auth invalid_grant (token expired/revoked). No URLs processed. Re-auth required.
 
