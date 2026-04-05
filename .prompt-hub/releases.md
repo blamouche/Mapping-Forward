@@ -1,3 +1,6 @@
+## 0.1.141 - 2026-04-06
+- Record pending scan-list todo and initialize veille-mapping todo for the daily Gmail -> LIST.md run.
+
 ## 0.1.140 - 2026-04-05
 - Add 5 mapping/cartography URLs from Gmail veille to LIST.md; filter out non-mapping/local/finance/noise items; trash 8 processed emails.
 
