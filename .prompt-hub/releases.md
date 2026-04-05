@@ -1,3 +1,6 @@
+## 0.1.142 - 2026-04-06
+- Veille mapping run: processed 1 Gmail alert, added 1 TomTom URL to LIST.md, kept existing cartography/geospatial URLs after review, trashed 1 processed email.
+
 ## 0.1.141 - 2026-04-06
 - Record pending scan-list todo and initialize veille-mapping todo for the daily Gmail -> LIST.md run.
 
