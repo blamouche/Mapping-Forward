@@ -1,3 +1,6 @@
+## 0.1.156 - 2026-04-06
+- Add veille-mapping todo for scheduled run.
+
 ## 0.1.155 - 2026-04-06
 - Add batch recap: 2026-04-06 060142.
 
