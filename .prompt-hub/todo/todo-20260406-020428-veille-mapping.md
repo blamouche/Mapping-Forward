@@ -11,15 +11,16 @@ Exécuter la séquence quotidienne veille-mapping : scanner Gmail label `0---vei
 - [x] Extraire et normaliser les URLs d’articles
 - [x] Ajouter les URLs retenues à `LIST.md` avec déduplication
 - [x] Supprimer de `LIST.md` les URLs hors cartographie / données cartographiques / actualités du domaine, en excluant les petites initiatives locales
-- [ ] Commit + push de toutes les modifs nécessaires pour revenir à un état propre
-- [ ] Mettre à la corbeille les emails traités
-- [ ] Mettre à jour mémoire / version / releases / review
+- [x] Commit + push de toutes les modifs nécessaires pour revenir à un état propre
+- [x] Mettre à la corbeille les emails traités
+- [x] Mettre à jour mémoire / version / releases / review
 
 ## Check-in
 Hypothèse opérationnelle: tâche autonome de cron, donc exécution complète sans attendre de validation interactive.
 
 ## Review
-- Gmail: 2 alertes traitées (`Maps`, `Mapping`).
+- Gmail: 2 alertes traitées (`Maps`, `Mapping`), puis mises à la corbeille.
 - Extraction: 17 URLs candidates détectées, 8 retenues pour `LIST.md`.
 - Nettoyage de `LIST.md`: suppression de 2 URLs promotionnelles/hors périmètre déjà présentes.
-- Git: commit/push final à faire après mise à la corbeille des emails.
+- Git: commit `Add URL(s) to processing queue` poussé sur `origin/main`.
+- État final: repo propre et synchronisé.
