@@ -1,3 +1,6 @@
+## 0.1.174 - 2026-04-07
+- Veille mapping run: processed 1 Gmail alert, kept 2 mapping/navigation URLs, filtered 3 off-scope promo/finance links, updated LIST.md, and prepared Gmail trash.
+
 ## 0.1.173 - 2026-04-06
 - Log veille mapping run (Gmail label empty; LIST.md empty; no URLs added/removed; no emails trashed).
 
