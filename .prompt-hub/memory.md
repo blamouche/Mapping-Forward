@@ -323,3 +323,5 @@ next: Re-auth required — `gog auth add b.lamouche@gmail.com` (browser flow)
 
 - 2026-04-06 06:01 CET | agent | scan-list run: processed 8 URLs from LIST.md, created 7 synthesis files, recorded 1 FETCH_ERROR (Nature readability returned references only), updated README stats, created batch recap 2026-04-06 - 060142, and cleared LIST.md. | Files: LIST.md, README.md, src/2026-04/*.md, synthesis/2026-04-06 - 060142 - batch recap.md | Status: success | Next: push final recap commit.
 - 2026-04-06 06:11 CET | agent | Veille mapping run: committed/pushed todo baseline to restore a clean repo, ran `git pull --rebase`, found Gmail label 0---veille-mapping empty, confirmed LIST.md already empty, and trashed no emails. | Files: .prompt-hub/todo/todo-20260406-061100-veille-mapping.md, .prompt-hub/version.md, .prompt-hub/releases.md | Status: success | Next: Commit/push tracking updates.
+
+- 2026-04-06 08:04 CET | agent | Veille mapping run: Gmail label empty; LIST.md empty; no URLs added/removed; no emails trashed. | Files: LIST.md, .prompt-hub/todo/todo-20260406-080400-veille-mapping.md | Status: success | Next: Commit and push tracking updates.
