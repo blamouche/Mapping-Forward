@@ -1,3 +1,6 @@
+## 0.1.143 - 2026-04-06
+- Veille mapping run: processed 2 Gmail alerts, added 8 mapping/cartography URLs to LIST.md, removed 2 off-scope promo URLs already present, and prepared Gmail trash + sync.
+
 ## 0.1.142 - 2026-04-06
 - Veille mapping run: processed 1 Gmail alert, added 1 TomTom URL to LIST.md, kept existing cartography/geospatial URLs after review, trashed 1 processed email.
 

@@ -1,6 +1,12 @@
-https://www.ad-hoc-news.de/boerse/news/ueberblick/tomtom-go-navigation-intuitive-app-revolutioniert-mobiles-fahren/69076544
 https://www.nature.com/articles/s41598-026-46695-4
-https://www.howtogeek.com/turn-paper-walking-maps-into-interactive-gps-maps-with-this-app/
-https://mcetv.ouest-france.fr/2026/google-maps-vous-aide-a-gerer-la-recharge-de-votre-voiture-electrique-avec-une-nouvelle-fonction-ia/
+https://www.howtogeek.com/turn-paper-walking-maps-into-interactive-gps-maps-with-this-app
+https://mcetv.ouest-france.fr/2026/google-maps-vous-aide-a-gerer-la-recharge-de-votre-voiture-electrique-avec-une-nouvelle-fonction-ia
 https://www.gim-international.com/case-study/mapping-riyadh-s-roads-in-high-resolution
-https://www.chip.de/angebote/schnaeppchen/tomtom-verkehrs-assistent-gegen-oster-stau-abo-frei-hellwach-und-in-der-grauzone-im-cockpit_db2264f9-17f1-4c79-b097-85bc03a07a5d.html
+https://www.automobile-magazine.fr/toute-l-actualite/article/51488-la-derniere-mise-a-jour-de-google-maps-va-tout-changer-pour-les-trajets-en-voiture-electrique
+https://www.theverge.com/tech/907015/gemini-google-maps-hands-on
+https://www.usatoday.com/story/news/nation/2026/04/05/national-hurricane-center-adopts-new-track-forecast-cone/89451278007
+https://timesofindia.indiatimes.com/technology/mobiles-tabs/apple-releases-ios-26-5-public-beta-with-suggested-places-in-maps-and-groundwork-for-ads/articleshow/130042035.cms
+https://jupytergis.readthedocs.io/en/latest/user_guide/how-tos/story-maps.html
+https://www.journaldugeek.com/2026/04/05/adieu-waze-ce-gps-francais-etonne-par-ses-fonctions-que-google-na-pas
+https://mcetv.ouest-france.fr/2026/google-maps-planifie-vos-trajets-en-voiture-electrique-grace-a-lia-pour-plus-de-350-modeles
+https://hypebeast.com/fr/2026/4/ios-26-5-public-beta-brings-suggested-places-to-maps
