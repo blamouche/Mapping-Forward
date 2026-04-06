@@ -1,3 +1,6 @@
+## 0.1.152 - 2026-04-06
+- Process article: I let Gemini in Google Maps plan my day and it went surprisingly well.
+
 ## 0.1.151 - 2026-04-06
 - Process article: La dernière mise à jour de Google Maps va tout changer pour les trajets en voiture électrique.
 
