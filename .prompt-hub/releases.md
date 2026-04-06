@@ -1,3 +1,6 @@
+## 0.1.164 - 2026-04-06
+- Log veille mapping run (Gmail label empty; LIST.md empty; no URLs added/removed; no emails trashed).
+
 ## 0.1.163 - 2026-04-06
 - Log scan-list empty run (LIST.md empty; no URLs processed).
 
