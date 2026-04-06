@@ -1,3 +1,6 @@
+## 0.1.151 - 2026-04-06
+- Process article: La dernière mise à jour de Google Maps va tout changer pour les trajets en voiture électrique.
+
 ## 0.1.150 - 2026-04-06
 - Process article: Mapping Riyadh’s roads in high-resolution.
 
