@@ -12,15 +12,19 @@ Technical watch for mapping and geographical intelligence
 Articles per month:
 
 2025-12 | █ 1<br>
-2026-02 | ████████████ 35<br>
+2026-02 | █████████████████████ 62<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | █████████ 26
+2026-04 | ██████████ 30
 
 ## Articles
 
 ### 2026
 
-#### April (26 articles)
+#### April (30 articles)
+- [Kedaulatan Data Geospasial Indonesia Dipertanyakan, Satelit Masih Dominasi Asing](src/2026-04/20260406-kedaulatan-data-geospasial-indonesia-dipertanyakan.md)
+- [BIG ke DPR: Data Satelit RI Masih Bergantung Asing](src/2026-04/20260406-big-ke-dpr-data-satelit-ri-masih-bergantung-asing.md)
+- [Bahas RUU Satu Data, BIG Minta RI Bangun Satelit Sendiri: Selama Ini Asing Semua](src/2026-04/20260406-big-minta-ri-bangun-satelit-sendiri-selama-ini-asing-semua.md)
+- [BIG: RI Belum Berdaulat Data Geospasial, Data Lengkap Punya Asing Semua](src/2026-04/20260406-big-ri-belum-berdaulat-data-geospasial-data-lengkap-punya-asing-semua.md)
 - [Google Maps planifie vos trajets en voiture électrique grâce à l'IA pour plus de 350 modèles](src/2026-04/20260405-google-maps-planifie-trajets-electriques-ia-350-modeles.md)
 - [Apple releases iOS 26.5 public beta with Suggested Places in Maps and groundwork for ads](src/2026-04/20260406-apple-maps-suggested-places-and-groundwork-for-ads.md)
 - [I let Gemini in Google Maps plan my day and it went surprisingly well](src/2026-04/20260406-gemini-google-maps-plan-my-day.md)
@@ -252,7 +256,7 @@ Articles per month:
 - [New Google Maps Alternative Gets Essential Feature Update](src/2026-03/20260301-google-maps-alternative-update-essential-features.md)
 - [Pourquoi Google Maps n’a jamais bien fonctionne en Coree du Sud](src/2026-03/20260301-pourquoi-google-maps-fonctionne-mal-coree-sud.md)
 
-#### February (35 articles)
+#### February (62 articles)
 - [Smarter Maps Reveal Four Decades of Change](src/2026-02/20260227-smarter-maps-reveal-four-decades-of-change.md)
 - [AECOM partners with TomTom for traffic and infrastructure planning](src/2026-02/20260212-aecom-partners-with-tomtom-for-traffic-and-infrastructure-planning.md)
 - [BrightQuery Joins Overture Maps Foundation to Expand Open Places Data Coverage](src/2026-02/20260225-brightquery-overture-maps-foundation.md)

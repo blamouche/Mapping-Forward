@@ -1,3 +1,18 @@
+## 0.1.171 - 2026-04-06
+- Add batch recap: 2026-04-06 210100
+
+## 0.1.170 - 2026-04-06
+- Process article: Kedaulatan Data Geospasial Indonesia Dipertanyakan, Satelit Masih Dominasi Asing
+
+## 0.1.169 - 2026-04-06
+- Process article: BIG ke DPR: Data Satelit RI Masih Bergantung Asing
+
+## 0.1.168 - 2026-04-06
+- Process article: Bahas RUU Satu Data, BIG Minta RI Bangun Satelit Sendiri: Selama Ini Asing Semua
+
+## 0.1.167 - 2026-04-06
+- Process article: BIG: RI Belum Berdaulat Data Geospasial, Data Lengkap Punya Asing Semua
+
 ## 0.1.166 - 2026-04-06
 - Veille mapping run: processed 1 Gmail alert, added 4 mapping/geospatial sovereignty URLs to LIST.md, trashed 1 processed email, and finalized tracking.
 
