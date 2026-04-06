@@ -1,3 +1,6 @@
+## 0.1.145 - 2026-04-06
+- Add veille-mapping todo for scheduled run and prepare repo cleanup before Gmail/LIST processing.
+
 ## 0.1.144 - 2026-04-06
 - Finalize veille mapping tracking after commit/push: Gmail alerts trashed, todo closed, memory/release/version synced.
 
