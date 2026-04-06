@@ -1,3 +1,6 @@
+## 0.1.173 - 2026-04-06
+- Log veille mapping run (Gmail label empty; LIST.md empty; no URLs added/removed; no emails trashed).
+
 ## 0.1.172 - 2026-04-06
 - Fix README statistics/header counts after scan-list batch.
 
