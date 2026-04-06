@@ -7,16 +7,21 @@ Exécuter la séquence quotidienne Gmail label 0---veille-mapping -> LIST.md, fi
 - [x] Read .prompt-hub/lessons.md
 - [x] Read .prompt-hub/memory.md
 - [x] Read .prompt-hub/releases.md
-- [ ] Commit/push any pending local changes to restore a clean repo state
-- [ ] Pull/rebase latest main
-- [ ] Inspect Gmail label 0---veille-mapping and extract article URLs
-- [ ] Update LIST.md with dedupe + scope filtering
-- [ ] Trash processed emails
-- [ ] Update prompt-hub memory/version/releases and review
+- [x] Commit/push any pending local changes to restore a clean repo state
+- [x] Pull/rebase latest main
+- [x] Inspect Gmail label 0---veille-mapping and extract article URLs
+- [x] Update LIST.md with dedupe + scope filtering
+- [x] Trash processed emails
+- [x] Update prompt-hub memory/version/releases and review
 
 ## Notes
 - Gmail query returned no labeled messages at run start.
 - Need to review existing LIST.md entries and remove off-scope links.
 
 ## Review
-- Pending.
+- Completed: Gmail label empty, LIST.md filtered from 12 to 8 URLs, no emails trashed.
+
+## Outcome
+- Added URLs from Gmail: 0
+- Removed URLs from LIST.md: 4
+- Emails trashed: 0

@@ -318,3 +318,5 @@ next: Re-auth required — `gog auth add b.lamouche@gmail.com` (browser flow)
 
 
 - 2026-04-06 04:04 CET | agent | Created veille-mapping todo for scheduled run; Gmail label initially empty, repo cleanup + LIST scope review pending. | Files: .prompt-hub/todo, .prompt-hub/version.md, .prompt-hub/releases.md | Status: success | Next: Commit/push pending local changes, then review LIST.md and finish run.
+
+- 2026-04-06 04:05 CET | agent | Veille mapping run complete: Gmail label 0---veille-mapping empty; reviewed existing LIST.md, kept 8 mapping-relevant URLs, removed 4 off-scope/low-signal links; no emails trashed. | Files: LIST.md, .prompt-hub/todo/todo-20260406-040453-veille-mapping.md, .prompt-hub/version.md, .prompt-hub/releases.md | Status: success | Next: none.

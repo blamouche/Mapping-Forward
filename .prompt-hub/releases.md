@@ -1,3 +1,6 @@
+## 0.1.146 - 2026-04-06
+- Veille mapping run: Gmail label empty; filtered LIST.md from 12 to 8 URLs by removing 4 off-scope/duplicate-quality links; no emails trashed.
+
 ## 0.1.145 - 2026-04-06
 - Add veille-mapping todo for scheduled run and prepare repo cleanup before Gmail/LIST processing.
 
