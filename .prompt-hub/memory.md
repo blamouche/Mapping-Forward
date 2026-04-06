@@ -336,3 +336,5 @@ next: Re-auth required — `gog auth add b.lamouche@gmail.com` (browser flow)
 - 2026-04-06 18:14 CEST | agent | Veille mapping run: Gmail label 0---veille-mapping empty; LIST.md empty; no URLs added/removed; no emails trashed. | Files: LIST.md, .prompt-hub/todo/todo-20260406-181400-daily-veille-maps-gmail-to-list.md | Status: success | Next: Commit and push tracking updates.
 
 - 2026-04-06 20:04 CEST | agent | Created veille-mapping todo for scheduled run; preparing baseline commit to restore clean repo state before Gmail extraction. | Files: .prompt-hub/todo/todo-20260406-200400-veille-mapping.md, .prompt-hub/version.md, .prompt-hub/releases.md | Status: success | Next: Commit/push baseline, then scan Gmail label.
+
+- 2026-04-06 20:04 CEST | agent | Veille mapping run: processed 1 Gmail alert (Here Maps), extracted 4 article URLs, kept all 4 as mapping/geospatial sovereignty items, updated LIST.md, removed 0 URLs, trashed 1 processed email, and finalized tracking. | Files: LIST.md, .prompt-hub/todo/todo-20260406-200400-veille-mapping.md, .prompt-hub/version.md, .prompt-hub/releases.md | Status: success | Next: none.
