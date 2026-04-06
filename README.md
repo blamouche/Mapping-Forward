@@ -14,13 +14,14 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | ████████ 24
+2026-04 | █████████ 25
 
 ## Articles
 
 ### 2026
 
-#### April (24 articles)
+#### April (25 articles)
+- [Apple releases iOS 26.5 public beta with Suggested Places in Maps and groundwork for ads](src/2026-04/20260406-apple-maps-suggested-places-and-groundwork-for-ads.md)
 - [I let Gemini in Google Maps plan my day and it went surprisingly well](src/2026-04/20260406-gemini-google-maps-plan-my-day.md)
 - [La dernière mise à jour de Google Maps va tout changer pour les trajets en voiture électrique](src/2026-04/20260404-google-maps-va-tout-changer-pour-les-trajets-en-voiture-electrique.md)
 - [Mapping Riyadh’s roads in high-resolution](src/2026-04/20260403-mapping-riyadhs-roads-in-high-resolution.md)

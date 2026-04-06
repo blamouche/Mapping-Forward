@@ -1,3 +1,6 @@
+## 0.1.153 - 2026-04-06
+- Process article: Apple releases iOS 26.5 public beta with Suggested Places in Maps and groundwork for ads.
+
 ## 0.1.152 - 2026-04-06
 - Process article: I let Gemini in Google Maps plan my day and it went surprisingly well.
 
