@@ -1,3 +1,6 @@
+## 0.1.149 - 2026-04-06
+- Process article: Google Maps vous aide à gérer la recharge de votre voiture électrique avec une nouvelle fonction IA.
+
 ## 0.1.148 - 2026-04-06
 - Process article: Turn paper hiking maps into real-time GPS guides with this app.
 
