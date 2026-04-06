@@ -1,3 +1,6 @@
+## 0.1.155 - 2026-04-06
+- Add batch recap: 2026-04-06 060142.
+
 ## 0.1.154 - 2026-04-06
 - Process article: Google Maps planifie vos trajets en voiture électrique grâce à l'IA pour plus de 350 modèles.
 
