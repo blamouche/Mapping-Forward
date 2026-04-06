@@ -12,16 +12,16 @@ Technical watch for mapping and geographical intelligence
 Articles per month:
 
 2025-12 | █ 1<br>
-2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | ███████ 19
+2026-04 | ███████ 20
 
 ## Articles
 
 ### 2026
 
-#### April (19 articles)
+#### April (20 articles)
+- [Turn paper hiking maps into real-time GPS guides with this app](src/2026-04/20260403-turn-paper-hiking-maps-into-real-time-gps-guides-with-this-app.md)
 - [Get Started with the Google Maps Geocoding API v3](src/2026-04/20260331-google-maps-geocoding-api-v3.md)
 - [Nordregio Maps: Nordic and Arctic Regional Development Cartography](src/2026-04/20260403-nordregio-maps-nordic-regional-development.md)
 - [These Maps Show Exactly Where the West Might Burn This Summer](src/2026-04/20260402-grist-wildfire-risk-maps-western-us.md)
@@ -246,7 +246,7 @@ Articles per month:
 - [New Google Maps Alternative Gets Essential Feature Update](src/2026-03/20260301-google-maps-alternative-update-essential-features.md)
 - [Pourquoi Google Maps n’a jamais bien fonctionne en Coree du Sud](src/2026-03/20260301-pourquoi-google-maps-fonctionne-mal-coree-sud.md)
 
-#### February (62 articles)
+#### February (35 articles)
 - [Smarter Maps Reveal Four Decades of Change](src/2026-02/20260227-smarter-maps-reveal-four-decades-of-change.md)
 - [AECOM partners with TomTom for traffic and infrastructure planning](src/2026-02/20260212-aecom-partners-with-tomtom-for-traffic-and-infrastructure-planning.md)
 - [BrightQuery Joins Overture Maps Foundation to Expand Open Places Data Coverage](src/2026-02/20260225-brightquery-overture-maps-foundation.md)

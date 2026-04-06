@@ -1,4 +1,3 @@
-https://www.howtogeek.com/turn-paper-walking-maps-into-interactive-gps-maps-with-this-app
 https://mcetv.ouest-france.fr/2026/google-maps-vous-aide-a-gerer-la-recharge-de-votre-voiture-electrique-avec-une-nouvelle-fonction-ia
 https://www.gim-international.com/case-study/mapping-riyadh-s-roads-in-high-resolution
 https://www.automobile-magazine.fr/toute-l-actualite/article/51488-la-derniere-mise-a-jour-de-google-maps-va-tout-changer-pour-les-trajets-en-voiture-electrique

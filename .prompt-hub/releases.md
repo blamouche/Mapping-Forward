@@ -1,3 +1,6 @@
+## 0.1.148 - 2026-04-06
+- Process article: Turn paper hiking maps into real-time GPS guides with this app.
+
 ## 0.1.147 - 2026-04-06
 - Process article: Integrating fuzzy AHP and geo-spatial modeling for wind farm suitability assessment in Kuwait. (FETCH_ERROR: usable article body could not be extracted from Nature)
 
