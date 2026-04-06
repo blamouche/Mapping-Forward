@@ -1,3 +1,6 @@
+## 0.1.172 - 2026-04-06
+- Fix README statistics/header counts after scan-list batch.
+
 ## 0.1.171 - 2026-04-06
 - Add batch recap: 2026-04-06 210100
 
