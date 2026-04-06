@@ -14,13 +14,14 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | ███████ 21
+2026-04 | ████████ 22
 
 ## Articles
 
 ### 2026
 
-#### April (21 articles)
+#### April (22 articles)
+- [Mapping Riyadh’s roads in high-resolution](src/2026-04/20260403-mapping-riyadhs-roads-in-high-resolution.md)
 - [Google Maps vous aide à gérer la recharge de votre voiture électrique avec une nouvelle fonction IA](src/2026-04/20260403-google-maps-aide-recharge-voiture-electrique-fonction-ia.md)
 - [Turn paper hiking maps into real-time GPS guides with this app](src/2026-04/20260403-turn-paper-hiking-maps-into-real-time-gps-guides-with-this-app.md)
 - [Get Started with the Google Maps Geocoding API v3](src/2026-04/20260331-google-maps-geocoding-api-v3.md)

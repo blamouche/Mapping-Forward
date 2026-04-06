@@ -1,3 +1,6 @@
+## 0.1.150 - 2026-04-06
+- Process article: Mapping Riyadh’s roads in high-resolution.
+
 ## 0.1.149 - 2026-04-06
 - Process article: Google Maps vous aide à gérer la recharge de votre voiture électrique avec une nouvelle fonction IA.
 
