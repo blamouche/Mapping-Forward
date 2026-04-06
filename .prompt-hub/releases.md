@@ -1,3 +1,6 @@
+## 0.1.147 - 2026-04-06
+- Process article: Integrating fuzzy AHP and geo-spatial modeling for wind farm suitability assessment in Kuwait. (FETCH_ERROR: usable article body could not be extracted from Nature)
+
 ## 0.1.146 - 2026-04-06
 - Veille mapping run: Gmail label empty; filtered LIST.md from 12 to 8 URLs by removing 4 off-scope/duplicate-quality links; no emails trashed.
 
