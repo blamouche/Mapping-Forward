@@ -334,3 +334,5 @@ next: Re-auth required — `gog auth add b.lamouche@gmail.com` (browser flow)
 - 2026-04-06 18:01 CEST | agent | scan-list run: `git pull --rebase` confirmed repo up to date, then checked LIST.md and found it empty; no URLs processed, no recap created. Tracking files updated for empty run. | Files: LIST.md, .prompt-hub/todo/todo-20260406-180100-scan-list.md, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: Commit and push tracking updates.
 
 - 2026-04-06 18:14 CEST | agent | Veille mapping run: Gmail label 0---veille-mapping empty; LIST.md empty; no URLs added/removed; no emails trashed. | Files: LIST.md, .prompt-hub/todo/todo-20260406-181400-daily-veille-maps-gmail-to-list.md | Status: success | Next: Commit and push tracking updates.
+
+- 2026-04-06 20:04 CEST | agent | Created veille-mapping todo for scheduled run; preparing baseline commit to restore clean repo state before Gmail extraction. | Files: .prompt-hub/todo/todo-20260406-200400-veille-mapping.md, .prompt-hub/version.md, .prompt-hub/releases.md | Status: success | Next: Commit/push baseline, then scan Gmail label.
