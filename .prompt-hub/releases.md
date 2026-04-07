@@ -1,3 +1,6 @@
+## 0.1.180 - 2026-04-07
+- Process article: Esri ArcGIS meets Microsoft Dynamics 365 CRM: smarter map, smarter decisions. (FETCH_ERROR: 403 Cloudflare)
+
 ## 0.1.179 - 2026-04-07
 - Process article: Google Maps brings real-time bus tracking to all of England - finally
 
