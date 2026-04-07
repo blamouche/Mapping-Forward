@@ -10,7 +10,7 @@
 - [x] Review `LIST.md` and remove URLs outside cartography / mapping / geospatial data scope, excluding small local initiatives.
 - [x] Trash processed emails.
 - [x] Update prompt-hub tracking files (`memory`, `version`, `releases`) and finalize review.
-- [ ] Commit and push all pending changes.
+- [x] Commit and push all pending changes.
 
 ## Review
 - Repo state at start: clean.
@@ -19,4 +19,4 @@
 - URLs added: 0.
 - URLs removed: 0.
 - Emails trashed: 0.
-- Pending: commit and push tracking updates.
+- Commit pushed: `Log veille mapping empty run` (`5f8255b`).

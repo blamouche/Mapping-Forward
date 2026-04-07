@@ -1,3 +1,6 @@
+## 0.1.199 - 2026-04-07
+- Finalize veille mapping empty-run tracking after commit/push.
+
 ## 0.1.198 - 2026-04-07
 - Log veille mapping run (repo clean/synced; Gmail label empty; LIST.md empty; no URLs added/removed; no emails trashed).
 
