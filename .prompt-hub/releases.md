@@ -1,3 +1,6 @@
+## 0.1.201 - 2026-04-08
+- Veille mapping run: processed 2 Gmail alerts, kept 3 mapping-related URLs (TomTom speed restrictions, TomTom traffic/Locus, Bing Maps/TomTom Orbis), filtered 13 off-scope/noise links, and trashed 2 emails.
+
 ## 0.1.200 - 2026-04-08
 - Log scan-list empty run (LIST.md empty; no URLs processed).
 
