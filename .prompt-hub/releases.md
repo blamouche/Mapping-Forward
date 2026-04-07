@@ -1,3 +1,6 @@
+## 0.1.197 - 2026-04-07
+- Add batch recap: 2026-04-07 210100.
+
 ## 0.1.196 - 2026-04-07
 - Process article: HERE WeGo erleichtert die Planung von Fahrten mit Bus und Bahn.
 
