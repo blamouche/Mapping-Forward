@@ -2,6 +2,8 @@
 
 - 2026-04-07 16:04 CEST | agent | Veille mapping run: repo already clean/synced; Gmail label `0---veille-mapping` empty; LIST.md remained empty after scope review; no URLs added/removed; no emails trashed. | Files: LIST.md, .prompt-hub/todo/todo-20260407-160400-daily-veille-maps-extraire-urls-de-gmail.md, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: Commit and push tracking updates.
 
+- 2026-04-08 00:01 CEST | agent | scan-list run: repo synced with `git pull --rebase`; LIST.md was empty at batch timestamp 2026-04-08 00:01:45, so no URLs were processed and no batch recap was created. | Files: LIST.md, .prompt-hub/todo/todo-20260408-000145-scan-list.md, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: Commit and push tracking updates.
+
 - 2026-04-03 12:02 CET | agent | scan-list batch complete: processed 43 URLs, created 39 synthesis files, 4 FETCH_ERRORs (inc.com 403, largus.fr 403, bbc.com blocked, nature.com 303). README updated (April: 14 articles, March: 202). LIST.md cleared. | Files: LIST.md, README.md, src/2026-03/, src/2026-04/, synthesis/2026-04-03 - 120205 - batch recap.md | Status: success | Next: none.
 
 - 2026-03-29 04:04 CET | agent | Created veille-mapping todo with plan/check-in for scheduled run. | Files: .prompt-hub/todo/todo-20260329-040425-veille-mapping.md | Status: success | Next: Sync repo, scan Gmail label, update LIST.md, trash emails.

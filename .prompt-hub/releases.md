@@ -1,3 +1,6 @@
+## 0.1.200 - 2026-04-08
+- Log scan-list empty run (LIST.md empty; no URLs processed).
+
 ## 0.1.199 - 2026-04-07
 - Finalize veille mapping empty-run tracking after commit/push.
 
