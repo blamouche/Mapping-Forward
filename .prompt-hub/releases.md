@@ -1,3 +1,6 @@
+## 0.1.188 - 2026-04-07
+- Log scan-list empty run (LIST.md empty; no URLs processed).
+
 ## 0.1.187 - 2026-04-07
 - Fix veille mapping todo content after shell-escaping issue in generated markdown.
 
