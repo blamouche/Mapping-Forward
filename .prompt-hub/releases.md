@@ -1,3 +1,6 @@
+## 0.1.195 - 2026-04-07
+- Veille mapping run: processed 1 Gmail alert, kept 1 HERE WeGo mapping URL, filtered 1 YouTube/noise item, added 1 URL to LIST.md, removed 0 URLs after scope review, and trashed 1 email.
+
 ## 0.1.194 - 2026-04-07
 - Add veille-mapping todo for scheduled 20:05 CEST run and restore clean repo state before Gmail extraction.
 
