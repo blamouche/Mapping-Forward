@@ -1,3 +1,6 @@
+## 0.1.183 - 2026-04-07
+- Add substack post: Maps are becoming operating systems.
+
 ## 0.1.182 - 2026-04-07
 - Log veille mapping run (Gmail label empty; LIST.md empty; no URLs added/removed; no emails trashed).
 
