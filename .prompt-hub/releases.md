@@ -1,3 +1,6 @@
+## 0.1.184 - 2026-04-07
+- Finalize substack-post-recents tracking after commit/push.
+
 ## 0.1.183 - 2026-04-07
 - Add substack post: Maps are becoming operating systems.
 
