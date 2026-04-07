@@ -1,3 +1,6 @@
+## 0.1.187 - 2026-04-07
+- Fix veille mapping todo content after shell-escaping issue in generated markdown.
+
 ## 0.1.186 - 2026-04-07
 - Log veille mapping run (Gmail label empty; LIST.md unchanged; no URLs added/removed; no emails trashed).
 
