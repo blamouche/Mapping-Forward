@@ -1,3 +1,6 @@
+## 0.1.178 - 2026-04-07
+- Process article: TomTom vai deixar de atualizar sistemas de navegação antigos. (FETCH_ERROR: 404 maintenance mode)
+
 ## 0.1.177 - 2026-04-07
 - Process article: Bing Maps : Microsoft s’allie à TomTom pour rattraper Google Maps
 
