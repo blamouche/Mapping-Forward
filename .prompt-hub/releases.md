@@ -1,3 +1,6 @@
+## 0.1.175 - 2026-04-07
+- Restore clean repo state before veille-mapping run (add scheduled todo and sync tracking baseline).
+
 ## 0.1.174 - 2026-04-07
 - Veille mapping run: processed 1 Gmail alert, kept 2 mapping/navigation URLs, filtered 3 off-scope promo/finance links, updated LIST.md, and prepared Gmail trash.
 
