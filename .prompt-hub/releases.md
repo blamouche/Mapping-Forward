@@ -1,3 +1,6 @@
+## 0.1.179 - 2026-04-07
+- Process article: Google Maps brings real-time bus tracking to all of England - finally
+
 ## 0.1.178 - 2026-04-07
 - Process article: TomTom vai deixar de atualizar sistemas de navegação antigos. (FETCH_ERROR: 404 maintenance mode)
 
