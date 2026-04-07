@@ -1,3 +1,6 @@
+## 0.1.181 - 2026-04-07
+- Add batch recap: 2026-04-07 030134
+
 ## 0.1.180 - 2026-04-07
 - Process article: Esri ArcGIS meets Microsoft Dynamics 365 CRM: smarter map, smarter decisions. (FETCH_ERROR: 403 Cloudflare)
 
