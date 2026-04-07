@@ -1,3 +1,6 @@
+## 0.1.177 - 2026-04-07
+- Process article: Bing Maps : Microsoft s’allie à TomTom pour rattraper Google Maps
+
 ## 0.1.176 - 2026-04-07
 - Veille mapping run: processed 3 Gmail alerts, added 2 mapping URLs to LIST.md, removed 0 URLs, and trashed 3 emails.
 
