@@ -15,13 +15,14 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | ███████████ 32
+2026-04 | ███████████ 33
 
 ## Articles
 
 ### 2026
 
-#### April (32 articles)
+#### April (33 articles)
+- [HERE WeGo erleichtert die Planung von Fahrten mit Bus und Bahn](src/2026-04/20260407-here-wego-erleichtert-die-planung-von-fahrten-mit-bus-und-bahn.md)
 - [Bing Maps : Microsoft s’allie à TomTom pour rattraper Google Maps](src/2026-04/20260407-bing-maps-microsoft-allie-tomtom-rattraper-google-maps.md)
 - [Kedaulatan Data Geospasial Indonesia Dipertanyakan, Satelit Masih Dominasi Asing](src/2026-04/20260406-kedaulatan-data-geospasial-indonesia-dipertanyakan.md)
 - [I let Gemini in Google Maps plan my day and it went surprisingly well](src/2026-04/20260406-gemini-google-maps-plan-my-day.md)

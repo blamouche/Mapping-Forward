@@ -1,3 +1,6 @@
+## 0.1.196 - 2026-04-07
+- Process article: HERE WeGo erleichtert die Planung von Fahrten mit Bus und Bahn.
+
 ## 0.1.195 - 2026-04-07
 - Veille mapping run: processed 1 Gmail alert, kept 1 HERE WeGo mapping URL, filtered 1 YouTube/noise item, added 1 URL to LIST.md, removed 0 URLs after scope review, and trashed 1 email.
 
