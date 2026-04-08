@@ -5,10 +5,10 @@ Process Gmail label 0---veille-mapping, extract article URLs, update LIST.md, re
 
 ## Plan
 - [x] Review repo state and log task start
-- [ ] Extract mapping URLs from Gmail alerts
-- [ ] Sync repo and update LIST.md with dedupe + scope filtering
-- [ ] Commit/push required changes with version/release updates
-- [ ] Trash processed emails and record run summary
+- [x] Extract mapping URLs from Gmail alerts
+- [x] Sync repo and update LIST.md with dedupe + scope filtering
+- [x] Commit/push required changes with version/release updates
+- [x] Trash processed emails and record run summary
 
 ## Review
-- Pending
+- Completed: 1 processed email, 1 URL added, 0 URLs removed, email trashed, repo pushed cleanly.

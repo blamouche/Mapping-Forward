@@ -1,9 +1,1 @@
-{
-  "messages_found": 0,
-  "urls_extracted": 0,
-  "urls_added_unique": 0,
-  "urls_removed_scope": 0,
-  "emails_trashed": 0,
-  "final_list_count": 0,
-  "todo": "/Users/openclaw/github/Mapping-Forward/.prompt-hub/todo/todo-20260408-200445-daily-veille-maps-extraire-urls-de-gmail.md"
-}
+{"processedEmails":1,"addedUrls":1,"removedUrls":0,"trashedEmails":1,"keptUrls":["https://spatialhighlights.com/news/big-akui-belum-punya-kedaulatan-data-data-satelit-lengkap-masih-dikendalikan-asing"]}
