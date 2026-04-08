@@ -1,3 +1,6 @@
+## 0.1.211 - 2026-04-08
+- Process article: Google Maps can now write captions for your photos using AI
+
 ## 0.1.210 - 2026-04-08
 - Process article: 3 updates that make contributing to Maps easier
 

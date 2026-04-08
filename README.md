@@ -15,13 +15,14 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | █████████████ 37
+2026-04 | █████████████ 38
 
 ## Articles
 
 ### 2026
 
-#### April (37 articles)
+#### April (38 articles)
+- [Google Maps can now write captions for your photos using AI](src/2026-04/20260407-google-maps-can-now-write-captions-for-your-photos-using-ai.md)
 - [3 updates that make contributing to Maps easier](src/2026-04/20260407-3-updates-that-make-contributing-to-maps-easier.md)
 - [Bing Maps s'allie à TomTom pour une mise à jour majeure de ses données](src/2026-04/20260407-bing-maps-sallie-a-tomtom-pour-une-mise-a-jour-majeure-de-ses-donnees.md)
 - [TomTom integrates traffic info with Locus platform](src/2026-04/20260408-tomtom-integrates-traffic-info-with-locus-platform.md)
