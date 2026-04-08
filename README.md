@@ -15,13 +15,14 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | ██████████████ 40
+2026-04 | ██████████████ 41
 
 ## Articles
 
 ### 2026
 
-#### April (40 articles)
+#### April (41 articles)
+- [Why Google's Latest AI Overhaul of Maps Is Forcing Enterprises to Rethink Local Discovery](src/2026-04/20260408-why-googles-latest-ai-overhaul-of-maps-is-forcing-enterprises-to-rethink-local-discovery.md)
 - [Google Maps wants to suggest review contributions using your photo library and Gemini](src/2026-04/20260407-google-maps-wants-to-suggest-review-contributions-using-your-photo-library-and-gemini.md)
 - [New Google Maps features: Local Guides redesign, AI captions, photo sharing](src/2026-04/20260408-new-google-maps-features-local-guides-redesign-ai-captions-photo-sharing.md)
 - [Google Maps can now write captions for your photos using AI](src/2026-04/20260407-google-maps-can-now-write-captions-for-your-photos-using-ai.md)
