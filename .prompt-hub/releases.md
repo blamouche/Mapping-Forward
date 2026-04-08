@@ -1,3 +1,6 @@
+## 0.1.226 - 2026-04-08
+- Log veille mapping empty run (repo clean/synced; Gmail label empty; LIST.md empty; no URLs added/removed; no emails trashed).
+
 ## 0.1.225 - 2026-04-08
 - Add veille-mapping todo for scheduled 16:04 CEST run and prepare clean sync baseline before Gmail extraction.
 
