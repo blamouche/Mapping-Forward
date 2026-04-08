@@ -15,13 +15,14 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | ████████████ 35
+2026-04 | ████████████ 36
 
 ## Articles
 
 ### 2026
 
-#### April (35 articles)
+#### April (36 articles)
+- [Bing Maps s'allie à TomTom pour une mise à jour majeure de ses données](src/2026-04/20260407-bing-maps-sallie-a-tomtom-pour-une-mise-a-jour-majeure-de-ses-donnees.md)
 - [TomTom integrates traffic info with Locus platform](src/2026-04/20260408-tomtom-integrates-traffic-info-with-locus-platform.md)
 - [Real-time speed limits for drivers and automation](src/2026-04/20260407-real-time-speed-limits-drivers-and-automation.md)
 - [HERE WeGo erleichtert die Planung von Fahrten mit Bus und Bahn](src/2026-04/20260407-here-wego-erleichtert-die-planung-von-fahrten-mit-bus-und-bahn.md)

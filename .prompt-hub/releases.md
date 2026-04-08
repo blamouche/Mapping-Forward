@@ -1,3 +1,6 @@
+## 0.1.205 - 2026-04-08
+- Process article: Bing Maps s'allie à TomTom pour une mise à jour majeure de ses données.
+
 ## 0.1.204 - 2026-04-08
 - Process article: TomTom integrates traffic info with Locus platform.
 
