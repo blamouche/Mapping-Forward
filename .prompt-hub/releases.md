@@ -1,3 +1,6 @@
+## 0.1.207 - 2026-04-08
+- Finalize scan-list tracking after push.
+
 ## 0.1.206 - 2026-04-08
 - Add batch recap: 2026-04-08 030139.
 
