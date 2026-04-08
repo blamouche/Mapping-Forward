@@ -1,3 +1,6 @@
+## 0.1.216 - 2026-04-08
+- Log veille mapping empty run (repo only had scheduled todo pending; Gmail label empty; LIST.md empty; no URLs added/removed; no emails trashed).
+
 ## 0.1.215 - 2026-04-08
 - Add batch recap: 2026-04-08 060759
 
