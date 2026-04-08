@@ -704,3 +704,7 @@
 
 ## 0.1.136 - 2026-04-04
 - Veille mapping cron (16:04 CET): blocked — Gmail auth invalid_grant (token expired/revoked). No URLs processed. Re-auth required.
+
+## 0.1.233 - 2026-04-09
+- Process article: BIG Akui Belum Punya Kedaulatan Data, Data Satelit Lengkap Masih Dikendalikan Asing
+
