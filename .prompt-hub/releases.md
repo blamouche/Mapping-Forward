@@ -1,3 +1,6 @@
+## 0.1.213 - 2026-04-08
+- Process article: Google Maps wants to suggest review contributions using your photo library and Gemini
+
 ## 0.1.212 - 2026-04-08
 - Process article: New Google Maps features: Local Guides redesign, AI captions, photo sharing
 
