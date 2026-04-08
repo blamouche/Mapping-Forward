@@ -1,3 +1,6 @@
+## 0.1.229 - 2026-04-08
+- Log veille mapping empty run (repo clean/synced; Gmail label empty; LIST.md empty; no URLs added/removed; no emails trashed).
+
 ## 0.1.228 - 2026-04-08
 - Log veille mapping empty run (repo cleaned via baseline commit; Gmail label empty; LIST.md empty; no URLs added/removed; no emails trashed).
 
