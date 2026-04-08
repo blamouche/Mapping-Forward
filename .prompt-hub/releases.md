@@ -1,3 +1,6 @@
+## 0.1.206 - 2026-04-08
+- Add batch recap: 2026-04-08 030139.
+
 ## 0.1.205 - 2026-04-08
 - Process article: Bing Maps s'allie à TomTom pour une mise à jour majeure de ses données.
 
