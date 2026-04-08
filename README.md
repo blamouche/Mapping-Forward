@@ -15,13 +15,14 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | ███████████ 33
+2026-04 | ████████████ 34
 
 ## Articles
 
 ### 2026
 
-#### April (33 articles)
+#### April (34 articles)
+- [Real-time speed limits for drivers and automation](src/2026-04/20260407-real-time-speed-limits-drivers-and-automation.md)
 - [HERE WeGo erleichtert die Planung von Fahrten mit Bus und Bahn](src/2026-04/20260407-here-wego-erleichtert-die-planung-von-fahrten-mit-bus-und-bahn.md)
 - [Bing Maps : Microsoft s’allie à TomTom pour rattraper Google Maps](src/2026-04/20260407-bing-maps-microsoft-allie-tomtom-rattraper-google-maps.md)
 - [Kedaulatan Data Geospasial Indonesia Dipertanyakan, Satelit Masih Dominasi Asing](src/2026-04/20260406-kedaulatan-data-geospasial-indonesia-dipertanyakan.md)
