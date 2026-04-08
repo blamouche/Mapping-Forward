@@ -1,3 +1,6 @@
+## 0.1.224 - 2026-04-08
+- Finalize scan-list empty-run tracking after commit/push.
+
 ## 0.1.223 - 2026-04-08
 - Log scan-list empty run (git pull --rebase up to date; LIST.md empty; no URLs processed).
 
