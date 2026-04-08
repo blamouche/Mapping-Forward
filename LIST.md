@@ -1,4 +1,3 @@
-https://blog.google/products-and-platforms/products/maps/contributor-updates/
 https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/
 https://searchengineland.com/google-maps-local-guides-ai-captions-redesign-photo-sharing-473778
 https://9to5google.com/2026/04/07/google-maps-to-suggest-photos-using-your-library/

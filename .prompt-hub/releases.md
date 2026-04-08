@@ -1,3 +1,6 @@
+## 0.1.210 - 2026-04-08
+- Process article: 3 updates that make contributing to Maps easier
+
 ## 0.1.209 - 2026-04-08
 - Veille mapping run: processed 1 Gmail alert, kept 5 mapping-domain URLs, filtered 5 off-scope/noise links, updated LIST.md, and trashed the processed email.
 
