@@ -1,3 +1,6 @@
+## 0.1.227 - 2026-04-08
+- Restore clean repo state before veille-mapping run (capture pending prompt-hub tracking and scheduled todo).
+
 ## 0.1.226 - 2026-04-08
 - Log veille mapping empty run (repo clean/synced; Gmail label empty; LIST.md empty; no URLs added/removed; no emails trashed).
 
