@@ -4,11 +4,11 @@
 - [x] Read .prompt-hub/memory.md
 - [x] Read .prompt-hub/releases.md
 - [x] Restore clean git state (commit/push any pending local changes if needed)
-- [ ] Search Gmail label `0---veille-mapping`
-- [ ] Extract article URLs and filter to mapping/cartography domain
-- [ ] Update `LIST.md` (normalize, dedupe, remove off-scope URLs)
-- [ ] Trash processed emails
-- [ ] Update prompt-hub tracking files, commit, and push
+- [x] Search Gmail label `0---veille-mapping`
+- [x] Extract article URLs and filter to mapping/cartography domain
+- [x] Update `LIST.md` (normalize, dedupe, remove off-scope URLs)
+- [x] Trash processed emails
+- [x] Update prompt-hub tracking files, commit, and push
 
 ## Plan
 1. Create and keep this task log updated.
