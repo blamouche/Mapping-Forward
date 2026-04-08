@@ -1,3 +1,6 @@
+## 0.1.204 - 2026-04-08
+- Process article: TomTom integrates traffic info with Locus platform.
+
 ## 0.1.203 - 2026-04-08
 - Process article: Real-time speed limits for drivers and automation.
 
