@@ -1,3 +1,6 @@
+## 0.1.208 - 2026-04-08
+- Add veille-mapping todo for scheduled 04:04 CEST run and restore a clean repo state before Gmail extraction.
+
 ## 0.1.207 - 2026-04-08
 - Finalize scan-list tracking after push.
 
