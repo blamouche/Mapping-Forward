@@ -734,3 +734,6 @@
 
 ## 0.1.242 - 2026-04-09
 - Process article: Google Maps : plus besoin de vous creuser la tête pour légender vos photos, Gemini s’en charge pour vous
+
+## 0.1.243 - 2026-04-09
+- Process article: Sur Google Maps, un nouveau système de guide très pratique au volant
