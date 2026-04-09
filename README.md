@@ -15,13 +15,14 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | ██████████████████ 52
+2026-04 | ██████████████████ 53
 
 ## Articles
 
 ### 2026
 
-#### April (52 articles)
+#### April (53 articles)
+- [Listening to the Land, and the People Who Know It Best](src/2026-04/20260408-listening-to-the-land-and-the-people-who-know-it-best.md)
 - [The Map Is Never Finished](src/2026-04/20260408-the-map-is-never-finished.md)
 - [Google Maps gets Gemini-powered captions, faster photo and video sharing, and contribution tracking](src/2026-04/20260408-google-maps-gets-gemini-powered-captions-faster-photo-video-sharing-and-contribution-tracking.md)
 - [Google Maps rolls out AI-generated captions for shared photos](src/2026-04/20260409-google-maps-rolls-out-ai-generated-captions-for-shared-photos.md)

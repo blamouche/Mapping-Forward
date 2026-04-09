@@ -1,3 +1,6 @@
+## 0.1.260 - 2026-04-09
+- Process article: Listening to the Land, and the People Who Know It Best
+
 ## 0.1.259 - 2026-04-09
 - Process article: The Map Is Never Finished
 
