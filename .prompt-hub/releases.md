@@ -1,3 +1,6 @@
+## 0.1.258 - 2026-04-09
+- Veille mapping run: processed 1 Gmail alert, kept 2 Geo Week geospatial URLs, filtered 3 off-scope/local-profile items, updated LIST.md, and trashed the processed email.
+
 ## 0.1.257 - 2026-04-09
 - Restore clean repo state before veille-mapping run (add scheduled todo and tracking baseline for the 14:05 CEST cron).
 
