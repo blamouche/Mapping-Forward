@@ -752,3 +752,6 @@
 
 ## 0.1.248 - 2026-04-09
 - Process article: Google Maps gets Gemini-powered captions, faster photo and video sharing, and contribution tracking
+
+## 0.1.249 - 2026-04-09
+- Add batch recap: 2026-04-09 030151

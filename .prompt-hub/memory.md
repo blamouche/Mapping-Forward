@@ -449,3 +449,5 @@ next: Re-auth required — `gog auth add b.lamouche@gmail.com` (browser flow)
 - 2026-04-09 03:18 CEST | agent | WebFetch failed for PCMag (403 Cloudflare); removed URL from LIST.md and logged FETCH_ERROR for batch recap. | Files: LIST.md, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: partial | Next: Continue scan-list.
 
 - 2026-04-09 03:20 CEST | agent | Processed article: Google Maps gets Gemini-powered captions, faster photo and video sharing, and contribution tracking. | Files: src/2026-04/20260408-google-maps-gets-gemini-powered-captions-faster-photo-video-sharing-and-contribution-tracking.md, README.md, LIST.md, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: Continue scan-list.
+
+- 2026-04-09 03:21 CEST | agent | Created batch recap for scan-list run (9 syntheses, 1 errors), verified recap contents, and confirmed LIST.md empty. | Files: synthesis/2026-04-09 - 030151 - batch recap.md, LIST.md, .prompt-hub/todo/todo-20260409-030151-scan-list.md, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: Push all commits.
