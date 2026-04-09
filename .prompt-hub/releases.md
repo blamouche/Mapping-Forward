@@ -749,3 +749,6 @@
 
 ## 0.1.247 - 2026-04-09
 - Process article: Google Maps Will Now Suggest AI Captions for Your Photo Uploads (FETCH_ERROR: 403 Cloudflare)
+
+## 0.1.248 - 2026-04-09
+- Process article: Google Maps gets Gemini-powered captions, faster photo and video sharing, and contribution tracking
