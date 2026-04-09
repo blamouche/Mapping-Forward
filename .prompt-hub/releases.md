@@ -725,3 +725,6 @@
 
 ## 0.1.239 - 2026-04-09
 - Process article: TomTom GO Navigation: Essential GPS for Drivers Worldwide
+
+## 0.1.240 - 2026-04-09
+- Process article: Mise à jour de Google Maps : 3 nouveautés débarquent, dont un nouveau profil « doré » très spécial
