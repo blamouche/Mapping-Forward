@@ -740,3 +740,6 @@
 
 ## 0.1.244 - 2026-04-09
 - Process article: Avec ces nouvelles fonctions, contribuer à Google Maps devient un jeu d'enfant
+
+## 0.1.245 - 2026-04-09
+- Process article: High-resolution distribution map of apple orchards in China based on multisource data
