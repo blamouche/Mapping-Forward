@@ -15,13 +15,14 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | █████████████████ 49
+2026-04 | █████████████████ 50
 
 ## Articles
 
 ### 2026
 
-#### April (49 articles)
+#### April (50 articles)
+- [Google Maps rolls out AI-generated captions for shared photos](src/2026-04/20260409-google-maps-rolls-out-ai-generated-captions-for-shared-photos.md)
 - [High-resolution distribution map of apple orchards in China based on multisource data](src/2026-04/20260407-high-resolution-distribution-map-of-apple-orchards-in-china-based-on-multisource-data.md)
 - [Avec ces nouvelles fonctions, contribuer à Google Maps devient un jeu d'enfant](src/2026-04/20260408-avec-ces-nouvelles-fonctions-contribuer-a-google-maps-devient-un-jeu-denfant.md)
 - [Sur Google Maps, un nouveau système de guide très pratique au volant](src/2026-04/20260408-sur-google-maps-un-nouveau-systeme-de-guide-tres-pratique-au-volant.md)

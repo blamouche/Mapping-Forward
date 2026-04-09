@@ -743,3 +743,6 @@
 
 ## 0.1.245 - 2026-04-09
 - Process article: High-resolution distribution map of apple orchards in China based on multisource data
+
+## 0.1.246 - 2026-04-09
+- Process article: Google Maps rolls out AI-generated captions for shared photos
