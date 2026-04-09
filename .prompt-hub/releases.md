@@ -728,3 +728,6 @@
 
 ## 0.1.240 - 2026-04-09
 - Process article: Mise à jour de Google Maps : 3 nouveautés débarquent, dont un nouveau profil « doré » très spécial
+
+## 0.1.241 - 2026-04-09
+- Process article: Google Maps : vos photos, vos avis et votre profil Local Guide, tout change dans la dernière mise à jour

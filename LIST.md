@@ -1,4 +1,3 @@
-https://www.lesnumeriques.com/gps/google-maps-vos-photos-vos-avis-et-votre-profil-local-guide-tout-change-dans-la-derniere-mise-a-jour-n254048.html
 https://www.phonandroid.com/google-maps-plus-besoin-de-vous-creuser-la-tete-pour-legender-vos-photos-gemini-sen-charge-pour-vous.html
 https://www.capital.fr/auto/sur-google-maps-un-nouveau-systeme-de-guide-tres-pratique-au-volant-1525377
 https://www.clubic.com/actualite-608077-avec-ces-nouvelles-fonctions-contribuer-a-google-maps-devient-un-jeu-d-enfant.html
