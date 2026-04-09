@@ -1,3 +1,6 @@
+## 0.1.269 - 2026-04-10
+- Veille mapping run: processed 4 Gmail alerts, kept 5 mapping/cartography URLs, removed 0 off-scope URLs from LIST.md after review, updated LIST.md, and prepared Gmail trash.
+
 ## 0.1.268 - 2026-04-10
 - Log scan-list empty run (git pull --rebase up to date; LIST.md empty; no URLs processed).
 
