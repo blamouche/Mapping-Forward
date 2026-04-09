@@ -1,3 +1,6 @@
+## 0.1.259 - 2026-04-09
+- Process article: The Map Is Never Finished
+
 ## 0.1.258 - 2026-04-09
 - Veille mapping run: processed 1 Gmail alert, kept 2 Geo Week geospatial URLs, filtered 3 off-scope/local-profile items, updated LIST.md, and trashed the processed email.
 
