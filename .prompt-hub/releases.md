@@ -1,3 +1,6 @@
+## 0.1.256 - 2026-04-09
+- Restore clean repo state before veille-mapping run (capture scheduled todo and pending tracking changes).
+
 ## 0.1.255 - 2026-04-09
 - Log scan-list empty run (git pull --rebase up to date; LIST.md empty; no URLs processed).
 
