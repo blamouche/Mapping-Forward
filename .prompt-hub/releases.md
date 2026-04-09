@@ -737,3 +737,6 @@
 
 ## 0.1.243 - 2026-04-09
 - Process article: Sur Google Maps, un nouveau système de guide très pratique au volant
+
+## 0.1.244 - 2026-04-09
+- Process article: Avec ces nouvelles fonctions, contribuer à Google Maps devient un jeu d'enfant

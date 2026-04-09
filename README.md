@@ -15,13 +15,14 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | ████████████████ 47
+2026-04 | ████████████████ 48
 
 ## Articles
 
 ### 2026
 
-#### April (47 articles)
+#### April (48 articles)
+- [Avec ces nouvelles fonctions, contribuer à Google Maps devient un jeu d'enfant](src/2026-04/20260408-avec-ces-nouvelles-fonctions-contribuer-a-google-maps-devient-un-jeu-denfant.md)
 - [Sur Google Maps, un nouveau système de guide très pratique au volant](src/2026-04/20260408-sur-google-maps-un-nouveau-systeme-de-guide-tres-pratique-au-volant.md)
 - [Google Maps : plus besoin de vous creuser la tête pour légender vos photos, Gemini s’en charge pour vous](src/2026-04/20260408-google-maps-plus-besoin-de-vous-creuser-la-tete-pour-legender-vos-photos-gemini-sen-charge-pour-vous.md)
 - [Google Maps : vos photos, vos avis et votre profil Local Guide, tout change dans la dernière mise à jour](src/2026-04/20260408-google-maps-vos-photos-vos-avis-et-votre-profil-local-guide-tout-change-dans-la-derniere-mise-a-jour.md)
