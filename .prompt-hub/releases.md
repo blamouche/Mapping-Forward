@@ -1,3 +1,6 @@
+## 0.1.257 - 2026-04-09
+- Restore clean repo state before veille-mapping run (add scheduled todo and tracking baseline for the 14:05 CEST cron).
+
 ## 0.1.256 - 2026-04-09
 - Restore clean repo state before veille-mapping run (capture scheduled todo and pending tracking changes).
 
