@@ -746,3 +746,6 @@
 
 ## 0.1.246 - 2026-04-09
 - Process article: Google Maps rolls out AI-generated captions for shared photos
+
+## 0.1.247 - 2026-04-09
+- Process article: Google Maps Will Now Suggest AI Captions for Your Photo Uploads (FETCH_ERROR: 403 Cloudflare)
