@@ -723,3 +723,5 @@
 ## 0.1.234 - 2026-04-09
 - Add batch recap: 2026-04-09 000100
 
+## 0.1.239 - 2026-04-09
+- Process article: TomTom GO Navigation: Essential GPS for Drivers Worldwide

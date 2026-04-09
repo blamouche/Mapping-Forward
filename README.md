@@ -15,13 +15,14 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | ██████████████ 42
+2026-04 | ███████████████ 43
 
 ## Articles
 
 ### 2026
 
-#### April (42 articles)
+#### April (43 articles)
+- [TomTom GO Navigation: Essential GPS for Drivers Worldwide](src/2026-04/20260409-tomtom-go-navigation-essential-gps-for-drivers-worldwide.md)
 - [BIG Akui Belum Punya Kedaulatan Data, Data Satelit Lengkap Masih Dikendalikan Asing](src/2026-04/20260406-big-akui-belum-punya-kedaulatan-data-data-satelit-lengkap-masih-dikendalikan-asing.md)
 - [Why Google's Latest AI Overhaul of Maps Is Forcing Enterprises to Rethink Local Discovery](src/2026-04/20260408-why-googles-latest-ai-overhaul-of-maps-is-forcing-enterprises-to-rethink-local-discovery.md)
 - [Google Maps wants to suggest review contributions using your photo library and Gemini](src/2026-04/20260407-google-maps-wants-to-suggest-review-contributions-using-your-photo-library-and-gemini.md)

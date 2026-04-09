@@ -1,4 +1,3 @@
-https://www.ad-hoc-news.de/boerse/news/ueberblick/tomtom-go-navigation-essential-gps-for-drivers-worldwide/69101360
 https://www.01net.com/actualites/mise-a-jour-google-maps-3-nouveautes-debarquent-dont-nouveau-profil-dore-tres-special.html
 https://www.lesnumeriques.com/gps/google-maps-vos-photos-vos-avis-et-votre-profil-local-guide-tout-change-dans-la-derniere-mise-a-jour-n254048.html
 https://www.phonandroid.com/google-maps-plus-besoin-de-vous-creuser-la-tete-pour-legender-vos-photos-gemini-sen-charge-pour-vous.html
