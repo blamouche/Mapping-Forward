@@ -15,13 +15,14 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | ███████████████ 45
+2026-04 | ████████████████ 46
 
 ## Articles
 
 ### 2026
 
-#### April (45 articles)
+#### April (46 articles)
+- [Google Maps : plus besoin de vous creuser la tête pour légender vos photos, Gemini s’en charge pour vous](src/2026-04/20260408-google-maps-plus-besoin-de-vous-creuser-la-tete-pour-legender-vos-photos-gemini-sen-charge-pour-vous.md)
 - [Google Maps : vos photos, vos avis et votre profil Local Guide, tout change dans la dernière mise à jour](src/2026-04/20260408-google-maps-vos-photos-vos-avis-et-votre-profil-local-guide-tout-change-dans-la-derniere-mise-a-jour.md)
 - [Mise à jour de Google Maps : 3 nouveautés débarquent, dont un nouveau profil « doré » très spécial](src/2026-04/20260408-mise-a-jour-google-maps-3-nouveautes-debarquent-dont-un-nouveau-profil-dore-tres-special.md)
 - [TomTom GO Navigation: Essential GPS for Drivers Worldwide](src/2026-04/20260409-tomtom-go-navigation-essential-gps-for-drivers-worldwide.md)

@@ -731,3 +731,6 @@
 
 ## 0.1.241 - 2026-04-09
 - Process article: Google Maps : vos photos, vos avis et votre profil Local Guide, tout change dans la dernière mise à jour
+
+## 0.1.242 - 2026-04-09
+- Process article: Google Maps : plus besoin de vous creuser la tête pour légender vos photos, Gemini s’en charge pour vous

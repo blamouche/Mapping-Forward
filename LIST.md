@@ -1,4 +1,3 @@
-https://www.phonandroid.com/google-maps-plus-besoin-de-vous-creuser-la-tete-pour-legender-vos-photos-gemini-sen-charge-pour-vous.html
 https://www.capital.fr/auto/sur-google-maps-un-nouveau-systeme-de-guide-tres-pratique-au-volant-1525377
 https://www.clubic.com/actualite-608077-avec-ces-nouvelles-fonctions-contribuer-a-google-maps-devient-un-jeu-d-enfant.html
 https://www.nature.com/articles/s41597-026-07197-0
