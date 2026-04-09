@@ -1,3 +1,6 @@
+## 0.1.250 - 2026-04-09
+- Log veille mapping empty run (repo clean/synced; Gmail label empty; LIST.md unchanged; no URLs added/removed; no emails trashed).
+
 ## 0.1.238 - 2026-04-09
 - Veille mapping run: processed 2 Gmail alerts, kept 9 new mapping/cartography URLs, removed 0 URLs from LIST.md after scope review, updated LIST.md, and trashed the processed emails.
 
