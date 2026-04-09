@@ -1,3 +1,6 @@
+## 0.1.253 - 2026-04-09
+- Log scan-list empty run (git pull --rebase up to date; LIST.md empty; no URLs processed).
+
 ## 0.1.252 - 2026-04-09
 - Log scan-list empty run (git pull --rebase up to date; LIST.md empty; no URLs processed).
 
