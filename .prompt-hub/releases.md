@@ -1,3 +1,6 @@
+## 0.1.275 - 2026-04-10
+- Add batch recap: 2026-04-10 030136
+
 ## 0.1.274 - 2026-04-10
 - Process article: Retirement of custom widgets in ArcGIS Experience Builder built with Maps SDK for JavaScript
 
