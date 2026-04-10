@@ -1,3 +1,6 @@
+## 0.1.292 - 2026-04-10
+- Process article: Bing Maps : Microsoft s’allie à TomTom pour rattraper Google Maps
+
 ## 0.1.291 - 2026-04-10
 - Log veille mapping empty run (repo clean/synced; Gmail label empty with include-body/json; LIST.md kept 2 in-scope Bing Maps/TomTom URLs; no URLs added/removed; no emails trashed).
 
