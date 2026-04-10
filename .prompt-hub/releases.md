@@ -1,3 +1,6 @@
+## 0.1.293 - 2026-04-10
+- Process article: Bing Maps s'allie à TomTom pour une mise à jour majeure de ses données
+
 ## 0.1.292 - 2026-04-10
 - Process article: Bing Maps : Microsoft s’allie à TomTom pour rattraper Google Maps
 
