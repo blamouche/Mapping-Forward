@@ -1,7 +1,15 @@
 {
-  "processedEmails": 0,
-  "addedUrls": 0,
-  "removedUrls": 0,
-  "trashedEmails": 0,
-  "keptUrls": []
+  "runAt": "2026-04-10T10:05:00+02:00",
+  "gmailQuery": "label:0---veille-mapping",
+  "messagesFound": 0,
+  "candidateUrls": 0,
+  "urlsAdded": 0,
+  "urlsRemoved": 0,
+  "emailsTrashed": 0,
+  "listChanged": false,
+  "repoWasDirty": false,
+  "notes": [
+    "Gmail label returned no messages even with include-body/json.",
+    "LIST.md remained empty after scope review."
+  ]
 }
