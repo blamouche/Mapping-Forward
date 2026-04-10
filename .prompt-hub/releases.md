@@ -1,3 +1,6 @@
+## 0.1.289 - 2026-04-10
+- Veille mapping run: processed 1 Gmail alert, kept 2 mapping URLs about the Bing Maps/TomTom/Overture update, filtered 2 off-scope URLs, updated LIST.md, and trashed the processed email.
+
 ## 0.1.288 - 2026-04-10
 - Add veille-mapping todo for scheduled 18:11 CEST run and restore a clean repo baseline before Gmail extraction.
 

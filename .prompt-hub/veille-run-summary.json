@@ -1,12 +1,17 @@
 {
-  "timestamp": "2026-04-10T16:04:00+02:00",
+  "timestamp": "2026-04-10T18:11:00+02:00",
   "gmailMessages": 1,
-  "candidateUrls": 1,
-  "urlsAdded": 0,
+  "candidateUrls": 4,
+  "urlsAdded": 2,
   "urlsRemoved": 0,
-  "urlsKept": 0,
+  "urlsKept": 2,
   "trashedEmails": 1,
   "notes": [
-    "Filtered out a local railway contract/project-monitoring article as off-scope for the cartography/domain watchlist."
+    "Filtered out the GeekWire executive-moves article because Overture Maps was only a passing mention.",
+    "Filtered out the AirGuide supersonic-travel article because it is unrelated to cartography/geospatial data despite the word Overture."
+  ],
+  "keptUrls": [
+    "https://www.01net.com/actualites/bing-maps-microsoft-allie-tomtom-rattraper-google-maps.html",
+    "https://www.generation-nt.com/actualites/bing-maps-tomtom-orbis-microsoft-copilot-donnees-2073589"
   ]
 }
