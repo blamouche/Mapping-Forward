@@ -1,3 +1,6 @@
+## 0.1.273 - 2026-04-10
+- Process article: Google Upgrades Maps Features With More Gemini and Faster Photo Uploads
+
 ## 0.1.272 - 2026-04-10
 - Process article: TomTom launches Unified Speed Restrictions for higher-precision speed data across ISA, ADAS and automation
 
