@@ -1,3 +1,6 @@
+## 0.1.291 - 2026-04-10
+- Log veille mapping empty run (repo clean/synced; Gmail label empty with include-body/json; LIST.md kept 2 in-scope Bing Maps/TomTom URLs; no URLs added/removed; no emails trashed).
+
 ## 0.1.290 - 2026-04-10
 - Add veille-mapping todo for scheduled 20:04 CEST run and restore a clean repo baseline before Gmail extraction.
 
