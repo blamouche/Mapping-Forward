@@ -1,17 +1,14 @@
 {
-  "timestamp": "2026-04-10T20:04:00+02:00",
+  "timestamp": "2026-04-10T22:04:00+02:00",
   "gmailMessages": 0,
   "candidateUrls": 0,
   "urlsAdded": 0,
   "urlsRemoved": 0,
-  "urlsKept": 2,
+  "urlsKept": 0,
   "trashedEmails": 0,
   "notes": [
     "Gmail label 0---veille-mapping was empty even with include-body JSON search.",
-    "Reviewed LIST.md and kept both existing Bing Maps/TomTom URLs because they remain in scope."
+    "LIST.md was already empty after the 21:01 scan-list run, so no scope cleanup was required."
   ],
-  "keptUrls": [
-    "https://www.01net.com/actualites/bing-maps-microsoft-allie-tomtom-rattraper-google-maps.html",
-    "https://www.generation-nt.com/actualites/bing-maps-tomtom-orbis-microsoft-copilot-donnees-2073589"
-  ]
+  "keptUrls": []
 }
