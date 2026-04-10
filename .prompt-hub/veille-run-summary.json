@@ -7,6 +7,7 @@
   "emailsTrashed": 1,
   "notes": [
     "Filtered the only candidate URL as off-scope: horse-racing article triggered by “Here maps”.",
-    "LIST.md unchanged after scope review."
+    "LIST.md unchanged after scope review.",
+    "Processed Gmail alert moved to Trash after correcting the gog batch modify flag syntax."
   ]
 }

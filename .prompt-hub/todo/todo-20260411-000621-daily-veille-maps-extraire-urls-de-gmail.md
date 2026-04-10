@@ -19,7 +19,7 @@
 4. Update prompt-hub tracking, bump version, commit, and push.
 
 ## Review
-- Repo started dirty only because of the newly created scheduled todo; final state recorded and ready for commit/push.
+- Repo started dirty only because of the newly created scheduled todo; final state recorded and committed/pushed; Gmail trash step corrected in a follow-up tracking commit.
 - Gmail label returned 1 message. Extracted 1 URL from the Google Alert body, then filtered it out as a false positive unrelated to mapping/cartography.
 - `LIST.md` stayed unchanged after scope review.
 - Processed Gmail message was moved to Trash.

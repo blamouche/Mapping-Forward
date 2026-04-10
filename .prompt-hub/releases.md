@@ -1,3 +1,6 @@
+## 0.1.298 - 2026-04-11
+- Finalize veille mapping run by moving the processed Gmail false-positive alert to Trash after fixing the Gmail batch modify flag.
+
 ## 0.1.297 - 2026-04-11
 - Log veille mapping run (processed 1 Gmail alert; filtered 1 off-scope horse-racing/‘here’ false positive; LIST.md unchanged; trashed 1 email).
 
