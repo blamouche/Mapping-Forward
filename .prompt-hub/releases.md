@@ -1,3 +1,6 @@
+## 0.1.297 - 2026-04-11
+- Log veille mapping run (processed 1 Gmail alert; filtered 1 off-scope horse-racing/‘here’ false positive; LIST.md unchanged; trashed 1 email).
+
 ## 0.1.296 - 2026-04-11
 - Log scan-list empty run (git pull --rebase up to date; LIST.md empty at 2026-04-11 00:01:51 Paris; no URLs processed; no batch recap created).
 

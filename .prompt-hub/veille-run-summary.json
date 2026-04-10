@@ -1,14 +1,12 @@
 {
-  "timestamp": "2026-04-10T22:04:00+02:00",
-  "gmailMessages": 0,
-  "candidateUrls": 0,
+  "timestamp": "2026-04-11T00:16:00+02:00",
+  "gmailMessagesProcessed": 1,
+  "candidateUrlsExtracted": 1,
   "urlsAdded": 0,
   "urlsRemoved": 0,
-  "urlsKept": 0,
-  "trashedEmails": 0,
+  "emailsTrashed": 1,
   "notes": [
-    "Gmail label 0---veille-mapping was empty even with include-body JSON search.",
-    "LIST.md was already empty after the 21:01 scan-list run, so no scope cleanup was required."
-  ],
-  "keptUrls": []
+    "Filtered the only candidate URL as off-scope: horse-racing article triggered by “Here maps”.",
+    "LIST.md unchanged after scope review."
+  ]
 }
