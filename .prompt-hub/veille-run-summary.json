@@ -1,11 +1,12 @@
 {
-  "ranAt": "2026-04-10T14:04:00+02:00",
-  "gmailQuery": "label:0---veille-mapping",
-  "messagesProcessed": 0,
+  "timestamp": "2026-04-10T16:04:00+02:00",
+  "gmailMessages": 1,
+  "candidateUrls": 1,
   "urlsAdded": 0,
   "urlsRemoved": 0,
-  "emailsTrashed": 0,
-  "repoState": "clean/synced",
-  "listState": "empty",
-  "status": "success"
+  "urlsKept": 0,
+  "trashedEmails": 1,
+  "notes": [
+    "Filtered out a local railway contract/project-monitoring article as off-scope for the cartography/domain watchlist."
+  ]
 }
