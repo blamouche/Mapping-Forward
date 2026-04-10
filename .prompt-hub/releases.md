@@ -1,3 +1,6 @@
+## 0.1.274 - 2026-04-10
+- Process article: Retirement of custom widgets in ArcGIS Experience Builder built with Maps SDK for JavaScript
+
 ## 0.1.273 - 2026-04-10
 - Process article: Google Upgrades Maps Features With More Gemini and Faster Photo Uploads
 
