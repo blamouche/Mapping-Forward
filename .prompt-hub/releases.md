@@ -1,3 +1,6 @@
+## 0.1.272 - 2026-04-10
+- Process article: TomTom launches Unified Speed Restrictions for higher-precision speed data across ISA, ADAS and automation
+
 ## 0.1.271 - 2026-04-10
 - Process article: Google réinvente Maps avec l’IA conversationnelle et la navigation immersive
 
