@@ -1,3 +1,6 @@
+## 0.1.271 - 2026-04-10
+- Process article: Google réinvente Maps avec l’IA conversationnelle et la navigation immersive
+
 ## 0.1.270 - 2026-04-10
 - Veille mapping run: Gmail label `0---veille-mapping` empty; reviewed pending LIST.md items, removed 1 local Quebec flood-mapping article as out of scope, kept 4 cartography/domain URLs, and trashed no emails.
 

@@ -11,6 +11,12 @@ Technical watch for mapping and geographical intelligence
 
 Articles per month:
 
+2026-04 | ██████████████████ 54<br>
+2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
+2026-02 | ████████████ 35<br>
+2026-01 | █████████ 27<br>
+2025-12 | █ 1
+
 2025-12 | █ 1<br>
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
@@ -21,7 +27,8 @@ Articles per month:
 
 ### 2026
 
-#### April (53 articles)
+#### April (54 articles)
+- [Google réinvente Maps avec l’IA conversationnelle et la navigation immersive](src/2026-04/20260409-google-reinvente-maps-avec-lia-conversationnelle-et-la-navigation-immersive.md)
 - [Listening to the Land, and the People Who Know It Best](src/2026-04/20260408-listening-to-the-land-and-the-people-who-know-it-best.md)
 - [The Map Is Never Finished](src/2026-04/20260408-the-map-is-never-finished.md)
 - [Google Maps gets Gemini-powered captions, faster photo and video sharing, and contribution tracking](src/2026-04/20260408-google-maps-gets-gemini-powered-captions-faster-photo-video-sharing-and-contribution-tracking.md)
