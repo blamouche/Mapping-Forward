@@ -1,11 +1,11 @@
 {
-  "ranAt": "2026-04-10T12:04:00+02:00",
+  "ranAt": "2026-04-10T14:04:00+02:00",
   "gmailQuery": "label:0---veille-mapping",
   "messagesProcessed": 0,
   "urlsAdded": 0,
   "urlsRemoved": 0,
   "emailsTrashed": 0,
-  "repoState": "clean",
+  "repoState": "clean/synced",
   "listState": "empty",
   "status": "success"
 }
