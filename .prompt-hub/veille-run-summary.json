@@ -1,14 +1,13 @@
 {
-  "timestamp": "2026-04-11T02:04:00+02:00",
-  "gmailMessagesProcessed": 3,
-  "candidateUrlsExtracted": 29,
-  "urlsAdded": 4,
+  "timestamp": "2026-04-11T04:04:00+02:00",
+  "gmailMessagesProcessed": 0,
+  "candidateUrlsExtracted": 0,
+  "urlsAdded": 0,
   "urlsRemoved": 0,
-  "emailsTrashed": 3,
+  "emailsTrashed": 0,
   "notes": [
-    "Kept 4 in-scope URLs for Google Maps / TomTom / ADAS mapping coverage.",
-    "Filtered 25 off-scope, local-event, finance, promo, YouTube, Instagram, or non-cartography links.",
-    "LIST.md was empty before the run and contains 4 URLs after dedupe.",
-    "Processed Gmail alerts were moved to Trash via gog gmail batch modify --add TRASH."
+    "Gmail label 0---veille-mapping returned no messages with include-body/json.",
+    "LIST.md was verified empty and remained unchanged after scope review.",
+    "Repo was already clean/synced before tracking updates; only the scheduled todo and tracking files changed."
   ]
 }
