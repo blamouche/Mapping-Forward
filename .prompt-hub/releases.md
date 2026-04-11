@@ -1,3 +1,6 @@
+## 0.1.318 - 2026-04-11
+- Add batch recap: 2026-04-11 150101
+
 ## 0.1.317 - 2026-04-11
 - Process article: EU Esri Brasil 2026 reúne ArcelorMittal, EDP Energia e autoridades GIS na discussão sobre GeoIA e Modelagem Digital
 
