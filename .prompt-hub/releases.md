@@ -902,3 +902,6 @@
 
 ## 0.1.249 - 2026-04-09
 - Add batch recap: 2026-04-09 030151
+
+## 0.1.299 - 2026-04-11
+- Add veille-mapping todo for scheduled 02:04 CEST run and restore a clean repo baseline before Gmail extraction.
