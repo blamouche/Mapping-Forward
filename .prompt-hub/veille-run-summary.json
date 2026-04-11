@@ -1,16 +1,12 @@
 {
-  "timestamp": "2026-04-11T14:05:02.608236",
+  "timestamp": "2026-04-11T16:07:38.850220+00:00",
   "messages_found": 0,
   "message_ids": [],
   "candidate_urls": 0,
   "kept_new_urls": [],
   "kept_new_count": 0,
-  "removed_existing_urls": [
-    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2251000&reg=3&lang=1",
-    "https://theprint.in/india/states-uts-asked-to-speed-up-forest-boundary-digitisation-at-national-authority-campa-workshop/2901984",
-    "https://observervoice.com/india-launches-national-workshop-to-digitize-forest-boundaries-198736"
-  ],
-  "removed_existing_count": 3,
+  "removed_existing_urls": [],
+  "removed_existing_count": 0,
   "filtered_out": [],
-  "final_list_count": 2
+  "final_list_count": 0
 }

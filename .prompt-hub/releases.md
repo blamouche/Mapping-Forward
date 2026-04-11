@@ -1,3 +1,6 @@
+## 0.1.320 - 2026-04-11
+- Log veille mapping empty run (repo clean/synced; Gmail label `0---veille-mapping` empty; `LIST.md` empty after scope review; no URLs added/removed; no emails trashed).
+
 ## 0.1.319 - 2026-04-11
 - Log scan-list empty run (git pull --rebase up to date; LIST.md empty at 2026-04-11 18:02:06 Paris; no URLs processed; no batch recap created).
 
