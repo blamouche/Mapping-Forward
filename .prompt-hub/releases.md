@@ -1,3 +1,6 @@
+## 0.1.305 - 2026-04-11
+- Add batch recap: 2026-04-11 030604
+
 ## 0.1.304 - 2026-04-11
 - Process article: TomTom helpt ADAS met juiste maximumsnelheid
 

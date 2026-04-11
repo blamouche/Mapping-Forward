@@ -541,3 +541,5 @@ next: Re-auth required — `gog auth add b.lamouche@gmail.com` (browser flow)
 - 2026-04-11 03:06 CEST | agent | Processed article: TomTom, Netherlands, presents high-precision speed restrictions for ISA, ADAS, and automation. | Files: src/2026-04/20260410-tomtom-netherlands-presents-high-precision-speed-restrictions-for-isa-adas-and-automation.md, README.md, LIST.md, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: Continue scan-list.
 
 - 2026-04-11 03:06 CEST | agent | Processed article: TomTom helpt ADAS met juiste maximumsnelheid. | Files: src/2026-04/20260411-tomtom-helpt-adas-met-juiste-maximumsnelheid.md, README.md, LIST.md, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: Continue scan-list.
+
+- 2026-04-11 03:06 CEST | agent | Created batch recap for scan-list run (4 syntheses, 0 errors), verified recap contents, and confirmed LIST.md empty. | Files: synthesis/2026-04-11 - 030604 - batch recap.md, LIST.md, .prompt-hub/todo/todo-20260411-030202-scan-list.md, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: none.
