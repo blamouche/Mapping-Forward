@@ -15,13 +15,14 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | ████████████████████ 60
+2026-04 | █████████████████████ 61
 
 ## Articles
 
 ### 2026
 
-#### April (60 articles)
+#### April (61 articles)
+- [TomTom helpt ADAS met juiste maximumsnelheid](src/2026-04/20260411-tomtom-helpt-adas-met-juiste-maximumsnelheid.md)
 - [TomTom, Netherlands, presents high-precision speed restrictions for ISA, ADAS, and automation](src/2026-04/20260410-tomtom-netherlands-presents-high-precision-speed-restrictions-for-isa-adas-and-automation.md)
 - [13 Hidden Google Maps Features That Can Make Your Trips Better](src/2026-04/20260411-13-hidden-google-maps-features-that-can-make-your-trips-better.md)
 - [Google Maps se met à jour avec trois nouvelles fonctionnalités](src/2026-04/20260409-google-maps-se-met-a-jour-avec-trois-nouvelles-fonctionnalites.md)

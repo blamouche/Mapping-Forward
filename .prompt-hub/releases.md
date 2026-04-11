@@ -1,3 +1,6 @@
+## 0.1.304 - 2026-04-11
+- Process article: TomTom helpt ADAS met juiste maximumsnelheid
+
 ## 0.1.303 - 2026-04-11
 - Process article: TomTom, Netherlands, presents high-precision speed restrictions for ISA, ADAS, and automation
 

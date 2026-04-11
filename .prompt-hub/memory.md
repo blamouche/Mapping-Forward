@@ -539,3 +539,5 @@ next: Re-auth required — `gog auth add b.lamouche@gmail.com` (browser flow)
 - 2026-04-11 03:06 CEST | agent | Processed article: 13 Hidden Google Maps Features That Can Make Your Trips Better. | Files: src/2026-04/20260411-13-hidden-google-maps-features-that-can-make-your-trips-better.md, README.md, LIST.md, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: Continue scan-list.
 
 - 2026-04-11 03:06 CEST | agent | Processed article: TomTom, Netherlands, presents high-precision speed restrictions for ISA, ADAS, and automation. | Files: src/2026-04/20260410-tomtom-netherlands-presents-high-precision-speed-restrictions-for-isa-adas-and-automation.md, README.md, LIST.md, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: Continue scan-list.
+
+- 2026-04-11 03:06 CEST | agent | Processed article: TomTom helpt ADAS met juiste maximumsnelheid. | Files: src/2026-04/20260411-tomtom-helpt-adas-met-juiste-maximumsnelheid.md, README.md, LIST.md, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: Continue scan-list.
