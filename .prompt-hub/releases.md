@@ -1,3 +1,6 @@
+## 0.1.319 - 2026-04-11
+- Log scan-list empty run (git pull --rebase up to date; LIST.md empty at 2026-04-11 18:02:06 Paris; no URLs processed; no batch recap created).
+
 ## 0.1.318 - 2026-04-11
 - Add batch recap: 2026-04-11 150101
 
