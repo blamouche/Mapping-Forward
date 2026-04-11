@@ -10,7 +10,7 @@
 - [x] Retirer de `LIST.md` les URLs hors périmètre cartographie / donnée cartographique / actualités du domaine (hors petites initiatives locales)
 - [x] Mettre à la corbeille les emails traités
 - [x] Mettre à jour les fichiers `.prompt-hub/*`
-- [ ] Commit + push
+- [x] Commit + push
 
 ## Notes
 - Run planifié du 2026-04-11 08:04 Europe/Paris.
