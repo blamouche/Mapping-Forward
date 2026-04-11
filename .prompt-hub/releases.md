@@ -1,3 +1,6 @@
+## 0.1.303 - 2026-04-11
+- Process article: TomTom, Netherlands, presents high-precision speed restrictions for ISA, ADAS, and automation
+
 ## 0.1.302 - 2026-04-11
 - Process article: 13 Hidden Google Maps Features That Can Make Your Trips Better
 
