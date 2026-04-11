@@ -1,3 +1,6 @@
+## 0.1.317 - 2026-04-11
+- Process article: EU Esri Brasil 2026 reúne ArcelorMittal, EDP Energia e autoridades GIS na discussão sobre GeoIA e Modelagem Digital
+
 ## 0.1.316 - 2026-04-11
 - Process article: Accelerating GIS Forest Boundary Digitisation
 

@@ -15,13 +15,14 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | █████████████████████ 62
+2026-04 | ██████████████████████ 63
 
 ## Articles
 
 ### 2026
 
-#### April (62 articles)
+#### April (63 articles)
+- [EU Esri Brasil 2026 reúne ArcelorMittal, EDP Energia e autoridades GIS na discussão sobre GeoIA e Modelagem Digital](src/2026-04/20260410-eu-esri-brasil-2026-reune-arcelormittal-edp-energia-e-autoridades-gis-na-discussao-sobre-geoia-e-modelagem-digital.md)
 - [Accelerating GIS Forest Boundary Digitisation](src/2026-04/20260410-accelerating-gis-forest-boundary-digitisation.md)
 - [TomTom helpt ADAS met juiste maximumsnelheid](src/2026-04/20260411-tomtom-helpt-adas-met-juiste-maximumsnelheid.md)
 - [TomTom, Netherlands, presents high-precision speed restrictions for ISA, ADAS, and automation](src/2026-04/20260410-tomtom-netherlands-presents-high-precision-speed-restrictions-for-isa-adas-and-automation.md)
