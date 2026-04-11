@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-04-11T08:04:00+02:00",
+  "timestamp": "2026-04-11T10:04:00+02:00",
   "gmailMessagesProcessed": 0,
   "candidateUrlsExtracted": 0,
   "urlsAdded": 0,
   "urlsRemoved": 0,
   "emailsTrashed": 0,
   "notes": [
-    "Gmail label 0---veille-mapping returned no messages with include-body/json.",
-    "LIST.md was verified empty and remained unchanged after scope review.",
-    "Repo was already clean/synced before tracking updates; only the scheduled todo and tracking files changed."
+    "Gmail label 0---veille-mapping returned no messages.",
+    "LIST.md was empty and remained unchanged after scope review.",
+    "Repo was already clean and synced before tracking updates."
   ]
 }
