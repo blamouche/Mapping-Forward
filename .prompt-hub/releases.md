@@ -1,3 +1,6 @@
+## 0.1.315 - 2026-04-11
+- Log veille mapping run (repo clean/synced; Gmail label `0---veille-mapping` empty; removed 3 out-of-scope forest-boundary/local-government URLs from LIST.md during scope review; kept 2 in-scope mapping URLs; no URLs added; no emails trashed).
+
 ## 0.1.314 - 2026-04-11
 - Veille mapping run: processed 1 Gmail alert, kept 5 mapping/cartography URLs, removed 0 URLs from LIST.md after scope review, updated LIST.md, and trashed the processed email.
 

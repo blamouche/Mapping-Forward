@@ -1,25 +1,16 @@
 {
-  "message_ids": [
-    "19d7bf7b38a2bafe"
-  ],
-  "messages_found": 1,
-  "candidate_urls": 5,
-  "kept_urls": [
+  "timestamp": "2026-04-11T14:05:02.608236",
+  "messages_found": 0,
+  "message_ids": [],
+  "candidate_urls": 0,
+  "kept_new_urls": [],
+  "kept_new_count": 0,
+  "removed_existing_urls": [
     "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2251000&reg=3&lang=1",
-    "https://www.devdiscourse.com/article/science-environment/3869866-accelerating-gis-forest-boundary-digitisation",
     "https://theprint.in/india/states-uts-asked-to-speed-up-forest-boundary-digitisation-at-national-authority-campa-workshop/2901984",
-    "https://observervoice.com/india-launches-national-workshop-to-digitize-forest-boundaries-198736",
-    "https://mundogeo.com/2026/04/10/eu-esri-brasil-2026-reune-arcelormittal-edp-energia-e-autoridades-gis-na-discussao-sobre-geoia-e-modelagem-digital"
+    "https://observervoice.com/india-launches-national-workshop-to-digitize-forest-boundaries-198736"
   ],
-  "filtered_urls": [],
-  "existing_before": [],
-  "final_urls": [
-    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2251000&reg=3&lang=1",
-    "https://www.devdiscourse.com/article/science-environment/3869866-accelerating-gis-forest-boundary-digitisation",
-    "https://theprint.in/india/states-uts-asked-to-speed-up-forest-boundary-digitisation-at-national-authority-campa-workshop/2901984",
-    "https://observervoice.com/india-launches-national-workshop-to-digitize-forest-boundaries-198736",
-    "https://mundogeo.com/2026/04/10/eu-esri-brasil-2026-reune-arcelormittal-edp-energia-e-autoridades-gis-na-discussao-sobre-geoia-e-modelagem-digital"
-  ],
-  "added_count": 5,
-  "removed_count": 0
+  "removed_existing_count": 3,
+  "filtered_out": [],
+  "final_list_count": 2
 }
