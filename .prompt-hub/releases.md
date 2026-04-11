@@ -1,3 +1,6 @@
+## 0.1.302 - 2026-04-11
+- Process article: 13 Hidden Google Maps Features That Can Make Your Trips Better
+
 ## 0.1.301 - 2026-04-11
 - Process article: Google Maps se met à jour avec trois nouvelles fonctionnalités
 

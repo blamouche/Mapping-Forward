@@ -15,13 +15,14 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | ████████████████████ 58
+2026-04 | ████████████████████ 59
 
 ## Articles
 
 ### 2026
 
-#### April (58 articles)
+#### April (59 articles)
+- [13 Hidden Google Maps Features That Can Make Your Trips Better](src/2026-04/20260411-13-hidden-google-maps-features-that-can-make-your-trips-better.md)
 - [Google Maps se met à jour avec trois nouvelles fonctionnalités](src/2026-04/20260409-google-maps-se-met-a-jour-avec-trois-nouvelles-fonctionnalites.md)
 - [Retirement of custom widgets in ArcGIS Experience Builder built with Maps SDK for JavaScript](src/2026-04/20260408-retirement-of-custom-widgets-in-arcgis-experience-builder-built-with-maps-sdk-for-javascript.md)
 - [Google Upgrades Maps Features With More Gemini and Faster Photo Uploads](src/2026-04/20260410-google-upgrades-maps-features-with-more-gemini-and-faster-photo-uploads.md)
