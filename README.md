@@ -11,41 +11,18 @@ Technical watch for mapping and geographical intelligence
 
 Articles per month:
 
-2026-04 | ███████████████████ 57<br>
-2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-02 | ████████████ 35<br>
-2026-01 | █████████ 27<br>
-2025-12 | █ 1
-
-2026-04 | ███████████████████ 56<br>
-2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-02 | ████████████ 35<br>
-2026-01 | █████████ 27<br>
-2025-12 | █ 1
-
-2026-04 | ███████████████████ 55<br>
-2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-02 | ████████████ 35<br>
-2026-01 | █████████ 27<br>
-2025-12 | █ 1
-
-2026-04 | ██████████████████ 54<br>
-2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-02 | ████████████ 35<br>
-2026-01 | █████████ 27<br>
-2025-12 | █ 1
-
 2025-12 | █ 1<br>
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | ██████████████████ 53
+2026-04 | ████████████████████ 58
 
 ## Articles
 
 ### 2026
 
-#### April (57 articles)
+#### April (58 articles)
+- [Google Maps se met à jour avec trois nouvelles fonctionnalités](src/2026-04/20260409-google-maps-se-met-a-jour-avec-trois-nouvelles-fonctionnalites.md)
 - [Retirement of custom widgets in ArcGIS Experience Builder built with Maps SDK for JavaScript](src/2026-04/20260408-retirement-of-custom-widgets-in-arcgis-experience-builder-built-with-maps-sdk-for-javascript.md)
 - [Google Upgrades Maps Features With More Gemini and Faster Photo Uploads](src/2026-04/20260410-google-upgrades-maps-features-with-more-gemini-and-faster-photo-uploads.md)
 - [TomTom launches Unified Speed Restrictions for higher-precision speed data across ISA, ADAS and automation](src/2026-04/20260409-tomtom-launches-unified-speed-restrictions-for-higher-precision-speed-data-across-isa-adas-and-automation.md)

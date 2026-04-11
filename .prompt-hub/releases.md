@@ -1,3 +1,6 @@
+## 0.1.301 - 2026-04-11
+- Process article: Google Maps se met à jour avec trois nouvelles fonctionnalités
+
 ## 0.1.298 - 2026-04-11
 - Finalize veille mapping run by moving the processed Gmail false-positive alert to Trash after fixing the Gmail batch modify flag.
 
