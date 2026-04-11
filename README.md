@@ -15,13 +15,14 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | █████████████████████ 61
+2026-04 | █████████████████████ 62
 
 ## Articles
 
 ### 2026
 
-#### April (61 articles)
+#### April (62 articles)
+- [Accelerating GIS Forest Boundary Digitisation](src/2026-04/20260410-accelerating-gis-forest-boundary-digitisation.md)
 - [TomTom helpt ADAS met juiste maximumsnelheid](src/2026-04/20260411-tomtom-helpt-adas-met-juiste-maximumsnelheid.md)
 - [TomTom, Netherlands, presents high-precision speed restrictions for ISA, ADAS, and automation](src/2026-04/20260410-tomtom-netherlands-presents-high-precision-speed-restrictions-for-isa-adas-and-automation.md)
 - [13 Hidden Google Maps Features That Can Make Your Trips Better](src/2026-04/20260411-13-hidden-google-maps-features-that-can-make-your-trips-better.md)

@@ -1,3 +1,6 @@
+## 0.1.316 - 2026-04-11
+- Process article: Accelerating GIS Forest Boundary Digitisation
+
 ## 0.1.315 - 2026-04-11
 - Log veille mapping run (repo clean/synced; Gmail label `0---veille-mapping` empty; removed 3 out-of-scope forest-boundary/local-government URLs from LIST.md during scope review; kept 2 in-scope mapping URLs; no URLs added; no emails trashed).
 
