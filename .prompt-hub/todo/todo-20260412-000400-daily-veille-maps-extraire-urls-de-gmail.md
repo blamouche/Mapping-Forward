@@ -6,7 +6,7 @@
 - [x] Extraire et filtrer les URLs mapping/cartographie/GIS ; mettre à jour `LIST.md` (dedupe, une URL par ligne). *(bloqué par Gmail OAuth invalid_grant ; aucune modification métier)*
 - [x] Retirer de `LIST.md` les URLs hors périmètre (non carto / petites initiatives locales). *(non applicable : `LIST.md` déjà vide et run bloqué avant extraction)*
 - [x] Mettre à la corbeille les emails traités. *(impossible : aucun email accessible pendant l’échec OAuth)*
-- [ ] Mettre à jour le suivi `.prompt-hub` (memory, releases, version, review), commit, push.
+- [x] Mettre à jour le suivi `.prompt-hub` (memory, releases, version, review), commit, push.
 
 ## Notes
 - Exécution cron du 2026-04-12 00:04 CEST.

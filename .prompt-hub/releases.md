@@ -1,3 +1,6 @@
+## 0.1.326 - 2026-04-12
+- Finalize veille-mapping OAuth-failure tracking by marking the scheduled todo complete after commit/push.
+
 ## 0.1.325 - 2026-04-12
 - Veille mapping cron blocked: Gmail OAuth `invalid_grant` while querying `label:0---veille-mapping`; no URLs extracted, `LIST.md` unchanged, no emails trashed.
 
