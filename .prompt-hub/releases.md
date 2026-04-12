@@ -1,3 +1,6 @@
+## 0.1.330 - 2026-04-12
+- Veille mapping cron blocked again: Gmail OAuth `invalid_grant` while querying `label:0---veille-mapping`; repo stayed clean, `LIST.md` remained empty, and no emails were trashed.
+
 ## 0.1.329 - 2026-04-12
 - Log scan-list empty run (git pull --rebase up to date; `LIST.md` empty at 2026-04-12 06:01:39 CEST; no URLs processed; no batch recap created).
 
