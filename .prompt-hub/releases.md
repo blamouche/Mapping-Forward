@@ -1,3 +1,6 @@
+## 0.1.336 - 2026-04-12
+- Veille mapping cron blocked again at 14:04 CEST: Gmail OAuth `invalid_grant` still prevented access to `label:0---veille-mapping`; quick browser fallback check confirmed no running `user` browser session was available to reuse, so no URLs were extracted, `LIST.md` stayed unchanged, and no emails were trashed.
+
 ## 0.1.335 - 2026-04-12
 - Veille mapping cron blocked again at 12:06 CEST: Gmail OAuth `invalid_grant` still prevented access to `label:0---veille-mapping`, and browser fallback could not attach to the user Chrome session; no URLs extracted, `LIST.md` unchanged, no emails trashed.
 
