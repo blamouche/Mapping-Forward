@@ -1,3 +1,6 @@
+## 0.1.341 - 2026-04-12
+- Veille mapping cron blocked again at 20:04 CEST: Gmail OAuth `invalid_grant` still prevented access to `label:0---veille-mapping`; browser fallback confirmed only the `openclaw` profile was running and the authenticated `user` profile was unavailable, so no URLs were extracted, `LIST.md` stayed unchanged, and no emails were trashed.
+
 ## 0.1.340 - 2026-04-12
 - Veille mapping cron blocked again at 18:06 CEST: Gmail OAuth `invalid_grant` still prevented access to `label:0---veille-mapping`; browser fallback confirmed only the `openclaw` profile was running and the authenticated `user` profile was unavailable, so no URLs were extracted, `LIST.md` stayed unchanged, and no emails were trashed.
 
