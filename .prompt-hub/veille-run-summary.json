@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-12T06:04:00+02:00",
+  "timestamp": "2026-04-12T08:04:00+02:00",
   "status": "failed",
   "error": "gmail_oauth_invalid_grant",
   "messages_found": 0,
