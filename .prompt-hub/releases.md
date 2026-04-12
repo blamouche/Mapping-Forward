@@ -1,3 +1,6 @@
+## 0.1.342 - 2026-04-12
+- Log scan-list empty run (`git pull --rebase` up to date; `LIST.md` empty at 2026-04-12 21:01:00 CEST; no URLs processed; no batch recap created).
+
 ## 0.1.341 - 2026-04-12
 - Veille mapping cron blocked again at 20:04 CEST: Gmail OAuth `invalid_grant` still prevented access to `label:0---veille-mapping`; browser fallback confirmed only the `openclaw` profile was running and the authenticated `user` profile was unavailable, so no URLs were extracted, `LIST.md` stayed unchanged, and no emails were trashed.
 
