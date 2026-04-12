@@ -1,7 +1,8 @@
 {
-  "timestamp": "2026-04-12T10:04:00+02:00",
+  "timestamp": "2026-04-12T12:06:00+02:00",
   "status": "failed",
   "error": "gmail_oauth_invalid_grant",
+  "fallback_error": "browser_user_profile_unavailable",
   "messages_found": 0,
   "message_ids": [],
   "candidate_urls": 0,
