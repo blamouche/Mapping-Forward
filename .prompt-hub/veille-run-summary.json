@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-12T20:04:00+02:00",
+  "timestamp": "2026-04-12T22:04:22+02:00",
   "status": "failed",
   "error": "gmail_oauth_invalid_grant",
   "fallback_error": "browser_user_profile_unavailable",
