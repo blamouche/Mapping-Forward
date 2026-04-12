@@ -1,3 +1,6 @@
+## 0.1.345 - 2026-04-13
+- Veille mapping cron blocked again at 00:04 CEST: `gog gmail messages search 'label:0---veille-mapping' --include-body --json --max 50 --no-input` failed with Gmail OAuth `invalid_grant`; browser fallback remained unavailable because no authenticated `user` Chrome session was running, so no URLs were extracted, `LIST.md` stayed unchanged, and no emails were trashed.
+
 ## 0.1.344 - 2026-04-13
 - Log scan-list empty run (`git pull --rebase` up to date; `LIST.md` empty at 2026-04-13 00:01:00 CEST; no URLs processed; no batch recap created).
 

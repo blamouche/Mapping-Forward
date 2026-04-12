@@ -1,15 +1,12 @@
 {
-  "timestamp": "2026-04-12T22:04:22+02:00",
+  "timestamp": "2026-04-13T00:04:58+02:00",
   "status": "failed",
-  "error": "gmail_oauth_invalid_grant",
-  "fallback_error": "browser_user_profile_unavailable",
-  "messages_found": 0,
-  "message_ids": [],
-  "candidate_urls": 0,
-  "kept_new_urls": [],
-  "kept_new_count": 0,
-  "removed_existing_urls": [],
-  "removed_existing_count": 0,
-  "filtered_out": [],
-  "final_list_count": 0
+  "repoCleanAtStart": true,
+  "gmailQuery": "label:0---veille-mapping",
+  "gmailMessages": 0,
+  "candidateUrls": 0,
+  "urlsAdded": 0,
+  "urlsRemoved": 0,
+  "emailsTrashed": 0,
+  "reason": "Gmail OAuth invalid_grant; authenticated user browser session unavailable for fallback"
 }
