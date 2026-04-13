@@ -1,0 +1,12 @@
+https://www.frandroid.com/android/applications/google-apps/3062523_il-vaut-mieux-reserver-google-maps-se-met-a-vous-donner-des-conseils-grace-a-gemini
+https://www.wired.me/story/apple-says-southern-lebanon-villages-werent-removed-from-maps-it-never-had-them
+https://www.marmiton.org/restaurants/google-maps-l-astuce-secrete-du-niveau-5-pour-ne-plus-jamais-tomber-dans-un-piege-a-touristes-s4129579.html
+https://www.howtogeek.com/switched-from-google-maps-to-open-source-alternative/
+https://www.downtoearth.org.in/forests/a-map-doesnt-reflect-the-complexity-of-living-in-indias-forest-fringes
+https://www.moneycontrol.com/world/apple-maps-accused-of-erasing-southern-lebanon-villages-amid-war-article-13887044.html
+https://www.liberation.fr/checknews/guerre-au-moyen-orient-apple-maps-a-t-il-vraiment-efface-les-villes-du-sud-liban-de-sa-carte-20260413_UEVBTEA5QFDA5NLFYVQ2ELLE5M/
+https://loginfo24.com/fr/2026/04/13/extension-de-pass-maps-aux-vehicules-electriques/
+https://mcetv.ouest-france.fr/2026/google-maps-ia-nouveautes-2026/
+https://www.vietnam.vn/fr/google-maps-dung-ai-viet-chu-thich-anh-tu-dong
+https://www.webwire.com/ViewPressRel.asp?aId=353194
+https://www.elektroniknet.de/automotive/wirtschaft/tomtom-tritt-mih-consortium-bei.13cd8cc2-ddac-4da7-b305-4bbcfd44d0bf.html

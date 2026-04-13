@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-04-13T20:04:39+02:00",
+  "timestamp": "2026-04-14T00:04:00+02:00",
   "status": "success",
   "repoCleanAtStart": true,
   "gmailQuery": "label:0---veille-mapping",
-  "gmailMessages": 0,
-  "candidateUrls": 0,
-  "urlsAdded": 0,
+  "gmailMessages": 3,
+  "candidateUrls": 25,
+  "urlsAdded": 12,
   "urlsRemoved": 0,
-  "emailsTrashed": 0,
-  "reason": "No Gmail alerts matched the mapping watch label; LIST.md remained empty after scope review."
+  "emailsTrashed": 3,
+  "reason": "Extracted mapping/cartography URLs from Google Alerts, filtered off-scope/local/noise items, updated LIST.md, and trashed processed Gmail alerts."
 }
