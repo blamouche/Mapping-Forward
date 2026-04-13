@@ -1,3 +1,6 @@
+## 0.1.348 - 2026-04-13
+- Log scan-list empty run (`git pull --rebase` up to date; `LIST.md` empty at 2026-04-13 06:01:39 CEST; no URLs processed; no batch recap created).
+
 ## 0.1.347 - 2026-04-13
 - Log scan-list empty run (`git pull --rebase` up to date; `LIST.md` empty at 2026-04-13 03:01:00 CEST; no URLs processed; no batch recap created).
 
