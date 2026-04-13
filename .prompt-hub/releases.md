@@ -1,3 +1,6 @@
+## 0.1.357 - 2026-04-13
+- Process article: « C’est honteux » : pourquoi Waze et Google Maps ne vous donnent plus les trajets les plus rapides ?
+
 ## 0.1.356 - 2026-04-13
 - Process article: MSN placeholder article (FETCH_ERROR)
 

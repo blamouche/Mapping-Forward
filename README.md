@@ -15,13 +15,14 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | ██████████████████████ 66
+2026-04 | ███████████████████████ 67
 
 ## Articles
 
 ### 2026
 
-#### April (66 articles)
+#### April (67 articles)
+- [« C’est honteux » : pourquoi Waze et Google Maps ne vous donnent plus les trajets les plus rapides ?](src/2026-04/20260413-cest-honteux-pourquoi-waze-et-google-maps-ne-vous-donnent-plus-les-trajets-les-plus-rapides.md)
 - [5 ways this Google Maps AI feature helps avoid tourist traps](src/2026-04/20260413-5-ways-this-google-maps-ai-feature-helps-avoid-tourist-traps.md)
 - [GIS-based AHP multi-criteria mapping of potential solar PV power plant development: a case study in the vicinity of Holy Sites, Saudi Arabia](src/2026-04/20260413-gis-based-ahp-multi-criteria-mapping-of-potential-solar-pv-power-plant-development-a-case-study-in-the-vicinity-of-holy-sites-saudi-arabia.md)
 - [Google Maps veut vous faire contribuer et écrire des avis plus vite](src/2026-04/20260413-google-maps-veut-vous-faire-contribuer-et-ecrire-des-avis-plus-vite.md)
