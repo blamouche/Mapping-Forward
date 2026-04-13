@@ -1,3 +1,6 @@
+## 0.1.361 - 2026-04-13
+- Log veille mapping empty run (repo clean/synced; Gmail label `0---veille-mapping` returned no messages with `--include-body --json --max 50 --no-input`; `LIST.md` already empty after scope review; no URLs added/removed; no emails trashed).
+
 ## 0.1.360 - 2026-04-13
 - Remove temporary scan-list helper script after successful batch push.
 
