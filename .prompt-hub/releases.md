@@ -1,3 +1,6 @@
+## 0.1.356 - 2026-04-13
+- Process article: MSN placeholder article (FETCH_ERROR)
+
 ## 0.1.355 - 2026-04-13
 - Process article: 5 ways this Google Maps AI feature helps avoid tourist traps
 
