@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-04-13T18:13:00+02:00",
+  "timestamp": "2026-04-13T20:04:39+02:00",
   "status": "success",
-  "repoCleanAtStart": false,
+  "repoCleanAtStart": true,
   "gmailQuery": "label:0---veille-mapping",
   "gmailMessages": 0,
   "candidateUrls": 0,
