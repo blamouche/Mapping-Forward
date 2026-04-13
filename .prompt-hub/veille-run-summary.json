@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-13T12:15:00+02:00",
+  "timestamp": "2026-04-13T16:04:00+02:00",
   "status": "success",
   "repoCleanAtStart": true,
   "gmailQuery": "label:0---veille-mapping",
@@ -8,5 +8,5 @@
   "urlsAdded": 0,
   "urlsRemoved": 0,
   "emailsTrashed": 0,
-  "reason": "No Gmail alerts matched the mapping watch label; LIST.md was already empty after scope review."
+  "reason": "No Gmail alerts matched the mapping watch label; LIST.md remained empty after scope review."
 }
