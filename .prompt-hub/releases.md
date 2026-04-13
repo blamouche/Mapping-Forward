@@ -1,3 +1,6 @@
+## 0.1.358 - 2026-04-13
+- Process article: I use Waze every day, but I still keep Google Maps for this one feature
+
 ## 0.1.357 - 2026-04-13
 - Process article: « C’est honteux » : pourquoi Waze et Google Maps ne vous donnent plus les trajets les plus rapides ?
 

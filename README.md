@@ -15,13 +15,14 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | ███████████████████████ 67
+2026-04 | ███████████████████████ 68
 
 ## Articles
 
 ### 2026
 
-#### April (67 articles)
+#### April (68 articles)
+- [I use Waze every day, but I still keep Google Maps for this one feature](src/2026-04/20260411-i-use-waze-every-day-but-i-still-keep-google-maps-for-this-one-feature.md)
 - [« C’est honteux » : pourquoi Waze et Google Maps ne vous donnent plus les trajets les plus rapides ?](src/2026-04/20260413-cest-honteux-pourquoi-waze-et-google-maps-ne-vous-donnent-plus-les-trajets-les-plus-rapides.md)
 - [5 ways this Google Maps AI feature helps avoid tourist traps](src/2026-04/20260413-5-ways-this-google-maps-ai-feature-helps-avoid-tourist-traps.md)
 - [GIS-based AHP multi-criteria mapping of potential solar PV power plant development: a case study in the vicinity of Holy Sites, Saudi Arabia](src/2026-04/20260413-gis-based-ahp-multi-criteria-mapping-of-potential-solar-pv-power-plant-development-a-case-study-in-the-vicinity-of-holy-sites-saudi-arabia.md)
