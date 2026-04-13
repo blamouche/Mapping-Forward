@@ -1,3 +1,6 @@
+## 0.1.354 - 2026-04-13
+- Process article: GIS-based AHP multi-criteria mapping of potential solar PV power plant development: a case study in the vicinity of Holy Sites, Saudi Arabia
+
 ## 0.1.353 - 2026-04-13
 - Process article: Google Maps veut vous faire contribuer et écrire des avis plus vite
 
