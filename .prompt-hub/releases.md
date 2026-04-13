@@ -1,3 +1,6 @@
+## 0.1.360 - 2026-04-13
+- Remove temporary scan-list helper script after successful batch push.
+
 ## 0.1.359 - 2026-04-13
 - Add batch recap: 2026-04-13 120131
 
