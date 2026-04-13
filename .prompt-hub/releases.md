@@ -1,3 +1,6 @@
+## 0.1.355 - 2026-04-13
+- Process article: 5 ways this Google Maps AI feature helps avoid tourist traps
+
 ## 0.1.354 - 2026-04-13
 - Process article: GIS-based AHP multi-criteria mapping of potential solar PV power plant development: a case study in the vicinity of Holy Sites, Saudi Arabia
 

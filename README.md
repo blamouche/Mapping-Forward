@@ -15,13 +15,14 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | ██████████████████████ 65
+2026-04 | ██████████████████████ 66
 
 ## Articles
 
 ### 2026
 
-#### April (65 articles)
+#### April (66 articles)
+- [5 ways this Google Maps AI feature helps avoid tourist traps](src/2026-04/20260413-5-ways-this-google-maps-ai-feature-helps-avoid-tourist-traps.md)
 - [GIS-based AHP multi-criteria mapping of potential solar PV power plant development: a case study in the vicinity of Holy Sites, Saudi Arabia](src/2026-04/20260413-gis-based-ahp-multi-criteria-mapping-of-potential-solar-pv-power-plant-development-a-case-study-in-the-vicinity-of-holy-sites-saudi-arabia.md)
 - [Google Maps veut vous faire contribuer et écrire des avis plus vite](src/2026-04/20260413-google-maps-veut-vous-faire-contribuer-et-ecrire-des-avis-plus-vite.md)
 - [EU Esri Brasil 2026 reúne ArcelorMittal, EDP Energia e autoridades GIS na discussão sobre GeoIA e Modelagem Digital](src/2026-04/20260410-eu-esri-brasil-2026-reune-arcelormittal-edp-energia-e-autoridades-gis-na-discussao-sobre-geoia-e-modelagem-digital.md)
