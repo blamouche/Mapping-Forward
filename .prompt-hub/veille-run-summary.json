@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-04-13T08:04:47+02:00",
-  "status": "failed",
+  "timestamp": "2026-04-13T10:04:00+02:00",
+  "status": "success",
   "repoCleanAtStart": true,
   "gmailQuery": "label:0---veille-mapping",
-  "gmailMessages": 0,
-  "candidateUrls": 0,
-  "urlsAdded": 0,
+  "gmailMessages": 7,
+  "candidateUrls": 43,
+  "urlsAdded": 6,
   "urlsRemoved": 0,
-  "emailsTrashed": 0,
-  "reason": "Gmail OAuth invalid_grant; authenticated user browser session unavailable for fallback"
+  "emailsTrashed": 7,
+  "reason": "Processed Google Alerts successfully; filtered off-scope, local, gallery, legal, restaurant/review, video-mapping, SEO and finance noise."
 }
