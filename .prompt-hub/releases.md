@@ -1,3 +1,6 @@
+## 0.1.385 - 2026-04-14
+- Add substack post: Maps are starting to tell you what to do.
+
 ## 0.1.384 - 2026-04-14
 - Log veille mapping empty run (repo clean/synced; Gmail label `0---veille-mapping` returned no messages with `--include-body --json --max 50 --no-input`; `LIST.md` was already empty after scope review; no URLs added/removed; no emails trashed.)
 
