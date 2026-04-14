@@ -15,13 +15,14 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | ███████████████████████ 68
+2026-04 | ███████████████████████ 69
 
 ## Articles
 
 ### 2026
 
-#### April (68 articles)
+#### April (69 articles)
+- [« Il vaut mieux réserver » : Google Maps se met à vous donner des conseils grâce à Gemini](src/2026-04/20260413-il-vaut-mieux-reserver-google-maps-se-met-a-vous-donner-des-conseils-grace-a-gemini.md)
 - [I use Waze every day, but I still keep Google Maps for this one feature](src/2026-04/20260411-i-use-waze-every-day-but-i-still-keep-google-maps-for-this-one-feature.md)
 - [« C’est honteux » : pourquoi Waze et Google Maps ne vous donnent plus les trajets les plus rapides ?](src/2026-04/20260413-cest-honteux-pourquoi-waze-et-google-maps-ne-vous-donnent-plus-les-trajets-les-plus-rapides.md)
 - [5 ways this Google Maps AI feature helps avoid tourist traps](src/2026-04/20260413-5-ways-this-google-maps-ai-feature-helps-avoid-tourist-traps.md)

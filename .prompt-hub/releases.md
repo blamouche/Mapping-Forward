@@ -1,3 +1,6 @@
+## 0.1.373 - 2026-04-14
+- Process article: « Il vaut mieux réserver » : Google Maps se met à vous donner des conseils grâce à Gemini
+
 ## 0.1.372 - 2026-04-14
 - Clean up daily veille mapping queue after the 02:04 CEST run: removed 2 remaining out-of-scope URLs from `LIST.md` (Marmiton tourist-tip article and PASS MAPS EV logistics planning article); Gmail label `0---veille-mapping` was already empty when rechecked.
 

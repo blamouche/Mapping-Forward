@@ -1,4 +1,3 @@
-https://www.frandroid.com/android/applications/google-apps/3062523_il-vaut-mieux-reserver-google-maps-se-met-a-vous-donner-des-conseils-grace-a-gemini
 https://www.wired.me/story/apple-says-southern-lebanon-villages-werent-removed-from-maps-it-never-had-them
 https://www.howtogeek.com/switched-from-google-maps-to-open-source-alternative/
 https://www.downtoearth.org.in/forests/a-map-doesnt-reflect-the-complexity-of-living-in-indias-forest-fringes
