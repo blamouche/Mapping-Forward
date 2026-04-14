@@ -1,3 +1,6 @@
+## 0.1.395 - 2026-04-14
+- Veille mapping run: processed 1 Gmail alert, extracted 1 candidate URL, kept 1 in-scope GIS/cartography URL after scope filtering, updated `LIST.md`, and prepared trashing of the processed email.
+
 ## 0.1.394 - 2026-04-14
 - Add veille-mapping todo for scheduled 14:04 CEST run and restore a clean repo state before Gmail extraction.
 
