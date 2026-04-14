@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-14T06:10:49.499654+02:00",
+  "timestamp": "2026-04-14T08:07:05.006140+02:00",
   "status": "success",
   "gmailQuery": "label:0---veille-mapping",
   "emailsProcessed": 0,
@@ -7,5 +7,5 @@
   "urlsAdded": 0,
   "urlsRemoved": 0,
   "emailsTrashed": 0,
-  "notes": "Repo restored to a clean synced state after pushing pending local changes; Gmail label empty; LIST.md remained empty after scope review."
+  "notes": "Repo cleaned/synced; Gmail label empty; LIST.md remained empty after scope review."
 }
