@@ -1,3 +1,6 @@
+## 0.1.387 - 2026-04-14
+- Log veille mapping empty run (repo restored to a clean synced state after pushing pending local changes; Gmail label `0---veille-mapping` returned no messages with `--include-body --json --max 100 --no-input`; `LIST.md` stayed empty after scope review; no URLs added/removed; no emails trashed).
+
 ## 0.1.386 - 2026-04-14
 - Finalize substack-post-recents tracking after commit and push.
 
