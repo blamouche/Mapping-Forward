@@ -15,13 +15,14 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | ████████████████████████ 72
+2026-04 | █████████████████████████ 73
 
 ## Articles
 
 ### 2026
 
-#### April (72 articles)
+#### April (73 articles)
+- [Apple Maps accused of ‘erasing’ southern Lebanon villages amid war](src/2026-04/20260413-apple-maps-accused-of-erasing-southern-lebanon-villages-amid-war.md)
 - [A map doesn’t reflect the complexity of living in India’s forest fringes](src/2026-04/20260413-a-map-doesnt-reflect-the-complexity-of-living-in-indias-forest-fringes.md)
 - [I switched from Google Maps to an open source alternative and I'm not going back](src/2026-04/20260413-i-switched-from-google-maps-to-an-open-source-alternative-and-i-m-not-going-back.md)
 - [Apple Says Southern Lebanon Villages Weren’t Removed From Maps. It Never Had Them](src/2026-04/20260413-apple-says-southern-lebanon-villages-werent-removed-from-maps-it-never-had-them.md)

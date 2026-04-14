@@ -1,3 +1,6 @@
+## 0.1.377 - 2026-04-14
+- Process article: Apple Maps accused of ‘erasing’ southern Lebanon villages amid war
+
 ## 0.1.376 - 2026-04-14
 - Process article: A map doesn’t reflect the complexity of living in India’s forest fringes
 
