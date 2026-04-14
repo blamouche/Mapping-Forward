@@ -1,3 +1,6 @@
+## 0.1.372 - 2026-04-14
+- Clean up daily veille mapping queue after the 02:04 CEST run: removed 2 remaining out-of-scope URLs from `LIST.md` (Marmiton tourist-tip article and PASS MAPS EV logistics planning article); Gmail label `0---veille-mapping` was already empty when rechecked.
+
 ## 0.1.371 - 2026-04-14
 - Veille mapping run: processed 3 Gmail alerts, extracted 25 candidate URLs, kept 12 mapping/cartography URLs after de-duplication and scope filtering, removed 0 existing URLs from `LIST.md`, updated `LIST.md`, and trashed 3 processed emails.
 

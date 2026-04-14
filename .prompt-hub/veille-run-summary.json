@@ -1,12 +1,8 @@
 {
-  "timestamp": "2026-04-14T00:04:00+02:00",
   "status": "success",
-  "repoCleanAtStart": true,
-  "gmailQuery": "label:0---veille-mapping",
-  "gmailMessages": 3,
-  "candidateUrls": 25,
-  "urlsAdded": 12,
-  "urlsRemoved": 0,
-  "emailsTrashed": 3,
-  "reason": "Extracted mapping/cartography URLs from Google Alerts, filtered off-scope/local/noise items, updated LIST.md, and trashed processed Gmail alerts."
+  "gmailMessagesProcessed": 0,
+  "urlsAdded": 0,
+  "urlsRemoved": 2,
+  "emailsTrashed": 0,
+  "note": "Follow-up cleanup after earlier 02:04 CEST veille run; removed remaining out-of-scope URLs and confirmed Gmail label empty."
 }
