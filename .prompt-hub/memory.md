@@ -684,3 +684,5 @@ next: Re-auth required — `gog auth add b.lamouche@gmail.com` (browser flow)
 - 2026-04-14 03:01:45 CEST | agent | Processed article: Unified Speed Restrictions: Why fresh, accurate information is crucial for drivers and automation. | Files: src/2026-04/20260413-unified-speed-restrictions-why-fresh-accurate-information-is-crucial-for-drivers-and-automation.md, README.md, LIST.md, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: Continue scan-list.
 
 - 2026-04-14 03:01:45 CEST | agent | Processed article: TomTom tritt MIH Consortium bei. | Files: src/2026-04/20260414-tomtom-tritt-mih-consortium-bei.md, README.md, LIST.md, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: Create batch recap.
+
+- 2026-04-14 03:01:45 CEST | agent | Added batch recap for scan-list run. | Files: synthesis/2026-04-14 - 030145 - batch recap.md, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: Verify recap, finalize todo, push.
