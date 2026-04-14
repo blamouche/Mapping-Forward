@@ -9,7 +9,7 @@
 - [x] Update `LIST.md` with dedupe/scope cleanup
 - [x] Trash processed emails
 - [x] Update prompt-hub tracking files
-- [ ] Commit and push all resulting changes
+- [x] Commit and push all resulting changes
 
 ## Review
 
