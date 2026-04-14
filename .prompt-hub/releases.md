@@ -1,3 +1,6 @@
+## 0.1.375 - 2026-04-14
+- Process article: I switched from Google Maps to an open source alternative and I'm not going back
+
 ## 0.1.374 - 2026-04-14
 - Process article: Apple Says Southern Lebanon Villages Weren’t Removed From Maps. It Never Had Them
 

@@ -1,4 +1,3 @@
-https://www.howtogeek.com/switched-from-google-maps-to-open-source-alternative/
 https://www.downtoearth.org.in/forests/a-map-doesnt-reflect-the-complexity-of-living-in-indias-forest-fringes
 https://www.moneycontrol.com/world/apple-maps-accused-of-erasing-southern-lebanon-villages-amid-war-article-13887044.html
 https://www.liberation.fr/checknews/guerre-au-moyen-orient-apple-maps-a-t-il-vraiment-efface-les-villes-du-sud-liban-de-sa-carte-20260413_UEVBTEA5QFDA5NLFYVQ2ELLE5M/
