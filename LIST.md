@@ -1,4 +1,3 @@
-https://www.wired.me/story/apple-says-southern-lebanon-villages-werent-removed-from-maps-it-never-had-them
 https://www.howtogeek.com/switched-from-google-maps-to-open-source-alternative/
 https://www.downtoearth.org.in/forests/a-map-doesnt-reflect-the-complexity-of-living-in-indias-forest-fringes
 https://www.moneycontrol.com/world/apple-maps-accused-of-erasing-southern-lebanon-villages-amid-war-article-13887044.html

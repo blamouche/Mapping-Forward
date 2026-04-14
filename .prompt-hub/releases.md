@@ -1,3 +1,6 @@
+## 0.1.374 - 2026-04-14
+- Process article: Apple Says Southern Lebanon Villages Weren’t Removed From Maps. It Never Had Them
+
 ## 0.1.373 - 2026-04-14
 - Process article: « Il vaut mieux réserver » : Google Maps se met à vous donner des conseils grâce à Gemini
 

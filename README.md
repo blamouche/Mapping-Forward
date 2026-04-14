@@ -15,13 +15,14 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | ███████████████████████ 69
+2026-04 | ████████████████████████ 70
 
 ## Articles
 
 ### 2026
 
-#### April (69 articles)
+#### April (70 articles)
+- [Apple Says Southern Lebanon Villages Weren’t Removed From Maps. It Never Had Them](src/2026-04/20260413-apple-says-southern-lebanon-villages-werent-removed-from-maps-it-never-had-them.md)
 - [« Il vaut mieux réserver » : Google Maps se met à vous donner des conseils grâce à Gemini](src/2026-04/20260413-il-vaut-mieux-reserver-google-maps-se-met-a-vous-donner-des-conseils-grace-a-gemini.md)
 - [I use Waze every day, but I still keep Google Maps for this one feature](src/2026-04/20260411-i-use-waze-every-day-but-i-still-keep-google-maps-for-this-one-feature.md)
 - [« C’est honteux » : pourquoi Waze et Google Maps ne vous donnent plus les trajets les plus rapides ?](src/2026-04/20260413-cest-honteux-pourquoi-waze-et-google-maps-ne-vous-donnent-plus-les-trajets-les-plus-rapides.md)
