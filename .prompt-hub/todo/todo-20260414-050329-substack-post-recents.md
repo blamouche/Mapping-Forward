@@ -14,15 +14,16 @@ Create a new recent-articles Substack post from the 15 most recent articles list
 - [x] Draft a 1500-2000 word English article with sentence-case title, italic subtitle, narrative structure, and sources list.
 - [x] Save the article to `substack/20260414-post-maps-are-starting-to-tell-you-what-to-do.md` and copy it to `substack/latest.md`.
 - [x] Update prompt-hub tracking (`memory.md`, `version.md`, `releases.md`) and add a review section here.
-- [ ] Commit and push with message `Add substack post: Maps are starting to tell you what to do`.
+- [x] Commit and push with message `Add substack post: Maps are starting to tell you what to do`.
 
 ## Check-in
 Proceeding autonomously as explicitly requested by the cron instruction.
 
 ## Review
-- Status: ready to commit
+- Status: completed
 - Output file: `substack/20260414-post-maps-are-starting-to-tell-you-what-to-do.md`
 - Notes:
   - Article written in English with sentence-case title and italic subtitle.
   - Narrative structure follows the required Substack format with 15 numbered sources.
   - `substack/latest.md` synced to the new article.
+  - Committed and pushed to `origin/main`.

@@ -1,3 +1,6 @@
+## 0.1.386 - 2026-04-14
+- Finalize substack-post-recents tracking after commit and push.
+
 ## 0.1.385 - 2026-04-14
 - Add substack post: Maps are starting to tell you what to do.
 
