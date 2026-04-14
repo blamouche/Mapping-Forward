@@ -1,3 +1,6 @@
+## 0.1.380 - 2026-04-14
+- Process article: Google Maps utilise l'IA pour rédiger automatiquement les légendes des photos.
+
 ## 0.1.379 - 2026-04-14
 - Process article: Google Maps se met à l'IA: ces trois nouveautés vont vous surprendre
 
