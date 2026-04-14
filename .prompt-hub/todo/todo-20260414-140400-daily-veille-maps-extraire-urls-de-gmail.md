@@ -13,6 +13,7 @@ Traiter la veille Gmail `label:0---veille-mapping`, extraire les URLs d’articl
 
 ## Review
 - Repo nettoyé puis resynchronisé avant traitement.
-- 1 email traité, 1 URL candidate extraite, 1 URL conservée et ajoutée à `LIST.md`.
+- Repo nettoyé puis resynchronisé avant traitement.
+- 1 email traité, 1 URL candidate extraite, 0 URL conservée et 0 URL ajoutée à `LIST.md`.
 - 0 URL supprimée de `LIST.md`.
-- Email traité mis à la corbeille après commit/push.
+- L’unique lien a été filtré comme hors périmètre pour cette veille, puis l’email traité a été mis à la corbeille après correction de la commande Gmail.
