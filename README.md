@@ -15,13 +15,14 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | █████████████████████████ 75
+2026-04 | ██████████████████████████ 76
 
 ## Articles
 
 ### 2026
 
-#### April (75 articles)
+#### April (76 articles)
+- [Unified Speed Restrictions: Why fresh, accurate information is crucial for drivers and automation](src/2026-04/20260413-unified-speed-restrictions-why-fresh-accurate-information-is-crucial-for-drivers-and-automation.md)
 - [Google Maps utilise l'IA pour rédiger automatiquement les légendes des photos.](src/2026-04/20260413-google-maps-utilise-l-ia-pour-rediger-automatiquement-les-legendes-des-photos.md)
 - [Google Maps se met à l'IA: ces trois nouveautés vont vous surprendre](src/2026-04/20260413-google-maps-se-met-a-l-ia-ces-trois-nouveautes-vont-vous-surprendre.md)
 - [Apple Maps accused of ‘erasing’ southern Lebanon villages amid war](src/2026-04/20260413-apple-maps-accused-of-erasing-southern-lebanon-villages-amid-war.md)

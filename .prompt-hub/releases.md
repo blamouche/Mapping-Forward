@@ -1,3 +1,6 @@
+## 0.1.381 - 2026-04-14
+- Process article: Unified Speed Restrictions: Why fresh, accurate information is crucial for drivers and automation
+
 ## 0.1.380 - 2026-04-14
 - Process article: Google Maps utilise l'IA pour rédiger automatiquement les légendes des photos.
 
