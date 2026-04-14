@@ -1,10 +1,8 @@
 {
-  "messages_processed": 1,
-  "candidate_urls": 1,
+  "messages_processed": 0,
+  "candidate_urls": 0,
   "added_urls": 0,
   "removed_urls": 0,
   "kept_urls": [],
-  "message_ids": [
-    "19d8b16361f51f11"
-  ]
+  "message_ids": []
 }
