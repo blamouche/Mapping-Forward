@@ -1,4 +1,3 @@
-https://www.liberation.fr/checknews/guerre-au-moyen-orient-apple-maps-a-t-il-vraiment-efface-les-villes-du-sud-liban-de-sa-carte-20260413_UEVBTEA5QFDA5NLFYVQ2ELLE5M/
 https://mcetv.ouest-france.fr/2026/google-maps-ia-nouveautes-2026/
 https://www.vietnam.vn/fr/google-maps-dung-ai-viet-chu-thich-anh-tu-dong
 https://www.webwire.com/ViewPressRel.asp?aId=353194

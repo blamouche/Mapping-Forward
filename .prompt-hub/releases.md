@@ -1,3 +1,6 @@
+## 0.1.378 - 2026-04-14
+- Process article: Libération CheckNews article (FETCH_ERROR)
+
 ## 0.1.377 - 2026-04-14
 - Process article: Apple Maps accused of ‘erasing’ southern Lebanon villages amid war
 
