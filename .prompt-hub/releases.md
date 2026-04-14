@@ -1,3 +1,6 @@
+## 0.1.376 - 2026-04-14
+- Process article: A map doesn’t reflect the complexity of living in India’s forest fringes
+
 ## 0.1.375 - 2026-04-14
 - Process article: I switched from Google Maps to an open source alternative and I'm not going back
 
