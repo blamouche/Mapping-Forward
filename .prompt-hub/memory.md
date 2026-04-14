@@ -676,3 +676,5 @@ next: Re-auth required — `gog auth add b.lamouche@gmail.com` (browser flow)
 - 2026-04-14 03:01:45 CEST | agent | Processed article: Apple Maps accused of ‘erasing’ southern Lebanon villages amid war. | Files: src/2026-04/20260413-apple-maps-accused-of-erasing-southern-lebanon-villages-amid-war.md, README.md, LIST.md, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: Continue scan-list.
 
 - 2026-04-14 03:01:45 CEST | agent | WebFetch failed for Liberation CheckNews article (403 JS wall); removed URL from LIST.md and logged FETCH_ERROR for batch recap. | Files: LIST.md, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: partial | Next: Continue scan-list.
+
+- 2026-04-14 03:01:45 CEST | agent | Processed article: Google Maps se met à l'IA: ces trois nouveautés vont vous surprendre. | Files: src/2026-04/20260413-google-maps-se-met-a-lia-ces-trois-nouveautes-vont-vous-surprendre.md, README.md, LIST.md, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: Continue scan-list.

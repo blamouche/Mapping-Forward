@@ -1,3 +1,6 @@
+## 0.1.379 - 2026-04-14
+- Process article: Google Maps se met à l'IA: ces trois nouveautés vont vous surprendre
+
 ## 0.1.378 - 2026-04-14
 - Process article: Libération CheckNews article (FETCH_ERROR)
 
