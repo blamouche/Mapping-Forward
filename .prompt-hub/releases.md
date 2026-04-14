@@ -1,3 +1,6 @@
+## 0.1.397 - 2026-04-14
+- Log scan-list empty run (`git pull --rebase` up to date after stashing the new scheduled todo; `LIST.md` empty at 2026-04-14 15:02:12 CEST; no URLs processed; no batch recap created).
+
 ## 0.1.396 - 2026-04-14
 - Finalize veille mapping run: corrected tracking for the filtered-out GIS alert (0 URL kept / 0 added), then moved the processed email to Trash.
 
