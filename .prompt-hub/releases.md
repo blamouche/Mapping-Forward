@@ -1,3 +1,6 @@
+## 0.1.406 - 2026-04-15
+- Veille mapping run: processed 4 Gmail alerts, extracted 29 candidate URLs, kept 7 mapping/cartography URLs after de-duplication and scope filtering, updated `LIST.md`, and trashed 4 processed emails.
+
 ## 0.1.405 - 2026-04-15
 - Log scan-list empty run (`git pull --rebase` up to date; `LIST.md` empty at 2026-04-15 00:01:47 CEST; no URLs processed; no batch recap created).
 
