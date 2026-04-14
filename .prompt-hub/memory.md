@@ -682,3 +682,5 @@ next: Re-auth required — `gog auth add b.lamouche@gmail.com` (browser flow)
 - 2026-04-14 03:01:45 CEST | agent | Processed article: Google Maps utilise l'IA pour rédiger automatiquement les légendes des photos. | Files: src/2026-04/20260413-google-maps-utilise-lia-pour-rediger-automatiquement-les-legendes-des-photos.md, README.md, LIST.md, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: Continue scan-list.
 
 - 2026-04-14 03:01:45 CEST | agent | Processed article: Unified Speed Restrictions: Why fresh, accurate information is crucial for drivers and automation. | Files: src/2026-04/20260413-unified-speed-restrictions-why-fresh-accurate-information-is-crucial-for-drivers-and-automation.md, README.md, LIST.md, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: Continue scan-list.
+
+- 2026-04-14 03:01:45 CEST | agent | Processed article: TomTom tritt MIH Consortium bei. | Files: src/2026-04/20260414-tomtom-tritt-mih-consortium-bei.md, README.md, LIST.md, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: Create batch recap.

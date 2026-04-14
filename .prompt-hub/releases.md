@@ -1,3 +1,6 @@
+## 0.1.382 - 2026-04-14
+- Process article: TomTom tritt MIH Consortium bei
+
 ## 0.1.381 - 2026-04-14
 - Process article: Unified Speed Restrictions: Why fresh, accurate information is crucial for drivers and automation
 
