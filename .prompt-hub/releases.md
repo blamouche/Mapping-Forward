@@ -1,3 +1,6 @@
+## 0.1.410 - 2026-04-15
+- Process article: Google Maps franchit un cap pour la voiture électrique en devenant l’assistant de recharge que beaucoup attendaient
+
 ## 0.1.409 - 2026-04-15
 - Process article: Guerre au Moyen-Orient : Le sud Liban effacé volontairement d’Apple Maps ? Apple nie
 

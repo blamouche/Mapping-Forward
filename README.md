@@ -15,13 +15,14 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | ███████████████████████████ 79
+2026-04 | ███████████████████████████ 80
 
 ## Articles
 
 ### 2026
 
-#### April (79 articles)
+#### April (80 articles)
+- [Google Maps franchit un cap pour la voiture électrique en devenant l’assistant de recharge que beaucoup attendaient](src/2026-04/20260415-google-maps-franchit-un-cap-pour-la-voiture-electrique-en-devenant-lassistant-de-recharge-que-beaucoup-attendaient.md)
 - [Guerre au Moyen-Orient : Le sud Liban effacé volontairement d’Apple Maps ? Apple nie](src/2026-04/20260414-guerre-au-moyen-orient-le-sud-liban-efface-volontairement-dapple-maps-apple-nie.md)
 - [Pourquoi les trajets proposés sur Waze et Google Maps ne sont plus aussi courts qu’avant ?](src/2026-04/20260414-pourquoi-les-trajets-proposes-sur-waze-et-google-maps-ne-sont-plus-aussi-courts-qu-avant.md)
 - [TomTom tritt MIH Consortium bei](src/2026-04/20260414-tomtom-tritt-mih-consortium-bei.md)
