@@ -1,3 +1,6 @@
+## 0.1.413 - 2026-04-15
+- Process article: TomTom GO Navigation: Offline maps gain edge amid rising data costs
+
 ## 0.1.412 - 2026-04-15
 - Process article: All it costs to start building with TomTom NavSDK is 15 minutes
 
