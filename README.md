@@ -15,13 +15,14 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | ██████████████████████████ 78
+2026-04 | ███████████████████████████ 79
 
 ## Articles
 
 ### 2026
 
-#### April (78 articles)
+#### April (79 articles)
+- [Guerre au Moyen-Orient : Le sud Liban effacé volontairement d’Apple Maps ? Apple nie](src/2026-04/20260414-guerre-au-moyen-orient-le-sud-liban-efface-volontairement-dapple-maps-apple-nie.md)
 - [Pourquoi les trajets proposés sur Waze et Google Maps ne sont plus aussi courts qu’avant ?](src/2026-04/20260414-pourquoi-les-trajets-proposes-sur-waze-et-google-maps-ne-sont-plus-aussi-courts-qu-avant.md)
 - [TomTom tritt MIH Consortium bei](src/2026-04/20260414-tomtom-tritt-mih-consortium-bei.md)
 - [Unified Speed Restrictions: Why fresh, accurate information is crucial for drivers and automation](src/2026-04/20260413-unified-speed-restrictions-why-fresh-accurate-information-is-crucial-for-drivers-and-automation.md)

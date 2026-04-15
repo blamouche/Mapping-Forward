@@ -1,3 +1,6 @@
+## 0.1.409 - 2026-04-15
+- Process article: Guerre au Moyen-Orient : Le sud Liban effacé volontairement d’Apple Maps ? Apple nie
+
 ## 0.1.408 - 2026-04-15
 - Process article: Pourquoi les trajets proposés sur Waze et Google Maps ne sont plus aussi courts qu’avant ?
 
