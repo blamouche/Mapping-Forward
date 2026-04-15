@@ -15,13 +15,14 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | ██████████████████████████ 77
+2026-04 | ██████████████████████████ 78
 
 ## Articles
 
 ### 2026
 
-#### April (77 articles)
+#### April (78 articles)
+- [Pourquoi les trajets proposés sur Waze et Google Maps ne sont plus aussi courts qu’avant ?](src/2026-04/20260414-pourquoi-les-trajets-proposes-sur-waze-et-google-maps-ne-sont-plus-aussi-courts-qu-avant.md)
 - [TomTom tritt MIH Consortium bei](src/2026-04/20260414-tomtom-tritt-mih-consortium-bei.md)
 - [Unified Speed Restrictions: Why fresh, accurate information is crucial for drivers and automation](src/2026-04/20260413-unified-speed-restrictions-why-fresh-accurate-information-is-crucial-for-drivers-and-automation.md)
 - [Google Maps utilise l'IA pour rédiger automatiquement les légendes des photos.](src/2026-04/20260413-google-maps-utilise-l-ia-pour-rediger-automatiquement-les-legendes-des-photos.md)

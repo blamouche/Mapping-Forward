@@ -1,4 +1,3 @@
-https://www.ouest-france.fr/leditiondusoir/2026-04-14/pourquoi-les-trajets-proposes-sur-waze-et-google-maps-ne-sont-plus-aussi-courts-qu-avant-ed508601-93f7-461a-9337-e0603dd5775a
 https://www.20minutes.fr/monde/israel/4218303-20260414-guerre-moyen-orient-sud-liban-efface-volontairement-apple-maps-apple-nie
 https://www.futura-sciences.com/automobile/actualites/voiture-electrique-google-maps-franchit-cap-voiture-electrique-devenant-assistant-recharge-beaucoup-attendaient-133681/
 https://www.vietnam.vn/fr/google-maps-tich-hop-gemini-tu-dong-tao-mo-ta-anh-cho-nguoi-dung
