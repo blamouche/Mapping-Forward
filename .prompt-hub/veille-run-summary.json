@@ -1,8 +1,9 @@
 {
-  "messages_processed": 0,
-  "candidate_urls": 0,
-  "added_urls": 0,
-  "removed_urls": 0,
-  "kept_urls": [],
-  "message_ids": []
+  "runAt": "2026-04-15T04:04:43+02:00",
+  "gmailMessages": 0,
+  "urlsAdded": 0,
+  "urlsRemoved": 0,
+  "emailsTrashed": 0,
+  "status": "success",
+  "note": "Gmail label empty; LIST.md unchanged."
 }
