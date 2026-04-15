@@ -15,13 +15,14 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | ████████████████████████████ 83
+2026-04 | ████████████████████████████ 84
 
 ## Articles
 
 ### 2026
 
-#### April (83 articles)
+#### April (84 articles)
+- [Google Ask Maps is moving from listings to recommendations](src/2026-04/20260415-google-ask-maps-is-moving-from-listings-to-recommendations.md)
 - [TomTom GO Navigation: Offline maps gain edge amid rising data costs](src/2026-04/20260414-tomtom-go-navigation-offline-maps-gain-edge-amid-rising-data-costs.md)
 - [All it costs to start building with TomTom NavSDK is 15 minutes](src/2026-04/20260414-all-it-costs-to-start-building-with-tomtom-navsdk-is-15-minutes.md)
 - [Google Maps intègre Gemini, générant automatiquement des descriptions d'images pour les utilisateurs.](src/2026-04/20260413-google-maps-integre-gemini-generant-automatiquement-des-descriptions-dimages-pour-les-utilisateurs.md)

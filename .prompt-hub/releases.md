@@ -1,3 +1,6 @@
+## 0.1.414 - 2026-04-15
+- Process article: Google Ask Maps is moving from listings to recommendations
+
 ## 0.1.413 - 2026-04-15
 - Process article: TomTom GO Navigation: Offline maps gain edge amid rising data costs
 
