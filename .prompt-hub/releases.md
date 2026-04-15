@@ -1,3 +1,6 @@
+## 0.1.415 - 2026-04-15
+- Add batch recap: 2026-04-15 030143
+
 ## 0.1.414 - 2026-04-15
 - Process article: Google Ask Maps is moving from listings to recommendations
 
