@@ -1,9 +1,9 @@
 {
-  "runAt": "2026-04-15T06:05:00+02:00",
+  "runAt": "2026-04-15T08:06:00+02:00",
   "gmailMessages": 0,
   "urlsAdded": 0,
   "urlsRemoved": 0,
   "emailsTrashed": 0,
   "status": "success",
-  "note": "Gmail label empty; LIST.md unchanged."
+  "note": "Gmail label empty; LIST.md unchanged after scope review."
 }
