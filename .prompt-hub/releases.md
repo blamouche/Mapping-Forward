@@ -1,3 +1,6 @@
+## 0.1.412 - 2026-04-15
+- Process article: All it costs to start building with TomTom NavSDK is 15 minutes
+
 ## 0.1.411 - 2026-04-15
 - Process article: Google Maps intègre Gemini, générant automatiquement des descriptions d'images pour les utilisateurs.
 

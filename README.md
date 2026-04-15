@@ -15,13 +15,14 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | ███████████████████████████ 81
+2026-04 | ████████████████████████████ 82
 
 ## Articles
 
 ### 2026
 
-#### April (81 articles)
+#### April (82 articles)
+- [All it costs to start building with TomTom NavSDK is 15 minutes](src/2026-04/20260414-all-it-costs-to-start-building-with-tomtom-navsdk-is-15-minutes.md)
 - [Google Maps intègre Gemini, générant automatiquement des descriptions d'images pour les utilisateurs.](src/2026-04/20260413-google-maps-integre-gemini-generant-automatiquement-des-descriptions-dimages-pour-les-utilisateurs.md)
 - [Google Maps franchit un cap pour la voiture électrique en devenant l’assistant de recharge que beaucoup attendaient](src/2026-04/20260415-google-maps-franchit-un-cap-pour-la-voiture-electrique-en-devenant-lassistant-de-recharge-que-beaucoup-attendaient.md)
 - [Guerre au Moyen-Orient : Le sud Liban effacé volontairement d’Apple Maps ? Apple nie](src/2026-04/20260414-guerre-au-moyen-orient-le-sud-liban-efface-volontairement-dapple-maps-apple-nie.md)
