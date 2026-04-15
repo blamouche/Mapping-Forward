@@ -6,7 +6,7 @@
 - [x] Update `LIST.md` with in-scope URLs only (normalized, deduped).
 - [x] Trash processed emails.
 - [x] Update prompt-hub tracking (`memory.md`, `releases.md`, `version.md`, summary json, review).
-- [ ] Commit and push all resulting changes.
+- [x] Commit and push all resulting changes.
 
 ## Notes
 - Scheduled run requested: Gmail → URL extraction → clean `LIST.md` update → trash emails.
@@ -18,3 +18,4 @@
 - `LIST.md` stayed unchanged and empty after scope review; 0 URLs added, 0 removed.
 - No processed emails to move to Trash.
 - Prompt-hub tracking updated for this empty scheduled run.
+- Committed and pushed tracking updates to `origin/main` (`9167c59`).
