@@ -1,3 +1,6 @@
+## 0.1.411 - 2026-04-15
+- Process article: Google Maps intègre Gemini, générant automatiquement des descriptions d'images pour les utilisateurs.
+
 ## 0.1.410 - 2026-04-15
 - Process article: Google Maps franchit un cap pour la voiture électrique en devenant l’assistant de recharge que beaucoup attendaient
 
