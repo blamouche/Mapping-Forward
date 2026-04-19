@@ -1,3 +1,5 @@
+- 2026-04-19 02:05 CEST | agent | Veille mapping run: repo clean/synced; Gmail label `0---veille-mapping` returned no messages with `--include-body --json --max 100 --no-input`; reviewed `LIST.md`, kept all 23 URLs in scope, normalized 1 URL by removing a tracking parameter, added 0 URLs, removed 0 URLs, and trashed 0 emails. | Files: LIST.md, .prompt-hub/todo/todo-20260419-020430-daily-veille-maps-extraire-urls-de-gmail.md, .prompt-hub/veille-run-summary.json, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: Commit and push tracking updates.
+
 - 2026-04-14 00:04:00 CEST | agent | Veille mapping run: processed 3 Gmail alerts from `label:0---veille-mapping`, extracted 25 candidate URLs, kept 12 in-scope mapping/cartography URLs after de-duplication and scope filtering, updated `LIST.md`, and trashed 3 processed emails. | Files: LIST.md, .prompt-hub/todo/todo-20260414-000400-daily-veille-maps-extraire-urls-de-gmail.md, .prompt-hub/veille-run-summary.json, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: Commit and push tracking updates.
 
 # Memory Log

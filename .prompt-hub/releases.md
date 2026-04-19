@@ -1,3 +1,6 @@
+## 0.1.422 - 2026-04-19
+- Log veille mapping empty run (repo clean/synced; Gmail label `0---veille-mapping` returned no messages with `--include-body --json --max 100 --no-input`; `LIST.md` stayed in scope after review, with 1 URL normalized by removing a tracking parameter; no URLs added/removed; no emails trashed.)
+
 ## 0.1.421 - 2026-04-19
 - Veille mapping run: processed 19 Gmail alerts, extracted 126 candidate URLs, kept 23 mapping/cartography URLs after de-duplication and manual scope filtering, removed 68 out-of-scope URLs from the candidate set (including local/small initiatives and unrelated “map” matches), updated `LIST.md`, and prepared trashing of 19 processed emails.
 
