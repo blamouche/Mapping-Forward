@@ -1,4 +1,3 @@
-https://www.androidpolice.com/gemini-is-google-maps-new-sheriff
 https://www.mellon.org/article/why-were-building-the-national-preservation-atlas
 https://www.miragenews.com/uk-pakistan-forge-partnership-to-boost-geo-1656843
 https://www.iphon.fr/post/apple-plans-va-copier-la-pire-fonctionnalite-de-google-maps

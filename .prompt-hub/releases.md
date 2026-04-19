@@ -1314,3 +1314,6 @@
 
 ## 0.1.435 - 2026-04-19
 - Process article: Google Maps Blocked 292 Million Reviews & Removed 13 Million Fake Profiles
+
+## 0.1.436 - 2026-04-19
+- Process article: Gemini is Google Maps' new sheriff
