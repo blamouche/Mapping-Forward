@@ -817,3 +817,6 @@ next: Re-auth required — `gog auth add b.lamouche@gmail.com` (browser flow)
 
 ## 0.1.442 - 2026-04-19
 - Process article: New ways we’re protecting businesses on Maps
+
+## 0.1.443 - 2026-04-19
+- Process article: When the Sky Closes In: How #PhotoMappers Became Emergency Managers' Eyes on the Ground
