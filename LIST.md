@@ -1,4 +1,3 @@
-https://fr.businessam.be/apple-maps-absence-de-noms-de-villages-au-liban-verification-des-faits
 https://www.tuxboard.com/cette-nouveaute-dans-google-maps-va-plaire-a-tous-les-automobilistes-en-2026
 https://9to5mac.com/2026/04/17/apple-maps-is-quickly-improving-and-ios-26-5-brings-useful-new-addition
 https://www.axios.com/media-trends-membership/2026/04/18/maps-social-discovery-app

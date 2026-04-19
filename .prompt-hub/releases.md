@@ -1278,3 +1278,6 @@
 
 ## 0.1.423 - 2026-04-19
 - Process article: "On est dans un tournant numérique sur l'information géographique"
+
+## 0.1.424 - 2026-04-19
+- Process article: Y a-t-il des noms de villages disparu dans Apple Maps au Liban?
