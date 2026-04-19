@@ -757,3 +757,6 @@ next: Re-auth required — `gog auth add b.lamouche@gmail.com` (browser flow)
 - 2026-04-15 06:01:52 CEST | agent | scan-list run: `git pull --rebase` confirmed repo up to date, then checked `LIST.md` at batch timestamp 2026-04-15 06:01:52 CEST and found it empty; no URLs were processed and no batch recap was created. Tracking files updated for the empty scheduled run. | Files: LIST.md, .prompt-hub/todo/todo-20260415-060152-scan-list.md, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: Commit and push tracking updates.
 
 - 2026-04-15 09:02:01 CEST | agent | scan-list run: `git pull --rebase` confirmed repo up to date, then checked `LIST.md` at batch timestamp 2026-04-15 09:02:01 CEST and found it empty; no URLs were processed and no batch recap was created. Tracking files updated for the empty scheduled run. | Files: LIST.md, .prompt-hub/todo/todo-20260415-090201-scan-list.md, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: Commit and push tracking updates.
+
+## 0.1.423 - 2026-04-19
+- Process article: "On est dans un tournant numérique sur l'information géographique"

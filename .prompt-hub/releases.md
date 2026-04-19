@@ -1275,3 +1275,6 @@
 
 ## 0.1.300 - 2026-04-11
 - Log veille mapping run (3 Gmail alerts scanned; 29 candidate URLs extracted; 4 mapping/cartography URLs kept and added to LIST.md; 25 off-scope/local/noise items filtered out; 3 emails trashed).
+
+## 0.1.423 - 2026-04-19
+- Process article: "On est dans un tournant numérique sur l'information géographique"
