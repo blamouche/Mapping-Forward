@@ -1,10 +1,15 @@
 {
-  "messages_total": 0,
-  "candidate_urls": 0,
-  "urls_added": 0,
-  "urls_removed": 0,
-  "urls_normalized": 0,
-  "final_list_count": 0,
-  "processed_message_ids": [],
-  "kept_urls": []
+  "timestamp": "2026-04-19T12:05:24+02:00",
+  "status": "success",
+  "gmailQuery": "label:0---veille-mapping",
+  "messagesFound": 0,
+  "urlsAdded": 0,
+  "urlsRemoved": 0,
+  "emailsTrashed": 0,
+  "listUnchanged": true,
+  "notes": [
+    "Repo clean/synced before extraction.",
+    "Gmail label search returned no messages.",
+    "LIST.md was empty after scope review."
+  ]
 }
