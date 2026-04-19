@@ -1,4 +1,3 @@
-https://www.tomtom.com/events/conference/geoint-symposium-2026
 https://www.automotiveworld.com/news/tomtom-promotes-mike-schoofs-to-chief-executive-role
 https://www.reuters.com/business/tomtoms-reorganization-boosts-operating-profit-q1-2026-04-16
 https://www.seroundtable.com/google-maps-spam-fighting-2025-41176.html
