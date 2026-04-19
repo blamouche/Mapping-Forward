@@ -1284,3 +1284,6 @@
 
 ## 0.1.425 - 2026-04-19
 - Process article: Cette nouveaute dans google maps va plaire a tous les automobilistes en 2026 (FETCH_ERROR)
+
+## 0.1.426 - 2026-04-19
+- Process article: Apple Maps is quickly improving, and iOS 26.5 brings useful new addition

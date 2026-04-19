@@ -1,4 +1,3 @@
-https://9to5mac.com/2026/04/17/apple-maps-is-quickly-improving-and-ios-26-5-brings-useful-new-addition
 https://www.axios.com/media-trends-membership/2026/04/18/maps-social-discovery-app
 https://news.err.ee/1609999981/google-maps-rolls-out-cycle-route-feature-in-estonia
 https://www.esri.com/arcgis-blog/products/arcgis-pro/3d-gis/fast-accurate-water-body-extraction-for-reality-mapping-using-sam3
