@@ -811,3 +811,6 @@ next: Re-auth required — `gog auth add b.lamouche@gmail.com` (browser flow)
 
 ## 0.1.440 - 2026-04-19
 - Process article: Vous n aurez plus besoin de reflechir google maps vous dit desormais comment preparer vos sorties avec des conseils bases sur les avis.htm (FETCH_ERROR)
+
+## 0.1.441 - 2026-04-19
+- Process article: Le Togo porte à l’ONU l’initiative « Correct The Map » pour une carte du monde plus fidèle à la taille réelle de l’Afrique

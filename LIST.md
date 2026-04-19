@@ -1,4 +1,3 @@
-https://tchadinfos.com/2026/04/16/le-togo-porte-a-lonu-linitiative-correct-the-map-pour-une-carte-du-monde-plus-fidele-a-la-taille-reelle-de-lafrique
 https://blog.google/products-and-platforms/products/maps/new-ways-were-protecting-businesses-on-maps
 https://www.geoweeknews.com/news/when-the-sky-closes-in-how-photomappers-became-emergency-managers-eyes-on-the-ground
 https://www.geografie.nl/artikel/esri-en-national-geographic-lanceren-mapmaker
