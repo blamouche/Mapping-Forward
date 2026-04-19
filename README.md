@@ -15,13 +15,31 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | ████████████████████████████ 84
+2026-04 | ██████████████████████████████████ 102
 
 ## Articles
 
 ### 2026
 
-#### April (84 articles)
+#### April (102 articles)
+- [When the Map Starts Thinking](src/2026-04/20260419-when-the-map-starts-thinking.md)
+- [Esri en National Geographic lanceren MapMaker](src/2026-04/20260415-esri-en-national-geographic-lanceren-mapmaker.md)
+- [When the Sky Closes In: How #PhotoMappers Became Emergency Managers' Eyes on the Ground](src/2026-04/20260415-when-the-sky-closes-in-how-photomappers-became-emergency-managers-eyes-on-the-ground.md)
+- [New ways we’re protecting businesses on Maps](src/2026-04/20260416-new-ways-were-protecting-businesses-on-maps.md)
+- [Le Togo porte à l’ONU l’initiative « Correct The Map » pour une carte du monde plus fidèle à la taille réelle de l’Afrique](src/2026-04/20260419-le-togo-porte-a-lonu-linitiative-correct-the-map-pour-une-carte-du-monde-plus-fidele-a-la-taille-reelle-de-lafrique.md)
+- [Apple Plans va copier la pire fonctionnalité de Google Maps](src/2026-04/20260419-apple-plans-va-copier-la-pire-fonctionnalite-de-google-maps.md)
+- [UK, Pakistan Forge Partnership to Boost Geo Survey](src/2026-04/20260419-uk-pakistan-forge-partnership-to-boost-geo-survey.md)
+- [Mapping Our Shared History: Introducing the National Preservation Atlas](src/2026-04/20260419-mapping-our-shared-history-introducing-the-national-preservation-atlas.md)
+- [Gemini is Google Maps' new sheriff](src/2026-04/20260416-gemini-is-google-maps-new-sheriff.md)
+- [Google Maps Blocked 292 Million Reviews & Removed 13 Million Fake Profiles](src/2026-04/20260419-google-maps-blocked-292-million-reviews-and-removed-13-million-fake-profiles.md)
+- [TomTom promotes Mike Schoofs to Chief Executive role](src/2026-04/20260419-tomtom-promotes-mike-schoofs-to-chief-executive-role.md)
+- [Discover TomTom Maps at GEOINT Symposium 2026](src/2026-04/20260419-discover-tomtom-maps-at-geoint-symposium-2026.md)
+- [Apple a-t-elle supprimé des villages libanais de ses cartes ? Selon eux, ils n'y ont jamais figuré](src/2026-04/20260419-apple-a-t-elle-supprime-des-villages-libanais-de-ses-cartes-selon-eux-ils-ny-ont-jamais-figure.md)
+- [Fast, accurate water body extraction for Reality Mapping using SAM3](src/2026-04/20260417-fast-accurate-water-body-extraction-for-reality-mapping-using-sam3.md)
+- [Google Maps rolls out cycle route feature in Estonia](src/2026-04/20260419-google-maps-rolls-out-cycle-route-feature-in-estonia.md)
+- [Apple Maps is quickly improving, and iOS 26.5 brings useful new addition](src/2026-04/20260417-apple-maps-is-quickly-improving-and-ios-26-5-brings-useful-new-addition.md)
+- [Y a-t-il des noms de villages disparu dans Apple Maps au Liban?](src/2026-04/20260419-y-a-t-il-des-noms-de-villages-disparu-dans-apple-maps-au-liban.md)
+- ["On est dans un tournant numérique sur l'information géographique"](src/2026-04/20260419-on-est-dans-un-tournant-numerique-sur-linformation-geographique.md)
 - [Google Ask Maps is moving from listings to recommendations](src/2026-04/20260415-google-ask-maps-is-moving-from-listings-to-recommendations.md)
 - [TomTom GO Navigation: Offline maps gain edge amid rising data costs](src/2026-04/20260414-tomtom-go-navigation-offline-maps-gain-edge-amid-rising-data-costs.md)
 - [All it costs to start building with TomTom NavSDK is 15 minutes](src/2026-04/20260414-all-it-costs-to-start-building-with-tomtom-navsdk-is-15-minutes.md)
