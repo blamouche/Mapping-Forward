@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-04-19T20:06:02+02:00",
+  "timestamp": "2026-04-19T22:04:40+02:00",
   "query": "label:0---veille-mapping",
-  "messagesProcessed": 0,
-  "candidateUrls": 0,
-  "urlsAdded": 0,
+  "messagesProcessed": 1,
+  "candidateUrls": 13,
+  "urlsAdded": 1,
   "urlsRemoved": 0,
-  "emailsTrashed": 0,
+  "emailsTrashed": 1,
   "status": "success",
-  "notes": "Empty run: Gmail label returned no messages and LIST.md was already empty/in scope."
+  "notes": "Processed 1 Google Alert, kept 1 Apple Maps/cartography-domain URL after filtering out off-scope science, politics, video, and local-flood links."
 }

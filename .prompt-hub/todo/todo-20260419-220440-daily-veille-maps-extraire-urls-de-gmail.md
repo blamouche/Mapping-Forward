@@ -10,16 +10,16 @@
 - [x] Read `.prompt-hub/memory.md`
 - [x] Read `.prompt-hub/releases.md`
 - [x] Create this todo file before work
-- [ ] Check git status and restore clean synced state if needed
-- [ ] Query Gmail label and extract candidate URLs
-- [ ] Review scope and update `LIST.md`
-- [ ] Trash processed emails
-- [ ] Update prompt-hub tracking files
-- [ ] Commit and push
+- [x] Check git status and restore clean synced state if needed
+- [x] Query Gmail label and extract candidate URLs
+- [x] Review scope and update `LIST.md`
+- [x] Trash processed emails
+- [x] Update prompt-hub tracking files
+- [x] Commit and push
 
 ## Notes
 - If repo is dirty, commit/push all unsynced local changes first to restore a clean baseline before Gmail extraction.
 - Scope: cartography, mapping, GIS, geospatial data, domain news. Exclude small local initiatives.
 
 ## Review
-- Pending.
+- Repo restored to a clean baseline, Gmail label `0---veille-mapping` returned 1 message, 13 candidate URLs were extracted, 1 in-scope URL was kept and added to `LIST.md`, 0 existing URLs were removed, and 1 processed email was moved to Trash.
