@@ -1,3 +1,6 @@
+## 0.1.469 - 2026-04-20
+- Add batch recap: 2026-04-20 000148
+
 ## 0.1.468 - 2026-04-20
 - Process article: Did Apple Maps 'erase' Lebanese town names? We investigated
 
