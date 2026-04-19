@@ -820,3 +820,6 @@ next: Re-auth required — `gog auth add b.lamouche@gmail.com` (browser flow)
 
 ## 0.1.443 - 2026-04-19
 - Process article: When the Sky Closes In: How #PhotoMappers Became Emergency Managers' Eyes on the Ground
+
+## 0.1.444 - 2026-04-19
+- Process article: Esri en National Geographic lanceren MapMaker
