@@ -793,3 +793,6 @@ next: Re-auth required — `gog auth add b.lamouche@gmail.com` (browser flow)
 
 ## 0.1.434 - 2026-04-19
 - Process article: Tomtoms reorganization boosts operating profit q1 2026 04 16 (FETCH_ERROR)
+
+## 0.1.435 - 2026-04-19
+- Process article: Google Maps Blocked 292 Million Reviews & Removed 13 Million Fake Profiles
