@@ -829,3 +829,5 @@ next: Re-auth required — `gog auth add b.lamouche@gmail.com` (browser flow)
 
 ## 0.1.446 - 2026-04-19
 - Add batch recap: 2026-04-19 030100
+
+- 2026-04-19 04:04 CEST | agent | Initialized scheduled veille mapping run: created `.prompt-hub/todo/todo-20260419-040400-daily-veille-maps-extraire-urls-de-gmail.md`, incremented tracking version, and prepared to restore a clean repo baseline before Gmail extraction. | Files: .prompt-hub/todo/todo-20260419-040400-daily-veille-maps-extraire-urls-de-gmail.md, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: Commit/push tracking updates, then scan Gmail and review `LIST.md`.
