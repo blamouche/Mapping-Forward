@@ -1317,3 +1317,6 @@
 
 ## 0.1.436 - 2026-04-19
 - Process article: Gemini is Google Maps' new sheriff
+
+## 0.1.437 - 2026-04-19
+- Process article: Mapping Our Shared History: Introducing the National Preservation Atlas
