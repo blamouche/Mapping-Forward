@@ -1308,3 +1308,6 @@
 
 ## 0.1.433 - 2026-04-19
 - Process article: TomTom promotes Mike Schoofs to Chief Executive role
+
+## 0.1.434 - 2026-04-19
+- Process article: Tomtoms reorganization boosts operating profit q1 2026 04 16 (FETCH_ERROR)
