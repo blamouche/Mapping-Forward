@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-04-19T22:04:40+02:00",
+  "timestamp": "2026-04-20T00:11:00+02:00",
   "query": "label:0---veille-mapping",
-  "messagesProcessed": 1,
-  "candidateUrls": 13,
-  "urlsAdded": 1,
+  "messagesProcessed": 2,
+  "candidateUrls": 18,
+  "urlsAdded": 2,
   "urlsRemoved": 0,
-  "emailsTrashed": 1,
+  "emailsTrashed": 2,
   "status": "success",
-  "notes": "Processed 1 Google Alert, kept 1 Apple Maps/cartography-domain URL after filtering out off-scope science, politics, video, and local-flood links."
+  "notes": "Processed 2 Google Alerts, kept 2 mapping-domain URLs after filtering out local video-mapping items, generic map false positives, videos, finance-only coverage, and consumer/product ranking noise."
 }
