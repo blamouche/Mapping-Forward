@@ -778,3 +778,6 @@ next: Re-auth required — `gog auth add b.lamouche@gmail.com` (browser flow)
 
 ## 0.1.429 - 2026-04-19
 - Process article: Fast, accurate water body extraction for Reality Mapping using SAM3
+
+## 0.1.430 - 2026-04-19
+- Process article: Nw19180937 (FETCH_ERROR)
