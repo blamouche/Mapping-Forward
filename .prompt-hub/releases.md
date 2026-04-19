@@ -1293,3 +1293,6 @@
 
 ## 0.1.428 - 2026-04-19
 - Process article: Google Maps rolls out cycle route feature in Estonia
+
+## 0.1.429 - 2026-04-19
+- Process article: Fast, accurate water body extraction for Reality Mapping using SAM3

@@ -1,4 +1,3 @@
-https://www.esri.com/arcgis-blog/products/arcgis-pro/3d-gis/fast-accurate-water-body-extraction-for-reality-mapping-using-sam3
 https://news.nicovideo.jp/watch/nw19180937
 https://fr.euronews.com/my-europe/2026/04/17/apple-a-t-elle-supprime-des-villages-libanais-de-ses-cartes-selon-eux-ils-ny-ont-jamais-fi
 https://www.tomtom.com/events/conference/geoint-symposium-2026
