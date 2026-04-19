@@ -781,3 +781,6 @@ next: Re-auth required — `gog auth add b.lamouche@gmail.com` (browser flow)
 
 ## 0.1.430 - 2026-04-19
 - Process article: Nw19180937 (FETCH_ERROR)
+
+## 0.1.431 - 2026-04-19
+- Process article: Apple a-t-elle supprimé des villages libanais de ses cartes ? Selon eux, ils n'y ont jamais figuré

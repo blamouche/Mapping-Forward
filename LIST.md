@@ -1,4 +1,3 @@
-https://fr.euronews.com/my-europe/2026/04/17/apple-a-t-elle-supprime-des-villages-libanais-de-ses-cartes-selon-eux-ils-ny-ont-jamais-fi
 https://www.tomtom.com/events/conference/geoint-symposium-2026
 https://www.automotiveworld.com/news/tomtom-promotes-mike-schoofs-to-chief-executive-role
 https://www.reuters.com/business/tomtoms-reorganization-boosts-operating-profit-q1-2026-04-16
