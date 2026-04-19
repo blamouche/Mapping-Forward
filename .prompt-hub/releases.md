@@ -1,3 +1,6 @@
+## 0.1.461 - 2026-04-19
+- Log scan-list empty run (`git pull --rebase` up to date; `LIST.md` empty at 2026-04-19 18:01:50 CEST; no URLs processed; no batch recap created).
+
 ## 0.1.460 - 2026-04-19
 - Refine substack post length to stay within the 1500-2000 word target
 
