@@ -1,3 +1,6 @@
+## 0.1.468 - 2026-04-20
+- Process article: Did Apple Maps 'erase' Lebanese town names? We investigated
+
 ## 0.1.467 - 2026-04-19
 - Add URL(s) to processing queue.
 

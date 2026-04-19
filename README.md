@@ -15,13 +15,14 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | ██████████████████████████████████ 102
+2026-04 | ███████████████████████████████████ 103
 
 ## Articles
 
 ### 2026
 
-#### April (102 articles)
+#### April (103 articles)
+- [Did Apple Maps 'erase' Lebanese town names? We investigated](src/2026-04/20260419-did-apple-maps-erase-lebanese-town-names-we-investigated.md)
 - [When the Map Starts Thinking](src/2026-04/20260419-when-the-map-starts-thinking.md)
 - [Esri en National Geographic lanceren MapMaker](src/2026-04/20260415-esri-en-national-geographic-lanceren-mapmaker.md)
 - [When the Sky Closes In: How #PhotoMappers Became Emergency Managers' Eyes on the Ground](src/2026-04/20260415-when-the-sky-closes-in-how-photomappers-became-emergency-managers-eyes-on-the-ground.md)
