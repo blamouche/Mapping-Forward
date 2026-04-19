@@ -1,3 +1,6 @@
+## 0.1.459 - 2026-04-19
+- Add substack post: When maps become trust infrastructure
+
 ## 0.1.458 - 2026-04-19
 - Log veille mapping empty run (repo clean/synced; Gmail label `0---veille-mapping` returned no messages with `--include-body --json --max 100 --no-input`; `LIST.md` stayed empty after scope review; no URLs added/removed; no emails trashed.)
 
