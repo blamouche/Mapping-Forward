@@ -1290,3 +1290,6 @@
 
 ## 0.1.427 - 2026-04-19
 - Process article: Maps social discovery app (FETCH_ERROR)
+
+## 0.1.428 - 2026-04-19
+- Process article: Google Maps rolls out cycle route feature in Estonia
