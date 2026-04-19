@@ -8,7 +8,7 @@
 - [x] Read the selected article files
 - [x] Draft the new Substack post in `substack/` and copy to `substack/latest.md`
 - [x] Update prompt-hub tracking files and review notes
-- [ ] Commit and push
+- [x] Commit and push
 
 ## Notes
 - Trigger: cron substack-post-recents on 2026-04-19 16:30 CEST.
@@ -18,3 +18,5 @@
 - Selected the 15 latest README article links, analyzed recurring themes around trust, moderation, representation, and operational geospatial infrastructure, then wrote the new Substack post in English.
 - Saved the article to `substack/20260419-post-when-maps-become-trust-infrastructure.md` and mirrored it to `substack/latest.md` per agent instructions.
 - Prompt-hub tracking files updated before git commit/push.
+
+- Follow-up: trimmed the article to 1980 words after the first push landed, then prepared a final sync commit.

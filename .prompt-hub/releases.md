@@ -1,3 +1,6 @@
+## 0.1.460 - 2026-04-19
+- Refine substack post length to stay within the 1500-2000 word target
+
 ## 0.1.459 - 2026-04-19
 - Add substack post: When maps become trust infrastructure
 

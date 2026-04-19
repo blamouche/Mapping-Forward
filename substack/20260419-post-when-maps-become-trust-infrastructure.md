@@ -38,9 +38,7 @@ That matters for the broader direction of the industry. It suggests that trustwo
 
 Esri’s piece on water-body extraction with SAM3 points to the same dynamic from the production side. Here, trust comes from turning a painful preprocessing problem into a repeatable workflow. Water is notoriously difficult in photogrammetry and reality mapping because reflections and weak texture corrupt reconstruction. If a foundation-model workflow can segment those areas reliably enough to clean up the pipeline, then trust is being built into the geometry of the map itself. Not via interface polish, but via better preparation of the underlying representation.
 
-Education is part of this too. The launch of MapMaker by Esri and National Geographic is not a technological revolution, but it matters because it lowers the barrier to geospatial literacy. If younger users learn to explore layers, compare projections, measure distance, and reason about terrain with a proper mapping tool rather than only a consumer navigation app, the industry gains something valuable: a broader base of people who understand that maps are constructed systems with choices inside them.
-
-That may sound secondary compared with AI moderation or emergency response, but I do not think it is. A world that depends more heavily on maps also needs more people who can question them intelligently.
+MapMaker also fits the same pattern. It is not a technological revolution, but it lowers the barrier to geospatial literacy. If more users learn to explore layers, compare projections, and reason about terrain with purpose-built tools rather than only navigation apps, the industry gains a broader base of people who understand that maps are constructed systems with choices inside them.
 
 ## Representation is not neutral, and never was
 
@@ -50,17 +48,17 @@ The Togo-led effort to bring “Correct The Map” to the United Nations is a re
 
 The Apple Maps controversy around Lebanese villages operates on a different level, but it belongs in the same conversation. Euronews did the useful work of separating dramatic claims of deliberate erasure from the more mundane reality of incomplete coverage. Yet that distinction does not dissolve the problem. In a conflict zone, poor representation can still be experienced as erasure. A place that is hard to discover, weakly labeled, or absent from default views is not simply under-modeled. It is publicly diminished.
 
-This is why mapping platforms now carry a burden closer to institutional media than to neutral utilities. They influence what is legible. They help determine which places appear settled, significant, historic, vulnerable, commercial, or connected. The National Preservation Atlas makes this legibility explicit in a constructive way. By consolidating fragmented preservation records into a national geospatial view, it turns scattered legal and cultural recognition into a discoverable public layer. The project is not merely cataloguing historic places. It is making preservation itself queryable.
+This is why mapping platforms now carry a burden closer to institutional media than to neutral utilities. They influence what is legible. They help determine which places appear settled, significant, historic, vulnerable, commercial, or connected. The National Preservation Atlas makes this legibility explicit by consolidating fragmented preservation records into a national geospatial view. The project is not merely cataloguing historic places. It is making preservation itself queryable.
 
-That is a powerful pattern. More and more mapping systems are not just showing objects in space. They are exposing regimes of recognition, legal status, infrastructure condition, or strategic importance. The map becomes the interface through which institutions decide what can be seen and acted upon.
+More and more mapping systems are not just showing objects in space. They are exposing regimes of recognition, legal status, infrastructure condition, or strategic importance. The map becomes the interface through which institutions decide what can be seen and acted upon.
 
 ## Mapping is moving upstream into strategy
 
 The most strategically interesting corporate signal in the set comes from TomTom.
 
-The appointment of Mike Schoofs as chief executive could be read as ordinary leadership succession, but in context it feels like continuity around a specific bet. TomTom increasingly wants to be understood as a provider of trusted location intelligence for sectors where spatial data is operational, not decorative. The GEOINT Symposium positioning makes that especially clear. In that framing, TomTom is not talking about weekend trips or avoiding traffic. It is talking about secure, interoperable, mission-ready geospatial products for government and defense contexts.
+TomTom’s leadership change matters mainly as a signal of continuity around a specific bet. The company increasingly wants to be understood as a provider of trusted location intelligence for sectors where spatial data is operational, not decorative. The GEOINT Symposium positioning makes that explicit: TomTom is not talking about weekend trips or avoiding traffic, but about secure, interoperable, mission-ready geospatial products for government and defense contexts.
 
-That is striking because it mirrors, in a more specialized setting, the argument made by Elbit’s “When the Map Starts Thinking.” There too, the claim is that mapping is evolving from display toward machine-readable environmental intelligence. Terrain is no longer just something a human looks at. It becomes a semantically structured model that software can reason over, whether for mobility, autonomy, mission planning, or operational risk.
+That mirrors, in a more specialized setting, the argument made by Elbit’s “When the Map Starts Thinking.” There too, the claim is that mapping is evolving from display toward machine-readable environmental intelligence. Terrain becomes a semantically structured model that software can reason over.
 
 The UK-Pakistan geological survey partnership extends that same logic into state capacity. Better geological data, digitized survey processes, and GIS training are not glamorous on their own. But they form part of the knowledge infrastructure that makes resource governance, investment, and long-term planning possible. In other words, mapping is moving upstream. It increasingly shapes how institutions know what they have, where it is, and what they can do with it.
 
@@ -79,8 +77,6 @@ The tension is obvious. The more maps do for us, the more power they gain to fil
 That is why the industry’s next phase will not be defined by prettier interfaces alone. It will be defined by whether mapping platforms and geospatial institutions can earn confidence as intermediaries of place.
 
 The old promise of digital maps was that they would help us find our way. The new promise is more consequential. They claim they can help societies decide what is real, relevant, safe, protected, navigable, and worth noticing.
-
-That is a much bigger job. It is also why maps now deserve to be watched less as apps and more as infrastructure.
 
 ---
 
