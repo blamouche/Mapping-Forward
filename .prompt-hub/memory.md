@@ -808,3 +808,6 @@ next: Re-auth required — `gog auth add b.lamouche@gmail.com` (browser flow)
 
 ## 0.1.439 - 2026-04-19
 - Process article: Apple Plans va copier la pire fonctionnalité de Google Maps
+
+## 0.1.440 - 2026-04-19
+- Process article: Vous n aurez plus besoin de reflechir google maps vous dit desormais comment preparer vos sorties avec des conseils bases sur les avis.htm (FETCH_ERROR)
