@@ -1320,3 +1320,6 @@
 
 ## 0.1.437 - 2026-04-19
 - Process article: Mapping Our Shared History: Introducing the National Preservation Atlas
+
+## 0.1.438 - 2026-04-19
+- Process article: UK, Pakistan Forge Partnership to Boost Geo Survey
