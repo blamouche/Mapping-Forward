@@ -1,3 +1,6 @@
+## 0.1.473 - 2026-04-20
+- Process article: TomTom GO Navigation: Warum Offline-Karten jetzt entscheidend werden
+
 ## 0.1.472 - 2026-04-20
 - Process article: Google Maps : les faux avis dans le viseur de Gemini
 
