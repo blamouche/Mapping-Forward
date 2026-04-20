@@ -1,3 +1,6 @@
+## 0.1.484 - 2026-04-20
+- Log veille mapping run (processed 1 Gmail alert; extracted 1 candidate URL; filtered it out as a local university program item outside the cartography/domain watchlist; `LIST.md` stayed empty; trashed 1 email.)
+
 ## 0.1.483 - 2026-04-20
 - Add veille-mapping todo for scheduled 12:05 CEST run before restoring a clean repo baseline and querying Gmail.
 
