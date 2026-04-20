@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-04-20T12:05:00+02:00",
+  "timestamp": "2026-04-20T14:05:00+02:00",
   "query": "label:0---veille-mapping",
-  "messagesProcessed": 1,
-  "candidateUrls": 1,
+  "messagesProcessed": 0,
+  "candidateUrls": 0,
   "urlsAdded": 0,
   "urlsRemoved": 0,
-  "emailsTrashed": 1,
+  "emailsTrashed": 0,
   "status": "success",
-  "notes": "Processed one Google Alert. The only extracted URL was a local university geodesy/cartography program announcement, filtered out as out of scope. LIST.md remained empty."
+  "notes": "Repo was clean/synced. Gmail search returned no messages. LIST.md stayed empty after scope review."
 }
