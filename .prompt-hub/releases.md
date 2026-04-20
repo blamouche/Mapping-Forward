@@ -1,3 +1,6 @@
+## 0.1.496 - 2026-04-21
+- Log veille mapping run (repo clean/synced; processed 1 Google Alert for TomTom; extracted and kept 5 in-scope mapping/domain URLs after normalization; updated `LIST.md`; trashed 1 email.)
+
 ## 0.1.495 - 2026-04-21
 - Log scan-list empty run (`git pull --rebase` up to date; `LIST.md` empty at 2026-04-21 00:01:53 CEST; no URLs processed; no batch recap created.)
 

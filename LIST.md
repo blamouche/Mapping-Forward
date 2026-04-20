@@ -1,0 +1,5 @@
+https://www.webwire.com/ViewPressRel.asp?aId=353623
+https://www.ad-hoc-news.de/boerse/news/ueberblick/tomtom-go-navigation-mobile-shift-challenges-hardware-sales/69210411
+https://www.autoactu.com/actualites/tomtom-nomme-mike-schoofs-au-poste-de-ceo
+https://www.tuxboard.com/tom-by-tomtom-remplace-waze-pour-les-conducteurs-de-voitures-electriques-en-longs-trajets/
+https://www.ad-hoc-news.de/boerse/news/ueberblick/tomtom-go-navigation-warum-offline-karten-jetzt-fuer-autofahrer/69217572
