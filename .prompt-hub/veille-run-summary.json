@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-04-20T00:11:00+02:00",
+  "timestamp": "2026-04-20T02:04:00+02:00",
   "query": "label:0---veille-mapping",
-  "messagesProcessed": 2,
-  "candidateUrls": 18,
-  "urlsAdded": 2,
+  "messagesProcessed": 0,
+  "candidateUrls": 0,
+  "urlsAdded": 0,
   "urlsRemoved": 0,
-  "emailsTrashed": 2,
+  "emailsTrashed": 0,
   "status": "success",
-  "notes": "Processed 2 Google Alerts, kept 2 mapping-domain URLs after filtering out local video-mapping items, generic map false positives, videos, finance-only coverage, and consumer/product ranking noise."
+  "notes": "Repo was already clean and synced. Gmail label returned no messages. LIST.md retained 2 existing in-scope URLs after scope review, with no additions or removals."
 }
