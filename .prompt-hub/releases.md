@@ -1,3 +1,6 @@
+## 0.1.488 - 2026-04-20
+- Add veille-mapping todo for scheduled 16:05 CEST run and capture baseline tracking before restoring a clean synced repo state.
+
 ## 0.1.487 - 2026-04-20
 - Log scan-list empty run (`git pull --rebase` up to date; `LIST.md` empty at 2026-04-20 15:01:52 CEST; no URLs processed; no batch recap created.)
 
