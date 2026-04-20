@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-20T14:05:00+02:00",
+  "timestamp": "2026-04-20T16:06:11+02:00",
   "query": "label:0---veille-mapping",
   "messagesProcessed": 0,
   "candidateUrls": 0,
@@ -7,5 +7,5 @@
   "urlsRemoved": 0,
   "emailsTrashed": 0,
   "status": "success",
-  "notes": "Repo was clean/synced. Gmail search returned no messages. LIST.md stayed empty after scope review."
+  "notes": "Repo was clean/synced after a baseline tracking commit. Gmail search returned no messages. LIST.md stayed empty after scope review."
 }

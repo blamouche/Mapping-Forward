@@ -4,14 +4,16 @@
 - [x] Read `.prompt-hub/memory.md`
 - [x] Read `.prompt-hub/releases.md`
 - [x] Confirm repo status and current version
-- [ ] Sync repo from a clean state
-- [ ] Query Gmail label `0---veille-mapping`
-- [ ] Extract, normalize, de-duplicate, and scope-filter article URLs
-- [ ] Update `LIST.md`
-- [ ] Commit and push repo changes
-- [ ] Move processed emails to Trash
+- [x] Sync repo from a clean state
+- [x] Query Gmail label `0---veille-mapping`
+- [x] Extract, normalize, de-duplicate, and scope-filter article URLs
+- [x] Update `LIST.md`
+- [x] Commit and push repo changes
+- [x] Move processed emails to Trash
 
 ## Review
 
-- Status: in progress
-- Notes: Scheduled veille mapping run started at 2026-04-20 16:06:11 CEST.
+- Status: completed
+- Notes: Repo baseline committed/pushed first, Gmail returned no matching messages, LIST.md stayed empty, and no emails needed trashing.
+
+- Outcome: 0 URLs added, 0 URLs removed, 0 emails trashed.
