@@ -1,3 +1,6 @@
+## 0.1.474 - 2026-04-20
+- Add batch recap: 2026-04-20 030141
+
 ## 0.1.473 - 2026-04-20
 - Process article: TomTom GO Navigation: Warum Offline-Karten jetzt entscheidend werden
 
