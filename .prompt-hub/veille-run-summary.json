@@ -6,7 +6,7 @@
   "urlsAdded": 1,
   "urlsRemoved": 0,
   "finalListCount": 1,
-  "emailsTrashed": 0,
+  "emailsTrashed": 1,
   "status": "success",
-  "notes": "Repo clean/synced; processed 1 Google Alert; kept 1 mapping-related URL and updated LIST.md."
+  "notes": "Repo clean/synced; processed 1 Google Alert; kept 1 mapping-related URL, updated LIST.md, and trashed 1 email."
 }
