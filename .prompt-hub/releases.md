@@ -1,3 +1,6 @@
+## 0.1.502 - 2026-04-21
+- Process article: TOM by TomTom remplace Waze pour les conducteurs de voitures électriques en longs trajets
+
 ## 0.1.501 - 2026-04-21
 - Process article: TomTom nomme Mike Schoofs au poste de CEO
 
