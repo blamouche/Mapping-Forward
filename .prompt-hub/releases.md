@@ -1,3 +1,6 @@
+## 0.1.506 - 2026-04-21
+- Add batch recap: 2026-04-21 030154
+
 ## 0.1.505 - 2026-04-21
 - Process article: Le Togo va demander aux États membres de l’ONU d’utiliser une carte représentant la taille réelle de l’Afrique
 
