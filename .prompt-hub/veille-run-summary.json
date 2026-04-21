@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-04-21T00:19:18+02:00",
+  "timestamp": "2026-04-21T02:10:00+02:00",
   "query": "label:0---veille-mapping",
   "messagesProcessed": 1,
-  "candidateUrls": 5,
-  "urlsAdded": 5,
+  "candidateUrls": 10,
+  "urlsAdded": 2,
   "urlsRemoved": 0,
   "emailsTrashed": 1,
   "status": "success",
-  "notes": "Repo was clean/synced. Processed 1 Google Alert for TomTom, extracted 5 in-scope mapping/domain URLs, updated LIST.md, and trashed the processed email."
+  "notes": "Repo was re-cleaned and synced first. Processed 1 Google Alert, kept 2 new in-scope mapping/cartography domain URLs after filtering out local and non-domain items, updated LIST.md, and trashed the processed email."
 }

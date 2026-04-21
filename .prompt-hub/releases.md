@@ -1,3 +1,6 @@
+## 0.1.498 - 2026-04-21
+- Log veille mapping run (repo re-cleaned and synced first; processed 1 Google Alert from `label:0---veille-mapping`; extracted 10 candidate URLs; kept 2 new in-scope cartography/domain URLs after filtering out local/non-domain items; updated `LIST.md`; trashed 1 email.)
+
 ## 0.1.497 - 2026-04-21
 - Add veille-mapping todo for scheduled 02:04 CEST run and commit pending tracking files to restore a clean repo baseline before Gmail extraction.
 
