@@ -1,2 +1,1 @@
-https://www.abondance.com/20260420-2186214-google-maps-suppression-292-millions-avis-frauduleux-2025.html
 https://www.bbc.com/afrique/articles/cn43ndy7qxzo

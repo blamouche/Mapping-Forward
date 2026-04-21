@@ -1,3 +1,6 @@
+## 0.1.504 - 2026-04-21
+- Process article: Google Maps a supprimé 292 millions d’avis frauduleux en 2025
+
 ## 0.1.503 - 2026-04-21
 - Process article: FETCH_ERROR ad-hoc-news offline karten jetzt fuer autofahrer
 
