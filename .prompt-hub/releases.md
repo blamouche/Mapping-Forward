@@ -1,3 +1,6 @@
+## 0.1.527 - 2026-04-21
+- Add URL(s) to processing queue.
+
 ## 0.1.526 - 2026-04-21
 - Add veille-mapping todo for scheduled 20:04 CEST run and restore a clean repo baseline before Gmail extraction.
 

@@ -4,8 +4,8 @@
 - [x] Read `.prompt-hub/memory.md`
 - [x] Read `.prompt-hub/releases.md`
 - [x] Check repo sync/clean state
-- [ ] Query Gmail label `0---veille-mapping` and extract article URLs
-- [ ] Sync/update `LIST.md`, de-duplicate, and remove out-of-scope URLs
+- [x] Query Gmail label `0---veille-mapping` and extract article URLs
+- [x] Sync/update `LIST.md`, de-duplicate, and remove out-of-scope URLs
 - [ ] Trash processed emails
 - [ ] Commit, push, and add review
 

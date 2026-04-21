@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-04-21T18:06:00+02:00",
+  "timestamp": "2026-04-21T20:06:00+02:00",
   "query": "label:0---veille-mapping",
-  "emailsProcessed": 0,
-  "candidateUrls": 0,
-  "urlsAdded": 0,
+  "emailsProcessed": 1,
+  "candidateUrls": 1,
+  "urlsAdded": 1,
   "urlsRemoved": 0,
-  "finalListCount": 0,
+  "finalListCount": 1,
   "emailsTrashed": 0,
   "status": "success",
-  "notes": "Repo clean/synced; Gmail label empty; LIST.md empty after scope review."
+  "notes": "Repo clean/synced; processed 1 Google Alert; kept 1 mapping-related URL and updated LIST.md."
 }
