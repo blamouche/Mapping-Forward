@@ -1,3 +1,6 @@
+## 0.1.503 - 2026-04-21
+- Process article: FETCH_ERROR ad-hoc-news offline karten jetzt fuer autofahrer
+
 ## 0.1.502 - 2026-04-21
 - Process article: TOM by TomTom remplace Waze pour les conducteurs de voitures électriques en longs trajets
 
