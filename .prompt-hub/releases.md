@@ -1,3 +1,6 @@
+## 0.1.497 - 2026-04-21
+- Add veille-mapping todo for scheduled 02:04 CEST run and commit pending tracking files to restore a clean repo baseline before Gmail extraction.
+
 ## 0.1.496 - 2026-04-21
 - Log veille mapping run (repo clean/synced; processed 1 Google Alert for TomTom; extracted and kept 5 in-scope mapping/domain URLs after normalization; updated `LIST.md`; trashed 1 email.)
 
