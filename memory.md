@@ -30,3 +30,11 @@
 - commands: git pull --rebase
 - status: success
 - next: commit and push tracking updates
+
+## 2026-04-21 21:03 CEST
+- actor: openclaw
+- action: Processed scan-list article `中国车道级导航领先`; created the synthesis file, updated README statistics/April list, removed the URL from LIST.md, and prepared the batch recap.
+- files: src/2026-04/20260421-china-lane-level-navigation-leads.md, README.md, LIST.md, synthesis/2026-04-21 - 210145 - batch recap.md
+- commands: web_fetch, git commit, git push
+- status: success
+- next: Commit the article, commit the batch recap, and push.

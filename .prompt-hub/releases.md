@@ -1,3 +1,6 @@
+## 0.1.529 - 2026-04-21
+- Process article: 中国车道级导航领先
+
 ## 0.1.528 - 2026-04-21
 - Log veille mapping run (repo clean/synced; processed 1 Google Alert; extracted 1 candidate URL; kept 1 in-scope mapping/domain URL after scope review; updated `LIST.md`; trashed 1 email.)
 
