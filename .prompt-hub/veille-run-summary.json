@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-21T10:05:24+02:00",
+  "timestamp": "2026-04-21T12:08:38+02:00",
   "query": "label:0---veille-mapping",
   "emailsProcessed": 0,
   "candidateUrls": 0,
@@ -8,5 +8,5 @@
   "finalListCount": 0,
   "emailsTrashed": 0,
   "status": "success",
-  "notes": "Repo cleaned/synced via tracking commit; Gmail label empty; LIST.md empty after scope review."
+  "notes": "Repo clean/synced; Gmail label empty; LIST.md empty after scope review."
 }
