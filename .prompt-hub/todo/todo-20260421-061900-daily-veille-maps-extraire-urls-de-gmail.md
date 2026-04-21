@@ -13,3 +13,10 @@
 
 ## Notes
 - Cron run requested: Gmail -> LIST.md -> cleanup -> trash -> summary.
+
+## Review
+- Gmail label `0---veille-mapping`: no messages
+- URLs added: 0
+- URLs removed from LIST.md: 0
+- Emails trashed: 0
+- Result: LIST.md remained empty and in scope.
