@@ -15,13 +15,14 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | ███████████████████████████████████ 105
+2026-04 | █████████████████████████████████████ 110
 
 ## Articles
 
 ### 2026
 
-#### April (105 articles)
+#### April (110 articles)
+- [Build a full navigation experience in minutes with TomTom NavSDK](src/2026-04/20260420-build-a-full-navigation-experience-in-minutes-with-tomtom-navsdk.md)
 - [Google Maps : les faux avis dans le viseur de Gemini](src/2026-04/20260420-google-maps-les-faux-avis-dans-le-viseur-de-gemini.md)
 - [TomTom GO Navigation: Warum Offline-Karten jetzt entscheidend werden](src/2026-04/20260420-tomtom-go-navigation-warum-offline-karten-jetzt-entscheidend-werden.md)
 - [Did Apple Maps 'erase' Lebanese town names? We investigated](src/2026-04/20260419-did-apple-maps-erase-lebanese-town-names-we-investigated.md)

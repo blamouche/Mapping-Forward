@@ -1,3 +1,6 @@
+## 0.1.499 - 2026-04-21
+- Process article: Build a full navigation experience in minutes with TomTom NavSDK
+
 ## 0.1.498 - 2026-04-21
 - Log veille mapping run (repo re-cleaned and synced first; processed 1 Google Alert from `label:0---veille-mapping`; extracted 10 candidate URLs; kept 2 new in-scope cartography/domain URLs after filtering out local/non-domain items; updated `LIST.md`; trashed 1 email.)
 
