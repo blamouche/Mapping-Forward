@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-04-21T02:10:00+02:00",
+  "timestamp": "2026-04-21T04:04:00+02:00",
   "query": "label:0---veille-mapping",
   "messagesProcessed": 1,
-  "candidateUrls": 10,
-  "urlsAdded": 2,
+  "candidateUrls": 16,
+  "urlsAdded": 0,
   "urlsRemoved": 0,
   "emailsTrashed": 1,
   "status": "success",
-  "notes": "Repo was re-cleaned and synced first. Processed 1 Google Alert, kept 2 new in-scope mapping/cartography domain URLs after filtering out local and non-domain items, updated LIST.md, and trashed the processed email."
+  "notes": "Repo was clean/synced first. Processed 1 broad Google Alert for “Maps”, extracted 16 article/page URLs after removing Google utility links, kept 0 in-scope cartography/domain URLs after filtering out politics, local campus maps, media/program listings, research unrelated to cartography, and generic map pages. LIST.md remained empty, and the processed email was moved to Trash."
 }

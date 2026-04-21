@@ -1,3 +1,6 @@
+## 0.1.507 - 2026-04-21
+- Log veille mapping run (repo clean/synced; processed 1 broad Google Alert for `label:0---veille-mapping`; extracted 16 candidate URLs after removing Google utility links; kept 0 in-scope cartography/domain URLs after filtering out off-scope politics/local/media/research items; `LIST.md` stayed empty; trashed 1 email.)
+
 ## 0.1.506 - 2026-04-21
 - Add batch recap: 2026-04-21 030154
 
