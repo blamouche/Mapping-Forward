@@ -1,3 +1,6 @@
+
+## 0.1.509 - 2026-04-21
+- Add veille-mapping todo for scheduled 06:19 CEST run and restore a clean repo baseline before Gmail extraction.
 ## 0.1.508 - 2026-04-21
 - Add substack post: Maps are becoming systems of governance
 
