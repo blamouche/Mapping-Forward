@@ -22,6 +22,7 @@ Articles per month:
 ### 2026
 
 #### April (110 articles)
+- [Le Togo va demander aux États membres de l’ONU d’utiliser une carte représentant la taille réelle de l’Afrique](src/2026-04/20260421-le-togo-va-demander-aux-etats-membres-de-lonu-dutiliser-une-carte-representant-la-taille-reelle-de-lafrique.md)
 - [Google Maps a supprimé 292 millions d’avis frauduleux en 2025](src/2026-04/20260420-google-maps-a-supprime-292-millions-davis-frauduleux-en-2025.md)
 - [TOM by TomTom remplace Waze pour les conducteurs de voitures électriques en longs trajets](src/2026-04/20260420-tom-by-tomtom-remplace-waze-pour-les-conducteurs-de-voitures-electriques-en-longs-trajets.md)
 - [TomTom nomme Mike Schoofs au poste de CEO](src/2026-04/20260420-tomtom-nomme-mike-schoofs-au-poste-de-ceo.md)
