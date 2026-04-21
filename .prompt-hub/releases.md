@@ -1,3 +1,6 @@
+## 0.1.500 - 2026-04-21
+- Process article: FETCH_ERROR ad-hoc-news mobile shift challenges hardware sales
+
 ## 0.1.499 - 2026-04-21
 - Process article: Build a full navigation experience in minutes with TomTom NavSDK
 
