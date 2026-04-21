@@ -22,6 +22,7 @@ Articles per month:
 ### 2026
 
 #### April (110 articles)
+- [TomTom nomme Mike Schoofs au poste de CEO](src/2026-04/20260420-tomtom-nomme-mike-schoofs-au-poste-de-ceo.md)
 - [Build a full navigation experience in minutes with TomTom NavSDK](src/2026-04/20260420-build-a-full-navigation-experience-in-minutes-with-tomtom-navsdk.md)
 - [Google Maps : les faux avis dans le viseur de Gemini](src/2026-04/20260420-google-maps-les-faux-avis-dans-le-viseur-de-gemini.md)
 - [TomTom GO Navigation: Warum Offline-Karten jetzt entscheidend werden](src/2026-04/20260420-tomtom-go-navigation-warum-offline-karten-jetzt-entscheidend-werden.md)

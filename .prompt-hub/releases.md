@@ -1,3 +1,6 @@
+## 0.1.501 - 2026-04-21
+- Process article: TomTom nomme Mike Schoofs au poste de CEO
+
 ## 0.1.500 - 2026-04-21
 - Process article: FETCH_ERROR ad-hoc-news mobile shift challenges hardware sales
 
