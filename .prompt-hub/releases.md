@@ -1,4 +1,7 @@
 
+## 0.1.512 - 2026-04-21
+- Add veille-mapping todo for scheduled 08:07 CEST run and refresh prompt-hub tracking before restoring a clean synced repo state.
+
 ## 0.1.511 - 2026-04-21
 - Log scan-list empty run (`git pull --rebase` up to date; `LIST.md` empty at 2026-04-21 06:21:55 CEST; no URLs processed; no batch recap created.)
 
