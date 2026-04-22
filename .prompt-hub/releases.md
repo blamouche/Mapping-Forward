@@ -1670,6 +1670,9 @@
 ## 0.1.553 - 2026-04-22
 - Add URL(s) to processing queue.
 
+## 0.1.559 - 2026-04-22
+- Log veille mapping empty run (repo clean/synced; `git pull --rebase` up to date; Gmail label `0---veille-mapping` returned no current messages with `--include-body --json --max 100 --no-input`; a broader `in:anywhere` check only found already trashed historical alerts; `LIST.md` stayed unchanged after scope review; no URLs added/removed; no emails trashed.)
+
 ## 0.1.558 - 2026-04-22
 - Add batch recap: 2026-04-22 150230
 
