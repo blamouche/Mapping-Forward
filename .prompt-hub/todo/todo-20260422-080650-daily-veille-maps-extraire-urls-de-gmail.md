@@ -5,11 +5,14 @@ Exécuter la séquence quotidienne: chercher les emails Gmail `label:0---veille-
 
 ## Plan
 - [x] Lire les consignes `.prompt-hub` requises et l'état du repo.
-- [ ] Vérifier que le repo est propre/synchronisé, sinon commit/push toutes les modifs locales non synchronisées pour repartir d'un état clean.
-- [ ] Interroger Gmail sur `label:0---veille-mapping` et extraire les URLs candidates.
-- [ ] Filtrer les URLs au scope cartographie/cartographic data/domain news, dédupliquer, puis mettre à jour `LIST.md`.
-- [ ] Mettre à jour les fichiers prompt-hub (summary, memory, releases, version, review du todo), commit/push.
-- [ ] Mettre à la corbeille les emails traités.
+- [x] Vérifier que le repo est propre/synchronisé, sinon commit/push toutes les modifs locales non synchronisées pour repartir d'un état clean.
+- [x] Interroger Gmail sur `label:0---veille-mapping` et extraire les URLs candidates.
+- [x] Filtrer les URLs au scope cartographie/cartographic data/domain news, dédupliquer, puis mettre à jour `LIST.md`.
+- [x] Mettre à jour les fichiers prompt-hub (summary, memory, releases, version, review du todo), commit/push.
+- [x] Mettre à la corbeille les emails traités.
 
 ## Review
-- Pending
+- Repo remis dans un état clean/synced via commit/push du todo de run avant l'extraction Gmail.
+- `gog gmail messages search 'label:0---veille-mapping' --include-body --json --max 100 --no-input` a renvoyé 0 message.
+- `LIST.md` est resté vide après revue du scope, donc 0 URL ajoutée et 0 supprimée.
+- Aucun email n'a été mis à la corbeille car aucun email n'a été trouvé.
