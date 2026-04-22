@@ -15,13 +15,14 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | █████████████████████████████████████████ 115
+2026-04 | ██████████████████████████████████████████ 116
 
 ## Articles
 
 ### 2026
 
-#### April (115 articles)
+#### April (116 articles)
+- [TGS Launches West India Facies Map Browser to Enhance Offshore Exploration Workflows](src/2026-04/20260422-tgs-launches-west-india-facies-map-browser-to-enhance-offshore-exploration-workflows.md)
 - [TomTom zasili systemy zarządzania ruchem Kapsch](src/2026-04/20260422-tomtom-zasili-systemy-zarzadzania-ruchem-kapsch.md)
 - [I finally get the hype about Gemini in Google Maps](src/2026-04/20260421-i-finally-get-the-hype-about-gemini-in-google-maps.md)
 - [The Secret Google Maps Setting That Blurs Your Home From Creeps](src/2026-04/20260422-the-secret-google-maps-setting-that-blurs-your-home-from-creeps.md)
