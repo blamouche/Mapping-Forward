@@ -1,12 +1,11 @@
 {
-  "timestamp": "2026-04-22T04:05:02+02:00",
-  "query": "label:0---veille-mapping",
-  "emailsProcessed": 0,
+  "runAt": "2026-04-22T06:06:00+02:00",
+  "gmailQuery": "label:0---veille-mapping",
+  "messagesCount": 0,
   "candidateUrls": 0,
-  "urlsAdded": 0,
-  "urlsRemoved": 0,
-  "finalListCount": 0,
-  "emailsTrashed": 0,
+  "addedUrls": 0,
+  "removedUrls": 0,
+  "trashedEmails": 0,
   "status": "success",
-  "notes": "Repo clean/synced; Gmail label returned no matching messages; LIST.md stayed empty after scope review; no URLs were added or removed; no emails were trashed."
+  "note": "No Gmail messages found; LIST.md remained empty after scope review."
 }
