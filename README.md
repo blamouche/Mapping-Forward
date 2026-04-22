@@ -15,12 +15,13 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | ███████████████████████████████████████ 117
+2026-04 | ████████████████████████████████████████ 118
 ## Articles
 
 ### 2026
 
-#### April (117 articles)
+#### April (118 articles)
+- [Registration Opens for GEO Business 2026](src/2026-04/20260421-registration-opens-for-geo-business-2026.md)
 - [Mapping Ocean Plastic Solutions, from Local Watersheds to Global Waters](src/2026-04/20260422-mapping-ocean-plastic-solutions-from-local-watersheds-to-global-waters.md)
 - [TGS Launches West India Facies Map Browser to Enhance Offshore Exploration Workflows](src/2026-04/20260422-tgs-launches-west-india-facies-map-browser-to-enhance-offshore-exploration-workflows.md)
 - [TomTom zasili systemy zarządzania ruchem Kapsch](src/2026-04/20260422-tomtom-zasili-systemy-zarzadzania-ruchem-kapsch.md)
