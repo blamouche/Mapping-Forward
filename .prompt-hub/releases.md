@@ -1670,6 +1670,9 @@
 ## 0.1.553 - 2026-04-22
 - Add URL(s) to processing queue.
 
+## 0.1.558 - 2026-04-22
+- Add batch recap: 2026-04-22 150230
+
 ## 0.1.557 - 2026-04-22
 - Process article: Registration Opens for GEO Business 2026
 
