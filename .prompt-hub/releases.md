@@ -1670,6 +1670,9 @@
 ## 0.1.553 - 2026-04-22
 - Add URL(s) to processing queue.
 
+## 0.1.556 - 2026-04-22
+- Process article: Mapping Ocean Plastic Solutions, from Local Watersheds to Global Waters
+
 ## 0.1.555 - 2026-04-22
 - Log veille mapping empty run (repo clean/synced; Gmail label `0---veille-mapping` returned no current messages with `--include-body --json --max 100 --no-input`; a broader `in:anywhere` check only found already trashed historical alerts; `LIST.md` kept 2 existing in-scope mapping/cartography URLs after scope review; no URLs added/removed; no emails trashed.)
 
