@@ -15,13 +15,14 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | ██████████████████████████████████████ 112
+2026-04 | ███████████████████████████████████████ 113
 
 ## Articles
 
 ### 2026
 
-#### April (112 articles)
+#### April (113 articles)
+- [The Secret Google Maps Setting That Blurs Your Home From Creeps](src/2026-04/20260422-the-secret-google-maps-setting-that-blurs-your-home-from-creeps.md)
 - [Leveraging remote sensing and crowd-sourced biodiversity data for enhanced plant functional trait mapping](src/2026-04/20260421-leveraging-remote-sensing-and-crowd-sourced-biodiversity-data-for-enhanced-plant-functional-trait-mapping.md)
 - [中国车道级导航领先](src/2026-04/20260421-china-lane-level-navigation-leads.md)
 - [Le Togo va demander aux États membres de l’ONU d’utiliser une carte représentant la taille réelle de l’Afrique](src/2026-04/20260421-le-togo-va-demander-aux-etats-membres-de-lonu-dutiliser-une-carte-representant-la-taille-reelle-de-lafrique.md)
