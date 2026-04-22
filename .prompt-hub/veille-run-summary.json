@@ -1,11 +1,11 @@
 {
-  "runAt": "2026-04-22T10:05:50+02:00",
+  "runAt": "2026-04-22T12:16:00+02:00",
   "gmailQuery": "label:0---veille-mapping",
-  "messagesCount": 0,
-  "candidateUrls": 0,
-  "addedUrls": 0,
+  "messagesCount": 1,
+  "candidateUrls": 3,
+  "addedUrls": 2,
   "removedUrls": 0,
-  "trashedEmails": 0,
+  "trashedEmails": 1,
   "status": "success",
-  "note": "No Gmail messages found; LIST.md remained empty after scope review."
+  "note": "Processed 1 Google Alert, kept 2 in-scope mapping/domain URLs, filtered 1 niche localized item, and updated LIST.md."
 }
