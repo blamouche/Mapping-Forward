@@ -5,11 +5,14 @@
 - Timestamp: 20260422-100528
 
 ## Plan
-- [ ] Check repo state and restore a clean synced baseline if needed
-- [ ] Search Gmail label `0---veille-mapping` and extract article URLs
-- [ ] Update `LIST.md` with deduped in-scope mapping/cartography URLs only
-- [ ] Trash processed emails
-- [ ] Update prompt-hub tracking, commit, and push
+- [x] Check repo state and restore a clean synced baseline if needed
+- [x] Search Gmail label `0---veille-mapping` and extract article URLs
+- [x] Update `LIST.md` with deduped in-scope mapping/cartography URLs only
+- [x] Trash processed emails
+- [x] Update prompt-hub tracking, commit, and push
 
 ## Review
-- Pending
+- Repo cleaned via baseline tracking commit, then synced with `git pull --rebase` (already up to date).
+- Gmail query returned 0 messages, so 0 candidate URLs were extracted.
+- `LIST.md` stayed empty after scope review, with 0 URLs added and 0 removed.
+- No emails were moved to Trash because none were processed.
