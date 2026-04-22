@@ -1,3 +1,6 @@
+## 0.1.542 - 2026-04-22
+- Add batch recap: 2026-04-22 030141
+
 ## 0.1.541 - 2026-04-22
 - Process article: TGS Launches West India Facies Map Browser to Enhance Offshore Exploration Workflows
 
