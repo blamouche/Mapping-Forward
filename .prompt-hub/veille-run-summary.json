@@ -1,5 +1,5 @@
 {
-  "runAt": "2026-04-22T18:14:00+02:00",
+  "runAt": "2026-04-22T20:04:00+02:00",
   "gmailQuery": "label:0---veille-mapping",
   "messagesCount": 0,
   "candidateUrls": 0,
@@ -7,5 +7,5 @@
   "removedUrls": 0,
   "trashedEmails": 0,
   "status": "success",
-  "note": "No current Gmail messages matched the veille label, and LIST.md stayed unchanged after scope review."
+  "note": "No current Gmail messages matched the veille label. A broader in:anywhere fallback only surfaced already trashed historical alerts, and LIST.md stayed unchanged after scope review."
 }

@@ -1,3 +1,6 @@
+## 0.1.562 - 2026-04-22
+- Log veille mapping empty run (repo clean/synced; `git pull --rebase` up to date; Gmail label `0---veille-mapping` returned no current messages with `--json --max 100 --no-input`; a broader `in:anywhere` check only found already trashed historical alerts; `LIST.md` stayed empty after scope review; no URLs added/removed; no emails trashed.)
+
 ## 0.1.561 - 2026-04-22
 - Log veille mapping empty run (repo clean/synced; Gmail label `0---veille-mapping` returned no messages with `--include-body --json --max 100 --no-input`; `LIST.md` stayed empty after scope review; no URLs added/removed; no emails trashed.)
 
