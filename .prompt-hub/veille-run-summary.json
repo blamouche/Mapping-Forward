@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-04-22T00:11:00+02:00",
+  "timestamp": "2026-04-22T02:04:45+02:00",
   "query": "label:0---veille-mapping",
-  "emailsProcessed": 2,
-  "candidateUrls": 21,
-  "urlsAdded": 5,
-  "urlsRemoved": 0,
+  "emailsProcessed": 1,
+  "candidateUrls": 10,
+  "urlsAdded": 1,
+  "urlsRemoved": 1,
   "finalListCount": 5,
-  "emailsTrashed": 2,
+  "emailsTrashed": 1,
   "status": "success",
-  "notes": "Repo clean/synced after a baseline tracking commit; extracted 21 candidate URLs from 2 Google Alerts, kept 5 mapping/cartography/domain URLs after scope filtering and de-duplication review, updated LIST.md, and trashed the processed emails."
+  "notes": "Repo clean/synced after a baseline tracking commit; extracted 10 candidate URLs from 1 Google Alert, kept 1 new in-scope mapping/domain URL after filtering out politics, video mapping, wildfire incident coverage, dependency mapping, gaming maps, and other false positives; removed 1 off-scope automotive telecom URL from LIST.md during scope review; updated LIST.md; and trashed the processed email."
 }

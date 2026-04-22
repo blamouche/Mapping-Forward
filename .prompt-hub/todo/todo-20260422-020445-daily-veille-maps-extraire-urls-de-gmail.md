@@ -8,12 +8,12 @@
 - [x] Read `.prompt-hub/lessons.md`
 - [x] Read `.prompt-hub/memory.md`
 - [x] Read `.prompt-hub/releases.md`
-- [ ] Restore clean synced repo state
-- [ ] Query Gmail label and extract candidate URLs
-- [ ] Update `LIST.md` with dedupe/normalization and scope filtering
-- [ ] Trash processed Gmail messages
-- [ ] Update prompt-hub tracking files
-- [ ] Commit and push
+- [x] Restore clean synced repo state
+- [x] Query Gmail label and extract candidate URLs
+- [x] Update `LIST.md` with dedupe/normalization and scope filtering
+- [x] Trash processed Gmail messages
+- [x] Update prompt-hub tracking files
+- [x] Commit and push
 
 ## Review
-- Pending.
+- Added 1 new in-scope URL from 1 Gmail alert, removed 1 off-scope existing URL from `LIST.md`, trashed 1 processed email, and updated prompt-hub tracking before commit/push.
