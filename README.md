@@ -15,13 +15,14 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | ███████████████████████████████████████ 113
+2026-04 | ████████████████████████████████████████ 114
 
 ## Articles
 
 ### 2026
 
-#### April (113 articles)
+#### April (114 articles)
+- [I finally get the hype about Gemini in Google Maps](src/2026-04/20260421-i-finally-get-the-hype-about-gemini-in-google-maps.md)
 - [The Secret Google Maps Setting That Blurs Your Home From Creeps](src/2026-04/20260422-the-secret-google-maps-setting-that-blurs-your-home-from-creeps.md)
 - [Leveraging remote sensing and crowd-sourced biodiversity data for enhanced plant functional trait mapping](src/2026-04/20260421-leveraging-remote-sensing-and-crowd-sourced-biodiversity-data-for-enhanced-plant-functional-trait-mapping.md)
 - [中国车道级导航领先](src/2026-04/20260421-china-lane-level-navigation-leads.md)
