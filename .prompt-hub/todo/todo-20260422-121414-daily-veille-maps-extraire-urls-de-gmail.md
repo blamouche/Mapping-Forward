@@ -9,7 +9,7 @@ Exécuter la séquence quotidienne Gmail -> LIST.md pour la veille mapping.
 - [x] Filtrer les URLs hors périmètre cartographie / donnée cartographique / actualités du domaine, en excluant les petites initiatives locales.
 - [x] Mettre à jour `LIST.md` avec déduplication et normalisation, puis vérifier les ajouts.
 - [x] Mettre à jour les fichiers `.prompt-hub` (memory, summary, version, releases).
-- [ ] Commit + push toutes les modifications nécessaires.
+- [x] Commit + push toutes les modifications nécessaires.
 - [x] Mettre à la corbeille les emails traités.
 
 ## Notes

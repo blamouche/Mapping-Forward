@@ -1669,3 +1669,6 @@
 
 ## 0.1.553 - 2026-04-22
 - Add URL(s) to processing queue.
+
+## 0.1.554 - 2026-04-22
+- Finalize veille-mapping todo review after commit/push.
