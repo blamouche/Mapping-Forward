@@ -1,3 +1,6 @@
+## 0.1.540 - 2026-04-22
+- Process article: TomTom zasili systemy zarządzania ruchem Kapsch
+
 ## 0.1.539 - 2026-04-22
 - Process article: I finally get the hype about Gemini in Google Maps
 
