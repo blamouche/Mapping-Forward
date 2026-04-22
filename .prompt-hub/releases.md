@@ -1643,5 +1643,8 @@
 ## 0.1.446 - 2026-04-19
 - Add batch recap: 2026-04-19 030100
 
+## 0.1.546 - 2026-04-22
+- Add veille-mapping todo for scheduled 08:06 CEST run and restore a clean repo baseline before Gmail extraction.
+
 ## 0.1.545 - 2026-04-22
 - Log veille mapping empty run (repo clean/synced; Gmail label `0---veille-mapping` returned no messages with `--include-body --json --max 100 --no-input`; `LIST.md` stayed empty after scope review; no URLs added/removed; no emails trashed.)
