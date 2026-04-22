@@ -1,11 +1,11 @@
 {
-  "runAt": "2026-04-22T22:04:00+02:00",
+  "runAt": "2026-04-23T00:11:45+02:00",
   "gmailQuery": "label:0---veille-mapping",
-  "messagesCount": 0,
-  "candidateUrls": 0,
-  "addedUrls": 0,
+  "messagesCount": 1,
+  "candidateUrls": 10,
+  "addedUrls": 3,
   "removedUrls": 0,
-  "trashedEmails": 0,
+  "trashedEmails": 1,
   "status": "success",
-  "note": "No current Gmail messages matched the veille label. A broader in:anywhere fallback only surfaced already trashed historical alerts, and LIST.md stayed unchanged after scope review."
+  "note": "Processed 1 Google Alert for TomTom, extracted 10 candidate URLs, kept 3 in-scope mapping/geospatial URLs after filtering out investor coverage, local festival/community items, and incidental mentions, then updated LIST.md and trashed the processed email."
 }
