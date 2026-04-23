@@ -1,3 +1,6 @@
+## 0.1.602 - 2026-04-24
+- Add veille-mapping todo for scheduled 00:09 CEST run and restore a clean repo baseline before Gmail extraction.
+
 ## 0.1.601 - 2026-04-24
 - Log scan-list empty run (`git pull --rebase` up to date; `LIST.md` empty at 2026-04-24 00:01:44 CEST; no URLs processed; no batch recap created.)
 
