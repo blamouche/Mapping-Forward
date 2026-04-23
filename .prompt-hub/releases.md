@@ -1,3 +1,6 @@
+## 0.1.574 - 2026-04-23
+- Add batch recap: 2026-04-23 030145
+
 ## 0.1.573 - 2026-04-23
 - Process article: Google Street View devient un outil de création de décors : les studios de cinéma vont pouvoir visualiser leurs scènes depuis un bureau
 
