@@ -15,12 +15,13 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | ██████████████████████████████████████████ 122
+2026-04 | ██████████████████████████████████████████ 123
 ## Articles
 
 ### 2026
 
-#### April (122 articles)
+#### April (123 articles)
+- [Google Street View devient un outil de création de décors : les studios de cinéma vont pouvoir visualiser leurs scènes depuis un bureau](src/2026-04/20260422-google-street-view-devient-un-outil-de-creation-de-decors.md)
 - [Airbus and JDE Peet’s team up for worldwide coffee plantation mapping with satellites](src/2026-04/20260422-airbus-and-jde-peets-team-up-for-worldwide-coffee-plantation-mapping-with-satellites.md)
 - [Google Maps is about to get a big dose of AI](src/2026-04/20260422-google-maps-is-about-to-get-a-big-dose-of-ai.md)
 - [TomTom、自動運転やISA向けに高精度な速度データを提供する新サービスを発表](src/2026-04/20260422-tomtom-unified-speed-restrictions-ligare.md)
