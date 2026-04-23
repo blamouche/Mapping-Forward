@@ -1,3 +1,6 @@
+## 0.1.568 - 2026-04-23
+- Process article: FETCH_ERROR letsdatascience world models disrupt geospatial mapping and business
+
 ## 0.1.567 - 2026-04-23
 - Log veille mapping run (repo clean/synced; processed 3 Google Alerts for `label:0---veille-mapping`; extracted 20 candidate URLs; kept 3 new in-scope mapping/geospatial URLs after filtering out redistricting/politics, YouTube, local/community items, generic phone tips, false positives around `map`, and low-signal listicles; updated `LIST.md`; kept existing queue URLs in scope; trashed 3 emails.)
 
