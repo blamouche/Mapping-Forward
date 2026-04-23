@@ -1,3 +1,6 @@
+## 0.1.572 - 2026-04-23
+- Process article: Airbus and JDE Peet’s team up for worldwide coffee plantation mapping with satellites
+
 ## 0.1.571 - 2026-04-23
 - Process article: Google Maps is about to get a big dose of AI
 
