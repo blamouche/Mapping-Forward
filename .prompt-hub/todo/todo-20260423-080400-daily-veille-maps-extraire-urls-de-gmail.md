@@ -13,7 +13,7 @@ Exécuter la séquence quotidienne veille mapping: Gmail `label:0---veille-mappi
 - [x] Mettre à jour `LIST.md` (normaliser, dédupliquer, retirer hors-scope)
 - [x] Mettre à la corbeille les emails traités
 - [x] Mettre à jour la traçabilité prompt-hub
-- [ ] Commit et push
+- [x] Commit et push
 
 ## Notes
 - Si le repo n’est pas clean au démarrage, commit/push toutes les modifications locales non synchronisées avant le traitement Gmail pour repartir d’un état propre.
@@ -24,4 +24,4 @@ Exécuter la séquence quotidienne veille mapping: Gmail `label:0---veille-mappi
 - `git pull --rebase` n’a ramené aucun changement.
 - Recherche Gmail vide, `LIST.md` reste vide.
 - Aucun email à mettre à la corbeille.
-- Tracking `.prompt-hub` mis à jour, commit/push restant à faire.
+- Tracking `.prompt-hub` mis à jour, commit/push effectués.
