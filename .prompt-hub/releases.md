@@ -1,3 +1,6 @@
+## 0.1.575 - 2026-04-23
+- Log veille mapping empty run (repo clean/synced; `git pull --rebase` up to date; Gmail label `0---veille-mapping` returned no messages with `--include-body --json --max 100 --no-input`; `LIST.md` stayed empty after scope review; no URLs added/removed; no emails trashed.)
+
 ## 0.1.574 - 2026-04-23
 - Add batch recap: 2026-04-23 030145
 

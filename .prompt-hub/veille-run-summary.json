@@ -1,11 +1,11 @@
 {
-  "runAt": "2026-04-23T02:04:00+02:00",
+  "runAt": "2026-04-23T04:05:00+02:00",
   "gmailQuery": "label:0---veille-mapping",
-  "messagesCount": 3,
-  "candidateUrls": 20,
-  "addedUrls": 3,
+  "messagesCount": 0,
+  "candidateUrls": 0,
+  "addedUrls": 0,
   "removedUrls": 0,
-  "trashedEmails": 3,
+  "trashedEmails": 0,
   "status": "success",
-  "note": "Processed 3 Google Alerts, extracted 20 candidate URLs, kept 3 new in-scope mapping/geospatial URLs after filtering out redistricting/politics, YouTube, local/community items, generic phone tips, false positives around map, and low-signal listicles; kept existing LIST.md URLs in scope; updated LIST.md and trashed 3 emails."
+  "note": "Repo clean/synced; git pull --rebase already up to date; Gmail label returned no messages; LIST.md stayed empty after scope review; no URLs added or removed and no emails were trashed."
 }
