@@ -8,11 +8,11 @@ Exécuter la séquence quotidienne veille mapping: Gmail `label:0---veille-mappi
 - [x] Lire `.prompt-hub/memory.md`
 - [x] Lire `.prompt-hub/releases.md`
 - [x] Vérifier l'état initial du repo
-- [ ] Récupérer les emails Gmail du label veille mapping
-- [ ] Extraire et filtrer les URLs pertinentes cartographie/géospatial
-- [ ] Mettre à jour `LIST.md` (normaliser, dédupliquer, retirer hors-scope)
-- [ ] Mettre à la corbeille les emails traités
-- [ ] Mettre à jour la traçabilité prompt-hub
+- [x] Récupérer les emails Gmail du label veille mapping
+- [x] Extraire et filtrer les URLs pertinentes cartographie/géospatial
+- [x] Mettre à jour `LIST.md` (normaliser, dédupliquer, retirer hors-scope)
+- [x] Mettre à la corbeille les emails traités
+- [x] Mettre à jour la traçabilité prompt-hub
 - [ ] Commit et push
 
 ## Notes
@@ -20,4 +20,8 @@ Exécuter la séquence quotidienne veille mapping: Gmail `label:0---veille-mappi
 - Hors scope à exclure: petites initiatives locales, faux positifs autour de `map`, politique locale, promos génériques, vidéos sans matière éditoriale.
 
 ## Review
-- En cours.
+- Repo déjà propre et synchronisé.
+- `git pull --rebase` n’a ramené aucun changement.
+- Recherche Gmail vide, `LIST.md` reste vide.
+- Aucun email à mettre à la corbeille.
+- Tracking `.prompt-hub` mis à jour, commit/push restant à faire.
