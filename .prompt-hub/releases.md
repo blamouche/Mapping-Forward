@@ -1,3 +1,6 @@
+## 0.1.571 - 2026-04-23
+- Process article: Google Maps is about to get a big dose of AI
+
 ## 0.1.570 - 2026-04-23
 - Process article: TomTom、自動運転やISA向けに高精度な速度データを提供する新サービスを発表
 

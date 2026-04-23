@@ -15,12 +15,13 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | █████████████████████████████████████████ 120
+2026-04 | ██████████████████████████████████████████ 121
 ## Articles
 
 ### 2026
 
-#### April (120 articles)
+#### April (121 articles)
+- [Google Maps is about to get a big dose of AI](src/2026-04/20260422-google-maps-is-about-to-get-a-big-dose-of-ai.md)
 - [TomTom、自動運転やISA向けに高精度な速度データを提供する新サービスを発表](src/2026-04/20260422-tomtom-unified-speed-restrictions-ligare.md)
 - [Registration Opens for GEO Business 2026](src/2026-04/20260421-registration-opens-for-geo-business-2026-2.md)
 - [Registration Opens for GEO Business 2026](src/2026-04/20260421-registration-opens-for-geo-business-2026.md)
