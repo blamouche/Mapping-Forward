@@ -1,10 +1,10 @@
 {
-  "runAt": "2026-04-23T22:08:35+02:00",
+  "runAt": "2026-04-24T00:09:00+02:00",
   "gmailLabel": "0---veille-mapping",
-  "messagesProcessed": 0,
-  "candidateUrls": 0,
-  "urlsAdded": 0,
+  "messagesProcessed": 4,
+  "candidateUrls": 16,
+  "urlsAdded": 3,
   "urlsRemoved": 0,
-  "emailsTrashed": 0,
-  "notes": "Gmail label was empty. LIST.md was normalized back to a truly empty file after scope review; no in-scope URLs were added or removed."
+  "emailsTrashed": 4,
+  "notes": "Processed 4 Google Alerts. Kept only in-scope cartography/domain-news URLs after filtering out local event coverage, YouTube videos, general map usage tips, non-cartographic uses of “mapping”, and low-signal off-topic items."
 }
