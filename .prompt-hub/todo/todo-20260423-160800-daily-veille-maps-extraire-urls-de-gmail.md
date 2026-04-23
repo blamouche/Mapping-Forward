@@ -5,12 +5,16 @@
 - Goal: process Gmail label `0---veille-mapping`, extract article URLs, sync/update `LIST.md`, remove off-scope URLs, trash processed emails, and commit/push all repo changes.
 
 ## Plan
-- [ ] Inspect repo status and restore a clean synced baseline if needed.
-- [ ] Query Gmail label `0---veille-mapping` and extract candidate article URLs.
-- [ ] Filter to mapping/cartography/geospatial-domain URLs, normalize/dedupe, update `LIST.md`, and remove off-scope existing URLs.
-- [ ] Update prompt-hub tracking files for this run.
-- [ ] Commit and push all local changes.
-- [ ] Trash processed Gmail messages.
+- [x] Inspect repo status and restore a clean synced baseline if needed.
+- [x] Query Gmail label `0---veille-mapping` and extract candidate article URLs.
+- [x] Filter to mapping/cartography/geospatial-domain URLs, normalize/dedupe, update `LIST.md`, and remove off-scope existing URLs.
+- [x] Update prompt-hub tracking files for this run.
+- [x] Commit and push all local changes.
+- [x] Trash processed Gmail messages.
 
 ## Review
-- Pending.
+- Repo baseline committed and pushed first to restore a clean synced state.
+- Gmail label `0---veille-mapping` returned 0 messages with `--include-body --json --max 100 --no-input`.
+- `LIST.md` remained empty and no existing URL needed removal after scope review.
+- Added 0 URLs, removed 0 URLs, trashed 0 emails.
+- Tracking files updated for the empty scheduled run.
