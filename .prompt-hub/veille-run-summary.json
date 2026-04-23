@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-04-23T16:09:00+02:00",
-  "status": "success",
+  "runAt": "2026-04-23T18:46:00+02:00",
+  "gmailLabel": "0---veille-mapping",
   "messagesProcessed": 0,
   "candidateUrls": 0,
   "urlsAdded": 0,
   "urlsRemoved": 0,
   "emailsTrashed": 0,
-  "notes": "Gmail label empty; LIST.md unchanged after scope review."
+  "notes": "No matching Gmail messages. LIST.md already empty and in scope."
 }
