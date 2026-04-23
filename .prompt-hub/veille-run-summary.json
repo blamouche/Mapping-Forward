@@ -1,10 +1,10 @@
 {
-  "runAt": "2026-04-23T18:46:00+02:00",
+  "runAt": "2026-04-23T20:08:00+02:00",
   "gmailLabel": "0---veille-mapping",
-  "messagesProcessed": 0,
-  "candidateUrls": 0,
+  "messagesProcessed": 1,
+  "candidateUrls": 1,
   "urlsAdded": 0,
   "urlsRemoved": 0,
-  "emailsTrashed": 0,
-  "notes": "No matching Gmail messages. LIST.md already empty and in scope."
+  "emailsTrashed": 1,
+  "notes": "Filtered the only candidate URL because it was an old Frandroid video, not an in-scope cartography/domain news article. LIST.md remained empty and in scope."
 }

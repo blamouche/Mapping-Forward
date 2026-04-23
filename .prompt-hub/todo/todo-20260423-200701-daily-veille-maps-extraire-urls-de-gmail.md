@@ -5,11 +5,11 @@
 - [x] Lire `.prompt-hub/releases.md`
 - [x] Créer ce fichier de tâche
 - [x] Restaurer un repo propre et synchronisé
-- [ ] Chercher les emails Gmail `label:0---veille-mapping`
-- [ ] Extraire et filtrer les URLs cartographie/carto data/actualité du domaine
-- [ ] Mettre à jour `LIST.md` (normalisation, déduplication, nettoyage du hors-scope)
-- [ ] Mettre à la corbeille les emails traités
-- [ ] Mettre à jour le tracking prompt-hub, commit, push
+- [x] Chercher les emails Gmail `label:0---veille-mapping`
+- [x] Extraire et filtrer les URLs cartographie/carto data/actualité du domaine
+- [x] Mettre à jour `LIST.md` (normalisation, déduplication, nettoyage du hors-scope)
+- [x] Mettre à la corbeille les emails traités
+- [x] Mettre à jour le tracking prompt-hub, commit, push
 
 ## Notes
 - Contrainte agent `add-url`: repo clean avant sync, une URL par ligne, déduplication exacte, commit+push.
@@ -17,4 +17,7 @@
 - Exclure les petites initiatives locales et les faux positifs autour de `map`.
 
 ## Review
-- En cours.
+- 1 email Gmail traité.
+- 1 URL candidate extraite, 0 URL ajoutée, 0 URL supprimée.
+- L’unique lien a été exclu car il pointait vers une vieille vidéo Frandroid, hors du flux d’actualité cartographie retenu.
+- `LIST.md` est resté vide et propre.
