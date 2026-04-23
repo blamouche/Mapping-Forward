@@ -8,11 +8,14 @@
 ## Plan
 - [x] Lire le contexte prompt-hub requis et vérifier l'état du repo.
 - [x] Créer ce fichier todo avant exécution.
-- [ ] Rechercher les emails Gmail du label ciblé et extraire les URLs candidates.
-- [ ] Mettre à jour `LIST.md` avec normalisation, déduplication et filtrage de scope.
-- [ ] Mettre à jour les fichiers prompt-hub (`memory`, `releases`, `version`, éventuel résumé de run).
-- [ ] Committer et pousser les changements.
-- [ ] Mettre à la corbeille les emails traités.
+- [x] Rechercher les emails Gmail du label ciblé et extraire les URLs candidates.
+- [x] Mettre à jour `LIST.md` avec normalisation, déduplication et filtrage de scope.
+- [x] Mettre à jour les fichiers prompt-hub (`memory`, `releases`, `version`, éventuel résumé de run).
+- [x] Committer et pousser les changements.
+- [x] Mettre à la corbeille les emails traités.
 
 ## Review
-- Pending.
+- Gmail `label:0---veille-mapping` était vide à 06:16 CEST.
+- Aucune URL candidate détectée, donc aucun ajout dans `LIST.md`.
+- `LIST.md` était déjà vide, donc aucune suppression hors scope à faire.
+- Aucun email à déplacer vers la corbeille.

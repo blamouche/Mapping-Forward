@@ -1,5 +1,5 @@
 {
-  "runAt": "2026-04-23T04:05:00+02:00",
+  "runAt": "2026-04-23T06:16:20+02:00",
   "gmailQuery": "label:0---veille-mapping",
   "messagesCount": 0,
   "candidateUrls": 0,
@@ -7,5 +7,5 @@
   "removedUrls": 0,
   "trashedEmails": 0,
   "status": "success",
-  "note": "Repo clean/synced; git pull --rebase already up to date; Gmail label returned no messages; LIST.md stayed empty after scope review; no URLs added or removed and no emails were trashed."
+  "note": "Repo clean/synced; git pull --rebase already up to date; Gmail label returned no messages; LIST.md stayed empty after scope review; no URLs were added or removed and no emails were trashed."
 }
