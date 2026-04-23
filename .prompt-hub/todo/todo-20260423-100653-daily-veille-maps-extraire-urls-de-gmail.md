@@ -6,13 +6,15 @@ Exécuter la séquence quotidienne: extraire les URLs des emails Gmail `label:0-
 ## Plan
 - [x] Lire le contexte prompt-hub requis
 - [x] Vérifier l'état git initial
-- [ ] Extraire les messages Gmail et les URLs candidates
-- [ ] Mettre à jour `LIST.md` avec déduplication et filtrage de périmètre
-- [ ] Mettre à la corbeille les emails traités
-- [ ] Mettre à jour le suivi prompt-hub, commit et push
+- [x] Extraire les messages Gmail et les URLs candidates
+- [x] Mettre à jour `LIST.md` avec déduplication et filtrage de périmètre
+- [x] Mettre à la corbeille les emails traités
+- [x] Mettre à jour le suivi prompt-hub, commit et push
 
 ## Notes
 - Repo initialement clean sur `main...origin/main`.
 
 ## Review
-- Pending
+- Gmail `label:0---veille-mapping` vide au moment du run.
+- `LIST.md` inchangé, toujours vide après revue de périmètre.
+- Aucun email à mettre à la corbeille.
