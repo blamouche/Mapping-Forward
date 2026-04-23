@@ -1,11 +1,11 @@
 {
-  "runAt": "2026-04-23T00:11:45+02:00",
+  "runAt": "2026-04-23T02:04:00+02:00",
   "gmailQuery": "label:0---veille-mapping",
-  "messagesCount": 1,
-  "candidateUrls": 10,
+  "messagesCount": 3,
+  "candidateUrls": 20,
   "addedUrls": 3,
   "removedUrls": 0,
-  "trashedEmails": 1,
+  "trashedEmails": 3,
   "status": "success",
-  "note": "Processed 1 Google Alert for TomTom, extracted 10 candidate URLs, kept 3 in-scope mapping/geospatial URLs after filtering out investor coverage, local festival/community items, and incidental mentions, then updated LIST.md and trashed the processed email."
+  "note": "Processed 3 Google Alerts, extracted 20 candidate URLs, kept 3 new in-scope mapping/geospatial URLs after filtering out redistricting/politics, YouTube, local/community items, generic phone tips, false positives around map, and low-signal listicles; kept existing LIST.md URLs in scope; updated LIST.md and trashed 3 emails."
 }

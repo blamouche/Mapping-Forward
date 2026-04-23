@@ -1,3 +1,6 @@
+## 0.1.567 - 2026-04-23
+- Log veille mapping run (repo clean/synced; processed 3 Google Alerts for `label:0---veille-mapping`; extracted 20 candidate URLs; kept 3 new in-scope mapping/geospatial URLs after filtering out redistricting/politics, YouTube, local/community items, generic phone tips, false positives around `map`, and low-signal listicles; updated `LIST.md`; kept existing queue URLs in scope; trashed 3 emails.)
+
 ## 0.1.566 - 2026-04-23
 - Log veille mapping run (repo clean/synced after baseline commit; processed 1 Google Alert for `label:0---veille-mapping`; extracted 10 candidate URLs; kept 3 in-scope mapping/geospatial URLs after filtering out investor coverage, local festival/community items, and incidental mentions; updated `LIST.md`; trashed 1 email.)
 
