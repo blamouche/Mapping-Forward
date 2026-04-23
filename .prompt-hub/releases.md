@@ -1,3 +1,6 @@
+## 0.1.583 - 2026-04-23
+- Log scan-list empty run (`git pull --rebase` up to date; `LIST.md` empty at 2026-04-23 09:02:22 CEST; no URLs processed; no batch recap created.)
+
 ## 0.1.582 - 2026-04-23
 - Finalize veille-mapping todo review after commit/push.
 
