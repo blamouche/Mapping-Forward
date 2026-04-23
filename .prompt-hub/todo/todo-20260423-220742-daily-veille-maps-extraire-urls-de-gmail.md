@@ -8,14 +8,18 @@ Exécuter la séquence quotidienne Gmail -> LIST.md -> nettoyage scope -> corbei
 - [x] Lire `.prompt-hub/memory.md`
 - [x] Lire `.prompt-hub/releases.md`
 - [x] Vérifier l'état du repo et les consignes `agents.md`
-- [ ] Restaurer un repo clean/synced (commit/push toutes les modifs locales non synchronisées si nécessaire)
-- [ ] Récupérer les emails Gmail `label:0---veille-mapping`
-- [ ] Extraire et normaliser les URLs candidates
-- [ ] Filtrer les URLs hors scope cartographie/donnée cartographique/actu du domaine, exclure petites initiatives locales
-- [ ] Mettre à jour `LIST.md` (one URL per line, dedupe, no blanks)
-- [ ] Mettre à la corbeille les emails traités
-- [ ] Mettre à jour `.prompt-hub` (memory, releases, version, summary)
+- [x] Restaurer un repo clean/synced (commit/push toutes les modifs locales non synchronisées si nécessaire)
+- [x] Récupérer les emails Gmail `label:0---veille-mapping`
+- [x] Extraire et normaliser les URLs candidates
+- [x] Filtrer les URLs hors scope cartographie/donnée cartographique/actu du domaine, exclure petites initiatives locales
+- [x] Mettre à jour `LIST.md` (one URL per line, dedupe, no blanks)
+- [x] Mettre à la corbeille les emails traités
+- [x] Mettre à jour `.prompt-hub` (memory, releases, version, summary)
 - [ ] Commit + push
 
 ## Review
-- Pending
+- Repo local sale au départ uniquement à cause du nouveau todo planifié; commit/push de baseline effectué avant l'accès Gmail.
+- `gog gmail messages search 'label:0---veille-mapping' --include-body --json --max 100 --no-input` a retourné 0 message.
+- 0 URL candidate, 0 URL ajoutée, 0 URL supprimée.
+- `LIST.md` contenait seulement une ligne vide résiduelle, normalisée vers un fichier réellement vide.
+- 0 email mis à la corbeille.
