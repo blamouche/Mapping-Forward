@@ -1,3 +1,6 @@
+## 0.1.569 - 2026-04-23
+- Process article: Registration Opens for GEO Business 2026
+
 ## 0.1.568 - 2026-04-23
 - Process article: FETCH_ERROR letsdatascience world models disrupt geospatial mapping and business
 
