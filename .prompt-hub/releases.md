@@ -1,3 +1,6 @@
+## 0.1.608 - 2026-04-24
+- Process article: Add Data to a Web Map from ArcGIS Living Atlas of the World
+
 ## 0.1.607 - 2026-04-24
 - Process article: Transforming facility operations at Microsoft with AI maps
 
