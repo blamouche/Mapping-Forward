@@ -15,7 +15,7 @@ Exécuter la séquence quotidienne Gmail -> LIST.md -> nettoyage scope -> corbei
 - [x] Mettre à jour `LIST.md` (one URL per line, dedupe, no blanks)
 - [x] Mettre à la corbeille les emails traités
 - [x] Mettre à jour `.prompt-hub` (memory, releases, version, summary)
-- [ ] Commit + push
+- [x] Commit + push
 
 ## Review
 - Repo local sale au départ uniquement à cause du nouveau todo planifié; commit/push de baseline effectué avant l'accès Gmail.
