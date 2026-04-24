@@ -1915,3 +1915,6 @@
 
 ## 0.1.629 - 2026-04-24
 - Add batch recap: 2026-04-24 150100
+
+## 0.1.636 - 2026-04-24
+- Add URL(s) to processing queue.

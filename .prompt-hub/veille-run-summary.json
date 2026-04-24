@@ -1,10 +1,10 @@
 {
-  "runAt": "2026-04-24T20:04:00+02:00",
+  "runAt": "2026-04-24T22:04:09+02:00",
   "gmailLabel": "0---veille-mapping",
-  "messagesProcessed": 0,
-  "candidateUrls": 0,
-  "urlsAdded": 0,
+  "messagesProcessed": 1,
+  "candidateUrls": 11,
+  "urlsAdded": 1,
   "urlsRemoved": 0,
-  "emailsTrashed": 0,
-  "notes": "Repo clean/synced after baseline commit and git pull --rebase; Gmail label returned no messages; LIST.md stayed empty after scope review."
+  "emailsTrashed": 1,
+  "notes": "Repo clean/synced; kept 1 Forbes article about Google Maps and AI agents; filtered out local/off-topic/legal/science/forum/video noise before updating LIST.md; trashed the processed Google Alert."
 }
