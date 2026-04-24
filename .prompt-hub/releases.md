@@ -1895,6 +1895,9 @@
 ## 0.1.628 - 2026-04-24
 - Process article: Announcing ArcGIS Maps SDK 2.3 for Unreal Engine
 
+## 0.1.631 - 2026-04-24
+- Log scan-list empty run (`git pull --rebase` up to date; `LIST.md` empty at 2026-04-24 18:01:47 CEST; no URLs processed; no batch recap created.)
+
 ## 0.1.630 - 2026-04-24
 - Log veille mapping empty run (repo clean/synced; `git pull --rebase` up to date; Gmail label `0---veille-mapping` returned no messages with `--json --max 100 --no-input`; `LIST.md` stayed empty after scope review; no URLs added/removed; no emails trashed.)
 
