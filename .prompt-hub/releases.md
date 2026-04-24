@@ -1916,6 +1916,9 @@
 ## 0.1.629 - 2026-04-24
 - Add batch recap: 2026-04-24 150100
 
+## 0.1.640 - 2026-04-25
+- Log veille mapping run (repo clean/synced; processed 3 Google Alerts from `label:0---veille-mapping`; extracted 18 candidate URLs; kept 5 in-scope mapping/domain URLs after filtering out video, weather, crypto, fuel-price, festival/event, crime, and other off-topic noise; updated `LIST.md`; trashed 3 emails.)
+
 ## 0.1.639 - 2026-04-25
 - Add veille-mapping todo for scheduled 00:09 CEST run and capture baseline tracking before restoring a clean repo state prior to Gmail extraction.
 

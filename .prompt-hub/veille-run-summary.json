@@ -1,10 +1,10 @@
 {
-  "runAt": "2026-04-24T22:04:09+02:00",
+  "runAt": "2026-04-25T00:09:26+02:00",
   "gmailLabel": "0---veille-mapping",
-  "messagesProcessed": 1,
-  "candidateUrls": 11,
-  "urlsAdded": 1,
+  "messagesProcessed": 3,
+  "candidateUrls": 18,
+  "urlsAdded": 5,
   "urlsRemoved": 0,
-  "emailsTrashed": 1,
-  "notes": "Repo clean/synced; kept 1 Forbes article about Google Maps and AI agents; filtered out local/off-topic/legal/science/forum/video noise before updating LIST.md; trashed the processed Google Alert."
+  "emailsTrashed": 3,
+  "notes": "Repo restored to a clean synced state before LIST.md update; kept 5 in-scope mapping/domain URLs (Maps.com feature, Apple Maps F1 immersive mode, Apple Maps postmortem, Mapbox location AI for agents, and TomTom x AtkinsRealis customer case) after filtering out YouTube, weather, crypto, fuel-price, festival/event, crime, and duplicate-topic/off-topic noise."
 }
