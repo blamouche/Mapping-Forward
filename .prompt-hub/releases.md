@@ -1,3 +1,6 @@
+## 0.1.622 - 2026-04-24
+- Log veille mapping run (repo clean/synced; processed 1 Google Alert from `label:0---veille-mapping`; extracted 6 candidate URLs; kept 3 in-scope mapping/geospatial URLs after filtering out a low-signal market-size press release, a GIS web-scraping how-to, and YouTube noise; updated `LIST.md`; trashed 1 email.)
+
 ## 0.1.617 - 2026-04-24
 - Log scan-list empty run (`git pull --rebase` up to date; `LIST.md` empty at 2026-04-24 09:01:00 CEST; no URLs processed; no batch recap created.)
 
