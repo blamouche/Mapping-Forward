@@ -8,17 +8,22 @@ Exécuter la séquence quotidienne Gmail -> LIST.md pour la veille mapping.
 - [x] Lire `.prompt-hub/memory.md`
 - [x] Lire `.prompt-hub/releases.md`
 - [x] Créer ce fichier todo
-- [ ] Vérifier/synchroniser l'état du repo et repartir d'un état propre
-- [ ] Chercher les emails Gmail `label:0---veille-mapping`
-- [ ] Extraire et filtrer les URLs d'articles
-- [ ] Mettre à jour `LIST.md` (normalisation, déduplication, nettoyage du scope)
-- [ ] Mettre à jour prompt-hub tracking (`memory`, `releases`, `version`, summary)
+- [x] Vérifier/synchroniser l'état du repo et repartir d'un état propre
+- [x] Chercher les emails Gmail `label:0---veille-mapping`
+- [x] Extraire et filtrer les URLs d'articles
+- [x] Mettre à jour `LIST.md` (normalisation, déduplication, nettoyage du scope)
+- [x] Mettre à jour prompt-hub tracking (`memory`, `releases`, `version`, summary)
 - [ ] Commit + push
-- [ ] Mettre à la corbeille les emails traités
+- [x] Mettre à la corbeille les emails traités
 
 ## Notes
 - Si le repo n'est pas clean, commit/push toutes les modifs locales non synchronisées avant le traitement Gmail.
 - Exclure les petites initiatives locales et les sujets hors cartographie / donnée cartographique / actualités du domaine.
 
 ## Review
-- Pending
+- Repo cleaned and synced via baseline tracking commit before Gmail extraction.
+- Gmail label `0---veille-mapping` returned no messages.
+- `LIST.md` was already empty and remained unchanged after scope review.
+- URLs ajoutées: 0.
+- URLs supprimées: 0.
+- Emails mis à la corbeille: 0.
