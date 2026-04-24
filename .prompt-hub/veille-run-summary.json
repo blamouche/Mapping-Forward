@@ -1,10 +1,10 @@
 {
-  "runAt": "2026-04-24T12:09:00+02:00",
+  "runAt": "2026-04-24T14:05:00+02:00",
   "gmailLabel": "0---veille-mapping",
   "messagesProcessed": 1,
-  "candidateUrls": 6,
-  "urlsAdded": 3,
+  "candidateUrls": 2,
+  "urlsAdded": 1,
   "urlsRemoved": 0,
   "emailsTrashed": 1,
-  "notes": "Processed one Google Alert, kept three in-scope mapping/geospatial URLs, and filtered out a low-signal market press release, a GIS web-scraping how-to, and YouTube noise."
+  "notes": "Processed one Google Alert about Overture Maps, kept the Esri ArcGIS Maps SDK for Unreal Engine item, and filtered out a Bloomberg strike-damage article that only mentioned Overture Maps incidentally."
 }

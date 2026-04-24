@@ -1879,3 +1879,6 @@
 
 ## 0.1.623 - 2026-04-24
 - Add veille-mapping todo for scheduled 14:05 CEST run and capture baseline tracking before restoring a clean repo state prior to Gmail extraction.
+
+## 0.1.624 - 2026-04-24
+- Log veille mapping run (repo clean/synced after baseline commit; processed 1 Google Alert from `label:0---veille-mapping`; extracted 2 candidate URLs; kept 1 in-scope mapping/cartography URL after filtering out an off-scope Bloomberg strike-damage article that only mentioned Overture Maps; updated `LIST.md`; trashed 1 email.)
