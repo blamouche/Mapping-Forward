@@ -1,3 +1,6 @@
+## 0.1.609 - 2026-04-24
+- Process article: Tim Cook revient sur Apple Maps et revendique l’Apple Watch comme son plus grand héritage
+
 ## 0.1.608 - 2026-04-24
 - Process article: Add Data to a Web Map from ArcGIS Living Atlas of the World
 

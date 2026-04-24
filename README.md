@@ -15,14 +15,15 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | ██████████████████████████████████████████ 125
+2026-04 | ██████████████████████████████████████████ 126
 ## Articles
 
 ### 2026
 
-#### April (125 articles)
+#### April (126 articles)
 - [Transforming facility operations at Microsoft with AI maps](src/2026-04/20260424-transforming-facility-operations-at-microsoft-with-ai-maps.md)
 - [Add Data to a Web Map from ArcGIS Living Atlas of the World](src/2026-04/20260424-add-data-to-a-web-map-from-arcgis-living-atlas-of-the-world.md)
+- [Tim Cook revient sur Apple Maps et revendique l’Apple Watch comme son plus grand héritage](src/2026-04/20260423-tim-cook-revient-sur-apple-maps-et-revendique-lapple-watch-comme-son-plus-grand-heritage.md)
 - [Google Street View devient un outil de création de décors : les studios de cinéma vont pouvoir visualiser leurs scènes depuis un bureau](src/2026-04/20260422-google-street-view-devient-un-outil-de-creation-de-decors.md)
 - [Airbus and JDE Peet’s team up for worldwide coffee plantation mapping with satellites](src/2026-04/20260422-airbus-and-jde-peets-team-up-for-worldwide-coffee-plantation-mapping-with-satellites.md)
 - [Google Maps is about to get a big dose of AI](src/2026-04/20260422-google-maps-is-about-to-get-a-big-dose-of-ai.md)
