@@ -1,3 +1,6 @@
+## 0.1.611 - 2026-04-24
+- Log veille mapping empty run (`gog gmail messages search` returned no messages for `label:0---veille-mapping`; `LIST.md` remained empty after scope review; no URLs added/removed; no emails trashed.)
+
 ## 0.1.610 - 2026-04-24
 - Add batch recap: 2026-04-24 030154
 
