@@ -15,12 +15,13 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | ████████████████████████████████████████████ 130
+2026-04 | ████████████████████████████████████████████ 131
 ## Articles
 
 ### 2026
 
-#### April (130 articles)
+#### April (131 articles)
+- [Google And The Future Of Search, Maps And AI Agents](src/2026-04/20260424-google-and-the-future-of-search-maps-and-ai-agents.md)
 - [Transforming facility operations at Microsoft with AI maps](src/2026-04/20260424-transforming-facility-operations-at-microsoft-with-ai-maps.md)
 - [Add Data to a Web Map from ArcGIS Living Atlas of the World](src/2026-04/20260424-add-data-to-a-web-map-from-arcgis-living-atlas-of-the-world.md)
 - [GEO Business 2026 opens registration with expanded programme](src/2026-04/20260423-geo-business-2026-opens-registration-with-expanded-programme.md)

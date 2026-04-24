@@ -1916,5 +1916,8 @@
 ## 0.1.629 - 2026-04-24
 - Add batch recap: 2026-04-24 150100
 
+## 0.1.637 - 2026-04-25
+- Process article: Google And The Future Of Search, Maps And AI Agents
+
 ## 0.1.636 - 2026-04-24
 - Add URL(s) to processing queue.
