@@ -1,3 +1,6 @@
+## 0.1.610 - 2026-04-24
+- Add batch recap: 2026-04-24 030154
+
 ## 0.1.609 - 2026-04-24
 - Process article: Tim Cook revient sur Apple Maps et revendique l’Apple Watch comme son plus grand héritage
 
