@@ -13,7 +13,7 @@ Exécuter la séquence quotidienne Gmail -> LIST.md pour la veille mapping.
 - [x] Extraire et filtrer les URLs d'articles
 - [x] Mettre à jour `LIST.md` (normalisation, déduplication, nettoyage du scope)
 - [x] Mettre à jour prompt-hub tracking (`memory`, `releases`, `version`, summary)
-- [ ] Commit + push
+- [x] Commit + push
 - [x] Mettre à la corbeille les emails traités
 
 ## Notes
