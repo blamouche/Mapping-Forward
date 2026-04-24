@@ -1882,3 +1882,18 @@
 
 ## 0.1.624 - 2026-04-24
 - Log veille mapping run (repo clean/synced after baseline commit; processed 1 Google Alert from `label:0---veille-mapping`; extracted 2 candidate URLs; kept 1 in-scope mapping/cartography URL after filtering out an off-scope Bloomberg strike-damage article that only mentioned Overture Maps; updated `LIST.md`; trashed 1 email.)
+
+## 0.1.625 - 2026-04-24
+- Process article: GEO Business 2026 opens registration with expanded programme
+
+## 0.1.626 - 2026-04-24
+- Process article: To measure the Earth is to know it
+
+## 0.1.627 - 2026-04-24
+- Process article: How the Florida Wildlife Corridor Foundation Uses GIS to Save Florida's Wild Lands
+
+## 0.1.628 - 2026-04-24
+- Process article: Announcing ArcGIS Maps SDK 2.3 for Unreal Engine
+
+## 0.1.629 - 2026-04-24
+- Add batch recap: 2026-04-24 150100

@@ -15,19 +15,23 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | ██████████████████████████████████████████ 126
+2026-04 | ████████████████████████████████████████████ 130
 ## Articles
 
 ### 2026
 
-#### April (126 articles)
+#### April (130 articles)
 - [Transforming facility operations at Microsoft with AI maps](src/2026-04/20260424-transforming-facility-operations-at-microsoft-with-ai-maps.md)
 - [Add Data to a Web Map from ArcGIS Living Atlas of the World](src/2026-04/20260424-add-data-to-a-web-map-from-arcgis-living-atlas-of-the-world.md)
+- [GEO Business 2026 opens registration with expanded programme](src/2026-04/20260423-geo-business-2026-opens-registration-with-expanded-programme.md)
 - [Tim Cook revient sur Apple Maps et revendique l’Apple Watch comme son plus grand héritage](src/2026-04/20260423-tim-cook-revient-sur-apple-maps-et-revendique-lapple-watch-comme-son-plus-grand-heritage.md)
+- [How the Florida Wildlife Corridor Foundation Uses GIS to Save Florida's Wild Lands](src/2026-04/20260422-how-the-florida-wildlife-corridor-foundation-uses-gis-to-save-floridas-wild-lands.md)
+- [To measure the Earth is to know it](src/2026-04/20260422-to-measure-the-earth-is-to-know-it.md)
 - [Google Street View devient un outil de création de décors : les studios de cinéma vont pouvoir visualiser leurs scènes depuis un bureau](src/2026-04/20260422-google-street-view-devient-un-outil-de-creation-de-decors.md)
 - [Airbus and JDE Peet’s team up for worldwide coffee plantation mapping with satellites](src/2026-04/20260422-airbus-and-jde-peets-team-up-for-worldwide-coffee-plantation-mapping-with-satellites.md)
 - [Google Maps is about to get a big dose of AI](src/2026-04/20260422-google-maps-is-about-to-get-a-big-dose-of-ai.md)
 - [TomTom、自動運転やISA向けに高精度な速度データを提供する新サービスを発表](src/2026-04/20260422-tomtom-unified-speed-restrictions-ligare.md)
+- [Announcing ArcGIS Maps SDK 2.3 for Unreal Engine](src/2026-04/20260421-announcing-arcgis-maps-sdk-2-3-for-unreal-engine.md)
 - [Registration Opens for GEO Business 2026](src/2026-04/20260421-registration-opens-for-geo-business-2026-2.md)
 - [Registration Opens for GEO Business 2026](src/2026-04/20260421-registration-opens-for-geo-business-2026.md)
 - [Mapping Ocean Plastic Solutions, from Local Watersheds to Global Waters](src/2026-04/20260422-mapping-ocean-plastic-solutions-from-local-watersheds-to-global-waters.md)
