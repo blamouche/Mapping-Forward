@@ -15,12 +15,13 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | ██████████████████████████████████████████ 123
+2026-04 | ██████████████████████████████████████████ 124
 ## Articles
 
 ### 2026
 
-#### April (123 articles)
+#### April (124 articles)
+- [Transforming facility operations at Microsoft with AI maps](src/2026-04/20260424-transforming-facility-operations-at-microsoft-with-ai-maps.md)
 - [Google Street View devient un outil de création de décors : les studios de cinéma vont pouvoir visualiser leurs scènes depuis un bureau](src/2026-04/20260422-google-street-view-devient-un-outil-de-creation-de-decors.md)
 - [Airbus and JDE Peet’s team up for worldwide coffee plantation mapping with satellites](src/2026-04/20260422-airbus-and-jde-peets-team-up-for-worldwide-coffee-plantation-mapping-with-satellites.md)
 - [Google Maps is about to get a big dose of AI](src/2026-04/20260422-google-maps-is-about-to-get-a-big-dose-of-ai.md)

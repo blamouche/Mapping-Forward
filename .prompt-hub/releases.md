@@ -1,3 +1,6 @@
+## 0.1.607 - 2026-04-24
+- Process article: Transforming facility operations at Microsoft with AI maps
+
 ## 0.1.606 - 2026-04-24
 - Finalize veille-mapping todo review after commit/push.
 
