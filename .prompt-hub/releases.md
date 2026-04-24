@@ -1916,6 +1916,9 @@
 ## 0.1.629 - 2026-04-24
 - Add batch recap: 2026-04-24 150100
 
+## 0.1.639 - 2026-04-25
+- Add veille-mapping todo for scheduled 00:09 CEST run and capture baseline tracking before restoring a clean repo state prior to Gmail extraction.
+
 ## 0.1.638 - 2026-04-25
 - Add batch recap: 2026-04-25 000100
 
