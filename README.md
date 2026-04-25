@@ -15,12 +15,13 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | ████████████████████████████████████████████ 132
+2026-04 | █████████████████████████████████████████████ 133
 ## Articles
 
 ### 2026
 
-#### April (132 articles)
+#### April (133 articles)
+- [Apple Maps : une expérience F1 immersive pour le Grand Prix de Miami !](src/2026-04/20260425-apple-maps-une-experience-f1-immersive-pour-le-grand-prix-de-miami.md)
 - [Maps.com ajoute une fonctionnalité majeure : cela va révolutionner la planification de vos voyages](src/2026-04/20260424-maps-com-ajoute-une-fonctionnalite-majeure-cela-va-revolutionner-la-planification-de-vos-voyages.md)
 - [Google And The Future Of Search, Maps And AI Agents](src/2026-04/20260424-google-and-the-future-of-search-maps-and-ai-agents.md)
 - [Transforming facility operations at Microsoft with AI maps](src/2026-04/20260424-transforming-facility-operations-at-microsoft-with-ai-maps.md)
