@@ -1,3 +1,6 @@
+## 0.1.652 - 2026-04-25
+- Log scan-list empty run (`git pull --rebase` up to date; `LIST.md` empty at 2026-04-25 06:17:24 CEST; no URLs processed; no batch recap created.)
+
 ## 0.1.651 - 2026-04-25
 - Add substack post: Maps are becoming workflow infrastructure
 
