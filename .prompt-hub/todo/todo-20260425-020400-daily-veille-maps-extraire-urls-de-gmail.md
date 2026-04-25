@@ -11,9 +11,9 @@
 - [x] Review existing `LIST.md` and remove out-of-scope URLs
 - [x] Update `LIST.md` with normalized deduped URLs
 - [x] Update prompt-hub tracking (`memory.md`, `releases.md`, `version.md`, summary)
-- [ ] Commit and push all required changes
+- [x] Commit and push all required changes
 - [x] Move processed emails to Trash
-- [ ] Add review notes
+- [x] Add review notes
 
 ## Notes
 - Follow agent `add-url` rules: clean sync, normalize/dedupe, verify before commit.
