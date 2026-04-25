@@ -1,3 +1,6 @@
+## 0.1.651 - 2026-04-25
+- Add substack post: Maps are becoming workflow infrastructure
+
 ## 0.1.650 - 2026-04-25
 - Log veille mapping empty run (repo clean/synced after committing the scheduled todo; `git pull --rebase` up to date; Gmail label `0---veille-mapping` returned no messages with `--include-body --json --max 100 --no-input`; `LIST.md` was empty after scope review; no URLs added/removed; no emails trashed.)
 
