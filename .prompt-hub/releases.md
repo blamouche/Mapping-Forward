@@ -1,3 +1,6 @@
+## 0.1.647 - 2026-04-25
+- Process article: Geospatial AI & Location AI for AI Agents
+
 ## 0.1.646 - 2026-04-25
 - Process article: Apple Maps lancé trop tôt, Siri à la traîne… Tim Cook admet enfin l’erreur qui continue de hanter Apple
 
