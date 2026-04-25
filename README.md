@@ -15,12 +15,13 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | █████████████████████████████████████████████ 135
+2026-04 | ██████████████████████████████████████████████ 136
 ## Articles
 
 ### 2026
 
-#### April (135 articles)
+#### April (136 articles)
+- [Building clarity across the road network with AtkinsRéalis and TomTom](src/2026-04/20260425-building-clarity-across-the-road-network-with-atkinsrealis-and-tomtom.md)
 - [Geospatial AI & Location AI for AI Agents](src/2026-04/20260425-geospatial-ai-and-location-ai-for-ai-agents.md)
 - [Apple Maps lancé trop tôt, Siri à la traîne… Tim Cook admet enfin l’erreur qui continue de hanter Apple](src/2026-04/20260425-apple-maps-lance-trop-tot-siri-a-la-traine-tim-cook-admet-enfin-lerreur-qui-continue-de-hanter-apple.md)
 - [Apple Maps : une expérience F1 immersive pour le Grand Prix de Miami !](src/2026-04/20260425-apple-maps-une-experience-f1-immersive-pour-le-grand-prix-de-miami.md)

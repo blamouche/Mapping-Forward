@@ -1,3 +1,6 @@
+## 0.1.648 - 2026-04-25
+- Process article: Building clarity across the road network with AtkinsRéalis and TomTom
+
 ## 0.1.647 - 2026-04-25
 - Process article: Geospatial AI & Location AI for AI Agents
 
