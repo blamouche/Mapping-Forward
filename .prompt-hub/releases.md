@@ -1,3 +1,6 @@
+## 0.1.642 - 2026-04-25
+- Log veille mapping empty run (repo clean/synced; `git pull --rebase` up to date; Gmail label `0---veille-mapping` returned no messages with `--include-body --json --max 100 --no-input`; the 5 existing `LIST.md` URLs stayed in scope after review; no URLs added/removed; no emails trashed.)
+
 ## 0.1.641 - 2026-04-25
 - Add veille-mapping todo for scheduled 02:04 CEST run and capture baseline tracking before restoring a clean repo state prior to Gmail extraction.
 

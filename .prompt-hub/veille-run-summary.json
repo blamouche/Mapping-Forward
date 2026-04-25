@@ -1,10 +1,10 @@
 {
-  "runAt": "2026-04-25T00:09:26+02:00",
+  "runAt": "2026-04-25T02:04:00+02:00",
   "gmailLabel": "0---veille-mapping",
-  "messagesProcessed": 3,
-  "candidateUrls": 18,
-  "urlsAdded": 5,
+  "messagesProcessed": 0,
+  "candidateUrls": 0,
+  "urlsAdded": 0,
   "urlsRemoved": 0,
-  "emailsTrashed": 3,
-  "notes": "Repo restored to a clean synced state before LIST.md update; kept 5 in-scope mapping/domain URLs (Maps.com feature, Apple Maps F1 immersive mode, Apple Maps postmortem, Mapbox location AI for agents, and TomTom x AtkinsRealis customer case) after filtering out YouTube, weather, crypto, fuel-price, festival/event, crime, and duplicate-topic/off-topic noise."
+  "emailsTrashed": 0,
+  "notes": "Repo was clean/synced; Gmail label was empty; reviewed the 5 existing LIST.md URLs and kept them all in scope for mapping/cartography/domain news."
 }
