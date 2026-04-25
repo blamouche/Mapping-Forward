@@ -15,12 +15,13 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | ████████████████████████████████████████████ 131
+2026-04 | ████████████████████████████████████████████ 132
 ## Articles
 
 ### 2026
 
-#### April (131 articles)
+#### April (132 articles)
+- [Maps.com ajoute une fonctionnalité majeure : cela va révolutionner la planification de vos voyages](src/2026-04/20260424-maps-com-ajoute-une-fonctionnalite-majeure-cela-va-revolutionner-la-planification-de-vos-voyages.md)
 - [Google And The Future Of Search, Maps And AI Agents](src/2026-04/20260424-google-and-the-future-of-search-maps-and-ai-agents.md)
 - [Transforming facility operations at Microsoft with AI maps](src/2026-04/20260424-transforming-facility-operations-at-microsoft-with-ai-maps.md)
 - [Add Data to a Web Map from ArcGIS Living Atlas of the World](src/2026-04/20260424-add-data-to-a-web-map-from-arcgis-living-atlas-of-the-world.md)

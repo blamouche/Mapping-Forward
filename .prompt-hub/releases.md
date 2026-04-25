@@ -1,3 +1,6 @@
+## 0.1.644 - 2026-04-25
+- Process article: Maps.com ajoute une fonctionnalité majeure : cela va révolutionner la planification de vos voyages
+
 ## 0.1.643 - 2026-04-25
 - Finalize veille-mapping todo review after commit/push.
 
