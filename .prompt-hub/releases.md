@@ -1,3 +1,6 @@
+## 0.1.649 - 2026-04-25
+- Add batch recap: 2026-04-25 030157
+
 ## 0.1.648 - 2026-04-25
 - Process article: Building clarity across the road network with AtkinsRéalis and TomTom
 
