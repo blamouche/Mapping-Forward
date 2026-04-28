@@ -1,3 +1,6 @@
+## 0.1.664 - 2026-04-28
+- Process article: HERE, Baidu Maps Advance Global Vehicle Navigation with Intelligent Driving Solutions
+
 ## 0.1.663 - 2026-04-28
 - Process article: Roole Map se met à jour et embarque la meilleure fonction de Waze et Google Maps
 

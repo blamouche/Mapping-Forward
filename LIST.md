@@ -1,4 +1,3 @@
-https://www.thefastmode.com/technology-solutions/48244-here-baidu-maps-advance-global-vehicle-navigation-with-intelligent-driving-solutions
 https://www.smithsonianmag.com/history/a-collection-of-maps-owned-by-englands-first-queen-spent-centuries-overlooked-in-a-family-library-now-the-rare-volume-is-on-sale-for-16-million-180988604/
 https://publications.jrc.ec.europa.eu/repository/handle/JRC144238
 https://www.gbnews.com/tech/google-maps-upgrade-england-buses
