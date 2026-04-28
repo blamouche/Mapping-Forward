@@ -1,3 +1,6 @@
+## 0.1.689 - 2026-04-28
+- Log veille mapping run (repo clean/synced after baseline tracking commit; processed 1 Google Alert from `label:0---veille-mapping`; extracted 6 candidate URLs after unwrapping Google redirects; kept 1 in-scope TomTom Traffic Index article about Lima congestion after filtering out stock-market coverage and local Tom Tom Festival items; updated `LIST.md`; trashed 1 email.)
+
 ## 0.1.688 - 2026-04-28
 - Add veille-mapping todo for scheduled 22:04 CEST run and restore a clean repo baseline before Gmail extraction.
 
