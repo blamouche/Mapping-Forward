@@ -4,13 +4,13 @@
 - [x] Lire `.prompt-hub/memory.md`
 - [x] Lire `.prompt-hub/releases.md`
 - [x] Créer ce fichier de suivi
-- [ ] Vérifier l'état git local et remettre le repo dans un état clean/sync
-- [ ] Chercher les emails Gmail `label:0---veille-mapping`
-- [ ] Extraire et filtrer les URLs d'articles pertinentes pour la cartographie
-- [ ] Mettre à jour `LIST.md` (normalisation, dédoublonnage, nettoyage du scope)
-- [ ] Mettre à jour les fichiers `.prompt-hub` (memory, releases, version, veille summary)
+- [x] Vérifier l'état git local et remettre le repo dans un état clean/sync
+- [x] Chercher les emails Gmail `label:0---veille-mapping`
+- [x] Extraire et filtrer les URLs d'articles pertinentes pour la cartographie
+- [x] Mettre à jour `LIST.md` (normalisation, dédoublonnage, nettoyage du scope)
+- [x] Mettre à jour les fichiers `.prompt-hub` (memory, releases, version, veille summary)
 - [ ] Commit + push
-- [ ] Mettre à la corbeille les emails traités
+- [x] Mettre à la corbeille les emails traités
 - [ ] Ajouter la review finale
 
 ## Notes
@@ -18,4 +18,7 @@
 - Si le repo n'est pas clean, committer/pusher d'abord toutes les modifications locales non synchronisées pour repartir d'un état propre.
 
 ## Review
-- En attente.
+- 1 email Google Alerts traité.
+- 1 URL candidate extraite puis filtrée hors scope (mention incidente de HERE Maps dans un article produit sur des lunettes connectées).
+- `LIST.md` est resté vide, sans ajout ni suppression.
+- Email traité déplacé dans la corbeille.

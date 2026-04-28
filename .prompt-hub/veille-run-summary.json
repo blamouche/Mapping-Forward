@@ -1,10 +1,10 @@
 {
-  "runAt": "2026-04-28T18:09:42+02:00",
+  "runAt": "2026-04-28T20:04:00+02:00",
   "gmailLabel": "0---veille-mapping",
-  "messagesProcessed": 0,
-  "candidateUrls": 0,
+  "messagesProcessed": 1,
+  "candidateUrls": 1,
   "urlsAdded": 0,
   "urlsRemoved": 0,
-  "emailsTrashed": 0,
-  "notes": "Git pull --rebase was already up to date; Gmail label returned no messages and LIST.md was empty after scope review."
+  "emailsTrashed": 1,
+  "notes": "Processed 1 Google Alert; filtered the only URL out as an incidental HERE Maps mention in a smart-glasses product story outside the cartography/domain news queue; LIST.md stayed empty."
 }
