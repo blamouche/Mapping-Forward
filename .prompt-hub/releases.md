@@ -1,3 +1,6 @@
+## 0.1.691 - 2026-04-29
+- Add batch recap: 2026-04-29 000145
+
 ## 0.1.690 - 2026-04-29
 - Process article: Lima en el top peores ciudades del mundo en tráfico en 2026, según ranking de TomTom Traffic Index
 
