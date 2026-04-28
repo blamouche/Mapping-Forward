@@ -1,3 +1,6 @@
+## 0.1.669 - 2026-04-28
+- Process article: Google Maps on Android Auto now shows bigger labels on streets along your route [Gallery]
+
 ## 0.1.668 - 2026-04-28
 - Process article: Isro has now mapped every Indian village from space: Why it matters to you
 
