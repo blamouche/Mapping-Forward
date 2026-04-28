@@ -7,7 +7,7 @@
 - [x] Sync repo from a clean state and update `LIST.md`
 - [x] Trash processed Gmail alerts
 - [x] Update prompt-hub tracking (`memory.md`, `releases.md`, `version.md`, `veille-run-summary.json`)
-- [ ] Commit and push all local changes
+- [x] Commit and push all local changes
 
 ## Notes
 - Run started at 2026-04-28 08:05:47 Europe/Paris.

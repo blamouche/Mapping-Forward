@@ -1,3 +1,6 @@
+## 0.1.661 - 2026-04-28
+- Finalize veille-mapping todo review after commit/push.
+
 ## 0.1.660 - 2026-04-28
 - Log veille mapping run (repo clean/synced after baseline tracking commit; processed 11 Google Alerts from `label:0---veille-mapping`; extracted 68 candidate URLs; kept 9 in-scope mapping/cartography/domain URLs after filtering out local projection events, politics/redistricting, medical/metaphorical `map` matches, market-noise, video/social/help links, and other off-scope items; updated `LIST.md`; trashed 11 emails.)
 
