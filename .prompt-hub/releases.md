@@ -2057,6 +2057,9 @@
 ## 0.1.682 - 2026-04-28
 - Add veille-mapping todo for scheduled 18:09 CEST run and restore a clean repo baseline before Gmail extraction.
 
+## 0.1.686 - 2026-04-28
+- Finalize veille-mapping todo review after commit/push.
+
 ## 0.1.685 - 2026-04-28
 - Log veille mapping run (repo clean/synced after baseline tracking commit; processed 1 Google Alert from `label:0---veille-mapping`; extracted 1 candidate URL; filtered it out as an incidental HERE Maps mention in a smart-glasses product story outside the cartography/domain news queue; `LIST.md` stayed empty; trashed 1 email.)
 

@@ -9,9 +9,9 @@
 - [x] Extraire et filtrer les URLs d'articles pertinentes pour la cartographie
 - [x] Mettre à jour `LIST.md` (normalisation, dédoublonnage, nettoyage du scope)
 - [x] Mettre à jour les fichiers `.prompt-hub` (memory, releases, version, veille summary)
-- [ ] Commit + push
+- [x] Commit + push
 - [x] Mettre à la corbeille les emails traités
-- [ ] Ajouter la review finale
+- [x] Ajouter la review finale
 
 ## Notes
 - Exécuter la séquence quotidienne en respectant `agents.md` et l'agent `add-url`.
