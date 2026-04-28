@@ -1,3 +1,6 @@
+## 0.1.666 - 2026-04-28
+- Process article: FETCH_ERROR jrc144238
+
 ## 0.1.665 - 2026-04-28
 - Process article: FETCH_ERROR smithsonian-rare-map-volume
 
