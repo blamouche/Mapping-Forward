@@ -1,3 +1,6 @@
+## 0.1.662 - 2026-04-28
+- Process article: Champagne : la Montagne de Reims cartographiée parcelle par parcelle
+
 ## 0.1.661 - 2026-04-28
 - Finalize veille-mapping todo review after commit/push.
 
