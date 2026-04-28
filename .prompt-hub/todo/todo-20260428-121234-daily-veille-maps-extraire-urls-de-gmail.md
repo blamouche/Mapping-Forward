@@ -9,10 +9,10 @@
 - [x] Extraire et filtrer les URLs d'articles
 - [x] Mettre à jour `LIST.md` (normaliser, dédupliquer, retirer les hors-scope)
 - [x] Mettre à jour le suivi prompt-hub (`memory`, `releases`, `version`, `veille-run-summary`)
-- [ ] Commit + push
+- [x] Commit + push
 - [x] Mettre à la corbeille les emails traités
 
 ## Review
 
-- Statut: en cours
+- Statut: terminé
 - Résultat: Gmail vide, `LIST.md` inchangé et aucun email à mettre à la corbeille.
