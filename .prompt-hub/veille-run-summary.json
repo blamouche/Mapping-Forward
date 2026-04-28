@@ -1,10 +1,10 @@
 {
-  "runAt": "2026-04-28T08:05:47+02:00",
+  "runAt": "2026-04-28T10:05:16+02:00",
   "gmailLabel": "0---veille-mapping",
-  "messagesProcessed": 11,
-  "candidateUrls": 68,
-  "urlsAdded": 9,
+  "messagesProcessed": 0,
+  "candidateUrls": 0,
+  "urlsAdded": 0,
   "urlsRemoved": 0,
-  "emailsTrashed": 11,
-  "notes": "Repo clean/synced after baseline tracking commit; filtered out local projection events, politics/redistricting, medical/metaphorical 'map' matches, market noise, video/social/help links, and other off-scope items."
+  "emailsTrashed": 0,
+  "notes": "Repo clean/synced after scheduled tracking update; Gmail label returned no messages and LIST.md stayed empty after scope review."
 }
