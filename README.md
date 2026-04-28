@@ -20,7 +20,8 @@ Articles per month:
 
 ### 2026
 
-#### April (142 articles)
+#### April (143 articles)
+- [SYMAPping the Puget Sound: Exploring Early Techniques in Computer Cartography](src/2026-04/20260428-symapping-the-puget-sound-exploring-early-techniques-in-computer-cartography.md)
 - [Google Maps on Android Auto now shows bigger labels on streets along your route [Gallery]](src/2026-04/20260424-google-maps-on-android-auto-now-shows-bigger-labels-on-streets-along-your-route-gallery.md)
 - [Isro has now mapped every Indian village from space: Why it matters to you](src/2026-04/20260426-isro-has-now-mapped-every-indian-village-from-space-why-it-matters-to-you.md)
 - [Google Maps to solve bus commuting nightmare in England](src/2026-04/20260428-google-maps-to-solve-bus-commuting-nightmare-in-england.md)

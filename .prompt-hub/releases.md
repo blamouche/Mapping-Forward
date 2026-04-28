@@ -1,3 +1,6 @@
+## 0.1.670 - 2026-04-28
+- Process article: SYMAPping the Puget Sound: Exploring Early Techniques in Computer Cartography
+
 ## 0.1.669 - 2026-04-28
 - Process article: Google Maps on Android Auto now shows bigger labels on streets along your route [Gallery]
 
