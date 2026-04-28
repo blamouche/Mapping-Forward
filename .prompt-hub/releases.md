@@ -1,3 +1,6 @@
+## 0.1.663 - 2026-04-28
+- Process article: Roole Map se met à jour et embarque la meilleure fonction de Waze et Google Maps
+
 ## 0.1.662 - 2026-04-28
 - Process article: Champagne : la Montagne de Reims cartographiée parcelle par parcelle
 

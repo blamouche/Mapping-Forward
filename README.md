@@ -20,7 +20,8 @@ Articles per month:
 
 ### 2026
 
-#### April (137 articles)
+#### April (138 articles)
+- [Roole Map se met à jour et embarque la meilleure fonction de Waze et Google Maps](src/2026-04/20260428-roole-map-se-met-a-jour-et-embarque-la-meilleure-fonction-de-waze-et-google-maps.md)
 - [Champagne : la Montagne de Reims cartographiée parcelle par parcelle](src/2026-04/20260428-champagne-la-montagne-de-reims-cartographiee-parcelle-par-parcelle.md)
 - [Building clarity across the road network with AtkinsRéalis and TomTom](src/2026-04/20260425-building-clarity-across-the-road-network-with-atkinsrealis-and-tomtom.md)
 - [Geospatial AI & Location AI for AI Agents](src/2026-04/20260425-geospatial-ai-and-location-ai-for-ai-agents.md)
