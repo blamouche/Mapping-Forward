@@ -1,4 +1,3 @@
-https://www.smithsonianmag.com/history/a-collection-of-maps-owned-by-englands-first-queen-spent-centuries-overlooked-in-a-family-library-now-the-rare-volume-is-on-sale-for-16-million-180988604/
 https://publications.jrc.ec.europa.eu/repository/handle/JRC144238
 https://www.gbnews.com/tech/google-maps-upgrade-england-buses
 https://www.indiatoday.in/science/story/isro-india-villages-land-use-cover-mapping-grammanchitra-panchayati-raj-2901882-2026-04-26

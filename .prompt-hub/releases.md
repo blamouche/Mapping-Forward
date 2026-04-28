@@ -1,3 +1,6 @@
+## 0.1.665 - 2026-04-28
+- Process article: FETCH_ERROR smithsonian-rare-map-volume
+
 ## 0.1.664 - 2026-04-28
 - Process article: HERE, Baidu Maps Advance Global Vehicle Navigation with Intelligent Driving Solutions
 
