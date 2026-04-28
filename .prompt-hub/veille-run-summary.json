@@ -1,10 +1,10 @@
 {
-  "runAt": "2026-04-28T22:04:00+02:00",
+  "runAt": "2026-04-29T00:07:00+02:00",
   "gmailLabel": "0---veille-mapping",
-  "messagesProcessed": 1,
-  "candidateUrls": 6,
-  "urlsAdded": 1,
+  "messagesProcessed": 2,
+  "candidateUrls": 12,
+  "urlsAdded": 3,
   "urlsRemoved": 0,
-  "emailsTrashed": 1,
-  "notes": "Processed 1 Google Alert; extracted 6 candidate article URLs after unwrapping Google redirects; kept 1 in-scope TomTom Traffic Index article about Lima congestion; filtered out stock-market coverage and local Tom Tom Festival items; updated LIST.md."
+  "emailsTrashed": 2,
+  "notes": "Processed 2 Google Alerts; unwrapped 12 candidate links; kept 3 in-scope mapping/navigation articles about Roole Map's new community reporting feature after filtering out app homepages, finance pages, event listings, wildfire/news-map items, video-mapping culture pieces, and lower-signal duplicate coverage; updated LIST.md."
 }
