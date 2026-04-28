@@ -1,3 +1,6 @@
+## 0.1.671 - 2026-04-28
+- Add batch recap: 2026-04-28 090100
+
 ## 0.1.670 - 2026-04-28
 - Process article: SYMAPping the Puget Sound: Exploring Early Techniques in Computer Cartography
 
