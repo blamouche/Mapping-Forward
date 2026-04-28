@@ -2053,3 +2053,6 @@
 
 ## 0.1.678 - 2026-04-28
 - Finalize veille-mapping todo review after commit/push.
+
+## 0.1.682 - 2026-04-28
+- Add veille-mapping todo for scheduled 18:09 CEST run and restore a clean repo baseline before Gmail extraction.
