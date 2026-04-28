@@ -1,3 +1,6 @@
+## 0.1.668 - 2026-04-28
+- Process article: Isro has now mapped every Indian village from space: Why it matters to you
+
 ## 0.1.667 - 2026-04-28
 - Process article: Google Maps to solve bus commuting nightmare in England
 

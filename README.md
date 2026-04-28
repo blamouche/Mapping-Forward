@@ -20,7 +20,8 @@ Articles per month:
 
 ### 2026
 
-#### April (140 articles)
+#### April (141 articles)
+- [Isro has now mapped every Indian village from space: Why it matters to you](src/2026-04/20260426-isro-has-now-mapped-every-indian-village-from-space-why-it-matters-to-you.md)
 - [Google Maps to solve bus commuting nightmare in England](src/2026-04/20260428-google-maps-to-solve-bus-commuting-nightmare-in-england.md)
 - [HERE, Baidu Maps Advance Global Vehicle Navigation with Intelligent Driving Solutions](src/2026-04/20260424-here-baidu-maps-advance-global-vehicle-navigation-with-intelligent-driving-solutions.md)
 - [Roole Map se met à jour et embarque la meilleure fonction de Waze et Google Maps](src/2026-04/20260428-roole-map-se-met-a-jour-et-embarque-la-meilleure-fonction-de-waze-et-google-maps.md)
