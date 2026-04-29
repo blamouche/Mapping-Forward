@@ -1,3 +1,6 @@
+## 0.1.716 - 2026-04-29
+- Log veille mapping empty run (repo clean/synced after baseline commit; `gog gmail messages search 'label:0---veille-mapping' --include-body --json --max 100 --no-input` returned no messages; `LIST.md` stayed empty after scope review; no URLs were added/removed; no emails were trashed.)
+
 ## 0.1.715 - 2026-04-29
 - Add veille-mapping todo for scheduled 18:09 CEST run and restore a clean repo baseline before Gmail extraction.
 
