@@ -1,3 +1,6 @@
+## 0.1.710 - 2026-04-29
+- Log veille mapping empty run (repo already clean/synced; `gog gmail messages search 'label:0---veille-mapping' --include-body --json --max 100 --no-input` returned no messages; `LIST.md` stayed empty after scope review; no URLs were added/removed; no emails were trashed.)
+
 ## 0.1.709 - 2026-04-29
 - Finalize veille-mapping todo review after commit/push.
 
