@@ -1,3 +1,6 @@
+## 0.1.718 - 2026-04-29
+- Log scan-list empty run (`git pull --rebase` up to date; `LIST.md` empty at 2026-04-29 21:01:43 CEST; no URLs processed; no batch recap created.)
+
 
 ## 0.1.717 - 2026-04-29
 - Log veille mapping run (repo clean/synced; processed 1 Google Alert from `label:0---veille-mapping`; extracted 1 candidate URL; filtered it out as an off-scope Curaçao travel false positive triggered by the phrase "Here, maps"; `LIST.md` stayed empty; trashed 1 email.)
