@@ -2107,3 +2107,6 @@
 
 ## 0.1.683 - 2026-04-28
 - Log veille mapping empty run (`git pull --rebase` up to date; Gmail label `0---veille-mapping` returned no messages with `--include-body --json --max 100 --no-input`; `LIST.md` was empty after scope review; no URLs were added/removed; no emails were trashed.)
+
+## 0.1.700 - 2026-04-29
+- Log veille mapping empty run (repo re-synced after adding the scheduled todo; Gmail label `0---veille-mapping` returned no messages with `--include-body --json --max 100 --no-input`; `LIST.md` was empty after scope review; no URLs were added/removed; no emails were trashed.)

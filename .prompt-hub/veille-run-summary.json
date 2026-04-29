@@ -1,10 +1,10 @@
 {
-  "runAt": "2026-04-29T02:04:51+02:00",
+  "runAt": "2026-04-29T04:04:38+02:00",
   "gmailLabel": "0---veille-mapping",
   "messagesProcessed": 0,
   "candidateUrls": 0,
   "urlsAdded": 0,
   "urlsRemoved": 0,
   "emailsTrashed": 0,
-  "notes": "Repo was already clean/synced; Gmail label returned no messages; LIST.md kept its 3 existing Roole Map/navigation URLs after scope review; no URLs were added or removed; no emails were trashed."
+  "notes": "Repo was re-synced after adding the scheduled todo; Gmail label returned no messages; LIST.md was empty after scope review; no URLs were added or removed; no emails were trashed."
 }
