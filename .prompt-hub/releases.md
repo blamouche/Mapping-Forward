@@ -1,3 +1,6 @@
+## 0.1.696 - 2026-04-29
+- Process article: Le concurrent français de Google Maps et Waze se dote enfin de la fonctionnalité qui lui manquait terriblement
+
 ## 0.1.695 - 2026-04-29
 - Finalize veille-mapping todo review after commit/push.
 

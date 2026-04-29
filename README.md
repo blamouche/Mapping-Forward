@@ -15,12 +15,13 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | █████████████████████████████████████████████████ 144
+2026-04 | █████████████████████████████████████████████████ 145
 ## Articles
 
 ### 2026
 
-#### April (144 articles)
+#### April (145 articles)
+- [Le concurrent français de Google Maps et Waze se dote enfin de la fonctionnalité qui lui manquait terriblement](src/2026-04/20260428-le-concurrent-francais-de-google-maps-et-waze-se-dote-enfin-de-la-fonctionnalite-qui-lui-manquait-terriblement.md)
 - [Lima en el top peores ciudades del mundo en tráfico en 2026, según ranking de TomTom Traffic Index](src/2026-04/20260428-lima-en-el-top-peores-ciudades-del-mundo-en-trafico-en-2026-segun-ranking-de-tomtom-traffic-index.md)
 - [SYMAPping the Puget Sound: Exploring Early Techniques in Computer Cartography](src/2026-04/20260428-symapping-the-puget-sound-exploring-early-techniques-in-computer-cartography.md)
 - [Google Maps on Android Auto now shows bigger labels on streets along your route [Gallery]](src/2026-04/20260424-google-maps-on-android-auto-now-shows-bigger-labels-on-streets-along-your-route-gallery.md)
