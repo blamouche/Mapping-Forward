@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-04-29T20:05:04+02:00",
-  "messagesProcessed": 1,
+  "timestamp": "2026-04-29T22:06:20+02:00",
+  "messagesProcessed": 0,
   "urlsAdded": 0,
   "urlsRemoved": 0,
-  "emailsTrashed": 1,
-  "notes": "Processed 1 Google Alert false positive for Here maps; filtered the off-scope Curaçao travel URL and kept LIST.md unchanged."
+  "emailsTrashed": 0,
+  "notes": "No Gmail messages found for label 0---veille-mapping; LIST.md stayed empty and no emails were trashed."
 }
