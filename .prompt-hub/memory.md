@@ -1326,3 +1326,6 @@ next: Re-auth required — `gog auth add b.lamouche@gmail.com` (browser flow)
 
 - 2026-04-29 03:04:07 | agent | scan-list processed `Roole Map se rapproche de Waze avec les signalements communautaires`; created `src/2026-04/20260428-roole-map-se-rapproche-de-waze-avec-les-signalements-communautaires.md`, updated `README.md` statistics/April list, removed the processed URL from `LIST.md`, and prepared the next queue item. | Files: src/2026-04/20260428-roole-map-se-rapproche-de-waze-avec-les-signalements-communautaires.md, README.md, LIST.md, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: continue scan-list queue.
 
+
+- 2026-04-29 03:04:07 | agent | scan-list created and verified `synthesis/2026-04-29 - 030407 - batch recap.md`; confirmed it contains all 3 syntheses and that `LIST.md` is empty. | Files: synthesis/2026-04-29 - 030407 - batch recap.md, LIST.md, .prompt-hub/todo/todo-20260429-030200-scan-list.md, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: push remaining commits to origin/main.
+

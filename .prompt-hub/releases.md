@@ -1,3 +1,6 @@
+## 0.1.699 - 2026-04-29
+- Add batch recap: 2026-04-29 03:04:07
+
 ## 0.1.698 - 2026-04-29
 - Process article: Roole Map se rapproche de Waze avec les signalements communautaires
 
