@@ -8,13 +8,16 @@
 ## Plan
 - [x] Lire les consignes `.prompt-hub` et `agents.md`
 - [x] Vérifier l'état git initial
-- [ ] Restaurer un repo clean/sync si nécessaire
-- [ ] Récupérer les emails Gmail ciblés
-- [ ] Extraire et filtrer les URLs candidates
-- [ ] Mettre à jour `LIST.md` (normalisation, déduplication, nettoyage du scope)
-- [ ] Mettre à jour le tracking `.prompt-hub`
-- [ ] Commit et push
-- [ ] Ajouter une review finale
+- [x] Restaurer un repo clean/sync si nécessaire
+- [x] Récupérer les emails Gmail ciblés
+- [x] Extraire et filtrer les URLs candidates
+- [x] Mettre à jour `LIST.md` (normalisation, déduplication, nettoyage du scope)
+- [x] Mettre à jour le tracking `.prompt-hub`
+- [x] Commit et push
+- [x] Ajouter une review finale
 
 ## Review
-- Pending
+- Repo initialement clean, puis baseline tracking commit/push effectué pour respecter le prérequis `add-url` de travail sur un état propre.
+- `gog gmail messages search 'label:0---veille-mapping' --include-body --json --max 100 --no-input` a renvoyé 0 message.
+- `LIST.md` était déjà vide et est resté vide après revue de périmètre.
+- Résultat final: 0 URL ajoutée, 0 URL supprimée, 0 email mis à la corbeille.
