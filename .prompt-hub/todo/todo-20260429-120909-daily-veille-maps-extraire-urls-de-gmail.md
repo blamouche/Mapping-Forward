@@ -10,7 +10,7 @@
 - [x] Update `LIST.md` with normalized deduped URLs and remove out-of-scope existing URLs
 - [x] Trash processed emails
 - [x] Update prompt-hub tracking (`memory.md`, `releases.md`, `version.md`, `veille-run-summary.json`)
-- [ ] Commit and push all required changes
+- [x] Commit and push all required changes
 
 ## Review
 

@@ -1,3 +1,6 @@
+## 0.1.709 - 2026-04-29
+- Finalize veille-mapping todo review after commit/push.
+
 ## 0.1.708 - 2026-04-29
 - Log veille mapping run (processed 1 Gmail alert from `label:0---veille-mapping`; reviewed 2 candidate URLs and filtered both out as low-signal/off-scope for the cartography watchlist, including a generic GIS market press release and an AI-marketing/GEO roundup with only partial geospatial relevance; `LIST.md` stayed empty; trashed 1 email.)
 
