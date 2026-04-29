@@ -1,10 +1,10 @@
 {
-  "runAt": "2026-04-29T00:07:00+02:00",
+  "runAt": "2026-04-29T02:04:51+02:00",
   "gmailLabel": "0---veille-mapping",
-  "messagesProcessed": 2,
-  "candidateUrls": 12,
-  "urlsAdded": 3,
+  "messagesProcessed": 0,
+  "candidateUrls": 0,
+  "urlsAdded": 0,
   "urlsRemoved": 0,
-  "emailsTrashed": 2,
-  "notes": "Processed 2 Google Alerts; unwrapped 12 candidate links; kept 3 in-scope mapping/navigation articles about Roole Map's new community reporting feature after filtering out app homepages, finance pages, event listings, wildfire/news-map items, video-mapping culture pieces, and lower-signal duplicate coverage; updated LIST.md."
+  "emailsTrashed": 0,
+  "notes": "Repo was already clean/synced; Gmail label returned no messages; LIST.md kept its 3 existing Roole Map/navigation URLs after scope review; no URLs were added or removed; no emails were trashed."
 }
