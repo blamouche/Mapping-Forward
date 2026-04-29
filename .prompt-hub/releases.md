@@ -1,3 +1,6 @@
+## 0.1.698 - 2026-04-29
+- Process article: Roole Map se rapproche de Waze avec les signalements communautaires
+
 ## 0.1.697 - 2026-04-29
 - Process article: Roole Map : le GPS français ajoute la fonction phare de Waze et de Google Maps, de quoi lui donner sa chance
 
