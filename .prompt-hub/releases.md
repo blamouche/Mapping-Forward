@@ -1,3 +1,6 @@
+## 0.1.708 - 2026-04-29
+- Log veille mapping run (processed 1 Gmail alert from `label:0---veille-mapping`; reviewed 2 candidate URLs and filtered both out as low-signal/off-scope for the cartography watchlist, including a generic GIS market press release and an AI-marketing/GEO roundup with only partial geospatial relevance; `LIST.md` stayed empty; trashed 1 email.)
+
 
 ## 0.1.707 - 2026-04-29
 - Log scan-list empty run (`git pull --rebase` up to date; `LIST.md` empty at 2026-04-29 12:01:58 CEST; no URLs processed; no batch recap created.)
