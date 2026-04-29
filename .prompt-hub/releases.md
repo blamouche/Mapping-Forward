@@ -1,3 +1,6 @@
+## 0.1.697 - 2026-04-29
+- Process article: Roole Map : le GPS français ajoute la fonction phare de Waze et de Google Maps, de quoi lui donner sa chance
+
 ## 0.1.696 - 2026-04-29
 - Process article: Le concurrent français de Google Maps et Waze se dote enfin de la fonctionnalité qui lui manquait terriblement
 
