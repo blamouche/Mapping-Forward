@@ -1,10 +1,10 @@
 {
-  "runAt": "2026-04-29T06:05:40+02:00",
+  "runAt": "2026-04-29T08:04:00+02:00",
   "gmailLabel": "0---veille-mapping",
   "messagesProcessed": 0,
   "candidateUrls": 0,
   "urlsAdded": 0,
   "urlsRemoved": 0,
   "emailsTrashed": 0,
-  "notes": "Repo was clean before Gmail extraction; Gmail label returned no messages; LIST.md was empty after scope review; no URLs were added or removed; no emails were trashed."
+  "notes": "Repo was clean/synced before Gmail extraction; Gmail label returned no messages; LIST.md was empty after scope review; no URLs were added or removed; no emails were trashed."
 }
