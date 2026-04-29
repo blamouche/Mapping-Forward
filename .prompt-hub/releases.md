@@ -1,3 +1,6 @@
+## 0.1.695 - 2026-04-29
+- Finalize veille-mapping todo review after commit/push.
+
 ## 0.1.694 - 2026-04-29
 - Log veille mapping empty run (repo already clean/synced; Gmail label `0---veille-mapping` returned no messages with `--max 50 --json --no-input`; `LIST.md` kept 3 existing in-scope Roole Map/navigation URLs after scope review; no URLs were added/removed; no emails were trashed.)
 

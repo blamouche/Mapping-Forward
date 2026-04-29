@@ -11,7 +11,7 @@
 - [x] Remove any out-of-scope existing URLs from `LIST.md`
 - [x] Trash processed emails
 - [x] Update prompt-hub tracking files (`memory.md`, `releases.md`, `version.md`, `veille-run-summary.json`)
-- [ ] Commit and push all resulting changes
+- [x] Commit and push all resulting changes
 
 ## Review
 - 0 Gmail alerts processed.
