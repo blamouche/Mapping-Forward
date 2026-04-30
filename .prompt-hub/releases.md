@@ -1,3 +1,6 @@
+## 0.1.727 - 2026-04-30
+- Finalize veille-mapping todo review after commit/push.
+
 ## 0.1.726 - 2026-04-30
 - Log veille mapping run (repo clean/synced after baseline tracking commit; processed 1 Google Alert from `label:0---veille-mapping`; extracted 9 candidate URLs; kept 1 in-scope TomTom mapping/ADAS article about support for Chinese automakers entering global markets; filtered out workforce-learning, sports, festival, stock, and local traffic items; updated `LIST.md`; trashed 1 email.)
 

@@ -7,7 +7,7 @@
 - [x] Sync clean repo state if needed, update `LIST.md`, dedupe, verify
 - [x] Trash processed emails
 - [x] Update prompt-hub tracking (`memory.md`, `releases.md`, `version.md`, run summary, todo review)
-- [ ] Commit and push all local changes
+- [x] Commit and push all local changes
 
 ## Notes
 - Cron run requested at 2026-04-30 02:04 CEST.
