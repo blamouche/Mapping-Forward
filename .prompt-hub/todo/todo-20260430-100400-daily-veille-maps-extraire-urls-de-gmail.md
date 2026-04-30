@@ -4,11 +4,15 @@
 - Objective: Exécuter la séquence quotidienne Gmail -> LIST.md -> nettoyage scope -> trash emails.
 
 ## Plan
-- [ ] Vérifier le repo, créer un baseline clean/synced si nécessaire.
-- [ ] Scanner Gmail label `0---veille-mapping`, extraire les URLs candidates.
-- [ ] Filtrer les URLs hors scope, mettre à jour `LIST.md`, dédupliquer, vérifier.
-- [ ] Mettre à jour `.prompt-hub` (memory, releases, version, summary) et pousser.
-- [ ] Mettre les emails traités à la corbeille.
+- [x] Vérifier le repo, créer un baseline clean/synced si nécessaire.
+- [x] Scanner Gmail label `0---veille-mapping`, extraire les URLs candidates.
+- [x] Filtrer les URLs hors scope, mettre à jour `LIST.md`, dédupliquer, vérifier.
+- [x] Mettre à jour `.prompt-hub` (memory, releases, version, summary) et pousser.
+- [x] Mettre les emails traités à la corbeille.
 
 ## Review
-- Pending.
+- Gmail label `0---veille-mapping`: 0 message trouvé.
+- URLs ajoutées: 0.
+- URLs supprimées de `LIST.md`: 0.
+- Emails mis à la corbeille: 0.
+- `LIST.md` est resté vide après revue de scope.
