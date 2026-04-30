@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-04-30T18:08:38+02:00",
+  "timestamp": "2026-04-30T20:05:54+02:00",
   "messagesProcessed": 0,
   "urlsAdded": 0,
   "urlsRemoved": 0,
   "emailsTrashed": 0,
-  "notes": "Repo clean/synced after baseline tracking commit; Gmail label `0---veille-mapping` returned no messages with `--include-body --json --max 100 --no-input`; `LIST.md` was empty after scope review; no URLs were added or removed; no emails were trashed."
+  "notes": "Repo clean/synced; Gmail label `0---veille-mapping` returned no messages with `gog gmail messages search \"label:0---veille-mapping\" --max 100 --json --no-input`; `LIST.md` stayed empty after scope review; no URLs were added or removed; no emails were trashed."
 }
