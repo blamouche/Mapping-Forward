@@ -1,3 +1,6 @@
+## 0.1.731 - 2026-04-30
+- Add substack post: The map is becoming a competitive interface
+
 ## 0.1.730 - 2026-04-30
 - Log veille mapping run (repo clean/synced; processed 1 Google Alert from `label:0---veille-mapping`; extracted 14 candidate URLs after unwrapping Google redirects; kept 0 in-scope URLs after filtering out unrelated scientific 'maps', YouTube/political/support items, and static/local government pages outside the cartography/domain news queue; `LIST.md` stayed unchanged; trashed 1 email.)
 
