@@ -184,6 +184,10 @@
 
 # Memory Log
 
+- 2026-04-30 02:05:00 CEST | agent | Veille mapping run: repo clean/synced after baseline tracking commit; processed 1 Google Alert from `label:0---veille-mapping`; extracted 9 candidate URLs; kept 1 in-scope TomTom mapping/ADAS article about support for Chinese automakers entering global markets after filtering out workforce-learning, sports, festival, stock, and local traffic items; updated `LIST.md`; trashed 1 processed email. | Files: LIST.md, .prompt-hub/todo/todo-20260430-020436-daily-veille-maps-extraire-urls-de-gmail.md, .prompt-hub/veille-run-summary.json, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: Commit and push tracking updates.
+
+- 2026-04-30 02:04:50 CEST | agent | Added 1 in-scope URL to `LIST.md` after restoring a clean repo state and verifying the queue update in HEAD. | Files: LIST.md | Status: success | Next: Trash the processed email, then finalize tracking updates.
+
 - 2026-04-30 02:04:36 CEST | agent | Initialized scheduled veille-mapping run: read required prompt-hub context, created `.prompt-hub/todo/todo-20260430-020436-daily-veille-maps-extraire-urls-de-gmail.md`, inspected repo status, and prepared the baseline tracking commit needed to restore a clean repo state before Gmail extraction. | Files: .prompt-hub/todo/todo-20260430-020436-daily-veille-maps-extraire-urls-de-gmail.md, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: Commit/push baseline tracking updates, then run Gmail -> LIST.md.
 
 - 2026-04-20 22:05:00 CEST | agent | Veille mapping run: repo clean/synced; Gmail label `0---veille-mapping` returned no messages with `--include-body --json --max 100 --no-input`; `LIST.md` stayed empty after scope review, so no URLs were added or removed and no emails were trashed. Tracking files updated for the empty scheduled run. | Files: LIST.md, .prompt-hub/todo/todo-20260420-220500-daily-veille-maps-extraire-urls-de-gmail.md, .prompt-hub/veille-run-summary.json, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: Commit and push tracking updates.

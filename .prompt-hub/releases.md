@@ -1,3 +1,9 @@
+## 0.1.726 - 2026-04-30
+- Log veille mapping run (repo clean/synced after baseline tracking commit; processed 1 Google Alert from `label:0---veille-mapping`; extracted 9 candidate URLs; kept 1 in-scope TomTom mapping/ADAS article about support for Chinese automakers entering global markets; filtered out workforce-learning, sports, festival, stock, and local traffic items; updated `LIST.md`; trashed 1 email.)
+
+## 0.1.725 - 2026-04-30
+- Add URL(s) to processing queue.
+
 ## 0.1.724 - 2026-04-30
 - Add veille-mapping todo for scheduled 02:04 CEST run and restore a clean repo baseline before Gmail extraction.
 

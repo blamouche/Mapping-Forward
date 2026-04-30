@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-04-30T00:04:00+02:00",
-  "messagesProcessed": 0,
-  "urlsAdded": 0,
+  "timestamp": "2026-04-30T02:05:00+02:00",
+  "messagesProcessed": 1,
+  "urlsAdded": 1,
   "urlsRemoved": 0,
-  "emailsTrashed": 0,
-  "notes": "No Gmail messages found for label 0---veille-mapping; LIST.md stayed empty and no emails were trashed."
+  "emailsTrashed": 1,
+  "notes": "Processed 1 Google Alert from label 0---veille-mapping; extracted 9 candidate URLs, kept 1 in-scope TomTom mapping/ADAS article for LIST.md, filtered out off-scope items, and trashed the processed email."
 }
