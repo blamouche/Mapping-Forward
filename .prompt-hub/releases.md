@@ -1,3 +1,6 @@
+## 0.1.744 - 2026-04-30
+- Add veille-mapping todo for scheduled 14:05 CEST run and restore a clean repo baseline before Gmail extraction.
+
 ## 0.1.743 - 2026-04-30
 - Log veille mapping run (repo clean/synced after baseline tracking commit; processed 1 Google Alert from `label:0---veille-mapping`; extracted 2 candidate URLs after unwrapping Google redirect links; kept 1 in-scope Geo Week infrastructure/GIS article after filtering out a low-signal Cloud GIS market-size press release; updated `LIST.md`; trashed 1 email.)
 
