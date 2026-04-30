@@ -1,3 +1,6 @@
+## 0.1.733 - 2026-04-30
+- Add veille-mapping todo for scheduled 06:09 CEST run and restore a clean repo baseline before Gmail extraction.
+
 ## 0.1.732 - 2026-04-30
 - Finalize substack-post-recents tracking after commit and push.
 
