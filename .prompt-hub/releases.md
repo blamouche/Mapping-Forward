@@ -1,3 +1,6 @@
+## 0.1.732 - 2026-04-30
+- Finalize substack-post-recents tracking after commit and push.
+
 ## 0.1.731 - 2026-04-30
 - Add substack post: The map is becoming a competitive interface
 
