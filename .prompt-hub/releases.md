@@ -1,3 +1,6 @@
+## 0.1.728 - 2026-04-30
+- Process article: 对话TomTom首席执行官Mike Schoofs：当一家“海外版高德”要进入中国
+
 ## 0.1.727 - 2026-04-30
 - Finalize veille-mapping todo review after commit/push.
 

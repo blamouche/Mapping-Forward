@@ -15,12 +15,13 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | █████████████████████████████████████████████████ 147
+2026-04 | ██████████████████████████████████████████████████ 148
 ## Articles
 
 ### 2026
 
-#### April (147 articles)
+#### April (148 articles)
+- [对话TomTom首席执行官Mike Schoofs：当一家“海外版高德”要进入中国](src/2026-04/20260429-tomtom-mike-schoofs-china-expansion.md)
 - [Roole Map se rapproche de Waze avec les signalements communautaires](src/2026-04/20260428-roole-map-se-rapproche-de-waze-avec-les-signalements-communautaires.md)
 - [Roole Map : le GPS français ajoute la fonction phare de Waze et de Google Maps, de quoi lui donner sa chance](src/2026-04/20260428-roole-map-le-gps-francais-ajoute-la-fonction-phare-de-waze-et-de-google-maps-de-quoi-lui-donner-sa-chance.md)
 - [Le concurrent français de Google Maps et Waze se dote enfin de la fonctionnalité qui lui manquait terriblement](src/2026-04/20260428-le-concurrent-francais-de-google-maps-et-waze-se-dote-enfin-de-la-fonctionnalite-qui-lui-manquait-terriblement.md)
