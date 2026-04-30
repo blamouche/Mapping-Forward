@@ -1,3 +1,6 @@
+## 0.1.729 - 2026-04-30
+- Add batch recap: 2026-04-30 030100
+
 ## 0.1.728 - 2026-04-30
 - Process article: 对话TomTom首席执行官Mike Schoofs：当一家“海外版高德”要进入中国
 
