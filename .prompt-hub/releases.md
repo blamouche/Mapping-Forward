@@ -1,3 +1,6 @@
+## 0.1.747 - 2026-04-30
+- Add batch recap: 2026-04-30 150100
+
 ## 0.1.746 - 2026-04-30
 - Process article: Capture It While the Trench Is Open
 
