@@ -184,6 +184,8 @@
 
 # Memory Log
 
+- 2026-04-30 02:04:36 CEST | agent | Initialized scheduled veille-mapping run: read required prompt-hub context, created `.prompt-hub/todo/todo-20260430-020436-daily-veille-maps-extraire-urls-de-gmail.md`, inspected repo status, and prepared the baseline tracking commit needed to restore a clean repo state before Gmail extraction. | Files: .prompt-hub/todo/todo-20260430-020436-daily-veille-maps-extraire-urls-de-gmail.md, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: Commit/push baseline tracking updates, then run Gmail -> LIST.md.
+
 - 2026-04-20 22:05:00 CEST | agent | Veille mapping run: repo clean/synced; Gmail label `0---veille-mapping` returned no messages with `--include-body --json --max 100 --no-input`; `LIST.md` stayed empty after scope review, so no URLs were added or removed and no emails were trashed. Tracking files updated for the empty scheduled run. | Files: LIST.md, .prompt-hub/todo/todo-20260420-220500-daily-veille-maps-extraire-urls-de-gmail.md, .prompt-hub/veille-run-summary.json, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: Commit and push tracking updates.
 
 - 2026-04-20 21:02:08 CEST | agent | scan-list run: read required prompt-hub context, ran `git pull --rebase` (already up to date), and checked `LIST.md` at the batch timestamp. The queue was empty, so no URLs were processed and no batch recap was created. Tracking files updated for the empty scheduled run. | Files: LIST.md, .prompt-hub/todo/todo-20260420-210145-scan-list.md, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: Commit and push tracking updates.
