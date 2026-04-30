@@ -1,3 +1,6 @@
+## 0.1.745 - 2026-04-30
+- Log veille mapping empty run (repo clean/synced after baseline tracking commit; Gmail label `0---veille-mapping` returned no messages with `--include-body --json --max 100 --no-input`; reviewed the existing Geo Week infrastructure/GIS URL in `LIST.md` and kept it in scope; no URLs were added or removed; no emails were trashed.)
+
 ## 0.1.744 - 2026-04-30
 - Add veille-mapping todo for scheduled 14:05 CEST run and restore a clean repo baseline before Gmail extraction.
 

@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-04-30T12:06:40+02:00",
-  "messagesProcessed": 1,
-  "urlsAdded": 1,
+  "timestamp": "2026-04-30T14:06:44+02:00",
+  "messagesProcessed": 0,
+  "urlsAdded": 0,
   "urlsRemoved": 0,
-  "emailsTrashed": 1,
-  "notes": "Repo clean/synced after baseline tracking commit; processed 1 Google Alert from `label:0---veille-mapping`; extracted 2 candidate URLs after unwrapping Google redirect links; kept 1 in-scope Geo Week infrastructure/GIS article after filtering out a low-signal Cloud GIS market-size press release; updated `LIST.md`; trashed 1 email."
+  "emailsTrashed": 0,
+  "notes": "Repo clean/synced after baseline tracking commit; Gmail label `0---veille-mapping` returned no messages with `--include-body --json --max 100 --no-input`; reviewed the existing Geo Week infrastructure/GIS URL in `LIST.md` and kept it in scope; no URLs were added or removed; no emails were trashed."
 }
