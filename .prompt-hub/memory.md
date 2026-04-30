@@ -1427,3 +1427,12 @@ next: Re-auth required — `gog auth add b.lamouche@gmail.com` (browser flow)
 - 2026-04-30 15:02:12 CEST | agent | scan-list run: processed article `Capture It While the Trench Is Open`; fetched the Geo Week News article, created the synthesis, updated `README.md` statistics, and removed the processed URL from `LIST.md`. | Files: src/2026-04/20260429-capture-it-while-the-trench-is-open.md, README.md, LIST.md, .prompt-hub/todo/todo-20260430-150100-scan-list.md, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: Commit the per-article changes, create the batch recap, then push.
 
 - 2026-04-30 15:03:30 CEST | agent | scan-list run: created the batch recap for the 15:01:00 CEST batch, verified that it links the processed synthesis, confirmed `LIST.md` is empty, and finalized tracking for commit/push. | Files: synthesis/2026-04-30 - 150100 - batch recap.md, LIST.md, .prompt-hub/todo/todo-20260430-150100-scan-list.md, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: Commit recap and push remaining changes.
+
+## 2026-04-30 18:08:03 
+- actor: main agent
+- action: Started daily mapping veille run, loaded repo instructions and created todo file.
+- files: agents.md, .prompt-hub/lessons.md, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/todo/*.md
+- status: success
+- next: Inspect repo state and fetch Gmail messages.
+
+- 2026-04-30 18:08:38 CEST | agent | Veille mapping run: repo clean/synced after baseline tracking commit; Gmail label `0---veille-mapping` returned no messages with `--include-body --json --max 100 --no-input`; `LIST.md` was empty after scope review; no URLs were added or removed; no emails were trashed. Tracking files updated for the empty scheduled run. | Files: LIST.md, .prompt-hub/todo/todo-20260430-180803-daily-veille-maps-extraire-urls-de-gmail.md, .prompt-hub/veille-run-summary.json, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: Commit and push tracking updates.
