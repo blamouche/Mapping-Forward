@@ -2,7 +2,6 @@ https://www.rynekinfrastruktury.pl/wiadomosci/drogi-i-autostrady/tomtom-dostarcz
 https://www.geoweeknews.com/news/blue-marble-and-avenza-have-merged
 https://www.automobile-magazine.fr/toute-l-actualite/article/51826-gps-cette-application-francaise-ajoute-enfin-la-fonction-qui-manquait-pour-contrer-waze
 https://news.mit.edu/2026/apeiron-labs-maps-ocean-with-autonomous-sensors-0508
-https://m.sohu.com/a/1019739187_126781
 https://www.theregister.com/personal-tech/2026/05/07/tomtoms-route-planner-takes-an-unplanned-detour-into-oblivion/5234813
 https://www.geoweeknews.com/news/the-invisible-safety-net-how-gis-makes-construction-safer
 https://www.kommune21.de/k21-meldungen/mehr-datentiefe-fuer-planung-und-klima/
@@ -15,7 +14,4 @@ https://ecosistemastartup.com/opentrafficmap-datos-c-its-abiertos-para-tu-startu
 https://blog.google/products-and-platforms/products/maps/route-66/
 https://www.nasa.gov/missions/nisar/us-indian-space-mission-maps-extreme-subsidence-in-mexico-city/
 https://blogs.loc.gov/maps/2026/04/mapping-the-arctic-explorations-of-sir-john-ross/
-https://docs.mapbox.com/android/maps/guides/indoor/
-https://www.autoevolution.com/news/google-maps-you-need-this-the-privacy-obsessed-navigation-app-gets-big-offline-maps-update-269409.html
-https://www.01net.com/astuces/bye-bye-waze-et-google-maps-quelle-appli-gps-europeenne-gratuite-adopter-pour-se-deplacer.html
 https://i.gasgoo.com/news/70456153.html

@@ -1,3 +1,9 @@
+## 0.1.753 - 2026-05-11
+- Trash 48 processed Gmail veille threads, prune 4 out-of-scope or lower-signal URLs from `LIST.md`, and write the final veille run summary/tracking updates.
+
+## 0.1.752 - 2026-05-11
+- Add 21 curated cartography and geospatial URLs extracted from Gmail label `0---veille-mapping` to `LIST.md`, deduplicated on a clean synced repo.
+
 ## 0.1.751 - 2026-05-11
 - Add veille-mapping todo for scheduled 21:44 CEST run and restore a clean repo baseline before Gmail extraction.
 

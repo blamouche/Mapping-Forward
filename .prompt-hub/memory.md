@@ -216,6 +216,8 @@
 
 # Memory Log
 
+- 2026-05-11 21:44:00 CEST | agent | Processed Gmail label `0---veille-mapping`: searched 48 messages, extracted candidate links, added 21 URLs to `LIST.md`, pruned 4 lower-signal or out-of-scope links during editorial cleanup, and moved 48 processed threads to trash. Updated prompt-hub tracking and prepared final summary. | Files: LIST.md, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md, .prompt-hub/veille-run-summary.json | Status: success | Metrics: messages=48, added=21, removed=4, trashed=48.
+
 - 2026-05-11 21:44:00 CEST | agent | Initialized scheduled veille-mapping run: read required prompt-hub context, created `.prompt-hub/todo/todo-20260511-214400-daily-veille-maps-extraire-urls-de-gmail.md`, inspected repo status, and prepared the baseline tracking commit needed to restore a clean repo state before Gmail extraction. | Files: .prompt-hub/todo/todo-20260511-214400-daily-veille-maps-extraire-urls-de-gmail.md, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: Commit/push baseline tracking updates, then run Gmail -> LIST.md.
 
 - 2026-04-30 02:06:00 CEST | agent | Finalized veille-mapping todo review after committing and pushing the scheduled run tracking to origin/main. | Files: .prompt-hub/todo/todo-20260430-020436-daily-veille-maps-extraire-urls-de-gmail.md, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: none.

@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-04-30T20:05:54+02:00",
-  "messagesProcessed": 0,
-  "urlsAdded": 0,
-  "urlsRemoved": 0,
-  "emailsTrashed": 0,
-  "notes": "Repo clean/synced; Gmail label `0---veille-mapping` returned no messages with `gog gmail messages search \"label:0---veille-mapping\" --max 100 --json --no-input`; `LIST.md` stayed empty after scope review; no URLs were added or removed; no emails were trashed."
+  "timestamp": "2026-05-11T21:44:00+02:00",
+  "messagesProcessed": 48,
+  "urlsAdded": 21,
+  "urlsRemoved": 4,
+  "emailsTrashed": 48,
+  "notes": "Created the required todo, committed it first to restore a clean synced repo, extracted candidate URLs from 48 Gmail veille messages, added 21 curated mapping/geospatial links to LIST.md, removed 4 lower-signal or non-news links during scope cleanup, then trashed all 48 processed threads."
 }
