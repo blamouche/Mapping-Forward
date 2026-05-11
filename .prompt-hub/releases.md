@@ -1,3 +1,6 @@
+## 0.1.754 - 2026-05-11
+- Add substack post: Maps are becoming operational public infrastructure
+
 ## 0.1.753 - 2026-05-11
 - Trash 48 processed Gmail veille threads, prune 4 out-of-scope or lower-signal URLs from `LIST.md`, and write the final veille run summary/tracking updates.
 
