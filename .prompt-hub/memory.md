@@ -216,6 +216,8 @@
 
 # Memory Log
 
+- 2026-05-11 21:44:00 CEST | agent | Initialized scheduled veille-mapping run: read required prompt-hub context, created `.prompt-hub/todo/todo-20260511-214400-daily-veille-maps-extraire-urls-de-gmail.md`, inspected repo status, and prepared the baseline tracking commit needed to restore a clean repo state before Gmail extraction. | Files: .prompt-hub/todo/todo-20260511-214400-daily-veille-maps-extraire-urls-de-gmail.md, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: Commit/push baseline tracking updates, then run Gmail -> LIST.md.
+
 - 2026-04-30 02:06:00 CEST | agent | Finalized veille-mapping todo review after committing and pushing the scheduled run tracking to origin/main. | Files: .prompt-hub/todo/todo-20260430-020436-daily-veille-maps-extraire-urls-de-gmail.md, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: none.
 
 - 2026-04-30 02:05:00 CEST | agent | Veille mapping run: repo clean/synced after baseline tracking commit; processed 1 Google Alert from `label:0---veille-mapping`; extracted 9 candidate URLs; kept 1 in-scope TomTom mapping/ADAS article about support for Chinese automakers entering global markets after filtering out workforce-learning, sports, festival, stock, and local traffic items; updated `LIST.md`; trashed 1 processed email. | Files: LIST.md, .prompt-hub/todo/todo-20260430-020436-daily-veille-maps-extraire-urls-de-gmail.md, .prompt-hub/veille-run-summary.json, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: Commit and push tracking updates.
