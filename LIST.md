@@ -1,4 +1,3 @@
-https://www.iphone-ticker.de/tomtom-serverprobleme-behoben-verkehrswarner-zum-bestpreis-277724/
 https://www.frandroid.com/android/applications/google-apps/3094843_google-maps-fait-sa-plus-grande-revolution-depuis-10-ans-des-changements-bluffants-mais-une-mauvaise-nouvelle-pour-la-france
 https://www.igen.fr/app-store/2026/05/google-maps-va-faire-une-place-de-choix-gemini-sur-carplay-156017
 https://www.mac4ever.com/mobilite/196123-google-veut-integrer-gemini-a-carplay-via-google-maps
