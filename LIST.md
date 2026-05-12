@@ -1,4 +1,3 @@
-https://news.mit.edu/2026/apeiron-labs-maps-ocean-with-autonomous-sensors-0508
 https://www.theregister.com/personal-tech/2026/05/07/tomtoms-route-planner-takes-an-unplanned-detour-into-oblivion/5234813
 https://www.geoweeknews.com/news/the-invisible-safety-net-how-gis-makes-construction-safer
 https://www.tomtom.com/newsroom/product-focus/maps-to-models-evolving-towards-an-agentic-world
