@@ -1,4 +1,3 @@
-https://www.canada.ca/en/auditor-general/media-room/flood-hazard-mapping-too-slow-support-climate-change-adaptation.html
 https://www.nature.com/articles/d41586-026-01491-y
 https://www.un.org/ar/delegate/drawing-home-map-malak-safa%E2%80%99s-story-loss-and-resilience
 https://android-mt.ouest-france.fr/news/google-maps-7-fonctions-meconnues-pour-navigation-au-quotidien/201169/
