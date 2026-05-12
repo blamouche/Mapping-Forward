@@ -1,10 +1,8 @@
-https://www.rynekinfrastruktury.pl/wiadomosci/drogi-i-autostrady/tomtom-dostarczy-locus-precyzyjne-dane-o-ruchu-drogowym-99448.html
 https://www.geoweeknews.com/news/blue-marble-and-avenza-have-merged
 https://www.automobile-magazine.fr/toute-l-actualite/article/51826-gps-cette-application-francaise-ajoute-enfin-la-fonction-qui-manquait-pour-contrer-waze
 https://news.mit.edu/2026/apeiron-labs-maps-ocean-with-autonomous-sensors-0508
 https://www.theregister.com/personal-tech/2026/05/07/tomtoms-route-planner-takes-an-unplanned-detour-into-oblivion/5234813
 https://www.geoweeknews.com/news/the-invisible-safety-net-how-gis-makes-construction-safer
-https://www.kommune21.de/k21-meldungen/mehr-datentiefe-fuer-planung-und-klima/
 https://www.tomtom.com/newsroom/product-focus/maps-to-models-evolving-towards-an-agentic-world
 https://www.fisheries.noaa.gov/feature-story/new-system-maps-and-charts-west-coast-fisheries-data-inform-decisions-ocean-uses-0
 https://www.canada.ca/en/auditor-general/media-room/flood-hazard-mapping-too-slow-support-climate-change-adaptation.html
@@ -14,18 +12,11 @@ https://ecosistemastartup.com/opentrafficmap-datos-c-its-abiertos-para-tu-startu
 https://blog.google/products-and-platforms/products/maps/route-66/
 https://www.nasa.gov/missions/nisar/us-indian-space-mission-maps-extreme-subsidence-in-mexico-city/
 https://blogs.loc.gov/maps/2026/04/mapping-the-arctic-explorations-of-sir-john-ross/
-https://i.gasgoo.com/news/70456153.html
 https://hrme.economictimes.indiatimes.com/news/industry/sharjahs-new-gis-and-geoai-training-program-a-boost-for-government-digital-transformation/131029737
 https://www.rivistageomedia.it/geodata/digital-twin-geo-ai-e-citta-intelligenti-alla-conferenza-esri-italia-2026-i-casi-di-udine-modena-rimini-padova-e-fano
-https://harian.fajar.co.id/2026/05/11/dari-filsafat-ruang-ke-geo-ai-guru-besar-fmipa-unhas-soroti-masa-depan-tata-kelola-berbasis-spasial/3/
-https://harian.fajar.co.id/2026/05/11/dari-filsafat-ruang-ke-geo-ai-guru-besar-fmipa-unhas-soroti-masa-depan-tata-kelola-berbasis-spasial/2/
 https://www.nature.com/articles/d41586-026-01491-y
-https://www.doc.govt.nz/map/index.html?banner=0&layerlist=0&base=Topo&layers=Walking%20and%20Tramping&extent=1305495.09865,5101711.1061,2193,13&search=Walking%20and%20Tramping:027f27f0-2191-4e42-8c68-5ff659159e33&elevationMode=1
-https://www.bbc.co.uk/news/resources/idt-5927b565-a763-459f-b348-759f80689d52
 https://www.un.org/ar/delegate/drawing-home-map-malak-safa%E2%80%99s-story-loss-and-resilience
-https://reliefweb.int/map/spain/hantavirus-evacuations-and-support-through-ucpm-dg-echo-daily-map-11052026
 https://android-mt.ouest-france.fr/news/google-maps-7-fonctions-meconnues-pour-navigation-au-quotidien/201169/
-https://www.iqair.com/ca-fr/newsroom/heatwave-map-spotlight-south-asia
 https://geospatialworld.net/videos/the-future-of-autonomous-driving-runs-on-living-maps/
 https://borncity.com/blog/2026/05/11/tomtom-ploetzlich-alle-daten-seit-5-mai-2026-weg-restore-am-laufen/
 https://www.pcwelt.de/article/3135553/tomtom-verliert-nutzerdaten-jetzt-laeuft-die-datenrettung.html
@@ -35,3 +26,5 @@ https://www.igen.fr/app-store/2026/05/google-maps-va-faire-une-place-de-choix-ge
 https://www.mac4ever.com/mobilite/196123-google-veut-integrer-gemini-a-carplay-via-google-maps
 https://android-mt.ouest-france.fr/news/apple-maps-senrichit-rome-et-naples-passent-en-mode-3d-detaille/201217/
 https://www.tomtom.com/traffic-index/city/sao-paulo
+https://www.rynekinfrastruktury.pl/wiadomosci/drogi-i-autostrady/tomtom-dostarczy-locus-precyzyjne-dane-o-ruchu-drogowym-99448.html
+https://i.gasgoo.com/news/70456153.html
