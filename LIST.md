@@ -1,4 +1,3 @@
-https://android-mt.ouest-france.fr/news/google-maps-7-fonctions-meconnues-pour-navigation-au-quotidien/201169/
 https://geospatialworld.net/videos/the-future-of-autonomous-driving-runs-on-living-maps/
 https://borncity.com/blog/2026/05/11/tomtom-ploetzlich-alle-daten-seit-5-mai-2026-weg-restore-am-laufen/
 https://www.pcwelt.de/article/3135553/tomtom-verliert-nutzerdaten-jetzt-laeuft-die-datenrettung.html
