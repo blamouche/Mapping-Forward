@@ -1,4 +1,3 @@
-https://www.geoweeknews.com/news/the-invisible-safety-net-how-gis-makes-construction-safer
 https://www.tomtom.com/newsroom/product-focus/maps-to-models-evolving-towards-an-agentic-world
 https://www.fisheries.noaa.gov/feature-story/new-system-maps-and-charts-west-coast-fisheries-data-inform-decisions-ocean-uses-0
 https://www.canada.ca/en/auditor-general/media-room/flood-hazard-mapping-too-slow-support-climate-change-adaptation.html
