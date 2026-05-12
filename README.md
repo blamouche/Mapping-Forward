@@ -15,12 +15,18 @@ Articles per month:
 2026-01 | █████████ 27<br>
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
-2026-04 | ██████████████████████████████████████████████████ 149
+2026-04 | ██████████████████████████████████████████████████ 154<br>
+2026-05 | █ 2
 ## Articles
 
 ### 2026
 
-#### April (149 articles)
+#### April (154 articles)
+- [Le Français Roole Map imite Waze pour devenir très pratique en voiture](src/2026-04/20260430-roole-map-le-francais-roole-map-imite-waze.md)
+- [OpenTrafficMap: datos C-ITS abiertos para tu startup de movilidad](src/2026-04/20260429-opentrafficmap-datos-c-its-abiertos-para-startups-de-movilidad.md)
+- [Explore Route 66 on Google Maps](src/2026-04/20260429-explore-route-66-on-google-maps.md)
+- [US-Indian Space Mission Maps Extreme Subsidence in Mexico City](src/2026-04/20260429-us-indian-space-mission-maps-extreme-subsidence-in-mexico-city.md)
+- [Mapping the Arctic Explorations of Sir John Ross](src/2026-04/20260429-mapping-the-arctic-explorations-of-sir-john-ross.md)
 - [Capture It While the Trench Is Open](src/2026-04/20260429-capture-it-while-the-trench-is-open.md)
 - [对话TomTom首席执行官Mike Schoofs：当一家“海外版高德”要进入中国](src/2026-04/20260429-tomtom-mike-schoofs-china-expansion.md)
 - [Roole Map se rapproche de Waze avec les signalements communautaires](src/2026-04/20260428-roole-map-se-rapproche-de-waze-avec-les-signalements-communautaires.md)
@@ -170,6 +176,10 @@ Articles per month:
 - [The AI-Ready Spatial Stack: How Wherobots and Felt Are Redefining GIS](src/2026-04/20260401-the-ai-ready-spatial-stack-felt-wherobots.md)
 - [New Advisory Floodplain Maps Available for Five Eastern North Carolina River Basins](src/2026-04/20260401-nc-floodplain-maps-eastern-nc-river-basins.md)
 - [Get Started with the Google Maps Geocoding API v3](src/2026-04/20260331-google-maps-geocoding-api-v3.md)
+
+#### May (2 articles)
+- [Sharjah launches GIS and GeoAI training programme for government employees](src/2026-05/20260512-sharjah-launches-gis-and-geoai-training-program.md)
+- [Digital Twin, GEO-AI e città intelligenti: Conferenza Esri Italia 2026](src/2026-05/20260512-digital-twin-geo-ai-e-citta-intelligenti-conferenza-esri-italia-2026.md)
 
 #### March (202 articles)
 - [Geologic Map of the Emmons Lake Volcanic Center, Alaska](src/2026-03/20260401-usgs-geologic-map-emmons-lake-volcanic-alaska.md)

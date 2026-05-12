@@ -6,14 +6,6 @@ https://www.geoweeknews.com/news/the-invisible-safety-net-how-gis-makes-construc
 https://www.tomtom.com/newsroom/product-focus/maps-to-models-evolving-towards-an-agentic-world
 https://www.fisheries.noaa.gov/feature-story/new-system-maps-and-charts-west-coast-fisheries-data-inform-decisions-ocean-uses-0
 https://www.canada.ca/en/auditor-general/media-room/flood-hazard-mapping-too-slow-support-climate-change-adaptation.html
-https://www.frandroid.com/android/applications/3084035_le-francais-roole-map-imite-waze-pour-devenir-tres-pratique-en-voiture
-https://geospatialworld.net/news/corinne-vigreux-and-harold-goddijn-inducted-into-geospatial-world-hall-of-fame-2026/
-https://ecosistemastartup.com/opentrafficmap-datos-c-its-abiertos-para-tu-startup-de-movilidad/
-https://blog.google/products-and-platforms/products/maps/route-66/
-https://www.nasa.gov/missions/nisar/us-indian-space-mission-maps-extreme-subsidence-in-mexico-city/
-https://blogs.loc.gov/maps/2026/04/mapping-the-arctic-explorations-of-sir-john-ross/
-https://hrme.economictimes.indiatimes.com/news/industry/sharjahs-new-gis-and-geoai-training-program-a-boost-for-government-digital-transformation/131029737
-https://www.rivistageomedia.it/geodata/digital-twin-geo-ai-e-citta-intelligenti-alla-conferenza-esri-italia-2026-i-casi-di-udine-modena-rimini-padova-e-fano
 https://www.nature.com/articles/d41586-026-01491-y
 https://www.un.org/ar/delegate/drawing-home-map-malak-safa%E2%80%99s-story-loss-and-resilience
 https://android-mt.ouest-france.fr/news/google-maps-7-fonctions-meconnues-pour-navigation-au-quotidien/201169/
