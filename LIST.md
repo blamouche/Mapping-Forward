@@ -1,4 +1,3 @@
-https://www.theregister.com/personal-tech/2026/05/07/tomtoms-route-planner-takes-an-unplanned-detour-into-oblivion/5234813
 https://www.geoweeknews.com/news/the-invisible-safety-net-how-gis-makes-construction-safer
 https://www.tomtom.com/newsroom/product-focus/maps-to-models-evolving-towards-an-agentic-world
 https://www.fisheries.noaa.gov/feature-story/new-system-maps-and-charts-west-coast-fisheries-data-inform-decisions-ocean-uses-0
