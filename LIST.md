@@ -1,4 +1,3 @@
-https://www.un.org/ar/delegate/drawing-home-map-malak-safa%E2%80%99s-story-loss-and-resilience
 https://android-mt.ouest-france.fr/news/google-maps-7-fonctions-meconnues-pour-navigation-au-quotidien/201169/
 https://geospatialworld.net/videos/the-future-of-autonomous-driving-runs-on-living-maps/
 https://borncity.com/blog/2026/05/11/tomtom-ploetzlich-alle-daten-seit-5-mai-2026-weg-restore-am-laufen/
