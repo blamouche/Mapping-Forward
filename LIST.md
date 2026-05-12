@@ -1,4 +1,3 @@
-https://www.igen.fr/app-store/2026/05/google-maps-va-faire-une-place-de-choix-gemini-sur-carplay-156017
 https://www.mac4ever.com/mobilite/196123-google-veut-integrer-gemini-a-carplay-via-google-maps
 https://android-mt.ouest-france.fr/news/apple-maps-senrichit-rome-et-naples-passent-en-mode-3d-detaille/201217/
 https://www.tomtom.com/traffic-index/city/sao-paulo
