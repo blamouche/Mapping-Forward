@@ -1,4 +1,3 @@
-https://www.nature.com/articles/d41586-026-01491-y
 https://www.un.org/ar/delegate/drawing-home-map-malak-safa%E2%80%99s-story-loss-and-resilience
 https://android-mt.ouest-france.fr/news/google-maps-7-fonctions-meconnues-pour-navigation-au-quotidien/201169/
 https://geospatialworld.net/videos/the-future-of-autonomous-driving-runs-on-living-maps/
