@@ -1,4 +1,3 @@
-https://borncity.com/blog/2026/05/11/tomtom-ploetzlich-alle-daten-seit-5-mai-2026-weg-restore-am-laufen/
 https://www.pcwelt.de/article/3135553/tomtom-verliert-nutzerdaten-jetzt-laeuft-die-datenrettung.html
 https://www.iphone-ticker.de/tomtom-serverprobleme-behoben-verkehrswarner-zum-bestpreis-277724/
 https://www.frandroid.com/android/applications/google-apps/3094843_google-maps-fait-sa-plus-grande-revolution-depuis-10-ans-des-changements-bluffants-mais-une-mauvaise-nouvelle-pour-la-france
