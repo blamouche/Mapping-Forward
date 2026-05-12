@@ -16,7 +16,7 @@ Articles per month:
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
 2026-04 | ██████████████████████████████████████████████████ 154<br>
-2026-05 | █ 2
+2026-05 | ███████ 21<br>
 ## Articles
 
 ### 2026
@@ -177,7 +177,26 @@ Articles per month:
 - [New Advisory Floodplain Maps Available for Five Eastern North Carolina River Basins](src/2026-04/20260401-nc-floodplain-maps-eastern-nc-river-basins.md)
 - [Get Started with the Google Maps Geocoding API v3](src/2026-04/20260331-google-maps-geocoding-api-v3.md)
 
-#### May (2 articles)
+#### May (21 articles)
+- [CarPlay va avoir Gemini via Google Maps (Mac4Ever)](src/2026-05/20260512-carplay-gemini-google-maps-mac4ever.md)
+- [Apple Maps — Rome et Naples en 3D détaillé](src/2026-05/20260512-apple-maps-rome-naples-3d-detailed.md)
+- [TomTom Traffic Index — Sao Paulo](src/2026-05/20260512-tomtom-traffic-index-sao-paulo.md)
+- [TomTom dostarczy LOCUS precyzyjne dane o ruchu drogowym](src/2026-05/20260510-tomtom-locus-traffic-data-partnership.md)
+- [TomTom Orbis — Chinese automakers global expansion](src/2026-05/20260430-tomtom-orbis-chinese-automakers-global.md)
+- [Gemini sur CarPlay via Google Maps (iGeneration)](src/2026-05/20260512-gemini-carplay-google-maps.md)
+- [Google Maps fait sa plus grande révolution depuis 10 ans](src/2026-05/20260512-google-maps-immersive-navigation-ask-maps.md)
+- [TomTom Serverprobleme behoben (iphone-ticker)](src/2026-05/20260511-tomtom-serverprobleme-behoben-iphone-ticker.md)
+- [TomTom verliert Nutzerdaten (PC-WELT)](src/2026-05/20260511-tomtom-verliert-nutzerdaten-pcwelt.md)
+- [TomTom cloud outage — all data since May 5 wiped](src/2026-05/20260511-tomtom-data-loss-may-2026.md)
+- [Google Maps : 7 fonctions méconnues pour la navigation](src/2026-05/20260511-google-maps-7-fonctions-meconnues.md)
+- [Giant map reveals thousands of cities with successful green policies](src/2026-05/20260511-giant-map-green-cities-NO2.md)
+- [Drawing home on a map — Malak Safa](src/2026-05/20260512-drawing-home-on-a-map-malak-safa.md)
+- [Roole Map ajoute les signalements communautaires](src/2026-05/20260509-roole-map-signalements-communautaires.md)
+- [Mapping the Ocean with Autonomous Sensors](src/2026-05/20260508-apeiron-labs-maps-ocean-with-autonomous-sensors.md)
+- [Blue Marble and Avenza Have Merged](src/2026-05/20260508-blue-marble-and-avenza-have-merged.md)
+- [The Invisible Safety Net — How GIS Makes Construction Safer](src/2026-05/20260506-the-invisible-safety-net-how-gis-makes-construction-safer.md)
+- [Maps to Models: Evolving Towards an Agentic World](src/2026-05/20260505-maps-to-models-evolving-towards-an-agentic-world.md)
+- [NOAA Pacific Fishing Effort Mapping Project](src/2026-05/20260505-noaa-pacific-fishing-effort-mapping.md)
 - [Sharjah launches GIS and GeoAI training programme for government employees](src/2026-05/20260512-sharjah-launches-gis-and-geoai-training-program.md)
 - [Digital Twin, GEO-AI e città intelligenti: Conferenza Esri Italia 2026](src/2026-05/20260512-digital-twin-geo-ai-e-citta-intelligenti-conferenza-esri-italia-2026.md)
 
