@@ -1,4 +1,3 @@
-https://www.geoweeknews.com/news/blue-marble-and-avenza-have-merged
 https://www.automobile-magazine.fr/toute-l-actualite/article/51826-gps-cette-application-francaise-ajoute-enfin-la-fonction-qui-manquait-pour-contrer-waze
 https://news.mit.edu/2026/apeiron-labs-maps-ocean-with-autonomous-sensors-0508
 https://www.theregister.com/personal-tech/2026/05/07/tomtoms-route-planner-takes-an-unplanned-detour-into-oblivion/5234813
