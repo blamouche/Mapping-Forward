@@ -1,3 +1,6 @@
+## 0.1.756 - 2026-05-13
+- Log veille mapping empty run (repo clean/synced; Gmail label `0---veille-mapping` returned no messages; `LIST.md` stayed unchanged after scope review; no URLs added/removed; no emails trashed.)
+
 ## 0.1.754 - 2026-05-11
 - Add substack post: Maps are becoming operational public infrastructure
 
