@@ -1,4 +1,3 @@
-https://www.geoweeknews.com/blogs/in-utah-geospatial-is-a-community-sport
 https://www.openpr.com/news/4512572/middle-east-and-north-africa-geographic-information-system
 https://www.frandroid.com/android/applications/google-apps/3094843_google-maps-fait-sa-plus-grande-revolution-depuis-10-ans-des-changements-bluffants-mais-une-mauvaise-nouvelle-pour-la-france
 https://www.presse-citron.net/google-maps-fait-peau-neuve-vous-nallez-pas-le-reconnaitre/
