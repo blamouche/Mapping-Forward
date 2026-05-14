@@ -1,4 +1,3 @@
-https://www.presse-citron.net/google-maps-fait-peau-neuve-vous-nallez-pas-le-reconnaitre/
 https://www.usgs.gov/news/national-news-release/usgs-nasa-map-critical-minerals-65000-feet
 https://planet.openstreetmap.org/
 https://www.ad-hoc-news.de/boerse/news/ueberblick/tomtom-go-navigation-app-review/69324249
