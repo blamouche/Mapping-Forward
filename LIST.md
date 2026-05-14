@@ -1,4 +1,3 @@
-https://www.usgs.gov/news/national-news-release/usgs-nasa-map-critical-minerals-65000-feet
 https://planet.openstreetmap.org/
 https://www.ad-hoc-news.de/boerse/news/ueberblick/tomtom-go-navigation-app-review/69324249
 https://geospatialworld.net/videos/geospatial-hall-of-fame-2026-corinne-vigreux-harold-goddijn/
