@@ -1,4 +1,3 @@
-https://www.frandroid.com/android/applications/google-apps/3094843_google-maps-fait-sa-plus-grande-revolution-depuis-10-ans-des-changements-bluffants-mais-une-mauvaise-nouvelle-pour-la-france
 https://www.presse-citron.net/google-maps-fait-peau-neuve-vous-nallez-pas-le-reconnaitre/
 https://www.usgs.gov/news/national-news-release/usgs-nasa-map-critical-minerals-65000-feet
 https://planet.openstreetmap.org/
