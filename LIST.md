@@ -1,4 +1,3 @@
-https://planet.openstreetmap.org/
 https://www.ad-hoc-news.de/boerse/news/ueberblick/tomtom-go-navigation-app-review/69324249
 https://geospatialworld.net/videos/geospatial-hall-of-fame-2026-corinne-vigreux-harold-goddijn/
 https://www.lesnumeriques.com/mobilite-c17/adieu-google-maps-voici-3-applications-gps-gratuites-et-sans-tracking-pour-vos-trajets-sur-android-n255679.html
