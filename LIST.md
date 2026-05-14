@@ -1,0 +1,11 @@
+https://www.geoweeknews.com/blogs/in-utah-geospatial-is-a-community-sport
+https://www.openpr.com/news/4512572/middle-east-and-north-africa-geographic-information-system
+https://www.frandroid.com/android/applications/google-apps/3094843_google-maps-fait-sa-plus-grande-revolution-depuis-10-ans-des-changements-bluffants-mais-une-mauvaise-nouvelle-pour-la-france
+https://www.presse-citron.net/google-maps-fait-peau-neuve-vous-nallez-pas-le-reconnaitre/
+https://www.usgs.gov/news/national-news-release/usgs-nasa-map-critical-minerals-65000-feet
+https://planet.openstreetmap.org/
+https://www.ad-hoc-news.de/boerse/news/ueberblick/tomtom-go-navigation-app-review/69324249
+https://geospatialworld.net/videos/geospatial-hall-of-fame-2026-corinne-vigreux-harold-goddijn/
+https://www.lesnumeriques.com/mobilite-c17/adieu-google-maps-voici-3-applications-gps-gratuites-et-sans-tracking-pour-vos-trajets-sur-android-n255679.html
+https://www.lesnumeriques.com/gps/android-auto-google-vient-de-devoiler-la-mise-a-jour-la-plus-ambitieuse-de-son-histoire-n255859.html
+https://speedme.ru/fr/ampposts/id51727-google-maps-sur-carplay-accueille-gemini-l-ia-va-planifier-les-trajets-a-la-voix
