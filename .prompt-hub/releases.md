@@ -2281,5 +2281,8 @@
 ## 0.1.755 - 2026-05-12
 - Scan-list batch: 19 syntheses, 3 FETCH_ERRORs, 21 May articles total, batch recap created.
 
+## 0.1.758 - 2026-05-16
+- Add 5 cartography domain URLs from Gmail veille (2 Google Alerts: Maps + Tomtom); trash 2 processed emails.
+
 ## 0.1.757 - 2026-05-15
 - Add batch recap: 2026-05-15 163800
