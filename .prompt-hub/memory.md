@@ -216,6 +216,8 @@
 
 # Memory Log
 
+- 2026-05-15 09:50:00 CEST | agent | scan-list run: processed 6 URLs, created 6 synthesis files, 0 errors. LIST.md cleared. | Files: LIST.md, README.md, src/2026-05/20260514-*.md (6 files), synthesis/2026-05-15 - 094600 - batch recap.md | Status: success | Next: none.
+
 - 2026-05-13 04:11:00 CEST | agent | Veille mapping run: repo clean/synced; Gmail label `0---veille-mapping` returned no messages with `gog gmail messages search "label:0---veille-mapping" --max 30 --json`; `LIST.md` stayed unchanged after scope review; no URLs were added or removed; no emails were trashed. Tracking files updated for the empty scheduled run. | Files: LIST.md, .prompt-hub/todo/todo-20260513-041100-daily-veille-maps-extraire-urls-de-gmail.md, .prompt-hub/veille-run-summary.json, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: Commit and push tracking updates.
 
 - 2026-05-11 21:44:00 CEST | agent | Processed Gmail label `0---veille-mapping`: searched 48 messages, extracted candidate links, added 21 URLs to `LIST.md`, pruned 4 lower-signal or out-of-scope links during editorial cleanup, and moved 48 processed threads to trash. Updated prompt-hub tracking and prepared final summary. | Files: LIST.md, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md, .prompt-hub/veille-run-summary.json | Status: success | Metrics: messages=48, added=21, removed=4, trashed=48.
