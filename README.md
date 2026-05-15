@@ -16,7 +16,7 @@ Articles per month:
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
 2026-04 | ██████████████████████████████████████████████████ 154<br>
-2026-05 | █████████ 27<br>
+2026-05 | ███████████ 31<br>
 ## Articles
 
 ### 2026
@@ -177,7 +177,11 @@ Articles per month:
 - [New Advisory Floodplain Maps Available for Five Eastern North Carolina River Basins](src/2026-04/20260401-nc-floodplain-maps-eastern-nc-river-basins.md)
 - [Get Started with the Google Maps Geocoding API v3](src/2026-04/20260331-google-maps-geocoding-api-v3.md)
 
-#### May (27 articles)
+#### May (31 articles)
+- [10 Google Maps settings I always change to greatly improve its usability](src/2026-05/20260514-google-maps-settings-i-immediately-change.md)
+- [10 000 € de facture mobile pour 4 Go : le piège de Google Maps en voyage](src/2026-05/20260515-piege-google-maps-roaming-voyage.md)
+- [BH tem 27º pior trânsito do mundo e supera SP, diz TomTom](src/2026-05/20260515-bh-tomtom-traffic-index-27th.md)
+- [Morador de BH perde quase 1 semana por ano no trânsito](src/2026-05/20260515-morador-bh-perde-1-semana-transito-tomtom.md)
 - [A 30 m Vegetation Map for the Source Regions of the Yangtze and Yellow Rivers](src/2026-05/20260514-30m-vegetation-map-yangtze-yellow-rivers.md)
 - [Whose Map Counts in Conservation?](src/2026-05/20260514-whose-map-counts-in-conservation.md)
 - [MAPS Dialogues – A Shared Vocabulary for Military AI](src/2026-05/20260514-maps-dialogues-shared-vocabulary-military-ai.md)
