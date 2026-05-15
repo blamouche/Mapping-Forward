@@ -16,7 +16,7 @@ Articles per month:
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
 2026-04 | ██████████████████████████████████████████████████ 154<br>
-2026-05 | █████████ 25<br>
+2026-05 | █████████ 26<br>
 ## Articles
 
 ### 2026
@@ -177,7 +177,8 @@ Articles per month:
 - [New Advisory Floodplain Maps Available for Five Eastern North Carolina River Basins](src/2026-04/20260401-nc-floodplain-maps-eastern-nc-river-basins.md)
 - [Get Started with the Google Maps Geocoding API v3](src/2026-04/20260331-google-maps-geocoding-api-v3.md)
 
-#### May (25 articles)
+#### May (26 articles)
+- [Whose Map Counts in Conservation?](src/2026-05/20260514-whose-map-counts-in-conservation.md)
 - [MAPS Dialogues – A Shared Vocabulary for Military AI](src/2026-05/20260514-maps-dialogues-shared-vocabulary-military-ai.md)
 - [对话TomTom首席执行官Mike Schoofs — Gasgoo C-Talk](src/2026-05/20260514-tomtom-mike-schoofs-gascgoo-interview.md)
 - [TomTom GO Navigation App Delivers Reliable Mobile Routing](src/2026-05/20260514-tomtom-go-navigation-app-delivers-reliable-mobile-routing.md)
