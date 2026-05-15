@@ -16,7 +16,7 @@ Articles per month:
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
 2026-04 | ██████████████████████████████████████████████████ 154<br>
-2026-05 | ████████ 22<br>
+2026-05 | ████████ 23<br>
 ## Articles
 
 ### 2026
@@ -177,7 +177,8 @@ Articles per month:
 - [New Advisory Floodplain Maps Available for Five Eastern North Carolina River Basins](src/2026-04/20260401-nc-floodplain-maps-eastern-nc-river-basins.md)
 - [Get Started with the Google Maps Geocoding API v3](src/2026-04/20260331-google-maps-geocoding-api-v3.md)
 
-#### May (22 articles)
+#### May (23 articles)
+- [TomTom GO Navigation App Delivers Reliable Mobile Routing](src/2026-05/20260514-tomtom-go-navigation-app-delivers-reliable-mobile-routing.md)
 - [Google Maps prépare sa grande mue avec Gemini](src/2026-05/20260514-google-maps-prepare-sa-grande-mue-avec-gemini.md)
 - [CarPlay va avoir Gemini via Google Maps (Mac4Ever)](src/2026-05/20260512-carplay-gemini-google-maps-mac4ever.md)
 - [Apple Maps — Rome et Naples en 3D détaillé](src/2026-05/20260512-apple-maps-rome-naples-3d-detailed.md)
