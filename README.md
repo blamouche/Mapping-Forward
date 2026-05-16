@@ -177,7 +177,8 @@ Articles per month:
 - [New Advisory Floodplain Maps Available for Five Eastern North Carolina River Basins](src/2026-04/20260401-nc-floodplain-maps-eastern-nc-river-basins.md)
 - [Get Started with the Google Maps Geocoding API v3](src/2026-04/20260331-google-maps-geocoding-api-v3.md)
 
-#### May (32 articles)
+#### May (33 articles)
+- [Cloud GIS Market Trend Analysis — Emerging Advancements](src/2026-05/20260514-cloud-gis-market-trend-analysis-emerging-advancements.md)
 - [Mapping Community Knowledge: How the Gulf of Maine Research Institute Uses Story Maps](src/2026-05/20260515-mapping-community-knowledge-gulf-of-maine-research-institute-story-maps.md)
 - [10 Google Maps settings I always change to greatly improve its usability](src/2026-05/20260514-google-maps-settings-i-immediately-change.md)
 - [10 000 € de facture mobile pour 4 Go : le piège de Google Maps en voyage](src/2026-05/20260515-piege-google-maps-roaming-voyage.md)
