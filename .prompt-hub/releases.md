@@ -2289,3 +2289,6 @@
 
 ## 0.1.757 - 2026-05-15
 - Add batch recap: 2026-05-15 163800
+
+## 0.1.760 - 2026-05-16
+- Add substack post: The map is becoming a conversation
