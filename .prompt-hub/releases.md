@@ -1,3 +1,6 @@
+## 0.1.763 - 2026-05-17
+- Log scan-list empty run (repo clean/synced; LIST.md empty; no URLs processed, no batch recap created.)
+
 ## 0.1.762 - 2026-05-16
 - Log scan-list empty run (repo clean/synced; LIST.md empty; no URLs processed, no batch recap created.)
 

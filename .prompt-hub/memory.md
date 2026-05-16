@@ -216,6 +216,8 @@
 
 # Memory Log
 
+- 2026-05-17 00:01:00 CEST | agent | scan-list run: read required prompt-hub context, ran `git pull --rebase` (already up to date), and checked `LIST.md`. The queue was empty, so no URLs were processed and no batch recap was created. Tracking files updated for the empty scheduled run. | Files: LIST.md, .prompt-hub/todo/todo-20260517-000100-scan-list.md, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Next: Commit and push tracking updates.
+
 - 2026-05-16 15:01:00 CEST | agent | scan-list run: processed 4 URLs, created 4 synthesis files, 0 errors. LIST.md cleared. Batch recap created. | Files: src/2026-05/20260515-mapping-community-knowledge-gulf-of-maine-research-institute-story-maps.md, src/2026-05/20260514-cloud-gis-market-trend-analysis-emerging-advancements.md, src/2026-05/20260514-geoai-qgis-integrazione-ai-flussi-gis-operativi.md, src/2026-05/20260515-google-maps-revolutionne-navigation-recap-survoltes.md, README.md, LIST.md, synthesis/2026-05-16 - 150100 - batch recap.md | Status: success | Next: none.
 
 - 2026-05-16 00:10:00 CEST | agent | Veille mapping run: repo clean/synced; Gmail label `0---veille-mapping` returned no messages with `gog gmail messages search "label:0---veille-mapping" --max 50 --json`; `LIST.md` was already empty after scope review; no URLs added/removed; no emails trashed. Tracking files updated for empty scheduled run. | Files: LIST.md, .prompt-hub/todo/todo-20260516-001000-daily-veille-maps-extraire-urls-de-gmail.md, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/version.md | Status: success | Metrics: messages=0, added=0, removed=0, trashed=0. | Next: Commit and push tracking updates.
