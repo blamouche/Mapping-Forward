@@ -6,7 +6,7 @@
 3. [x] Craft title and subtitle, write 1500-2000 word article
 4. [x] Save to substack/YYYYMMDD-post-slug.md + copy to substack/latest.md
 5. [x] Update prompt-hub tracking, commit & push
-6. [ ] Send confirmation summary to channel
+6. [x] Send confirmation summary to channel
 
 ## Review
 - Article: "The map is becoming a conversation" (~2000 words body)
