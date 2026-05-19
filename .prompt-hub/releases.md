@@ -1,3 +1,6 @@
+## 0.1.764 - 2026-05-19
+- Add substack post: The map is no longer one product
+
 ## 0.1.763 - 2026-05-17
 - Log scan-list empty run (repo clean/synced; LIST.md empty; no URLs processed, no batch recap created.)
 
