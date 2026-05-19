@@ -177,7 +177,8 @@ Articles per month:
 - [New Advisory Floodplain Maps Available for Five Eastern North Carolina River Basins](src/2026-04/20260401-nc-floodplain-maps-eastern-nc-river-basins.md)
 - [Get Started with the Google Maps Geocoding API v3](src/2026-04/20260331-google-maps-geocoding-api-v3.md)
 
-#### May (36 articles)
+#### May (37 articles)
+- [Court denies Virginia's request to reinstate congressional map that would benefit Democrats](src/2026-05/20260515-court-denies-virginia-request-reinstate-congressional-map.md)
 - [Supreme Court is death knell for Virginia's Democratic-friendly congressional map](src/2026-05/20260515-supreme-court-virginia-democratic-congressional-map.md)
 - [Google Maps révolutionne sa navigation — Récap' Survoltés](src/2026-05/20260515-google-maps-revolutionne-navigation-recap-survoltes.md)
 - [GEOAI e QGIS: integrazione dell'AI nei flussi GIS operativi](src/2026-05/20260514-geoai-qgis-integrazione-ai-flussi-gis-operativi.md)
