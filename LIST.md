@@ -1,4 +1,3 @@
-https://www.autoevolution.com/news/google-maps-is-getting-an-insane-navigation-feature-that-ll-never-launch-on-android-auto-270087.html
 https://www.autoplus.fr/actualite/google-maps-pourrait-beneficier-dune-importante-mise-a-jour-sur-apple-carplay-grace-a-lia-1443369.html
 https://www.iqair.com/fr/newsroom/wildfire-map-spotlight-seven-cabins-fire-new-mexico
 https://www.iqair.com/fr/newsroom/wildfire-map-spotlight-southwest-kansas-wildfires
