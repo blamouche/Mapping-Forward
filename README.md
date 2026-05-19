@@ -177,7 +177,8 @@ Articles per month:
 - [New Advisory Floodplain Maps Available for Five Eastern North Carolina River Basins](src/2026-04/20260401-nc-floodplain-maps-eastern-nc-river-basins.md)
 - [Get Started with the Google Maps Geocoding API v3](src/2026-04/20260331-google-maps-geocoding-api-v3.md)
 
-#### May (43 articles)
+#### May (44 articles)
+- [HERE Technologies Unveils Location Reasoning for AI Decisions](src/2026-05/20260519-here-location-reasoning-geospatial-grounding-ai.md)
 - [TomTom Traffic Index 2025 Analysis: London, New York, Tokyo Congestion Trends](src/2026-05/20260518-tomtom-traffic-index-2025-world-cities-analysis.md)
 - [Recife Is Brazil's Most Congested Capital City, TomTom Study Finds](src/2026-05/20260517-recife-brazil-most-congested-capital-tomtom.md)
 - [TomTom GO Navigation als App: Offline-Routen bequem planen](src/2026-05/20260516-tomtom-go-navigation-app-offline-routen-planen.md)

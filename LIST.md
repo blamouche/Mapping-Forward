@@ -1,4 +1,3 @@
-https://markets.businessinsider.com/news/stocks/here-technologies-unveils-location-reasoning-redefining-geospatial-grounding-for-real-world-ai-decisions-1036175131
 https://reliefweb.int/map/democratic-republic-congo/republique-democratique-du-congo-sud-kivu-zone-sanitaire-kelehe-carte-de-reference-sanitaire-17-fevrier-2026
 https://tecnoblog.net/arquivo/here-maps-android-beta-samsung/
 https://www.ad-hoc-news.de/boerse/news/ueberblick/tomtom-go-navigation-app-for-smarter-offline-gps/69356943
