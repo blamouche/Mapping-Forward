@@ -1,4 +1,3 @@
-https://autoprove.net/supplier_news/tomtom/254526/
 https://autoranking.com.br/recife-e-a-capital-com-transito-mais-congestionamento-do-brasil-aponta-estudo/
 https://markets.businessinsider.com/news/stocks/here-technologies-unveils-location-reasoning-redefining-geospatial-grounding-for-real-world-ai-decisions-1036175131
 https://reliefweb.int/map/democratic-republic-congo/republique-democratique-du-congo-sud-kivu-zone-sanitaire-kelehe-carte-de-reference-sanitaire-17-fevrier-2026
