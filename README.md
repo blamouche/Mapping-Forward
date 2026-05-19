@@ -177,7 +177,8 @@ Articles per month:
 - [New Advisory Floodplain Maps Available for Five Eastern North Carolina River Basins](src/2026-04/20260401-nc-floodplain-maps-eastern-nc-river-basins.md)
 - [Get Started with the Google Maps Geocoding API v3](src/2026-04/20260331-google-maps-geocoding-api-v3.md)
 
-#### May (38 articles)
+#### May (39 articles)
+- [Gerrymandering mania](src/2026-05/20260515-gerrymandering-mania.md)
 - [Supreme Court rejects bid to restore Virginia congressional map favoring Democrats](src/2026-05/20260515-supreme-court-rejects-bid-restore-virginia-congressional-map.md)
 - [Court denies Virginia's request to reinstate congressional map that would benefit Democrats](src/2026-05/20260515-court-denies-virginia-request-reinstate-congressional-map.md)
 - [Supreme Court is death knell for Virginia's Democratic-friendly congressional map](src/2026-05/20260515-supreme-court-virginia-democratic-congressional-map.md)
