@@ -1,3 +1,6 @@
+## 0.1.766 - 2026-05-19
+- Add substack post: One Week, Five Maps, Zero Consensus
+
 ## 0.1.765 - 2026-05-19
 - Add batch recap: 2026-05-19 150100
 
