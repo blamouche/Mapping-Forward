@@ -177,8 +177,9 @@ Articles per month:
 - [New Advisory Floodplain Maps Available for Five Eastern North Carolina River Basins](src/2026-04/20260401-nc-floodplain-maps-eastern-nc-river-basins.md)
 - [Get Started with the Google Maps Geocoding API v3](src/2026-04/20260331-google-maps-geocoding-api-v3.md)
 
-#### May (47 articles)
+#### May (48 articles)
 - [HERE Technologies Unveils Location Reasoning for AI Decisions](src/2026-05/20260519-here-location-reasoning-geospatial-grounding-ai.md)
+- [The DMA's Google Maps Experiment Shows Competition Is Not One Click Away](src/2026-05/20260518-dma-google-maps-experiment-competition.md)
 - [Google Maps Could Get Major AI Update via Gemini on Apple CarPlay](src/2026-05/20260518-google-maps-gemini-ai-apple-carplay.md)
 - [TomTom Traffic Index 2025 Analysis: London, New York, Tokyo Congestion Trends](src/2026-05/20260518-tomtom-traffic-index-2025-world-cities-analysis.md)
 - [Google Maps Redesign on Android Auto: Material 3, 3D Nav & Gemini](src/2026-05/20260517-google-maps-redesign-android-auto-material3-gemini.md)
