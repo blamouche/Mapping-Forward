@@ -9,7 +9,7 @@
 - [x] Save to substack/20260519-post-the-map-is-no-longer-one-product.md
 - [x] Copy to substack/latest.md
 - [x] Update prompt-hub tracking (memory, version, releases)
-- [ ] Commit and push
+- [x] Commit and push
 
 ## Notes
 - Theme: Roole Map community reporting (4 articles), TomTom global infrastructure (China expansion, traffic index), Google Maps evolution (Android Auto UX, bus tracking), national/space mapping (ISRO, NISAR), open data alternatives (OpenTrafficMap)
