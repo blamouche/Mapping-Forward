@@ -177,7 +177,8 @@ Articles per month:
 - [New Advisory Floodplain Maps Available for Five Eastern North Carolina River Basins](src/2026-04/20260401-nc-floodplain-maps-eastern-nc-river-basins.md)
 - [Get Started with the Google Maps Geocoding API v3](src/2026-04/20260331-google-maps-geocoding-api-v3.md)
 
-#### May (40 articles)
+#### May (41 articles)
+- [TomTom GO Navigation als App: Offline-Routen bequem planen](src/2026-05/20260516-tomtom-go-navigation-app-offline-routen-planen.md)
 - [TomTom Traffic Index 2025年度版：世界の交通トレンドと通勤行動を分析](src/2026-05/20260516-tomtom-traffic-index-2025-japan-briefing.md)
 - [Gerrymandering mania](src/2026-05/20260515-gerrymandering-mania.md)
 - [Supreme Court rejects bid to restore Virginia congressional map favoring Democrats](src/2026-05/20260515-supreme-court-rejects-bid-restore-virginia-congressional-map.md)
