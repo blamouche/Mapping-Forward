@@ -1,3 +1,6 @@
+## 0.1.765 - 2026-05-19
+- Add batch recap: 2026-05-19 150100
+
 ## 0.1.764 - 2026-05-19
 - Add substack post: The map is no longer one product
 
