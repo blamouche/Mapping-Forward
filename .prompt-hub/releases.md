@@ -2313,3 +2313,5 @@
 
 ## 0.1.767 - 2026-05-20
 - Prune 9 out-of-scope URLs from LIST.md and log veille mapping run (1 Gmail alert processed, 0 new URLs added, 1 email trashed).
+## 0.1.768 - 2026-05-20
+- Daily veille mapping: empty run (0 Gmail messages, 0 URLs added/removed)
