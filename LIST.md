@@ -1,0 +1,17 @@
+https://india.mongabay.com/2026/05/how-map-scales-impact-coastal-communities/
+https://searchengineland.com/google-ask-maps-optimize-visibility-478060
+https://www.usgs.gov/publications/precipitation-based-flood-inundation-maps-east-fork-little-blue-river-and-tributaries
+https://www.gim-international.com/content/news/google-maps-platform-adds-earth-ai-powered-aerial-and-satellite-insights
+https://www.bgs.ac.uk/news/new-geological-maps-of-berwick-upon-tweed-to-help-future-proof-natural-water-supply/
+https://www.presse-citron.net/cest-inutile-pourquoi-waze-et-google-maps-ne-vous-donnent-plus-les-trajets-les-plus-rapides/
+https://www.nytimes.com/2026/05/20/us/politics/south-carolina-redistricting-map-clyburn.html
+https://digitalsky.aai.aero/airspace-map/
+https://autonews.gasgoo.com/articles/news/c-talk-mike-schoofs-tomtom-ceo-from-maps-to-location-intelligence-tomtom-navigates-the-next-frontier-of-ai-defined-mobility-2056569555097411585
+https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-leo-sei-tom-tom-tom-tom-l-ia-au-c-ur-de-la-nouvelle-generation-de-cartes-19-05_VN-202605190921.html
+https://actu.orange.fr/videos/economie/leo-sei-tomtom-tomtom-l-ia-au-c-ur-de-la-nouvelle-generation-de-cartes-19-05-CNT000002pruhL.html
+https://chejiahao.autohome.com.cn/info/25525957
+https://www.carz.com.my/2026/05/254000-cars-sold-so-far-in-2026-a-look-at-which-malaysian-states-are-freezing-in-traffic
+https://www.mobilize.org.br/noticias/14604/brasil-o-quarto-pior-transito-da-america-do-sul.html
+https://fr.themedialeader.com/google-i-o-2026-gemini-partout-ask-youtube-ask-maps-et-900-millions-dutilisateurs/
+https://vu-magazine.com/blog/keynote-google-2026-lia-transforme-android-search-et-maps-
+https://speedme.ru/fr/posts/id53681-google-maps-affiche-des-publicites-pop-up-pendant-la-navigation-android-auto-les-conducteurs-s-agacent
