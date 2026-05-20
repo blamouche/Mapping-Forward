@@ -2315,3 +2315,6 @@
 - Prune 9 out-of-scope URLs from LIST.md and log veille mapping run (1 Gmail alert processed, 0 new URLs added, 1 email trashed).
 ## 0.1.768 - 2026-05-20
 - Daily veille mapping: empty run (0 Gmail messages, 0 URLs added/removed)
+
+## 0.1.769 - 2026-05-20
+- Log scan-list empty run (`git pull --rebase` up to date; `LIST.md` empty at 2026-05-20 12:01 CEST; no URLs processed; no batch recap created.)
