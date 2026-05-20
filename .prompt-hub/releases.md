@@ -2310,3 +2310,6 @@
 
 ## 0.1.760 - 2026-05-16
 - Add substack post: The map is becoming a conversation
+
+## 0.1.767 - 2026-05-20
+- Prune 9 out-of-scope URLs from LIST.md and log veille mapping run (1 Gmail alert processed, 0 new URLs added, 1 email trashed).

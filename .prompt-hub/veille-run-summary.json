@@ -1,8 +1,1 @@
-{
-  "timestamp": "2026-05-13T04:11:00+02:00",
-  "messagesProcessed": 0,
-  "urlsAdded": 0,
-  "urlsRemoved": 0,
-  "emailsTrashed": 0,
-  "notes": "Repo clean/synced; Gmail label 0---veille-mapping returned no messages; LIST.md unchanged; no emails to trash."
-}
+{"date":"2026-05-20","time":"02:06 CEST","messages":1,"candidates":10,"added":0,"removed":9,"trashed":1,"status":"success"}
