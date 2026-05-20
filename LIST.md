@@ -1,12 +1,3 @@
 https://www.itsinternational.com/daily-news/its-america-2026/tomtom-brings-intelligent-location-tech-motor-city
 https://www.ad-hoc-news.de/boerse/news/ueberblick/tomtom-go-navigation-for-us-drivers-offline-maps-and-traffic/69374003
-https://news.yahoo.co.jp/articles/5394ed74e489a5827083dadfa381dada5ecdfe87?page=1
-https://monoist.itmedia.co.jp/mn/articles/2605/19/news051.html
 https://www.ad-hoc-news.de/boerse/news/ueberblick/tomtom-go-navigation-als-app-moderne-routenplanung-im-detail/69372095
-https://ricardoantunes.net/transito-do-recife-volta-a-ser-o-pior-entre-as-capitais-do-pais/
-https://www.scientificamerican.com/article/new-high-resolution-map-transforms-what-we-know-about-roman-roads-and-the-roman-empire/
-https://www.lesnumeriques.com/intelligence-artificielle/apres-maps-google-s-attaque-a-youtube-pour-y-integrer-gemini-n256157.html
-https://www.aljazeera.com/news/longform/2026/5/19/how-the-shape-of-a-map-can-determine-the-us-midterm-elections
-https://india.mongabay.com/2026/05/what-a-coastal-zoning-map-leaves-out-explained-through-maps/
-https://earth.org/redistributing-life-how-climate-change-is-redrawing-the-map-of-species-migration/
-https://www.arte.tv/en/videos/125533-024-A/mapping-the-world/
