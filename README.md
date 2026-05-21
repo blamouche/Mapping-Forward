@@ -16,7 +16,7 @@ Articles per month:
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
 2026-04 | ██████████████████████████████████████████████████ 154<br>
-2026-05 | ██████████████████████████████ 72<br>
+2026-05 | █████████████████████████████ 73<br>
 ## Articles
 
 ### 2026
@@ -177,7 +177,8 @@ Articles per month:
 - [New Advisory Floodplain Maps Available for Five Eastern North Carolina River Basins](src/2026-04/20260401-nc-floodplain-maps-eastern-nc-river-basins.md)
 - [Get Started with the Google Maps Geocoding API v3](src/2026-04/20260331-google-maps-geocoding-api-v3.md)
 
-#### May (72 articles)
+#### May (73 articles)
+- [Why Interoperability Remains a Bottleneck in Geospatial Technology](src/2026-05/20260520-why-interoperability-remains-a-bottleneck-in-geospatial-technology.md)
 - [Google Maps affiche des publicités pop-up pendant la navigation Android Auto, les conducteurs s'agacent](src/2026-05/20260520-google-maps-popup-ads-android-auto.md)
 - [Keynote Google 2026 : l'IA transforme Android, Search et Maps](src/2026-05/20260520-keynote-google-2026-ia-transforme-maps.md)
 - [Google I/O 2026 : Gemini partout, Ask YouTube, Ask Maps et 900 millions d'utilisateurs](src/2026-05/20260520-google-io-2026-gemini-ask-maps.md)
