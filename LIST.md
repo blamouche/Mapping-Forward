@@ -8,10 +8,7 @@ https://www.nytimes.com/2026/05/20/us/politics/south-carolina-redistricting-map-
 https://digitalsky.aai.aero/airspace-map/
 https://autonews.gasgoo.com/articles/news/c-talk-mike-schoofs-tomtom-ceo-from-maps-to-location-intelligence-tomtom-navigates-the-next-frontier-of-ai-defined-mobility-2056569555097411585
 https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-leo-sei-tom-tom-tom-tom-l-ia-au-c-ur-de-la-nouvelle-generation-de-cartes-19-05_VN-202605190921.html
-https://actu.orange.fr/videos/economie/leo-sei-tomtom-tomtom-l-ia-au-c-ur-de-la-nouvelle-generation-de-cartes-19-05-CNT000002pruhL.html
 https://chejiahao.autohome.com.cn/info/25525957
-https://www.carz.com.my/2026/05/254000-cars-sold-so-far-in-2026-a-look-at-which-malaysian-states-are-freezing-in-traffic
-https://www.mobilize.org.br/noticias/14604/brasil-o-quarto-pior-transito-da-america-do-sul.html
 https://fr.themedialeader.com/google-i-o-2026-gemini-partout-ask-youtube-ask-maps-et-900-millions-dutilisateurs/
 https://vu-magazine.com/blog/keynote-google-2026-lia-transforme-android-search-et-maps-
 https://speedme.ru/fr/posts/id53681-google-maps-affiche-des-publicites-pop-up-pendant-la-navigation-android-auto-les-conducteurs-s-agacent
