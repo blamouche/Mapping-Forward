@@ -1,3 +1,6 @@
+## 0.1.773 - 2026-05-21
+- Add batch recap: 2026-05-21 150100
+
 ## 0.1.772 - 2026-05-21
 - Daily veille mapping: empty run (0 Gmail messages, 0 URLs added/removed, 2 existing URLs kept in scope)
 
