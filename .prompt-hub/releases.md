@@ -1,3 +1,6 @@
+## 0.1.771 - 2026-05-21
+- Add substack post: The map as a transaction surface
+
 ## 0.1.770 - 2026-05-21
 - Add batch recap: 2026-05-21 030000
 
