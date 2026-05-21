@@ -1,5 +1,3 @@
-https://india.mongabay.com/2026/05/how-map-scales-impact-coastal-communities/
-https://searchengineland.com/google-ask-maps-optimize-visibility-478060
 https://www.usgs.gov/publications/precipitation-based-flood-inundation-maps-east-fork-little-blue-river-and-tributaries
 https://www.gim-international.com/content/news/google-maps-platform-adds-earth-ai-powered-aerial-and-satellite-insights
 https://www.bgs.ac.uk/news/new-geological-maps-of-berwick-upon-tweed-to-help-future-proof-natural-water-supply/
