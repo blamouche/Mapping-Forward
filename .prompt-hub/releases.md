@@ -1,3 +1,6 @@
+## 0.1.772 - 2026-05-21
+- Daily veille mapping: empty run (0 Gmail messages, 0 URLs added/removed, 2 existing URLs kept in scope)
+
 ## 0.1.771 - 2026-05-21
 - Add substack post: The map as a transaction surface
 
