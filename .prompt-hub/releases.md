@@ -1,3 +1,6 @@
+## 0.1.774 - 2026-05-25
+- Add batch recap: 2026-05-25 060140 (13 syntheses, 4 FETCH_ERRORs)
+
 ## 0.1.773 - 2026-05-21
 - Add batch recap: 2026-05-21 150100
 
