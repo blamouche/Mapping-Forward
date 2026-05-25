@@ -2337,6 +2337,9 @@
 ## 0.1.775 - 2026-05-25
 - Daily veille mapping: empty run (0 Gmail messages, 0 URLs added/removed)
 
+## 0.1.778 - 2026-05-25
+- Daily veille mapping: empty run (0 Gmail messages, 0 URLs added/removed, 0 emails trashed; repo clean, LIST.md already empty after earlier scan-list)
+
 ## 0.1.777 - 2026-05-25
 - Daily veille mapping: empty run (0 Gmail messages, 0 URLs added/removed, 0 emails trashed; repo clean, LIST.md already empty)
 
