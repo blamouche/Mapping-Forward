@@ -16,7 +16,7 @@ Articles per month:
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
 2026-04 | ██████████████████████████████████████████████████ 154<br>
-2026-05 | ████████████████████████████ 82<br>
+2026-05 | ████████████████████████████ 84<br>
 ## Articles
 
 ### 2026
@@ -177,7 +177,9 @@ Articles per month:
 - [New Advisory Floodplain Maps Available for Five Eastern North Carolina River Basins](src/2026-04/20260401-nc-floodplain-maps-eastern-nc-river-basins.md)
 - [Get Started with the Google Maps Geocoding API v3](src/2026-04/20260331-google-maps-geocoding-api-v3.md)
 
-#### May (82 articles)
+#### May (84 articles)
+- [Mapping Ebola's Spread in a Vulnerable Region](src/2026-05/20260522-mapping-ebola-spread-congo.md)
+- [TomTom erweitert seinen bildschirmfreien Fahrbegleiter "Tom"](src/2026-05/20260522-tomtom-screen-free-driving-companion-tom.md)
 - [Android Auto breaks Google Maps on your smartwatch, and Google has known for years](src/2026-05/20260523-android-auto-breaks-google-maps-wear-os.md)
 - [TomTom GO Navigation als App: Offline-Routen für Motorrad und Auto](src/2026-05/20260523-tomtom-go-navigation-offline-app.md)
 - [Maps as Infrastructure, Navigation as Interface: Key Takeaways from Mapbox at The Next Geo 2026](src/2026-05/20260523-mapbox-maps-as-infrastructure-next-geo-2026.md)
