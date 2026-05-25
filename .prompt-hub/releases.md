@@ -2333,3 +2333,6 @@
 
 ## 0.1.769 - 2026-05-20
 - Log scan-list empty run (`git pull --rebase` up to date; `LIST.md` empty at 2026-05-20 12:01 CEST; no URLs processed; no batch recap created.)
+
+## 0.1.775 - 2026-05-25
+- Daily veille mapping: empty run (0 Gmail messages, 0 URLs added/removed)
