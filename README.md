@@ -16,7 +16,7 @@ Articles per month:
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
 2026-04 | ██████████████████████████████████████████████████ 154<br>
-2026-05 | █████████████████████████████ 75<br>
+2026-05 | ██████████████████████████ 76<br>
 ## Articles
 
 ### 2026
@@ -177,7 +177,8 @@ Articles per month:
 - [New Advisory Floodplain Maps Available for Five Eastern North Carolina River Basins](src/2026-04/20260401-nc-floodplain-maps-eastern-nc-river-basins.md)
 - [Get Started with the Google Maps Geocoding API v3](src/2026-04/20260331-google-maps-geocoding-api-v3.md)
 
-#### May (75 articles)
+#### May (76 articles)
+- [Huawei će na novim telefonima umjesto Google Mapa koristiti TomTom mape](src/2026-05/20200121-huawei-tomtom-google-maps-replacement.md)
 - [Africa: Soil Mapping for Resilient Agrifood Systems (SoilFER) programme scales up soil fertility monitoring through Mid-Infrared Spectroscopy](src/2026-05/20260522-soilfer-mir-spectroscopy-soil-mapping.md)
 - [Como o SuperMap está transformando a análise urbana com GIS 3D e Digital Twin](src/2026-05/20260520-como-o-supermap-esta-transformando-a-analise-urbana-com-gis-3d-e-digital-twin.md)
 - [Why Interoperability Remains a Bottleneck in Geospatial Technology](src/2026-05/20260520-why-interoperability-remains-a-bottleneck-in-geospatial-technology.md)

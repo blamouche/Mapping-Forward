@@ -1,4 +1,3 @@
-https://bljesak.info/magazin/tehnologija/huawei-ce-na-novim-telefonima-umjesto-google-mapsa-koristiti-tomtom-mape/299119/galerija/299119
 https://blogs.mediapart.fr/romain-mejean/blog/220526/de-marioupol-gaza-google-maps-et-la-memoire-des-lieux-meurtris-par-la-guerre
 https://edition.cnn.com/health/maps-ebola-charts-vis
 https://geoawesome.com/maps-as-infrastructure-navigation-as-interface-key-takeaways-from-mapbox-at-the-next-geo-2026/
