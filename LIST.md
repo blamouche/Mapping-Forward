@@ -1,5 +1,3 @@
-https://www.mdpi.com/2220-9964/15/5/227
-https://m.ebiotrade.com/newsf/2026-5/20260520200711597.htm
 https://africa24tv.com/africa-soil-mapping-for-resilient-agrifood-systems-soilfer-programme-scales-up-soil-fertility-monitoring-through-mid-infrared-spectroscopy/
 https://atlantico.fr/article/decryptage/le-plus-meurtrier-par-pays-moustiques-contre-humains-monde-planete-piqures-insectes-maladies-paludisme-Nigeria-rdc-Burkina-Afrique-Europe-Asie-Etats-Unis
 https://atlantico.fr/article/decryptage/limmigrant-le-plus-courant-en-italie
