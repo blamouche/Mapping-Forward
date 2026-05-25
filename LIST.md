@@ -1,4 +1,3 @@
-https://blogs.mediapart.fr/romain-mejean/blog/220526/de-marioupol-gaza-google-maps-et-la-memoire-des-lieux-meurtris-par-la-guerre
 https://edition.cnn.com/health/maps-ebola-charts-vis
 https://geoawesome.com/maps-as-infrastructure-navigation-as-interface-key-takeaways-from-mapbox-at-the-next-geo-2026/
 https://reliefweb.int/updates?advanced-search=%28PC55%29&list=Chad%20Updates%20%28Maps%20/%20Infographics%29&view=maps&page=6
