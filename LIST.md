@@ -1,5 +1,3 @@
-https://reliefweb.int/map/democratic-republic-congo/republique-democratique-du-congo-province-de-ituri-presence-msf-et-structures-sanitaires-mai-2026
-https://larevuetech.fr/the-6-fleet-tracking-platforms-that-matter-in-2026-from-ai-dashcams-to-predictive-maintenance/
 https://www.mdpi.com/2220-9964/15/5/227
 https://m.ebiotrade.com/newsf/2026-5/20260520200711597.htm
 https://africa24tv.com/africa-soil-mapping-for-resilient-agrifood-systems-soilfer-programme-scales-up-soil-fertility-monitoring-through-mid-infrared-spectroscopy/
