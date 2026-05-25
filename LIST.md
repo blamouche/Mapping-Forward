@@ -1,5 +1,3 @@
-https://edition.cnn.com/health/maps-ebola-charts-vis
-https://geoawesome.com/maps-as-infrastructure-navigation-as-interface-key-takeaways-from-mapbox-at-the-next-geo-2026/
 https://reliefweb.int/updates?advanced-search=%28PC55%29&list=Chad%20Updates%20%28Maps%20/%20Infographics%29&view=maps&page=6
 https://www.ad-hoc-news.de/boerse/news/ueberblick/tomtom-go-navigation-als-app-offline-routen-fuer-motorrad-und-auto/69408743
 https://www.esri.com/arcgis-blog/products/bus-analyst/mapping/compare-and-contrast-map-points-of-interest-poi-in-arcgis-business-analyst
