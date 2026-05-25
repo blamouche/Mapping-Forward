@@ -1,6 +1,3 @@
-https://www.eurekalert.org/news-releases/1129319
-https://www.futura-sciences.com/en/these-new-martian-maps-could-change-everything-we-know-about-living-on-mars_32440/
-https://www.howtogeek.com/android-auto-breaks-google-maps-on-your-smartwatch-and-google-has-known-for-years/
 https://www.iphone-ticker.de/tom-tomtom-erweitert-seinen-bildschirmfreien-fahrbegleiter-278428/
 https://www.ncsl.org/redistricting-and-census/changing-the-maps-tracking-mid-decade-redistricting
 https://www.nytimes.com/interactive/2026/05/22/world/africa/ebola-outbreak-congo-map.html
