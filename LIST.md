@@ -1,6 +1,3 @@
-https://reliefweb.int/updates?advanced-search=%28PC55%29&list=Chad%20Updates%20%28Maps%20/%20Infographics%29&view=maps&page=6
-https://www.ad-hoc-news.de/boerse/news/ueberblick/tomtom-go-navigation-als-app-offline-routen-fuer-motorrad-und-auto/69408743
-https://www.esri.com/arcgis-blog/products/bus-analyst/mapping/compare-and-contrast-map-points-of-interest-poi-in-arcgis-business-analyst
 https://www.eurekalert.org/news-releases/1129319
 https://www.futura-sciences.com/en/these-new-martian-maps-could-change-everything-we-know-about-living-on-mars_32440/
 https://www.howtogeek.com/android-auto-breaks-google-maps-on-your-smartwatch-and-google-has-known-for-years/

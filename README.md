@@ -16,7 +16,7 @@ Articles per month:
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
 2026-04 | ██████████████████████████████████████████████████ 154<br>
-2026-05 | ██████████████████████████ 78<br>
+2026-05 | ██████████████████████████ 79<br>
 ## Articles
 
 ### 2026
@@ -177,7 +177,8 @@ Articles per month:
 - [New Advisory Floodplain Maps Available for Five Eastern North Carolina River Basins](src/2026-04/20260401-nc-floodplain-maps-eastern-nc-river-basins.md)
 - [Get Started with the Google Maps Geocoding API v3](src/2026-04/20260331-google-maps-geocoding-api-v3.md)
 
-#### May (78 articles)
+#### May (79 articles)
+- [TomTom GO Navigation als App: Offline-Routen für Motorrad und Auto](src/2026-05/20260523-tomtom-go-navigation-offline-app.md)
 - [Maps as Infrastructure, Navigation as Interface: Key Takeaways from Mapbox at The Next Geo 2026](src/2026-05/20260523-mapbox-maps-as-infrastructure-next-geo-2026.md)
 - [De Marioupol à Gaza : Google Maps et la mémoire des lieux meurtris par la guerre](src/2026-05/20260522-marioupol-gaza-google-maps-memoire-guerre.md)
 - [Huawei će na novim telefonima umjesto Google Mapa koristiti TomTom mape](src/2026-05/20200121-huawei-tomtom-google-maps-replacement.md)
