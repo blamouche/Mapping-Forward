@@ -2346,5 +2346,8 @@
 ## 0.1.776 - 2026-05-25
 - Daily veille mapping: empty run (0 Gmail messages, 0 URLs added/removed, 0 emails trashed; LIST.md already empty after earlier scan-list)
 
+## 0.1.780 - 2026-05-26
+- Add substack post: The map is not neutral
+
 ## 0.1.779 - 2026-05-25
 - Daily veille mapping: empty run (0 Gmail messages, 0 URLs added/removed, 0 emails trashed; repo clean, LIST.md already empty)
