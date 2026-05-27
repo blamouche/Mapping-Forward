@@ -2352,5 +2352,8 @@
 ## 0.1.779 - 2026-05-25
 - Daily veille mapping: empty run (0 Gmail messages, 0 URLs added/removed, 0 emails trashed; repo clean, LIST.md already empty)
 
+## 0.1.782 - 2026-05-27
+- Daily veille mapping: empty run (0 Gmail messages, 0 URLs added/removed, 0 emails trashed; repo clean, LIST.md already empty)
+
 ## 0.1.781 - 2026-05-26
 - Add batch recap: 2026-05-26 071200 (0 syntheses, 6 FETCH_ERRORs)
