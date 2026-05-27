@@ -16,7 +16,7 @@ Articles per month:
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
 2026-04 | ██████████████████████████████████████████████████ 154<br>
-2026-05 | █████████████████████████████ 87<br>
+2026-05 | ████████████████████████████████ 94<br>
 ## Articles
 
 ### 2026
@@ -177,7 +177,9 @@ Articles per month:
 - [New Advisory Floodplain Maps Available for Five Eastern North Carolina River Basins](src/2026-04/20260401-nc-floodplain-maps-eastern-nc-river-basins.md)
 - [Get Started with the Google Maps Geocoding API v3](src/2026-04/20260331-google-maps-geocoding-api-v3.md)
 
-#### May (92 articles)
+#### May (94 articles)
+- [Building the Geospatial Pipeline: Lessons from the Field](src/2026-05/20260526-building-the-geospatial-pipeline-lessons-from-the-field.md)
+- [Geo Week Seeks Impactful Presentations; Accepting Speaker Submissions Through July 17](src/2026-05/20260526-geo-week-seeks-impactful-presentations-speaker-submissions.md)
 - [Mapping the Hidden Electrical Anatomy of a Continent](src/2026-05/20260526-mapping-the-hidden-electrical-anatomy-of-a-continent.md)
 - [Map: 6.9-Magnitude Earthquake Shakes Chile](src/2026-05/20260525-map-69-magnitude-earthquake-shakes-chile.md)
 - [Outdoor high-precision 3D dense mapping system based on stereo visual SLAM](src/2026-05/20260525-outdoor-high-precision-3d-dense-mapping-system-based-on-stereo-visual-slam.md)
