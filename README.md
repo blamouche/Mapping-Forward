@@ -177,7 +177,8 @@ Articles per month:
 - [New Advisory Floodplain Maps Available for Five Eastern North Carolina River Basins](src/2026-04/20260401-nc-floodplain-maps-eastern-nc-river-basins.md)
 - [Get Started with the Google Maps Geocoding API v3](src/2026-04/20260331-google-maps-geocoding-api-v3.md)
 
-#### May (89 articles)
+#### May (90 articles)
+- [Outdoor high-precision 3D dense mapping system based on stereo visual SLAM](src/2026-05/20260525-outdoor-high-precision-3d-dense-mapping-system-based-on-stereo-visual-slam.md)
 - [Developer's Lounge: Over 50 Ways to Style a Map with One Service](src/2026-05/20260526-developers-lounge-over-50-ways-to-style-a-map-with-one-service.md)
 - [De Marioupol à Gaza : Google Maps et la mémoire des lieux meurtris par la guerre](src/2026-05/20260526-de-marioupol-a-gaza-google-maps-et-la-memoire-des-lieux-meurtris-par-la-guerre.md)
 - [Aqua Map Chart Viewer, cartes marines gratuites en ligne](src/2026-05/20260523-aqua-map-chart-viewer-marine-gratuit.md)
