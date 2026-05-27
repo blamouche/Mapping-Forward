@@ -1,3 +1,6 @@
+## 0.1.784 - 2026-05-27
+- Add batch recap: 2026-05-27 150100 (2 syntheses: Building the Geospatial Pipeline + Geo Week Call for Speakers)
+
 ## 0.1.774 - 2026-05-25
 - Add batch recap: 2026-05-25 060140 (13 syntheses, 4 FETCH_ERRORs)
 
