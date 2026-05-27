@@ -177,7 +177,8 @@ Articles per month:
 - [New Advisory Floodplain Maps Available for Five Eastern North Carolina River Basins](src/2026-04/20260401-nc-floodplain-maps-eastern-nc-river-basins.md)
 - [Get Started with the Google Maps Geocoding API v3](src/2026-04/20260331-google-maps-geocoding-api-v3.md)
 
-#### May (87 articles)
+#### May (88 articles)
+- [De Marioupol à Gaza : Google Maps et la mémoire des lieux meurtris par la guerre](src/2026-05/20260526-de-marioupol-a-gaza-google-maps-et-la-memoire-des-lieux-meurtris-par-la-guerre.md)
 - [Aqua Map Chart Viewer, cartes marines gratuites en ligne](src/2026-05/20260523-aqua-map-chart-viewer-marine-gratuit.md)
 - [Mapping Ebola's Spread in a Vulnerable Region](src/2026-05/20260522-mapping-ebola-spread-congo.md)
 - [Le ministère du Numérique entend exiger aux fournisseurs commerciaux de cartes satellites en ligne de masquer les sites militaires](src/2026-05/20260522-taiwan-masquer-sites-militaires-cartes-satellite.md)
