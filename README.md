@@ -177,7 +177,8 @@ Articles per month:
 - [New Advisory Floodplain Maps Available for Five Eastern North Carolina River Basins](src/2026-04/20260401-nc-floodplain-maps-eastern-nc-river-basins.md)
 - [Get Started with the Google Maps Geocoding API v3](src/2026-04/20260331-google-maps-geocoding-api-v3.md)
 
-#### May (91 articles)
+#### May (92 articles)
+- [Mapping the Hidden Electrical Anatomy of a Continent](src/2026-05/20260526-mapping-the-hidden-electrical-anatomy-of-a-continent.md)
 - [Map: 6.9-Magnitude Earthquake Shakes Chile](src/2026-05/20260525-map-69-magnitude-earthquake-shakes-chile.md)
 - [Outdoor high-precision 3D dense mapping system based on stereo visual SLAM](src/2026-05/20260525-outdoor-high-precision-3d-dense-mapping-system-based-on-stereo-visual-slam.md)
 - [Developer's Lounge: Over 50 Ways to Style a Map with One Service](src/2026-05/20260526-developers-lounge-over-50-ways-to-style-a-map-with-one-service.md)
