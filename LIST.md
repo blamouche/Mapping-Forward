@@ -1,4 +1,3 @@
-https://www.jeuxvideo.com/news/2083941/google-utilise-son-ia-pour-transformer-les-images-de-google-maps-en-jeu-video.htm
 https://www.esri.com/arcgis-blog/products/developers/mapping/developers-lounge-over-50-ways-to-style-a-map-with-one-service
 https://www.nature.com/articles/s41598-026-55091-x
 https://www.nytimes.com/interactive/2026/05/25/world/americas/quake-tracker-chile.html
