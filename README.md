@@ -17,12 +17,21 @@ Articles per month:
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
 2026-04 | ██████████████████████████████████████████████████ 154<br>
 2026-05 | ████████████████████████████████ 94<br>
-2026-08 | ████████████████████████████████████████████████ 137
+2026-08 | █████████████████████████████████████████████████████ 146
 ## Articles
 
 ### 2026
 
-#### August (137 articles)
+#### August (146 articles)
+- [Google Maps Killed The Restaurant Star](src/2026-08/20260720-google-maps-killed-restaurant-star-hackaday.md)
+- [New Web Tool Maps Fossil Locations Across Ancient Continents in Seconds](src/2026-08/20260720-paca-paleocoordinates-fossil-ancient-continents.md)
+- [Central Bedfordshire Maps Services to Identify Potential Sites](src/2026-08/20260721-central-bedfordshire-gis-maps-services-potential-sites.md)
+- [MIT Framework Maps Grid Weak Spots Before Climate Disasters Hit](src/2026-08/20260722-mit-framework-maps-grid-weak-spots-climate-disasters.md)
+- [Street View Imagery à 360° sur Google Maps : Mieux représenter Maurice sur la carte](src/2026-08/20260722-mauritius-street-view-360-google-maps.md)
+- [5 Disadvantages Of Using Waze Over Google Maps Or Apple Maps](src/2026-08/20260722-bgr-waze-disadvantages-vs-google-apple-maps.md)
+- [Reflections from Esri UC 2026: AI, GIS, and the Future of Mining](src/2026-08/20260722-esri-uc-2026-ai-gis-future-of-mining.md)
+- [HPCC Fire Map Honored with International GIS Award](src/2026-08/20260722-hpcc-fire-map-gis-award-esri-uc.md)
+- [Google Maps déraille sur Android Auto, les utilisateurs réclament une mise à jour urgente](src/2026-08/20260722-google-maps-android-auto-traffic-grey-roads-bug.md)
 - [Google Maps s'apprête à piocher dans vos e-mails et vos photos : ce qui va changer](src/2026-08/20260723-google-maps-gemini-personal-intelligence-gmail-photos.md)
 - [Smarter Styling Defaults in Mapbox Studio](src/2026-08/20260723-mapbox-studio-smarter-styling-defaults-data-layers.md)
 - [C'est fini : pourquoi Waze et Google Maps ne donnent plus les trajets les plus rapides en France](src/2026-08/20260723-waze-google-maps-eco-routing-french-decree-emissions.md)
