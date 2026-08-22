@@ -17,12 +17,12 @@ Articles per month:
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
 2026-04 | ██████████████████████████████████████████████████ 154<br>
 2026-05 | ████████████████████████████████ 94<br>
-2026-08 | █████ 30<br>
+2026-08 | ███████ 40<br>
 ## Articles
 
 ### 2026
 
-#### August (30 articles)
+#### August (40 articles)
 - [Google Maps Is Great for Road Trips. On the Trail, It's Getting Hikers Rescued.](src/2026-08/20260817-google-maps-hikers-rescued-trail-navigation.md)
 - [Amateur Astronomer Discovers 390-Million-Year-Old Meteorite Crater on Google Maps](src/2026-08/20260817-google-maps-meteorite-crater-uhackatik-quebec.md)
 - [Google Maps Envoie les Touristes sur une Fausse Départementale vers l'Espagne](src/2026-08/20260817-google-maps-fausse-departementale-perpignan-espagne.md)
@@ -53,6 +53,16 @@ Articles per month:
 - [After SDVs, Next Is AI: Future Cars' Battleground Is Context Data](src/2026-08/20260822-tomtom-ai-defined-vehicles-context-data.md)
 - ['Wall-to-Wall' Map of NYC Trees Could Help Cool Cities Worldwide](src/2026-08/20260822-wall-to-wall-nyc-trees-cool-cities.md)
 - [Delhi To Get Digital Twin As Master Plan 2047 Takes Urban Planning Into 3D Era](src/2026-08/20260822-delhi-digital-twin-master-plan-2047.md)
+- [New Database Maps 6.5 Million Americans Facing Landslide Risks Using Overture Maps Data](src/2026-08/20260807-landslide-exposure-database-overture-maps-6-5-million-americans.md)
+- [RideFlux Registers 100th Patent for LiDAR-to-Lane-and-Curb Map Conversion Technology](src/2026-08/20260812-rideflux-lidar-lane-curb-mapping-100th-patent.md)
+- [Astronomers Create Largest 2D Map of the Universe with 5.6 Trillion Pixels](src/2026-08/20260812-largest-2d-map-universe-5-6-trillion-pixels-desi.md)
+- [AWS Global View Now Offers Interactive Map View for Regions and Local Zones](src/2026-08/20260812-aws-global-view-interactive-map-view-regions.md)
+- [Global Building Atlas Maps 2.75 Billion Structures in 3D](src/2026-08/20260813-global-building-atlas-3d-2-75-billion-structures.md)
+- [Belo Horizonte Drivers Lose 130 Hours Per Year in Traffic, TomTom Traffic Index 2025](src/2026-08/20260813-tomtom-traffic-index-belo-horizonte-brazil-130-hours.md)
+- [From Fixed Machines to Evolving Platforms: The New Challenge for Carmakers](src/2026-08/20260813-tomtom-carmakers-evolving-platforms-software-defined-vehicles.md)
+- [SNCB Trip Planner Up to 41 Minutes Slower Than Google Maps](src/2026-08/20260813-sncb-trip-planner-vs-google-maps-multimodal-routing.md)
+- [Google Revamps Maps with "Demander à Maps" AI Feature](src/2026-08/20260814-google-maps-demander-a-maps-ai-assistant.md)
+- [Google Maps Loses Popular Times Feature and Nobody Knows Why](src/2026-08/20260814-google-maps-popular-times-feature-disappears.md)
 
 #### April (154 articles)
 - [Le Français Roole Map imite Waze pour devenir très pratique en voiture](src/2026-04/20260430-roole-map-le-francais-roole-map-imite-waze.md)
