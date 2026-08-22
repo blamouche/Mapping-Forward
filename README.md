@@ -17,12 +17,22 @@ Articles per month:
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
 2026-04 | ██████████████████████████████████████████████████ 154<br>
 2026-05 | ████████████████████████████████ 94<br>
-2026-08 | █████████ 50<br>
+2026-08 | ██████████████ 60
 ## Articles
 
 ### 2026
 
-#### August (50 articles)
+#### August (60 articles)
+- [Apple Maps Presents Search Ads to Support Local Businesses](src/2026-08/20260821-apple-maps-search-ads-local-businesses.md)
+- [Contribute to Google Maps with Tell Maps: AI-Powered Local Knowledge Sharing](src/2026-08/20260821-google-maps-tell-maps-ai-contribution.md)
+- [Africans Hope a Fairer Map Can Lead to a Fairer World: The Correct the Map Campaign](src/2026-08/20260821-africa-cartography-correct-the-map-campaign.md)
+- [Mapy.com Redraws Austria's Hiking Trails, Adding Tens of Thousands of Kilometres](src/2026-08/20260821-mapy-cz-austria-hiking-trails-redrawn.md)
+- [How to Blur Your Home on Google Maps Street View and Why It Matters](src/2026-08/20260821-google-maps-blur-home-street-view-privacy.md)
+- [How Does Google Maps Know What Time You Will Arrive? The Technology Behind ETA](src/2026-08/20260820-google-maps-eta-how-navigation-works.md)
+- [Google Maps on Android Automotive Stuck in Infinite Routing Loop](src/2026-08/20260820-google-maps-android-automotive-infinite-routing-bug.md)
+- [When Water and Forests Redraw the Map: A New Model for Regenerative Roads](src/2026-08/20260820-regenerative-roads-idb-nature-based-solutions.md)
+- [In North Carolina, a Drone Pilot Maps the Coast as the Sea Swallows Homes](src/2026-08/20260820-drone-gis-mapping-outer-banks-coastal-erosion.md)
+- [A Program That's Redrawing the Geospatial Talent Map: HBCU Immersion in GEOIN](src/2026-08/20260819-geospatial-talent-map-hbcu-geoin-program.md)
 - [Éclipse du 12 août : téléchargez ces cartes sur votre téléphone pour trouver les meilleurs endroits où l'observer](src/2026-08/20260812-eclipse-offline-maps-google-maps-apple-plans.md)
 - [Wildfire Map Spotlight: Bug and Stallion Fires, Nevada](src/2026-08/20260812-wildfire-map-spotlight-bug-stallion-fires-nevada.md)
 - [DRC: Ebola-Affected Zones vs HNRP Coverage Map (August 12, 2026)](src/2026-08/20260812-drc-ebola-zones-hnrp-coverage-map-ocha.md)
