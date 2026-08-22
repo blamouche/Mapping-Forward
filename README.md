@@ -17,12 +17,22 @@ Articles per month:
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
 2026-04 | ██████████████████████████████████████████████████ 154<br>
 2026-05 | ████████████████████████████████ 94<br>
-2026-08 | ████████████████████████████████████████████████████████████████ 168
+2026-08 | ████████████████████████████████████████████████████████████████████ 178
 ## Articles
 
 ### 2026
 
-#### August (168 articles)
+#### August (178 articles)
+- [TomTom profit returns but investors focus on weaker H2 margins](src/2026-08/20260715-tomtom-q2-2026-earnings-profit-returns.md)
+- [What the leaf icon on Google Maps really means (and why it confuses so many users)](src/2026-08/20260715-google-maps-leaf-icon-eco-routing-engadget.md)
+- [I stopped using Google Maps in Android Auto and switched to an open-source navigator that respects my privacy](src/2026-08/20260715-howtogeek-open-source-navigator-android-auto-privacy.md)
+- [Putting Seagrass on the Map](src/2026-08/20260716-pew-seagrass-mapping-western-indian-ocean-lasmmi.md)
+- [Where in the world is biogas? A new IEA tool maps its potential](src/2026-08/20260716-iea-biogas-potential-mapping-tool-biogram.md)
+- [New Maps Show Unprecedented Cuts to Bears Ears and Grand Staircase-Escalante](src/2026-08/20260715-backpacker-bears-ears-grand-staircase-maps-cuts.md)
+- [Esri to Debut the Power of Where Collection at 2026 Esri User Conference](src/2026-08/20260714-esri-power-of-where-collection-uc-2026.md)
+- [The World Cup Final: What to expect on New York's roads](src/2026-08/20260715-tomtom-world-cup-final-nyc-traffic-predictions.md)
+- [Neu im GIS-Browser: Einwohner und Beschäftigte nach ÖV-Güteklassen](src/2026-08/20260715-zurich-gis-browser-oev-gueteklassen-symbols.md)
+- [L'une des fonctions les plus attendues de Google Maps arrive enfin sur Android Auto](src/2026-08/20260715-google-maps-3d-immersive-android-auto-autoplus.md)
 - [MP To Launch ₹100-Crore Urban Forestry Mission With Geo-Tagged Saplings](src/2026-08/20260715-mp-urban-forestry-mission-gis-geo-tagged-saplings-india.md)
 - [Lions Bay search-and-rescuers warn against dangers of Google Maps](src/2026-08/20260718-lions-bay-sar-google-maps-hiking-danger-bc.md)
 - [The INMO GO3 are lightweight AI glasses with features built for everyday use](src/2026-08/20260717-inmo-go3-ai-glasses-here-maps-navigation.md)
