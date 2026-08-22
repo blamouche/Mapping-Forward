@@ -17,12 +17,22 @@ Articles per month:
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
 2026-04 | ██████████████████████████████████████████████████ 154<br>
 2026-05 | ████████████████████████████████ 94<br>
-2026-08 | █ 10<br>
+2026-08 | ██ 20<br>
 ## Articles
 
 ### 2026
 
-#### August (10 articles)
+#### August (20 articles)
+- [Cedar Electronics Selects TomTom Orbis Maps to Enhance Speed Awareness Across the United States](src/2026-08/20260822-tomtom-orbis-maps-cedar-electronics-speed-awareness.md)
+- [HD Map Industry Trends Driving Autonomous and Connected Mobility](src/2026-08/20260822-hd-map-autonomous-vehicles-industry-trends.md)
+- [TomTom and Microsoft Extend Collaboration on AI-Powered Mobility Solutions](src/2026-08/20260822-tomtom-microsoft-extend-collaboration-ai-mobility.md)
+- [How Maps Harden Territorial Claims](src/2026-08/20260822-how-maps-harden-territorial-claims.md)
+- [From These Lands: Mapping US Natural and Cultural Heritage at the Smithsonian](src/2026-08/20260822-smithsonian-maps-natural-cultural-heritage-esri.md)
+- [Yandex Digitally Added Forest to Maps to Hide Russian Military Sites](src/2026-08/20260822-yandex-added-forest-to-maps-hide-military-sites.md)
+- [Google Trends Gains Explore Maps and Regional Breakdown](src/2026-08/20260822-google-trends-explore-maps-regional-breakdown.md)
+- [Alternativas Reales a Google Maps Que No Son Estadounidenses](src/2026-08/20260822-alternatives-google-maps-non-us-wikiversus.md)
+- [Google Maps Is More Useful as a Travel Notebook Than a Navigation App](src/2026-08/20260822-google-maps-travel-notebook-custom-lists.md)
+- [I Tested the Top 3 Android Auto Navigation Apps to Replace Google Maps](src/2026-08/20260822-android-auto-navigation-apps-replace-google-maps.md)
 - [Google Maps Just Launched Truck-Aware Routing That Knows About Low Bridges and Weight Limits](src/2026-08/20260822-google-maps-large-vehicle-routing-truck-aware.md)
 - [Overture Maps Data as Parquet Feature Layers (Early Access)](src/2026-08/20260822-overture-maps-parquet-feature-layers-esri.md)
 - [Apple Maps place au Maroc des territoires espagnols, de quoi irriter Madrid](src/2026-08/20260822-apple-maps-maroc-territoires-espagnols.md)
