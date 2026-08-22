@@ -17,12 +17,22 @@ Articles per month:
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
 2026-04 | ██████████████████████████████████████████████████ 154<br>
 2026-05 | ████████████████████████████████ 117<br>
-2026-08 | ████████████████████████████████████████████████████████████████████████████████████████████ 198
+2026-08 | ████████████████████████████████████████████████████████████████████████████████████████████████████████ 208
 ## Articles
 
 ### 2026
 
-#### August (198 articles)
+#### August (208 articles)
+- [Google Maps killed the Commute tab—here's what to use instead](src/2026-08/20260712-google-maps-commute-tab-killed-alternatives.md)
+- [From space rovers to hunger maps: How AI is reshaping humanitarian aid](src/2026-08/20260712-ai-hunger-maps-humanitarian-aid-openstreetmap.md)
+- [TomTom AmiGo: speed camera warnings overlaid on Google Maps for Android](src/2026-08/20260711-tomtom-amigo-speed-cameras-google-maps-widget.md)
+- [TomTom GO Navigation: Offline maps subscription model for real-time traffic](src/2026-08/20260712-tomtom-go-navigation-offline-maps-subscription.md)
+- [L'impossible quête pour une alternative souveraine et privée à Google Maps](src/2026-08/20260711-lesnumeriques-alternative-souveraine-privee-google-maps.md)
+- [IA : quand Google Maps commande vos repas et transforme nos habitudes](src/2026-08/20260711-google-maps-gemini-ai-orders-food-autonomous-agent.md)
+- [UN adopts the first global regulation allowing fully autonomous vehicles](src/2026-08/20260710-un-global-regulation-level-4-autonomous-vehicles-tomtom.md)
+- [TomTom Q2 2026: revenue pressure caught well but H2 margins under pressure](src/2026-08/20260710-tomtom-q2-2026-revenue-pressure-margins-deaandeelhouder.md)
+- [Le porte-avions Charles-de-Gaulle visible sur Google Maps dans le canal de Suez](src/2026-08/20260710-charles-de-gaulle-aircraft-carrier-google-maps-satellite-suez.md)
+- [Hormuz ship traffic grinds to near halt after US and Iran strikes](src/2026-08/20260709-hormuz-ship-traffic-mapbox-openstreetmap-iran-strikes.md)
 - [Google Maps Error Causes Monster Traffic on Pont Jacques-Cartier](src/2026-08/20260822-google-maps-error-pont-jacques-cartier-traffic.md)
 - [Hyderabad Residents Lose 198 Hours of Sleep a Year to Traffic and Heat](src/2026-08/20260822-tomtom-traffic-index-hyderabad-198-hours-sleep-lost.md)
 - [Why TomTom GPS Is Better Than Flitsmeister for Driving in France and Germany](src/2026-08/20260822-tomtom-gps-vs-flitsmeister-speed-camera-france-germany.md)
