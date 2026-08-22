@@ -17,12 +17,12 @@ Articles per month:
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
 2026-04 | ██████████████████████████████████████████████████ 154<br>
 2026-05 | ████████████████████████████████ 94<br>
-2026-08 | ████████████████████ 80
+2026-08 | █████████████████████████ 90
 ## Articles
 
 ### 2026
 
-#### August (80 articles)
+#### August (90 articles)
 - [The Hidden Cost of Low-Quality Traffic Data](src/2026-08/20260810-tomtom-hidden-cost-low-quality-traffic-data.md)
 - [Comment Google Maps prédit-il les embouteillages avant qu'ils ne se produisent ?](src/2026-08/20260809-google-maps-predicts-traffic-congestion-ai.md)
 - [J'ai essayé de remplacer Google Maps pendant 4 ans : mon bilan sans concession](src/2026-08/20260809-replacing-google-maps-4-years-lesnumeriques.md)
@@ -95,6 +95,16 @@ Articles per month:
 - [Google Maps Loses Popular Times Feature and Nobody Knows Why](src/2026-08/20260814-google-maps-popular-times-feature-disappears.md)
 - [PolarScopEU: The App That Maps Europe's Online Political Discourse](src/2026-08/20260806-polarscopeu-app-maps-europe-online-political-discourse.md)
 - [How High-Altitude Lidar Is Helping Utilities Prioritize Risk and Resources](src/2026-08/20260805-high-altitude-lidar-utilities-risk-resources.md)
+- [Top 10: Fleet Telematics Providers](src/2026-08/20260805-top-10-fleet-telematics-providers.md)
+- [Twinsity Releases Its Biggest Platform Update: Inspect Faster, Find Problems Earlier, Prove Nothing Was Missed](src/2026-08/20260804-twinsity-platform-update-ai-structural-inspection.md)
+- [The Billion-Dollar Business Hidden Behind Google Maps' Free Service](src/2026-08/20260804-google-maps-api-billion-dollar-business.md)
+- [Google Maps Error Endangers Hikers on Howe Sound Crest Trail, Rescue Required](src/2026-08/20260804-google-maps-hiking-error-howe-sound-crest-trail.md)
+- [Google Maps x Need for Speed: Hop Earth Lets You Drive Any Road in the World](src/2026-08/20260804-hop-earth-drive-any-road-openstreetmap.md)
+- [BEL Partners with Esri India for GeoAI, GIS & Strategic Location Intelligence](src/2026-08/20260803-bel-esri-india-geoai-gis-defense.md)
+- [FEMA Flood Maps Cause 'Misunderstanding' Among Homeowners, Leaving Millions Without Insurance](src/2026-08/20260803-fema-flood-maps-misunderstanding-homeowners.md)
+- [Sebta et Melilla: les pointillés de Google Maps qui fâchent l'Espagne](src/2026-08/20260803-sebta-melilla-google-maps-dashed-borders-disputed.md)
+- [Waze et Google Maps: combien de gigas votre GPS consomme-t-il sur un long trajet ?](src/2026-08/20260803-waze-google-maps-gps-data-consumption.md)
+- [Ce réglage très simple sur Google Maps va sauver votre forfait mobile cet été](src/2026-08/20260803-google-maps-offline-maps-data-saving.md)
 - [A Tutorial on GeoAI: Designing Footprint Extraction from NAIP Imagery Using U-Net, Grounding DINO, SAM, and Mask R-CNN](src/2026-08/20260802-geoai-tutorial-footprint-extraction-naip-imagery.md)
 - [How Insurers Use AI in Auditing to Fix Property Data Errors, with Overture Maps Foundation CTO](src/2026-08/20260806-insurers-ai-auditing-property-data-errors-overture-maps.md)
 - [TomTom Go: A Paid Alternative to Google Maps Worth Paying For, Especially on Long Trips](src/2026-08/20260807-tomtom-go-alternative-google-maps-long-trips.md)
