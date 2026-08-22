@@ -17,12 +17,22 @@ Articles per month:
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
 2026-04 | ██████████████████████████████████████████████████ 154<br>
 2026-05 | ████████████████████████████████ 94<br>
-2026-08 | ███████ 40<br>
+2026-08 | █████████ 50<br>
 ## Articles
 
 ### 2026
 
-#### August (40 articles)
+#### August (50 articles)
+- [Éclipse du 12 août : téléchargez ces cartes sur votre téléphone pour trouver les meilleurs endroits où l'observer](src/2026-08/20260812-eclipse-offline-maps-google-maps-apple-plans.md)
+- [Wildfire Map Spotlight: Bug and Stallion Fires, Nevada](src/2026-08/20260812-wildfire-map-spotlight-bug-stallion-fires-nevada.md)
+- [DRC: Ebola-Affected Zones vs HNRP Coverage Map (August 12, 2026)](src/2026-08/20260812-drc-ebola-zones-hnrp-coverage-map-ocha.md)
+- [¿Dónde hay tráfico por el eclipse? Mapbox y DGT muestran los atascos en toda España](src/2026-08/20260812-mapbox-dgt-eclipse-traffic-map-spain.md)
+- [HERE WeGo meldet und bestätigt jetzt Störungen in Echtzeit](src/2026-08/20260812-here-wego-real-time-disruption-reporting.md)
+- [How First American Data and Analytics Is Bringing Property Intelligence Into the GIS World](src/2026-08/20260812-first-american-property-intelligence-arcgis-gis.md)
+- [Around the Geospatial, 3D, and AEC Industries: Digital Twins, Imaging, and Greenery Views](src/2026-08/20260812-geospatial-digital-twins-imaging-greenery-views.md)
+- [1 600 km pour comparer Apple Maps et Google Maps : le verdict sur la route](src/2026-08/20260811-apple-maps-vs-google-maps-1600km-comparison.md)
+- [Google Rolls Out AI-Powered Ask Maps Feature in Singapore](src/2026-08/20260811-google-ask-maps-ai-powered-feature-singapore.md)
+- [India Counters China's Map War: 27 Arunachal Pradesh Locations Standardised on Survey of India Maps](src/2026-08/20260811-india-arunachal-pradesh-27-locations-survey-of-india-maps.md)
 - [Google Maps Is Great for Road Trips. On the Trail, It's Getting Hikers Rescued.](src/2026-08/20260817-google-maps-hikers-rescued-trail-navigation.md)
 - [Amateur Astronomer Discovers 390-Million-Year-Old Meteorite Crater on Google Maps](src/2026-08/20260817-google-maps-meteorite-crater-uhackatik-quebec.md)
 - [Google Maps Envoie les Touristes sur une Fausse Départementale vers l'Espagne](src/2026-08/20260817-google-maps-fausse-departementale-perpignan-espagne.md)
