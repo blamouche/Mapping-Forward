@@ -17,12 +17,23 @@ Articles per month:
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
 2026-04 | ██████████████████████████████████████████████████ 154<br>
 2026-05 | ████████████████████████████████ 94<br>
-2026-08 | █████████████████████████████████████████████ 127
+2026-08 | ████████████████████████████████████████████████ 137
 ## Articles
 
 ### 2026
 
-#### August (127 articles)
+#### August (137 articles)
+- [Google Maps s'apprête à piocher dans vos e-mails et vos photos : ce qui va changer](src/2026-08/20260723-google-maps-gemini-personal-intelligence-gmail-photos.md)
+- [Smarter Styling Defaults in Mapbox Studio](src/2026-08/20260723-mapbox-studio-smarter-styling-defaults-data-layers.md)
+- [C'est fini : pourquoi Waze et Google Maps ne donnent plus les trajets les plus rapides en France](src/2026-08/20260723-waze-google-maps-eco-routing-french-decree-emissions.md)
+- [Global Map Reveals Mining's Uneven Toll on Forests and Biodiversity](src/2026-08/20260723-global-mining-map-forest-biodiversity-remote-sensing.md)
+- [Apple Maps to Power Navigation for Ford Universal EV Platform](src/2026-08/20260724-apple-maps-ford-uev-platform-mapkit-automotive.md)
+- [Turning Raw Data into Spatial Intelligence: Google Maps Platform New Features](src/2026-08/20260724-google-maps-platform-spatial-intelligence-places-solar-air-quality.md)
+- [Houseal Lavigne: Generative AI for City Planners](src/2026-08/20260724-houseal-lavigne-generative-ai-city-planners-euclid-placeengine.md)
+- [Mapping the Global Distribution of Coastal World Heritage Sites: Glo-CoH Dataset](src/2026-08/20260724-glo-coh-global-coastal-heritage-unesco-mapping-dataset.md)
+- [Google Maps sur Android Auto affiche enfin votre vitesse (avec deux ans de retard sur CarPlay)](src/2026-08/20260724-google-maps-android-auto-speedometer-carplay-delay.md)
+- [Gemini plante Waze sur Android Auto : les conducteurs perdent patience](src/2026-08/20260724-gemini-waze-android-auto-failure-google-maps.md)
+- [Carte obsolète, embouteillages mal évalués : pourquoi votre GPS peut dérailler](src/2026-08/20260725-leparisien-gps-outdated-maps-tomtom-navigation-errors.md)
 - [Back to School with Maps! — Esri Education Blog](src/2026-08/20260822-esri-back-to-school-with-maps-education.md)
 - [GPS et écologie : pourquoi votre trajet met désormais plus de temps sur Waze ou Google Maps](src/2026-08/20260822-gps-ecologie-waze-google-maps-less-polluting-routes.md)
 - [Multi-AGV Task Scheduling and Dynamic Map Path Planning Based on Task Pre-Allocation](src/2026-08/20260822-multi-agv-dynamic-map-path-planning-task-pre-allocation.md)
