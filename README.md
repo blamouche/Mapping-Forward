@@ -16,13 +16,23 @@ Articles per month:
 2026-02 | ████████████ 35<br>
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
 2026-04 | ██████████████████████████████████████████████████ 154<br>
-2026-05 | ████████████████████████████████ 94<br>
-2026-08 | ████████████████████████████████████████████████████████████████████ 178
+2026-05 | ████████████████████████████████ 117<br>
+2026-08 | ███████████████████████████████████████████████████████████████████████████████████████ 188
 ## Articles
 
 ### 2026
 
-#### August (178 articles)
+#### August (188 articles)
+- [Qu'est-ce que Cartes.gouv.fr, l'outil de la France pour concurrencer Google Maps et Street View](src/2026-08/20260714-cartes-gouv-fr-ign-sovereign-alternative-google-maps.md)
+- [Flow Maps](src/2026-08/20260713-esri-flow-maps-arcgis-pro.md)
+- [Mapping the world's building regulations: new platform for smarter reforms](src/2026-08/20260713-worldbank-building-regulations-atlas-152-economies.md)
+- [Wicked urban problems in Africa: geo-visualising the proliferation of informal settlements in Nairobi](src/2026-08/20260713-nairobi-informal-settlements-geo-visualisation-apri.md)
+- [Le Havre : un Système d'information géographique permet d'optimiser l'administration de cette gigantesque infrastructure portuaire](src/2026-08/20260713-le-havre-sig-3d-haropa-port-arcgis.md)
+- [Peut-on cartographier l'Odyssée ? Comment géographes antiques et chercheurs d'aujourd'hui ont retracé le voyage d'Ulysse](src/2026-08/20260712-cartographier-lodyssee-voyage-ulysse.md)
+- [Le « mapping 3D » plonge les visiteurs au cœur du patrimoine vietnamien](src/2026-08/20260713-vietnam-3d-mapping-patrimoine-musee-femmes.md)
+- [Waze vs Maps en 2026 : quelle IA de navigation choisir ?](src/2026-08/20260713-waze-vs-maps-ia-navigation-2026-briefia.md)
+- [I tested 6 Google Maps alternatives—this is the one I'm sticking with](src/2026-08/20260713-howtogeek-6-google-maps-alternatives-here-wego.md)
+- [The people behind the map: How TomTom teams keep cities moving during the Football World Championship](src/2026-08/20260713-tomtom-world-championship-cities-moving-traffic.md)
 - [TomTom profit returns but investors focus on weaker H2 margins](src/2026-08/20260715-tomtom-q2-2026-earnings-profit-returns.md)
 - [What the leaf icon on Google Maps really means (and why it confuses so many users)](src/2026-08/20260715-google-maps-leaf-icon-eco-routing-engadget.md)
 - [I stopped using Google Maps in Android Auto and switched to an open-source navigator that respects my privacy](src/2026-08/20260715-howtogeek-open-source-navigator-android-auto-privacy.md)
