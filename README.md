@@ -17,12 +17,22 @@ Articles per month:
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
 2026-04 | ██████████████████████████████████████████████████ 154<br>
 2026-05 | ████████████████████████████████ 94<br>
-2026-08 | ██████████████ 60
+2026-08 | █████████████████ 70
 ## Articles
 
 ### 2026
 
-#### August (60 articles)
+#### August (70 articles)
+- [The Hidden Cost of Low-Quality Traffic Data](src/2026-08/20260810-tomtom-hidden-cost-low-quality-traffic-data.md)
+- [Comment Google Maps prédit-il les embouteillages avant qu'ils ne se produisent ?](src/2026-08/20260809-google-maps-predicts-traffic-congestion-ai.md)
+- [J'ai essayé de remplacer Google Maps pendant 4 ans : mon bilan sans concession](src/2026-08/20260809-replacing-google-maps-4-years-lesnumeriques.md)
+- [Waze, Google Maps, Apple Plans : sur la route des vacances, quelle application de navigation est la meilleure ?](src/2026-08/20260809-waze-google-maps-apple-plans-navigation-comparison-tf1.md)
+- [This Tiny Google Maps Tweak Has Saved Me Hours of Driving Over the Past Year](src/2026-08/20260808-google-maps-fuel-efficient-routing-tweak.md)
+- [Paudex: la route conseillée par Google Maps au cœur du débat](src/2026-08/20260808-google-maps-route-paudex-cyclist-death-debate.md)
+- [Google Maps Borrowed Waze's Best Features, So Why Do I Still Need Both Apps?](src/2026-08/20260807-google-maps-waze-borrowing-features-android-police.md)
+- [GIS Tech Must Become Cornerstone of Governance: Arunachal Pradesh Governor](src/2026-08/20260807-gis-cornerstone-governance-arunachal-pradesh.md)
+- [Adding an AI Tool to Google Earth Shook Our Trust in Maps That Has Been Centuries in the Making](src/2026-08/20260806-ai-tool-google-earth-trust-in-maps.md)
+- [Ask Maps Gets More Helpful in India: Hindi Support, Personal Intelligence, and Live Transit](src/2026-08/20260806-ask-maps-gets-more-helpful-in-india.md)
 - [Apple Maps Presents Search Ads to Support Local Businesses](src/2026-08/20260821-apple-maps-search-ads-local-businesses.md)
 - [Contribute to Google Maps with Tell Maps: AI-Powered Local Knowledge Sharing](src/2026-08/20260821-google-maps-tell-maps-ai-contribution.md)
 - [Africans Hope a Fairer Map Can Lead to a Fairer World: The Correct the Map Campaign](src/2026-08/20260821-africa-cartography-correct-the-map-campaign.md)
