@@ -17,12 +17,12 @@ Articles per month:
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
 2026-04 | ██████████████████████████████████████████████████ 154<br>
 2026-05 | ████████████████████████████████ 94<br>
-2026-08 | █████████████████ 70
+2026-08 | ████████████████████ 80
 ## Articles
 
 ### 2026
 
-#### August (70 articles)
+#### August (80 articles)
 - [The Hidden Cost of Low-Quality Traffic Data](src/2026-08/20260810-tomtom-hidden-cost-low-quality-traffic-data.md)
 - [Comment Google Maps prédit-il les embouteillages avant qu'ils ne se produisent ?](src/2026-08/20260809-google-maps-predicts-traffic-congestion-ai.md)
 - [J'ai essayé de remplacer Google Maps pendant 4 ans : mon bilan sans concession](src/2026-08/20260809-replacing-google-maps-4-years-lesnumeriques.md)
@@ -93,6 +93,16 @@ Articles per month:
 - [SNCB Trip Planner Up to 41 Minutes Slower Than Google Maps](src/2026-08/20260813-sncb-trip-planner-vs-google-maps-multimodal-routing.md)
 - [Google Revamps Maps with "Demander à Maps" AI Feature](src/2026-08/20260814-google-maps-demander-a-maps-ai-assistant.md)
 - [Google Maps Loses Popular Times Feature and Nobody Knows Why](src/2026-08/20260814-google-maps-popular-times-feature-disappears.md)
+- [PolarScopEU: The App That Maps Europe's Online Political Discourse](src/2026-08/20260806-polarscopeu-app-maps-europe-online-political-discourse.md)
+- [How High-Altitude Lidar Is Helping Utilities Prioritize Risk and Resources](src/2026-08/20260805-high-altitude-lidar-utilities-risk-resources.md)
+- [A Tutorial on GeoAI: Designing Footprint Extraction from NAIP Imagery Using U-Net, Grounding DINO, SAM, and Mask R-CNN](src/2026-08/20260802-geoai-tutorial-footprint-extraction-naip-imagery.md)
+- [How Insurers Use AI in Auditing to Fix Property Data Errors, with Overture Maps Foundation CTO](src/2026-08/20260806-insurers-ai-auditing-property-data-errors-overture-maps.md)
+- [TomTom Go: A Paid Alternative to Google Maps Worth Paying For, Especially on Long Trips](src/2026-08/20260807-tomtom-go-alternative-google-maps-long-trips.md)
+- [Conversational GIS Is Unlocking Enterprise Spatial Intelligence for Healthcare](src/2026-08/20260806-conversational-gis-enterprise-spatial-intelligence-healthcare.md)
+- [A Dataset for Multiple Structural Representations of Urban Road Maps Across Chinese Cities](src/2026-08/20260805-dataset-structural-representations-urban-road-maps-chinese-cities.md)
+- [What's New in ArcGIS Maps SDKs for Native Apps 300.1: Gaussian Splats, Overture Maps Labels, and On-Device Analysis](src/2026-08/20260805-arcgis-maps-sdks-native-apps-300-1.md)
+- [Announcing ArcGIS Maps SDK 2.4 for Unreal Engine: Gaussian Splats, Point Clouds, and Enhanced 3D Tiles](src/2026-08/20260805-arcgis-maps-sdk-2-4-unreal-engine.md)
+- [Ask Maps Gets More Helpful with Food Ordering, Hotel Booking, and Personal Intelligence](src/2026-08/20260806-ask-maps-agentic-food-ordering-hotel-booking.md)
 
 #### April (154 articles)
 - [Le Français Roole Map imite Waze pour devenir très pratique en voiture](src/2026-04/20260430-roole-map-le-francais-roole-map-imite-waze.md)
