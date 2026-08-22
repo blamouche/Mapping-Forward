@@ -17,12 +17,22 @@ Articles per month:
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
 2026-04 | ██████████████████████████████████████████████████ 154<br>
 2026-05 | ████████████████████████████████ 94<br>
-2026-08 | ████████████████████████████████████████████████████████████ 156
+2026-08 | ████████████████████████████████████████████████████████████████ 168
 ## Articles
 
 ### 2026
 
-#### August (156 articles)
+#### August (168 articles)
+- [MP To Launch ₹100-Crore Urban Forestry Mission With Geo-Tagged Saplings](src/2026-08/20260715-mp-urban-forestry-mission-gis-geo-tagged-saplings-india.md)
+- [Lions Bay search-and-rescuers warn against dangers of Google Maps](src/2026-08/20260718-lions-bay-sar-google-maps-hiking-danger-bc.md)
+- [The INMO GO3 are lightweight AI glasses with features built for everyday use](src/2026-08/20260717-inmo-go3-ai-glasses-here-maps-navigation.md)
+- [Apple Maps va afficher de la publicité, mais certaines sont déjà interdites](src/2026-08/20260716-apple-maps-ads-banned-categories-home-services-crypto.md)
+- [How satellite maps are leading fishermen to bigger catches](src/2026-08/20260717-incois-satellite-maps-fishermen-pfz-advisory-india.md)
+- [Minnesota Uses Accessibility to Improve Maps' Communication](src/2026-08/20260718-minnesota-map-accessibility-govtech.md)
+- [Adieu Waze et Google Maps ? Ce GPS français voit à travers 50 mètres de béton](src/2026-08/20260717-wheere-gps-through-concrete-geolocation-startup.md)
+- [Grounding for the age of AI: Orbis powers the next phase of intelligent tech](src/2026-08/20260708-tomtom-orbis-ai-location-intelligence-gem-gers.md)
+- [Overture Maps Foundation Reaches 50 Members as Industry Converges on Open Data to Ground AI](src/2026-08/20260713-overture-maps-foundation-50-members-open-data-ai.md)
+- [XPeng, 1er constructeur chinois à intégrer Google Maps Auto SDK pour une raison bien précise](src/2026-08/20260718-xpeng-google-maps-auto-sdk-chinese-automaker.md)
 - [Se il navigatore sbaglia strada, ne paga il paese: Campoformido chiede l'aggiornamento delle mappe digitali](src/2026-08/20260721-campoformido-digital-maps-update-navigators-here-apple.md)
 - [BMC Approves AI, Drone, Satellite Tech To Detect Illegal Constructions And Encroachments Across Mumbai](src/2026-08/20260721-bmc-ai-drone-satellite-illegal-constructions-mumbai-gis.md)
 - [Liberaware and Pasco Agree on Joint GIS-Based Sewer Infrastructure Inspection Using IBIS Drone Data](src/2026-08/20260721-liberaware-pasco-gis-sewer-inspection-ibis-drone.md)
