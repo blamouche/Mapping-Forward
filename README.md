@@ -17,12 +17,22 @@ Articles per month:
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
 2026-04 | ██████████████████████████████████████████████████ 154<br>
 2026-05 | ████████████████████████████████ 117<br>
-2026-08 | ████████████████████████████████████████████████████████████████████████████████████████████████████████ 208
+2026-08 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████ 218
 ## Articles
 
 ### 2026
 
-#### August (208 articles)
+#### August (218 articles)
+- [Scientists use AI to produce first high-resolution map of global seagrass extent](src/2026-08/20260710-ai-high-resolution-map-global-seagrass-extent-mongabay.md)
+- [Use Python in ArcGIS CityEngine and import features from Overture Maps](src/2026-08/20260710-arcgis-cityengine-python3-overture-maps-esri.md)
+- [Neue GIS-Plattform für alle Versorgungssparten — Stadtwerke Baden-Baden migrates to VertiGIS](src/2026-08/20260710-baden-baden-vertigis-gis-platform-utility-networks.md)
+- [Preliminary Flood Maps for Denton County, Texas, Ready for Public View](src/2026-08/20260710-fema-preliminary-flood-maps-denton-county-texas.md)
+- [This little-known trick finally unlocks speed camera alerts on your phone](src/2026-08/20260709-tomtom-amigo-speed-camera-overlay-google-maps-android.md)
+- [3 Android Auto apps I never knew existed — and now I can't drive without them](src/2026-08/20260709-android-auto-tomtom-offline-navigation-parking-calm-makeuseof.md)
+- [Has Jakarta's traffic congestion decreased? TomTom Traffic Index says no](src/2026-08/20260709-jakarta-tomtom-traffic-index-congestion-59-percent-tempo.md)
+- [Gemini | Google Maps ne veut plus seulement vous guider — it wants to be your agent](src/2026-08/20260709-google-maps-gemini-agentic-food-ordering-hotel-booking-baronmag.md)
+- [Block-by-block AI maps uncover real urban air temperatures across 380 U.S. cities](src/2026-08/20260708-uhat-ai-urban-air-temperature-maps-380-cities-phys-org.md)
+- [Mapping Housing Availability — Massachusetts tracks home construction](src/2026-08/20260708-massachusetts-housing-availability-data-visualization-map.md)
 - [Google Maps killed the Commute tab—here's what to use instead](src/2026-08/20260712-google-maps-commute-tab-killed-alternatives.md)
 - [From space rovers to hunger maps: How AI is reshaping humanitarian aid](src/2026-08/20260712-ai-hunger-maps-humanitarian-aid-openstreetmap.md)
 - [TomTom AmiGo: speed camera warnings overlaid on Google Maps for Android](src/2026-08/20260711-tomtom-amigo-speed-cameras-google-maps-widget.md)
