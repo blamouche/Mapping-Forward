@@ -17,12 +17,22 @@ Articles per month:
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
 2026-04 | ██████████████████████████████████████████████████ 154<br>
 2026-05 | ████████████████████████████████ 117<br>
-2026-08 | ███████████████████████████████████████████████████████████████████████████████████████ 188
+2026-08 | ████████████████████████████████████████████████████████████████████████████████████████████ 198
 ## Articles
 
 ### 2026
 
-#### August (188 articles)
+#### August (198 articles)
+- [Google Maps Error Causes Monster Traffic on Pont Jacques-Cartier](src/2026-08/20260822-google-maps-error-pont-jacques-cartier-traffic.md)
+- [Hyderabad Residents Lose 198 Hours of Sleep a Year to Traffic and Heat](src/2026-08/20260822-tomtom-traffic-index-hyderabad-198-hours-sleep-lost.md)
+- [Why TomTom GPS Is Better Than Flitsmeister for Driving in France and Germany](src/2026-08/20260822-tomtom-gps-vs-flitsmeister-speed-camera-france-germany.md)
+- [One Hidden Google Maps Setting That Saves Battery Life While Hiking](src/2026-08/20260822-google-maps-satellite-view-battery-life-hiking.md)
+- [Waze and Google Maps "Shortcut" at Perthus Turns Into Nightmare for Residents](src/2026-08/20260822-waze-google-maps-perthus-shortcut-nightmare.md)
+- [How Does Google Maps Know What Time You Will Arrive?](src/2026-08/20260822-google-maps-eta-how-navigation-works-gnss-deepmind.md)
+- [Chhattisgarh Signs Two Key MoUs to Strengthen PM GatiShakti Implementation](src/2026-08/20260822-chhattisgarh-pm-gatishakti-gis-mous-data-layers.md)
+- [NGT Directs Bhopal to Use GIS Mapping for Forest Encroachment Removal](src/2026-08/20260822-ngt-bhopal-gis-mapping-forest-encroachment.md)
+- [Zürich Moves Property Ownership Inquiry to New GIS-Browser](src/2026-08/20260822-zurich-gis-browser-eigentumsauskunft-property-ownership.md)
+- [Sir Anthony Hopkins Uses Google Maps to Revisit His Welsh Childhood Streets](src/2026-08/20260822-anthony-hopkins-google-maps-wales-port-talbot.md)
 - [Qu'est-ce que Cartes.gouv.fr, l'outil de la France pour concurrencer Google Maps et Street View](src/2026-08/20260714-cartes-gouv-fr-ign-sovereign-alternative-google-maps.md)
 - [Flow Maps](src/2026-08/20260713-esri-flow-maps-arcgis-pro.md)
 - [Mapping the world's building regulations: new platform for smarter reforms](src/2026-08/20260713-worldbank-building-regulations-atlas-152-economies.md)
