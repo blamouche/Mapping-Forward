@@ -17,12 +17,22 @@ Articles per month:
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
 2026-04 | ██████████████████████████████████████████████████ 154<br>
 2026-05 | ████████████████████████████████ 94<br>
-2026-08 | █████████████████████████████████ 110
+2026-08 | █████████████████████████████████████ 121
 ## Articles
 
 ### 2026
 
-#### August (110 articles)
+#### August (121 articles)
+- [It's not just you: Google Maps traffic lines have disappeared for many users](src/2026-08/20260727-google-maps-traffic-lines-disappeared-bug.md)
+- [Google Maps "2026 Update" Now Rolling Out, Also Available on Android Auto and CarPlay](src/2026-08/20260726-google-maps-2026-update-immersive-navigation-android-auto-carplay.md)
+- [Google Maps : comment afficher les feux de forêt pour les suivre en temps réel](src/2026-08/20260728-google-maps-wildfire-tracking-feature-tutorial.md)
+- [55 Gujarat Towns to Get GIS-Based Development Plans Under AMRUT 2.0](src/2026-08/20260727-gujarat-55-towns-gis-master-plans-amrut-2.md)
+- [Maptitude Named a Best GIS and Mapping Software Tool of 2026 in G2 Buyer's Guide](src/2026-08/20260728-maptitude-best-gis-software-2026-g2-buyers-guide.md)
+- [Devastating European wildfires in maps - and how they're being tackled](src/2026-08/20260729-bbc-european-wildfires-maps-satellite-data.md)
+- [Google Maps' Biggest Android Auto Upgrade Is Reaching More Users](src/2026-08/20260727-google-maps-android-auto-immersive-navigation-speedometer-rollout.md)
+- [Un GPS français gratuit calcule ce que votre trajet va vous coûter, pas seulement le temps](src/2026-08/20260727-roole-map-trip-cost-calculation-french-gps.md)
+- [Around the Geospatial, 3D, and AEC Industries: Surveys, Wetlands, and Spatial Intelligence](src/2026-08/20260728-geospatial-industry-surveys-wetlands-spatial-intelligence.md)
+- [Expanding the Urban Design Toolbox: Counter-Mapping for Gender Inclusion](src/2026-08/20260728-counter-mapping-gender-inclusion-urban-design-calgary.md)
 - [Introducing Custom Satellite Embeddings, powered by AlphaEarth Foundations](src/2026-08/20260730-google-maps-custom-satellite-embeddings-alphaearth.md)
 - [Tráfico en CDMX dispara el estrés y la ira al volante: así afecta a los conductores](src/2026-08/20260731-tomtom-traffic-index-cdmx-stress-road-rage.md)
 - [Terugblik TomTom op CES 2026: een hybride AI-tactiek voor de cockpit](src/2026-08/20260731-tomtom-ces-2026-hybrid-ai-cockpit-visteon-microsoft.md)
