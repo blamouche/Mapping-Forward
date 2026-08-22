@@ -17,9 +17,22 @@ Articles per month:
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
 2026-04 | ██████████████████████████████████████████████████ 154<br>
 2026-05 | ████████████████████████████████ 94<br>
+2026-08 | █ 10<br>
 ## Articles
 
 ### 2026
+
+#### August (10 articles)
+- [Google Maps Just Launched Truck-Aware Routing That Knows About Low Bridges and Weight Limits](src/2026-08/20260822-google-maps-large-vehicle-routing-truck-aware.md)
+- [Overture Maps Data as Parquet Feature Layers (Early Access)](src/2026-08/20260822-overture-maps-parquet-feature-layers-esri.md)
+- [Apple Maps place au Maroc des territoires espagnols, de quoi irriter Madrid](src/2026-08/20260822-apple-maps-maroc-territoires-espagnols.md)
+- [Statiq: Improving User Experience and Increasing EV App Usage with Places UI Kit](src/2026-08/20260822-statiq-ev-charging-places-ui-kit-google-maps.md)
+- [TomTom Executive Extols Virtues of Traffic Data in ULEZ Health Debate](src/2026-08/20260822-tomtom-ulez-traffic-data-health-debate.md)
+- [Spatial Is Special, Governing AI in the Geospatial Age](src/2026-08/20260822-spatial-is-special-governing-ai-geospatial-age.md)
+- [Unlocking Design Autonomy: Announcing the Layout Customization Framework for Navigation SDK](src/2026-08/20260822-google-maps-navigation-sdk-layout-customization-framework.md)
+- [After SDVs, Next Is AI: Future Cars' Battleground Is Context Data](src/2026-08/20260822-tomtom-ai-defined-vehicles-context-data.md)
+- ['Wall-to-Wall' Map of NYC Trees Could Help Cool Cities Worldwide](src/2026-08/20260822-wall-to-wall-nyc-trees-cool-cities.md)
+- [Delhi To Get Digital Twin As Master Plan 2047 Takes Urban Planning Into 3D Era](src/2026-08/20260822-delhi-digital-twin-master-plan-2047.md)
 
 #### April (154 articles)
 - [Le Français Roole Map imite Waze pour devenir très pratique en voiture](src/2026-04/20260430-roole-map-le-francais-roole-map-imite-waze.md)
