@@ -17,12 +17,18 @@ Articles per month:
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
 2026-04 | ██████████████████████████████████████████████████ 154<br>
 2026-05 | ████████████████████████████████ 94<br>
-2026-08 | █████████████████████████████████████ 121
+2026-08 | █████████████████████████████████████████████ 127
 ## Articles
 
 ### 2026
 
-#### August (121 articles)
+#### August (127 articles)
+- [Back to School with Maps! — Esri Education Blog](src/2026-08/20260822-esri-back-to-school-with-maps-education.md)
+- [GPS et écologie : pourquoi votre trajet met désormais plus de temps sur Waze ou Google Maps](src/2026-08/20260822-gps-ecologie-waze-google-maps-less-polluting-routes.md)
+- [Multi-AGV Task Scheduling and Dynamic Map Path Planning Based on Task Pre-Allocation](src/2026-08/20260822-multi-agv-dynamic-map-path-planning-task-pre-allocation.md)
+- [Maharashtra's 701-Km Samruddhi Expressway Set For GIS-Led Development Around 20+ Interchanges](src/2026-08/20260822-maharashtra-samruddhi-expressway-gis-development-plans.md)
+- [Next Geo Named in Global Top 100 Geospatial Companies – 2026 Edition](src/2026-08/20260822-next-geo-global-top-100-geospatial-companies-2026.md)
+- [ГИС Panorama Mobile для Android расширяет средства отображения пространственных данных на основе векторных тайлов](src/2026-08/20260822-gis-panorama-mobile-android-mvt-vector-tiles.md)
 - [It's not just you: Google Maps traffic lines have disappeared for many users](src/2026-08/20260727-google-maps-traffic-lines-disappeared-bug.md)
 - [Google Maps "2026 Update" Now Rolling Out, Also Available on Android Auto and CarPlay](src/2026-08/20260726-google-maps-2026-update-immersive-navigation-android-auto-carplay.md)
 - [Google Maps : comment afficher les feux de forêt pour les suivre en temps réel](src/2026-08/20260728-google-maps-wildfire-tracking-feature-tutorial.md)
