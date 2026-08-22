@@ -17,12 +17,23 @@ Articles per month:
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
 2026-04 | ██████████████████████████████████████████████████ 154<br>
 2026-05 | ████████████████████████████████ 94<br>
-2026-08 | █████████████████████████████████████████████████████ 146
+2026-08 | ████████████████████████████████████████████████████████████ 156
 ## Articles
 
 ### 2026
 
-#### August (146 articles)
+#### August (156 articles)
+- [Se il navigatore sbaglia strada, ne paga il paese: Campoformido chiede l'aggiornamento delle mappe digitali](src/2026-08/20260721-campoformido-digital-maps-update-navigators-here-apple.md)
+- [BMC Approves AI, Drone, Satellite Tech To Detect Illegal Constructions And Encroachments Across Mumbai](src/2026-08/20260721-bmc-ai-drone-satellite-illegal-constructions-mumbai-gis.md)
+- [Liberaware and Pasco Agree on Joint GIS-Based Sewer Infrastructure Inspection Using IBIS Drone Data](src/2026-08/20260721-liberaware-pasco-gis-sewer-inspection-ibis-drone.md)
+- [ESTA Backs Use of Intelligent Access to Help European Transport Sector](src/2026-08/20260721-esta-intelligent-access-european-transport-tomtom-tisa.md)
+- [Football World Championship 2026 Puts Pressure on US-Mexico Border Crossings](src/2026-08/20260720-tomtom-world-cup-2026-us-mexico-border-crossings-traffic.md)
+- [Google Maps Said a Hike Would Take 5 Hours. B.C. Rescuers Pointed Out How Wrong That Was](src/2026-08/20260720-ctv-news-google-maps-hike-5-hours-bc-rescue.md)
+- [Waze Dopée à l'IA Gemini, l'Interface de Google Maps Évolue : le Récap' de la Semaine](src/2026-08/20260719-phonandroid-waze-gemini-ai-google-maps-immersive-navigation-recap.md)
+- [Waze Vs. Google Maps: Which App Is Best For Older Drivers?](src/2026-08/20260719-bgr-waze-vs-google-maps-older-drivers.md)
+- [Why Less Accurate Subway Maps Are More Useful](src/2026-08/20260719-morning-brew-subway-maps-beck-diagrammatic-design-london-tube.md)
+- [Detailed Maps of European Wetlands Reveal Overlooked Patches of Ecosystems](src/2026-08/20260719-nature-european-wetlands-ml-satellite-maps-overlooked-ecosystems.md)
+- [New Interactive Map Highlights Income Inequalities Between N.B. Neighbourhoods](src/2026-08/20260719-cbc-new-brunswick-interactive-map-income-inequality-neighbourhoods.md)
 - [Google Maps Killed The Restaurant Star](src/2026-08/20260720-google-maps-killed-restaurant-star-hackaday.md)
 - [New Web Tool Maps Fossil Locations Across Ancient Continents in Seconds](src/2026-08/20260720-paca-paleocoordinates-fossil-ancient-continents.md)
 - [Central Bedfordshire Maps Services to Identify Potential Sites](src/2026-08/20260721-central-bedfordshire-gis-maps-services-potential-sites.md)
