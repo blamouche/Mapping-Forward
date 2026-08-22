@@ -17,10 +17,23 @@ Articles per month:
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
 2026-04 | ██████████████████████████████████████████████████ 154<br>
 2026-05 | ████████████████████████████████ 117<br>
-2026-08 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████ 218
+2026-07 | █████ 10<br>
+2026-08 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████ 218<br>
 ## Articles
 
 ### 2026
+
+#### July (10 articles)
+- [Brave Place Search API: The Google Maps Alternative That Costs 6–7x Less](src/2026-07/20260708-brave-place-search-api-google-maps-alternative.md)
+- [TomTom Orbis APIs Are Now in General Availability](src/2026-07/20260708-tomtom-orbis-apis-general-availability.md)
+- [Orbis: Making Location Intelligence Accessible — TomTom Grounds AI in Real-World Map Data](src/2026-07/20260708-tomtom-orbis-location-intelligence-ai-grounding.md)
+- [TomTom Partners with Transit Technologies to Enhance US Fleet Operations](src/2026-07/20260707-tomtom-transit-technologies-fleet-partnership.md)
+- [Fraichoù: A French App That Finds the Coolest Walking Routes During Heat Waves](src/2026-07/20260707-fraichou-heat-wave-routing-alternative-google-maps.md)
+- [Cartes.gouv.fr: France's Sovereign Alternative to Google Maps and Waze Adds Street View](src/2026-07/20260707-cartes-gouv-fr-street-view-ign-sovereign-mapping.md)
+- [Casablanca Digitizes Road Network Management with GIS-Based System](src/2026-07/20260707-casablanca-gis-road-network-digital-overhaul.md)
+- [At MSU GIS Day, Rural Montana Students Learn About Mapping Skills and Career Paths](src/2026-07/20260708-msu-gis-day-rural-montana-students-mapping-careers.md)
+- [Google Maps Could Soon Order Your Food While You Drive — Gemini Integration Teased](src/2026-07/20260706-google-maps-gemini-food-ordering-agentic.md)
+- [Esri ArcGIS Online: Discover How Your Layers, Scenes, Maps, and Apps Connect](src/2026-07/20260706-esri-arcgis-online-item-dependencies-layers-maps-apps.md)
 
 #### August (218 articles)
 - [Scientists use AI to produce first high-resolution map of global seagrass extent](src/2026-08/20260710-ai-high-resolution-map-global-seagrass-extent-mongabay.md)
