@@ -17,12 +17,22 @@ Articles per month:
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
 2026-04 | ██████████████████████████████████████████████████ 154<br>
 2026-05 | ████████████████████████████████ 94<br>
-2026-08 | ██ 20<br>
+2026-08 | █████ 30<br>
 ## Articles
 
 ### 2026
 
-#### August (20 articles)
+#### August (30 articles)
+- [Google Maps Is Great for Road Trips. On the Trail, It's Getting Hikers Rescued.](src/2026-08/20260817-google-maps-hikers-rescued-trail-navigation.md)
+- [Amateur Astronomer Discovers 390-Million-Year-Old Meteorite Crater on Google Maps](src/2026-08/20260817-google-maps-meteorite-crater-uhackatik-quebec.md)
+- [Google Maps Envoie les Touristes sur une Fausse Départementale vers l'Espagne](src/2026-08/20260817-google-maps-fausse-departementale-perpignan-espagne.md)
+- [Google Maps et ABRP: Comment les Conducteurs EV Évitent les Files aux Bornes d'Autoroute](src/2026-08/20260817-ev-charging-google-maps-abrp-borne-autoroute.md)
+- [TomTom Fournit Gratuitement des Outils de Trafic pour les Victimes du Séisme de Kumamoto](src/2026-08/20260817-tomtom-kumamoto-earthquake-free-traffic-data.md)
+- [Top 10 Most Congested Cities in India With the Worst Traffic, According to TomTom Traffic Index](src/2026-08/20260817-tomtom-india-congested-cities-traffic-index-2025.md)
+- [ETH Zurich Student Creates 3D GIS Web App to Map Bird Migration](src/2026-08/20260817-eth-zurich-3d-gis-web-app-bird-migration.md)
+- [Enhancing Groundwater Potential Mapping in Arid Regions Through Integrated Microwave Remote Sensing](src/2026-08/20260816-groundwater-mapping-arid-regions-microwave-remote-sensing.md)
+- [Closing the Distance Between Population Data and Decisions](src/2026-08/20260816-esri-unfpa-population-intelligence-hackathon.md)
+- [Esri UC 2026 Part 1: From Data to Maps: My Hands-On GIS Experience](src/2026-08/20260816-esri-uc-2026-hands-on-gis-experience.md)
 - [Cedar Electronics Selects TomTom Orbis Maps to Enhance Speed Awareness Across the United States](src/2026-08/20260822-tomtom-orbis-maps-cedar-electronics-speed-awareness.md)
 - [HD Map Industry Trends Driving Autonomous and Connected Mobility](src/2026-08/20260822-hd-map-autonomous-vehicles-industry-trends.md)
 - [TomTom and Microsoft Extend Collaboration on AI-Powered Mobility Solutions](src/2026-08/20260822-tomtom-microsoft-extend-collaboration-ai-mobility.md)
