@@ -17,12 +17,12 @@ Articles per month:
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
 2026-04 | ██████████████████████████████████████████████████ 154<br>
 2026-05 | ████████████████████████████████ 94<br>
-2026-08 | █████████████████████████ 90
+2026-08 | ████████████████████████████ 100
 ## Articles
 
 ### 2026
 
-#### August (90 articles)
+#### August (100 articles)
 - [The Hidden Cost of Low-Quality Traffic Data](src/2026-08/20260810-tomtom-hidden-cost-low-quality-traffic-data.md)
 - [Comment Google Maps prédit-il les embouteillages avant qu'ils ne se produisent ?](src/2026-08/20260809-google-maps-predicts-traffic-congestion-ai.md)
 - [J'ai essayé de remplacer Google Maps pendant 4 ans : mon bilan sans concession](src/2026-08/20260809-replacing-google-maps-4-years-lesnumeriques.md)
@@ -113,6 +113,17 @@ Articles per month:
 - [What's New in ArcGIS Maps SDKs for Native Apps 300.1: Gaussian Splats, Overture Maps Labels, and On-Device Analysis](src/2026-08/20260805-arcgis-maps-sdks-native-apps-300-1.md)
 - [Announcing ArcGIS Maps SDK 2.4 for Unreal Engine: Gaussian Splats, Point Clouds, and Enhanced 3D Tiles](src/2026-08/20260805-arcgis-maps-sdk-2-4-unreal-engine.md)
 - [Ask Maps Gets More Helpful with Food Ordering, Hotel Booking, and Personal Intelligence](src/2026-08/20260806-ask-maps-agentic-food-ordering-hotel-booking.md)
+- [TomTom-Blitzerwarner im Test: Stau, Gefahren und Baustellen in Echtzeit](src/2026-08/20260803-tomtom-blitzerwarner-test-real-time-traffic-germany.md)
+- [Blitzerwarner im Test: Ooono, TomTom oder doch Blitzer.de?](src/2026-08/20260803-blitzerwarner-test-tomtom-ooono-chip-comparison.md)
+- [Face à Google Maps, reprendre les cartes en main](src/2026-08/20260802-la-croix-face-google-maps-reprendre-cartes-en-main.md)
+- [I Raced Waze Against Google Maps, and There Was a Clear Winner](src/2026-08/20260803-howtogeek-raced-waze-against-google-maps.md)
+- [Google Removes AI Image Generation Feature from Google Earth Over Misinformation Concerns](src/2026-08/20260731-google-earth-removes-ai-image-generation-feature.md)
+- [US Apologises After AI-Generated Map Wrongly Labels All African Countries at Global Conference](src/2026-08/20260731-us-apologises-ai-generated-map-wrongly-labels-african-countries.md)
+- [Route des vacances : pourquoi Waze et Google Maps ne sont plus toujours les meilleurs](src/2026-08/20260801-capital-waze-google-maps-nash-equilibrium-traffic.md)
+- [Maharashtra to Deploy AI, Geo-Tagging and GIS Mapping to Track Urban Development](src/2026-08/20260731-maharashtra-ai-geo-tagging-gis-mapping-urban-development.md)
+- [US Government Mislabels Countries on Map of Africa at Global Conference](src/2026-08/20260731-aljazeera-us-government-mislabels-countries-map-africa.md)
+- [US Admits 'Unfortunate Error' After Mislabelling Countries on Map of Africa](src/2026-08/20260731-bbc-us-admits-unfortunate-error-mislabelling-countries-africa.md)
+- [One Region. 40,000 Bus Stops. An OSM Map at Every One. — State of the Map 2026](src/2026-08/20260828-sotm-osm-plans-de-proximite-40000-bus-stops-paris.md)
 
 #### April (154 articles)
 - [Le Français Roole Map imite Waze pour devenir très pratique en voiture](src/2026-04/20260430-roole-map-le-francais-roole-map-imite-waze.md)
