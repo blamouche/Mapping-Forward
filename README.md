@@ -18,7 +18,7 @@ Articles per month:
 2026-04 | ██████████████████████████████████████████████████ 154<br>
 2026-05 | ████████████████████████████████ 117<br>
 2026-07 | █████ 10<br>
-2026-08 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████ 218<br>
+2026-08 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 222<br>
 ## Articles
 
 ### 2026
@@ -35,7 +35,7 @@ Articles per month:
 - [Google Maps Could Soon Order Your Food While You Drive — Gemini Integration Teased](src/2026-07/20260706-google-maps-gemini-food-ordering-agentic.md)
 - [Esri ArcGIS Online: Discover How Your Layers, Scenes, Maps, and Apps Connect](src/2026-07/20260706-esri-arcgis-online-item-dependencies-layers-maps-apps.md)
 
-#### August (218 articles)
+#### August (222 articles)
 - [Scientists use AI to produce first high-resolution map of global seagrass extent](src/2026-08/20260710-ai-high-resolution-map-global-seagrass-extent-mongabay.md)
 - [Use Python in ArcGIS CityEngine and import features from Overture Maps](src/2026-08/20260710-arcgis-cityengine-python3-overture-maps-esri.md)
 - [Neue GIS-Plattform für alle Versorgungssparten — Stadtwerke Baden-Baden migrates to VertiGIS](src/2026-08/20260710-baden-baden-vertigis-gis-platform-utility-networks.md)
@@ -254,6 +254,10 @@ Articles per month:
 - [US Government Mislabels Countries on Map of Africa at Global Conference](src/2026-08/20260731-aljazeera-us-government-mislabels-countries-map-africa.md)
 - [US Admits 'Unfortunate Error' After Mislabelling Countries on Map of Africa](src/2026-08/20260731-bbc-us-admits-unfortunate-error-mislabelling-countries-africa.md)
 - [One Region. 40,000 Bus Stops. An OSM Map at Every One. — State of the Map 2026](src/2026-08/20260828-sotm-osm-plans-de-proximite-40000-bus-stops-paris.md)
+- [Maps That Read Real-Time Road Changes: WaysOne Unveils LDM Technology](src/2026-08/20260822-waysone-ldm-dynamic-map-autonomous-driving-venturesquare.md)
+- [3366 Hectares Burned in the Hautes Fagnes: Map Visualization Puts the Scale in Perspective](src/2026-08/20260822-rtbf-hautes-fagnes-fire-map-3366-hectares-copernicus.md)
+- [Integrated GIS-Based Multi-Criteria Approach for Seismic Hazard Mapping in the Arabian–Eurasian Convergence Zone](src/2026-08/20260820-gis-seismic-hazard-mapping-arabian-eurasian-nature.md)
+- [Why Apple Maps Is Taking Up So Much Storage — And How to Free Up Space](src/2026-08/20260818-apple-maps-storage-space-iphone-bgr.md)
 
 #### April (154 articles)
 - [Le Français Roole Map imite Waze pour devenir très pratique en voiture](src/2026-04/20260430-roole-map-le-francais-roole-map-imite-waze.md)
