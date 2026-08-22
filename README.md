@@ -17,12 +17,22 @@ Articles per month:
 2026-03 | ████████████████████████████████████████████████████████████████████ 202<br>
 2026-04 | ██████████████████████████████████████████████████ 154<br>
 2026-05 | ████████████████████████████████ 94<br>
-2026-08 | ████████████████████████████ 100
+2026-08 | █████████████████████████████████ 110
 ## Articles
 
 ### 2026
 
-#### August (100 articles)
+#### August (110 articles)
+- [Introducing Custom Satellite Embeddings, powered by AlphaEarth Foundations](src/2026-08/20260730-google-maps-custom-satellite-embeddings-alphaearth.md)
+- [Tráfico en CDMX dispara el estrés y la ira al volante: así afecta a los conductores](src/2026-08/20260731-tomtom-traffic-index-cdmx-stress-road-rage.md)
+- [Terugblik TomTom op CES 2026: een hybride AI-tactiek voor de cockpit](src/2026-08/20260731-tomtom-ces-2026-hybrid-ai-cockpit-visteon-microsoft.md)
+- [The France and Spain wildfires' path of destruction in maps, satellite images and photos](src/2026-08/20260730-europe-wildfires-2026-maps-satellite-destruction.md)
+- [Google Maps now provides real-time MRT disruption alerts in Singapore](src/2026-08/20260729-google-maps-real-time-mrt-disruption-alerts-singapore.md)
+- [Corporate Home Buying Expands: Maps Reveal Changing Ownership Patterns](src/2026-08/20260730-esri-mapping-corporate-housing-ownership-us.md)
+- [Contrôles routiers : comment Waze et Google Maps obligent désormais la police française à changer de stratégie](src/2026-08/20260731-waze-google-maps-police-controls-strategy-france.md)
+- [Maps show where heavy rainfall poses flood risks across Northeast US](src/2026-08/20260729-cbs-maps-heavy-rainfall-flooding-northeast-us.md)
+- [Apple Maps in iOS 27 makes Suggested Places feature even better](src/2026-08/20260729-apple-maps-ios-27-suggested-places-recommendations.md)
+- [Hamnet author Maggie O'Farrell on maps as rebellion](src/2026-08/20260729-maggie-ofarrell-land-ireland-mapmaking-rebellion.md)
 - [The Hidden Cost of Low-Quality Traffic Data](src/2026-08/20260810-tomtom-hidden-cost-low-quality-traffic-data.md)
 - [Comment Google Maps prédit-il les embouteillages avant qu'ils ne se produisent ?](src/2026-08/20260809-google-maps-predicts-traffic-congestion-ai.md)
 - [J'ai essayé de remplacer Google Maps pendant 4 ans : mon bilan sans concession](src/2026-08/20260809-replacing-google-maps-4-years-lesnumeriques.md)
