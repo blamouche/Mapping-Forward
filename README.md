@@ -18,7 +18,7 @@ Articles per month:
 2026-04 | ██████████████████████████████████████████████████ 154<br>
 2026-05 | ████████████████████████████████ 117<br>
 2026-07 | █████ 10<br>
-2026-08 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 232<br>
+2026-08 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 233<br>
 ## Articles
 
 ### 2026
@@ -35,7 +35,8 @@ Articles per month:
 - [Google Maps Could Soon Order Your Food While You Drive — Gemini Integration Teased](src/2026-07/20260706-google-maps-gemini-food-ordering-agentic.md)
 - [Esri ArcGIS Online: Discover How Your Layers, Scenes, Maps, and Apps Connect](src/2026-07/20260706-esri-arcgis-online-item-dependencies-layers-maps-apps.md)
 
-#### August (232 articles)
+#### August (233 articles)
+- [Opening the GIS World: From "Maps" to GeoAI — Technology Turning Data into the Future](src/2026-08/20260822-gis-geoai-thailand-digital-twin-location-intelligence.md)
 - [This Little-Known Waze Workaround Solved My Biggest Android Auto Navigation Issues](src/2026-08/20260706-androidpolice-waze-workaround-android-auto-navigation.md)
 - [« Préférer l'ombre » : Google Maps prépare une option étonnante pour vos trajets à pied](src/2026-08/20260706-jeuxvideo-google-maps-prefer-shade-walking-routes.md)
 - [There's a Global Network of Fungi Under Your Feet. This Is the First Complete Map](src/2026-08/20260705-wired-global-fungi-network-first-complete-map.md)
