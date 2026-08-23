@@ -1,3 +1,6 @@
+## 0.1.785 - 2026-08-23
+- Daily veille mapping: empty Gmail run (0 messages); added 10 untracked July articles to README (August count 222→232)
+
 ## 0.1.784 - 2026-05-27
 - Add batch recap: 2026-05-27 150100 (2 syntheses: Building the Geospatial Pipeline + Geo Week Call for Speakers)
 

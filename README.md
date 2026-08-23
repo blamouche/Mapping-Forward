@@ -18,7 +18,7 @@ Articles per month:
 2026-04 | ██████████████████████████████████████████████████ 154<br>
 2026-05 | ████████████████████████████████ 117<br>
 2026-07 | █████ 10<br>
-2026-08 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 222<br>
+2026-08 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 232<br>
 ## Articles
 
 ### 2026
@@ -35,7 +35,17 @@ Articles per month:
 - [Google Maps Could Soon Order Your Food While You Drive — Gemini Integration Teased](src/2026-07/20260706-google-maps-gemini-food-ordering-agentic.md)
 - [Esri ArcGIS Online: Discover How Your Layers, Scenes, Maps, and Apps Connect](src/2026-07/20260706-esri-arcgis-online-item-dependencies-layers-maps-apps.md)
 
-#### August (222 articles)
+#### August (232 articles)
+- [This Little-Known Waze Workaround Solved My Biggest Android Auto Navigation Issues](src/2026-08/20260706-androidpolice-waze-workaround-android-auto-navigation.md)
+- [« Préférer l'ombre » : Google Maps prépare une option étonnante pour vos trajets à pied](src/2026-08/20260706-jeuxvideo-google-maps-prefer-shade-walking-routes.md)
+- [There's a Global Network of Fungi Under Your Feet. This Is the First Complete Map](src/2026-08/20260705-wired-global-fungi-network-first-complete-map.md)
+- [The Most Sophisticated Transit Map for the Entire Bay Area Is Here](src/2026-08/20260705-sfgate-bay-area-regional-transit-map.md)
+- [I Found a Free Map App That Works With No Signal — and No Subscription](src/2026-08/20260704-makeuseof-organic-maps-free-offline-navigation-app.md)
+- [This Google Maps Setting Helps Me Save Gas, But You Might Have It Configured Wrong](src/2026-08/20260704-howtogeek-google-maps-fuel-efficient-routes-setting.md)
+- [Geological Survey of Victoria Maps 200,000 Unrecorded Gold Rush Mining Features](src/2026-08/20260704-abc-victoria-lidar-maps-200000-gold-rush-mining-features.md)
+- [How Creative Maps Make Air Pollution More Visible](src/2026-08/20260703-conversation-creative-maps-air-pollution-visible.md)
+- [GIS Cloud Brings Generative AI to GIS Workflows](src/2026-08/20260702-geoawesome-gis-cloud-generative-ai-gis-workflows.md)
+- [These 3 Maps Show the Disaster of the Venezuela Earthquakes](src/2026-08/20260702-apnews-venezuela-earthquake-maps-disaster.md)
 - [Scientists use AI to produce first high-resolution map of global seagrass extent](src/2026-08/20260710-ai-high-resolution-map-global-seagrass-extent-mongabay.md)
 - [Use Python in ArcGIS CityEngine and import features from Overture Maps](src/2026-08/20260710-arcgis-cityengine-python3-overture-maps-esri.md)
 - [Neue GIS-Plattform für alle Versorgungssparten — Stadtwerke Baden-Baden migrates to VertiGIS](src/2026-08/20260710-baden-baden-vertigis-gis-platform-utility-networks.md)
