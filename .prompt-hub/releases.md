@@ -1,3 +1,6 @@
+## 0.1.789 - 2026-08-23
+- Daily veille mapping: empty Gmail run (0 messages); repo clean/synced, no untracked files
+
 ## 0.1.788 - 2026-08-23
 - Daily veille mapping: empty Gmail run (0 messages); repo clean/synced, no untracked files
 
