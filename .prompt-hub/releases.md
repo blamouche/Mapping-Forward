@@ -1,3 +1,6 @@
+## 0.1.786 - 2026-08-23
+- Daily veille mapping: empty Gmail run (0 messages); repo clean/synced, no untracked files
+
 ## 0.1.785 - 2026-08-23
 - Daily veille mapping: empty Gmail run (0 messages); added 10 untracked July articles to README (August count 222→232)
 
