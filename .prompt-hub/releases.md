@@ -1,3 +1,6 @@
+## 0.1.796 - 2026-08-24
+- Validate Pages deployment: workflow_dispatch success, site live at https://blamouche.github.io/Mapping-Forward/ (index, archives, RSS, article pages all 200)
+
 ## 0.1.795 - 2026-08-24
 - Enable GitHub Pages for the static site (build_type=workflow, https://blamouche.github.io/Mapping-Forward/); workflow now deploys `docs/dist` via `upload-pages-artifact` + `deploy-pages`
 
