@@ -1,3 +1,6 @@
+## 0.1.802 - 2026-08-24
+- Align the article detail page style with the home page article card style (`docs/build_site.py` CSS): `.article-full` becomes a card container (bg-card, border, radius, padding), meta + elevator pitch + takeaways section match the card styles, mobile padding override
+
 ## 0.1.801 - 2026-08-24
 - Add a "Subscribe" link in the site header navbar (`docs/build_site.py`), pointing to the Substack subscribe URL (utm_source=menu); kept the existing "Substack" link
 
