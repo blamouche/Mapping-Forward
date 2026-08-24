@@ -1,3 +1,6 @@
+## 0.1.798 - 2026-08-24
+- Remove the "Static site generated on … — Source" line from the site footer (`docs/build_site.py`), rebuilt `docs/dist`; footer keeps site title + subtitle only
+
 ## 0.1.797 - 2026-08-24
 - Commit style refresh + picto removals (`docs/build_site.py`), rebuilt `docs/dist` (788 files); push auto-triggers rebuild + Pages redeploy with the new style
 

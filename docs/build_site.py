@@ -219,7 +219,6 @@ def page_html(title, body, nav_active="", base=""):
 </main>
 <footer class="site-footer">
     <p>{SITE_TITLE} — {SITE_SUBTITLE}</p>
-    <p>Static site generated on {datetime.now().strftime("%d %b %Y at %H:%M")} — <a href="https://github.com/blamouche/Mapping-Forward">Source</a></p>
 </footer>
 </body>
 </html>"""
