@@ -1,3 +1,6 @@
+## 0.1.793 - 2026-08-24
+- Add GitHub Actions workflow (`build-site.yml`) to regenerate the static site daily at 09:00 Paris time and commit `site/dist/` to main (also on push to `src/` or `site/build_site.py`); dist stays gitignored locally, committed via `git add -f`
+
 ## 0.1.792 - 2026-08-23
 - Daily veille mapping: empty Gmail run (0 unread messages); repo clean/synced, no untracked files, 0 emails trashed
 
