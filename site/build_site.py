@@ -11,8 +11,8 @@ import html
 import glob
 import json
 import hashlib
-from datetime import datetime, date
-from collections import defaultdict, OrderedDict
+from datetime import datetime, date, timedelta
+from collections import defaultdict, OrderedDict, Counter
 from html import escape
 
 # ─── Paths ───────────────────────────────────────────────────────────────────
@@ -24,12 +24,16 @@ TEMPLATE_DIR = os.path.join(SCRIPT_DIR, "templates")
 
 # ─── Config ───────────────────────────────────────────────────────────────────
 SITE_TITLE = "Mapping Forward"
-SITE_SUBTITLE = "Veille cartographique et intelligence géographique"
-SITE_URL = "https://mappingforward.fr"  # à adapter
-SITE_DESCRIPTION = "Synthèses quotidiennes d'articles sur la cartographie, le mapping, le géospatial et l'intelligence géographique"
-SITE_LANG = "fr"
+SITE_SUBTITLE = "Cartography and geospatial intelligence watch"
+SITE_URL = "https://mappingforward.fr"  # adjust as needed
+SITE_DESCRIPTION = "Daily synthesis of articles on cartography, mapping, geospatial data, and geographic intelligence"
+SITE_LANG = "en"
 SITE_AUTHOR = "Benoit Lamouche"
 ARTICLES_PER_PAGE = 25
+
+def plural(n, word):
+    """English pluralization helper: plural(1, 'article') -> '1 article'."""
+    return f"{n} {word}" if n == 1 else f"{n} {word}s"
 
 # ─── Markdown parsing ─────────────────────────────────────────────────────────
 
@@ -106,13 +110,14 @@ def parse_article(filepath):
         data["month"] = ""
         data["day"] = ""
 
-    # Generate slug and URL path
+    # Generate slug and URL path (relative to site root, no leading slash —
+    # keeps the site browsable both via a web server and directly via file://)
     slug = fname.replace(".md", "")
     data["slug"] = slug
     if data["year"] and data["month"]:
-        data["url"] = f"/articles/{data['year']}-{data['month']}/{slug}.html"
+        data["url"] = f"articles/{data['year']}-{data['month']}/{slug}.html"
     else:
-        data["url"] = f"/articles/{slug}.html"
+        data["url"] = f"articles/{slug}.html"
 
     return data
 
@@ -177,17 +182,23 @@ def inline_md(text):
     return text
 
 
-def page_html(title, body, nav_active=""):
-    """Wrap content in full HTML page with CSS."""
+def page_html(title, body, nav_active="", base=""):
+    """Wrap content in full HTML page with CSS.
+
+    `base` is the relative path prefix back to the site root (e.g. "" at the
+    root, "../../" from articles/YYYY-MM/*.html). Using relative links
+    throughout means the generated site works both served by a web server
+    and opened directly via file://.
+    """
     nav = f"""
 <nav class="navbar">
     <div class="nav-brand">
-        <a href="/">🗺️ {SITE_TITLE}</a>
+        <a href="{base}index.html">🗺️ {SITE_TITLE}</a>
     </div>
     <div class="nav-links">
-        <a href="/" class="{ 'active' if nav_active == 'home' else '' }">Accueil</a>
-        <a href="/archives.html" class="{ 'active' if nav_active == 'archives' else '' }">Archives</a>
-        <a href="/feed.xml" class="{ 'active' if nav_active == 'rss' else '' }">RSS</a>
+        <a href="{base}index.html" class="{ 'active' if nav_active == 'home' else '' }">Home</a>
+        <a href="{base}archives.html" class="{ 'active' if nav_active == 'archives' else '' }">Archives</a>
+        <a href="{base}feed.xml" class="{ 'active' if nav_active == 'rss' else '' }">RSS</a>
         <a href="https://mappingforward.substack.com" target="_blank" rel="noopener">Substack</a>
     </div>
 </nav>"""
@@ -198,8 +209,8 @@ def page_html(title, body, nav_active=""):
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{escape(title)} — {SITE_TITLE}</title>
     <meta name="description" content="{escape(SITE_DESCRIPTION)}">
-    <link rel="alternate" type="application/rss+xml" title="{SITE_TITLE}" href="/feed.xml">
-    <link rel="stylesheet" href="/style.css">
+    <link rel="alternate" type="application/rss+xml" title="{SITE_TITLE}" href="{base}feed.xml">
+    <link rel="stylesheet" href="{base}style.css">
 </head>
 <body>
 {nav}
@@ -208,13 +219,106 @@ def page_html(title, body, nav_active=""):
 </main>
 <footer class="site-footer">
     <p>{SITE_TITLE} — {SITE_SUBTITLE}</p>
-    <p>Site statique généré le {datetime.now().strftime("%d/%m/%Y à %H:%M")} — <a href="https://github.com/blamouche/Mapping-Forward">Source</a></p>
+    <p>Static site generated on {datetime.now().strftime("%d %b %Y at %H:%M")} — <a href="https://github.com/blamouche/Mapping-Forward">Source</a></p>
 </footer>
 </body>
 </html>"""
 
 
 # ─── Page generators ──────────────────────────────────────────────────────────
+
+MONTH_NAMES_EN = {
+    1: "January", 2: "February", 3: "March", 4: "April",
+    5: "May", 6: "June", 7: "July", 8: "August",
+    9: "September", 10: "October", 11: "November", 12: "December"
+}
+MONTH_ABBR_EN = {
+    1: "Jan", 2: "Feb", 3: "Mar", 4: "Apr", 5: "May", 6: "Jun",
+    7: "Jul", 8: "Aug", 9: "Sep", 10: "Oct", 11: "Nov", 12: "Dec"
+}
+DAY_NAMES_EN = {
+    0: "Monday", 1: "Tuesday", 2: "Wednesday", 3: "Thursday",
+    4: "Friday", 5: "Saturday", 6: "Sunday"
+}
+
+
+def generate_heatmap(articles):
+    """Generate a GitHub-style contribution heatmap (articles per day, last 12 months).
+
+    Pure HTML/CSS grid, no JavaScript — cell tooltips use the native `title`
+    attribute, consistent with the rest of the site.
+    """
+    counts = Counter()
+    for a in articles:
+        if re.match(r"\d{4}-\d{2}-\d{2}", a["date_sort"]):
+            counts[a["date_sort"]] += 1
+
+    today = date.today()
+    # Align the grid to full weeks (Sunday -> Saturday) covering the trailing year
+    range_start = today - timedelta(days=364)
+    range_start -= timedelta(days=(range_start.weekday() + 1) % 7)  # back up to Sunday
+    range_end = today + timedelta(days=(5 - today.weekday()) % 7)  # forward to Saturday
+
+    total_days = (range_end - range_start).days + 1
+    weeks = total_days // 7
+
+    def level_for(n):
+        if n <= 0:
+            return 0
+        if n <= 2:
+            return 1
+        if n <= 4:
+            return 2
+        if n <= 7:
+            return 3
+        return 4
+
+    month_cols = []  # (week_index, month_abbr)
+    last_month = None
+    cells = []
+    for w in range(weeks):
+        week_start = range_start + timedelta(days=w * 7)
+        if week_start.month != last_month:
+            month_cols.append((w, MONTH_ABBR_EN[week_start.month]))
+            last_month = week_start.month
+        for d_offset in range(7):
+            cur = range_start + timedelta(days=w * 7 + d_offset)
+            if cur > today:
+                cells.append('<span class="heatmap-cell is-future" aria-hidden="true"></span>')
+                continue
+            n = counts.get(cur.isoformat(), 0)
+            label = f"{plural(n, 'article')} on {DAY_NAMES_EN[cur.weekday()]}, {MONTH_NAMES_EN[cur.month]} {cur.day}, {cur.year}"
+            cells.append(f'<span class="heatmap-cell level-{level_for(n)}" title="{escape(label)}" aria-label="{escape(label)}" role="img"></span>')
+
+    month_labels_html = "".join(
+        f'<span style="grid-column: {w + 1};">{name}</span>' for w, name in month_cols
+    )
+
+    return f"""
+<section class="heatmap-section">
+    <h2 class="heatmap-title">Activity over the last 12 months</h2>
+    <div class="heatmap-scroll">
+        <div class="heatmap" style="--weeks: {weeks};">
+            <div class="heatmap-months">{month_labels_html}</div>
+            <div class="heatmap-body">
+                <div class="heatmap-daylabels">
+                    <span></span><span>Mon</span><span></span><span>Wed</span><span></span><span>Fri</span><span></span>
+                </div>
+                <div class="heatmap-grid">{"".join(cells)}</div>
+            </div>
+        </div>
+    </div>
+    <div class="heatmap-legend">
+        <span>Less</span>
+        <span class="heatmap-cell level-0"></span>
+        <span class="heatmap-cell level-1"></span>
+        <span class="heatmap-cell level-2"></span>
+        <span class="heatmap-cell level-3"></span>
+        <span class="heatmap-cell level-4"></span>
+        <span>More</span>
+    </div>
+</section>"""
+
 
 def generate_index(articles):
     """Generate homepage with daily synthesis + recent articles."""
@@ -233,8 +337,10 @@ def generate_index(articles):
 <header class="hero">
     <h1>🗺️ {SITE_TITLE}</h1>
     <p class="subtitle">{SITE_SUBTITLE}</p>
-    <p class="stats">{len(articles)} articles · {len(sorted_dates)} jours de veille</p>
+    <p class="stats">{plural(len(articles), 'article')} · {plural(len(sorted_dates), 'day')} of watch</p>
 </header>""")
+
+    body_parts.append(generate_heatmap(articles))
 
     # Daily synthesis sections (show last 7 days with content)
     days_shown = 0
@@ -244,38 +350,29 @@ def generate_index(articles):
             break
         day_articles = by_date[dt]
         # Format date nicely
-        month_names_fr = {
-            1: "janvier", 2: "février", 3: "mars", 4: "avril",
-            5: "mai", 6: "juin", 7: "juillet", 8: "août",
-            9: "septembre", 10: "octobre", 11: "novembre", 12: "décembre"
-        }
-        day_names_fr = {
-            0: "lundi", 1: "mardi", 2: "mercredi", 3: "jeudi",
-            4: "vendredi", 5: "samedi", 6: "dimanche"
-        }
         try:
             d = datetime.strptime(dt, "%Y-%m-%d")
-            date_fr = f"{day_names_fr[d.weekday()]} {d.day} {month_names_fr[d.month]} {d.year}"
+            date_en = f"{DAY_NAMES_EN[d.weekday()]}, {MONTH_NAMES_EN[d.month]} {d.day}, {d.year}"
         except:
-            date_fr = dt
+            date_en = dt
 
         day_id = dt.replace("-", "")
         body_parts.append(f"""
 <section class="daily-synthesis" id="day-{day_id}">
     <h2 class="day-header">
-        <time datetime="{dt}">{date_fr}</time>
-        <span class="article-count">{len(day_articles)} article(s)</span>
+        <time datetime="{dt}">{date_en}</time>
+        <span class="article-count">{plural(len(day_articles), 'article')}</span>
     </h2>
     <div class="day-articles">""")
 
         for a in day_articles:
             takeaways_html = ""
             if a["takeaways"]:
-                takeaways_html = f'<details class="takeaways"><summary>Points clés</summary><ul>{"".join(f"<li>{escape(t)}</li>" for t in a["takeaways"])}</ul></details>'
+                takeaways_html = f'<details class="takeaways"><summary>Key takeaways</summary><ul>{"".join(f"<li>{escape(t)}</li>" for t in a["takeaways"])}</ul></details>'
 
             source_link = ""
             if a["source"]:
-                source_link = f'<a href="{escape(a["source"])}" target="_blank" rel="noopener" class="source-link">→ Article source</a>'
+                source_link = f'<a href="{escape(a["source"])}" target="_blank" rel="noopener" class="source-link">→ Source article</a>'
 
             body_parts.append(f"""
         <article class="article-card">
@@ -297,18 +394,23 @@ def generate_index(articles):
     # Link to archives
     body_parts.append("""
 <div class="archives-link">
-    <a href="/archives.html" class="btn">📚 Voir toutes les archives →</a>
+    <a href="archives.html" class="btn">📚 View all archives →</a>
 </div>""")
 
-    return page_html("Accueil", "\n".join(body_parts), nav_active="home")
+    return page_html("Home", "\n".join(body_parts), nav_active="home")
 
 
 def generate_article_page(article):
     """Generate individual article page (fiche de récap)."""
+    # Articles live two levels deep (articles/YYYY-MM/slug.html) unless the
+    # date couldn't be parsed from the filename, in which case they sit one
+    # level deep (articles/slug.html).
+    base = "../../" if (article["year"] and article["month"]) else "../"
+
     body_parts = []
     body_parts.append(f"""
 <article class="article-full">
-    <a href="/" class="back-link">← Retour à l'accueil</a>
+    <a href="{base}index.html" class="back-link">← Back home</a>
     <h1>{escape(article["title"])}</h1>
     <div class="article-meta-full">
         <span class="meta-date">📅 {escape(article["date"])}</span>
@@ -319,45 +421,36 @@ def generate_article_page(article):
     if article["source"]:
         body_parts.append(f"""
     <a href="{escape(article["source"])}" target="_blank" rel="noopener" class="source-link-full">
-        🔗 Lire l'article source →
+        🔗 Read the source article →
     </a>""")
 
     if article["elevator_pitch"]:
         body_parts.append(f"""
     <section class="elevator-pitch-section">
-        <h2>💡 Résumé express</h2>
+        <h2>💡 Quick summary</h2>
         <p class="elevator-pitch">{escape(article["elevator_pitch"])}</p>
     </section>""")
 
     if article["takeaways"]:
         body_parts.append("""
     <section class="takeaways-section">
-        <h2>📌 Points clés</h2>
+        <h2>📌 Key takeaways</h2>
         <ul class="takeaways-list">""")
         for t in article["takeaways"]:
             body_parts.append(f"            <li>{escape(t)}</li>")
         body_parts.append("""        </ul>
     </section>""")
 
-    if article["synthesis"]:
-        body_parts.append(f"""
-    <section class="synthesis-section">
-        <h2>📖 Synthèse</h2>
-        <div class="synthesis-content">
-{md_to_html(article["synthesis"])}
-        </div>
-    </section>""")
-
     if article["source"]:
         body_parts.append(f"""
     <a href="{escape(article["source"])}" target="_blank" rel="noopener" class="source-link-full">
-        🔗 Lire l'article complet sur le site source →
+        🔗 Read the full article on the source site →
     </a>""")
 
     body_parts.append("""
 </article>""")
 
-    return page_html(article["title"], "\n".join(body_parts))
+    return page_html(article["title"], "\n".join(body_parts), base=base)
 
 
 def generate_archives(articles):
@@ -375,7 +468,7 @@ def generate_archives(articles):
     body_parts.append("""
 <header class="page-header">
     <h1>📚 Archives</h1>
-    <p>Tous les articles de la veille mapping</p>
+    <p>All articles from the mapping watch</p>
 </header>""")
 
     current_year = ""
@@ -389,17 +482,12 @@ def generate_archives(articles):
 <div class="archive-year">
     <h2>{year}</h2>""")
 
-        month_names = {
-            "01": "Janvier", "02": "Février", "03": "Mars", "04": "Avril",
-            "05": "Mai", "06": "Juin", "07": "Juillet", "08": "Août",
-            "09": "Septembre", "10": "Octobre", "11": "Novembre", "12": "Décembre"
-        }
-        month_name = month_names.get(month, month)
+        month_name = MONTH_NAMES_EN.get(int(month), month)
         month_articles = by_month[ym]
 
         body_parts.append(f"""
     <div class="archive-month">
-        <h3>{month_name} ({len(month_articles)} articles)</h3>
+        <h3>{month_name} ({plural(len(month_articles), 'article')})</h3>
         <ul class="archive-list">""")
 
         for a in month_articles:
@@ -434,12 +522,12 @@ def generate_rss(articles):
     # Include last 50 articles
     for a in articles[:50]:
         title = escape(a["title"])
-        link = f"{SITE_URL}{a['url']}"
+        link = f"{SITE_URL}/{a['url']}"
         desc_parts = []
         if a["elevator_pitch"]:
             desc_parts.append(a["elevator_pitch"])
         if a["takeaways"]:
-            desc_parts.append("Points clés: " + " ; ".join(a["takeaways"]))
+            desc_parts.append("Key takeaways: " + " ; ".join(a["takeaways"]))
         if a["synthesis"]:
             # First 300 chars of synthesis
             desc_parts.append(a["synthesis"][:300] + "..." if len(a["synthesis"]) > 300 else a["synthesis"])
@@ -543,6 +631,66 @@ main {
 .hero h1 { font-size: 2.5rem; margin-bottom: 0.5rem; }
 .subtitle { color: var(--text-muted); font-size: 1.2rem; }
 .stats { color: var(--text-muted); font-size: 0.9rem; margin-top: 0.5rem; }
+
+/* Activity heatmap */
+.heatmap-section { margin: 0 0 3rem; }
+.heatmap-title {
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--text-muted);
+    margin-bottom: 0.8rem;
+    text-align: center;
+}
+.heatmap-scroll { overflow-x: auto; padding-bottom: 0.25rem; }
+.heatmap { display: inline-flex; flex-direction: column; gap: 0.3rem; margin: 0 auto; }
+.heatmap-months {
+    display: grid;
+    grid-template-columns: repeat(var(--weeks), 13px);
+    gap: 3px;
+    margin-left: 28px;
+    font-size: 0.7rem;
+    color: var(--text-muted);
+}
+.heatmap-body { display: flex; gap: 4px; }
+.heatmap-daylabels {
+    display: grid;
+    grid-template-rows: repeat(7, 13px);
+    gap: 3px;
+    width: 24px;
+    font-size: 0.65rem;
+    color: var(--text-muted);
+    text-align: right;
+    line-height: 13px;
+}
+.heatmap-grid {
+    display: grid;
+    grid-template-columns: repeat(var(--weeks), 13px);
+    grid-template-rows: repeat(7, 13px);
+    grid-auto-flow: column;
+    gap: 3px;
+}
+.heatmap-cell {
+    width: 13px;
+    height: 13px;
+    border-radius: 3px;
+    border: 1px solid var(--border);
+    background: var(--bg-card);
+}
+.heatmap-cell.level-1 { background: color-mix(in srgb, var(--accent) 25%, var(--bg-card)); border-color: transparent; }
+.heatmap-cell.level-2 { background: color-mix(in srgb, var(--accent) 50%, var(--bg-card)); border-color: transparent; }
+.heatmap-cell.level-3 { background: color-mix(in srgb, var(--accent) 75%, var(--bg-card)); border-color: transparent; }
+.heatmap-cell.level-4 { background: var(--accent); border-color: transparent; }
+.heatmap-cell.is-future { background: transparent; border-color: transparent; }
+.heatmap-legend {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.3rem;
+    margin-top: 0.6rem;
+    font-size: 0.75rem;
+    color: var(--text-muted);
+}
+.heatmap-legend .heatmap-cell { width: 11px; height: 11px; }
 
 /* Daily synthesis */
 .daily-synthesis {
@@ -695,6 +843,7 @@ details.takeaways li { color: var(--text-muted); margin-bottom: 0.3rem; }
     .day-header { flex-direction: column; align-items: flex-start; gap: 0.3rem; }
     .article-card { padding: 1rem; }
     .archive-list li { flex-direction: column; align-items: flex-start; }
+    .heatmap-scroll { margin: 0 -1rem; padding: 0 1rem 0.25rem; }
 }
 """
 
@@ -759,7 +908,7 @@ def main():
         "articles": [
             {
                 "title": a["title"],
-                "url": a["url"],
+                "url": f"{SITE_URL}/{a['url']}",
                 "date": a["date"],
                 "source": a["source"],
                 "author": a["author"],
