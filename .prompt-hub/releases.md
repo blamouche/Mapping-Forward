@@ -1,3 +1,6 @@
+## 0.1.797 - 2026-08-24
+- Commit style refresh + picto removals (`docs/build_site.py`), rebuilt `docs/dist` (788 files); push auto-triggers rebuild + Pages redeploy with the new style
+
 ## 0.1.796 - 2026-08-24
 - Validate Pages deployment: workflow_dispatch success, site live at https://blamouche.github.io/Mapping-Forward/ (index, archives, RSS, article pages all 200)
 

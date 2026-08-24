@@ -193,7 +193,7 @@ def page_html(title, body, nav_active="", base=""):
     nav = f"""
 <nav class="navbar">
     <div class="nav-brand">
-        <a href="{base}index.html">🗺️ {SITE_TITLE}</a>
+        <a href="{base}index.html">{SITE_TITLE}</a>
     </div>
     <div class="nav-links">
         <a href="{base}index.html" class="{ 'active' if nav_active == 'home' else '' }">Home</a>
@@ -335,7 +335,7 @@ def generate_index(articles):
     body_parts = []
     body_parts.append(f"""
 <header class="hero">
-    <h1>🗺️ {SITE_TITLE}</h1>
+    <h1>{SITE_TITLE}</h1>
     <p class="subtitle">{SITE_SUBTITLE}</p>
     <p class="stats">{plural(len(articles), 'article')} · {plural(len(sorted_dates), 'day')} of watch</p>
 </header>""")
@@ -372,7 +372,7 @@ def generate_index(articles):
 
             source_link = ""
             if a["source"]:
-                source_link = f'<a href="{escape(a["source"])}" target="_blank" rel="noopener" class="source-link">→ Source article</a>'
+                source_link = f'<a href="{escape(a["source"])}" target="_blank" rel="noopener" class="source-link">Source article</a>'
 
             body_parts.append(f"""
         <article class="article-card">
@@ -394,7 +394,7 @@ def generate_index(articles):
     # Link to archives
     body_parts.append("""
 <div class="archives-link">
-    <a href="archives.html" class="btn">📚 View all archives →</a>
+    <a href="archives.html" class="btn">View all archives →</a>
 </div>""")
 
     return page_html("Home", "\n".join(body_parts), nav_active="home")
@@ -413,28 +413,28 @@ def generate_article_page(article):
     <a href="{base}index.html" class="back-link">← Back home</a>
     <h1>{escape(article["title"])}</h1>
     <div class="article-meta-full">
-        <span class="meta-date">📅 {escape(article["date"])}</span>
-        {f'<span class="meta-author">✍️ {escape(article["author"])}</span>' if article["author"] and article["author"] != "Unknown" else ''}
-        {f'<span class="meta-keywords">🏷️ {escape(article["keywords"])}</span>' if article["keywords"] and article["keywords"] != "Unknown" else ''}
+        <span class="meta-date">{escape(article["date"])}</span>
+        {f'<span class="meta-author">{escape(article["author"])}</span>' if article["author"] and article["author"] != "Unknown" else ''}
+        {f'<span class="meta-keywords">{escape(article["keywords"])}</span>' if article["keywords"] and article["keywords"] != "Unknown" else ''}
     </div>""")
 
     if article["source"]:
         body_parts.append(f"""
     <a href="{escape(article["source"])}" target="_blank" rel="noopener" class="source-link-full">
-        🔗 Read the source article →
+        Read the source article
     </a>""")
 
     if article["elevator_pitch"]:
         body_parts.append(f"""
     <section class="elevator-pitch-section">
-        <h2>💡 Quick summary</h2>
+        <h2>Quick summary</h2>
         <p class="elevator-pitch">{escape(article["elevator_pitch"])}</p>
     </section>""")
 
     if article["takeaways"]:
         body_parts.append("""
     <section class="takeaways-section">
-        <h2>📌 Key takeaways</h2>
+        <h2>Key takeaways</h2>
         <ul class="takeaways-list">""")
         for t in article["takeaways"]:
             body_parts.append(f"            <li>{escape(t)}</li>")
@@ -444,7 +444,7 @@ def generate_article_page(article):
     if article["source"]:
         body_parts.append(f"""
     <a href="{escape(article["source"])}" target="_blank" rel="noopener" class="source-link-full">
-        🔗 Read the full article on the source site →
+        Read the full article on the source site
     </a>""")
 
     body_parts.append("""
@@ -467,7 +467,7 @@ def generate_archives(articles):
     body_parts = []
     body_parts.append("""
 <header class="page-header">
-    <h1>📚 Archives</h1>
+    <h1>Archives</h1>
     <p>All articles from the mapping watch</p>
 </header>""")
 
@@ -561,34 +561,39 @@ def generate_rss(articles):
 
 # ─── CSS ──────────────────────────────────────────────────────────────────────
 
-CSS = """/* Mapping Forward — Static Site Stylesheet */
+CSS = """/* Mapping Forward — Static site stylesheet
+   Sober and professional: flat surfaces, thin borders, one restrained accent.
+   No gradients, no decorative shadows, no emoji glyphs in UI text. */
 :root {
-    --bg: #0f1117;
-    --bg-card: #1a1d28;
-    --bg-hover: #222636;
-    --text: #e0e0e8;
-    --text-muted: #8888a0;
-    --accent: #4a9eff;
-    --accent-hover: #6bb0ff;
-    --border: #2a2d3a;
-    --radius: 8px;
-    --max-width: 900px;
+    --bg: #101316;
+    --bg-card: #171b21;
+    --bg-hover: #1d2229;
+    --text: #dde3ea;
+    --text-muted: #8b95a3;
+    --accent: #5e86c2;
+    --accent-hover: #7199d0;
+    --border: #262c35;
+    --border-soft: #1f252d;
+    --radius: 4px;
+    --max-width: 860px;
+    --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 @media (prefers-color-scheme: light) {
     :root {
-        --bg: #fafafa;
+        --bg: #f7f8f9;
         --bg-card: #ffffff;
-        --bg-hover: #f0f0f5;
-        --text: #1a1a2e;
-        --text-muted: #666;
-        --accent: #2563eb;
-        --accent-hover: #1d4ed8;
-        --border: #e0e0e8;
+        --bg-hover: #eef1f4;
+        --text: #1f242b;
+        --text-muted: #5f6873;
+        --accent: #20568f;
+        --accent-hover: #1a4573;
+        --border: #d9dfe6;
+        --border-soft: #e5eaf0;
     }
 }
 * { margin: 0; padding: 0; box-sizing: border-box; }
 body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-family: var(--font-sans);
     background: var(--bg);
     color: var(--text);
     line-height: 1.6;
@@ -596,97 +601,127 @@ body {
 }
 a { color: var(--accent); text-decoration: none; }
 a:hover { color: var(--accent-hover); text-decoration: underline; }
+::selection { background: var(--accent); color: #fff; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+h1, h2, h3 { line-height: 1.3; font-weight: 700; }
 
 /* Navbar */
 .navbar {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 1rem 2rem;
+    padding: 0.85rem 2rem;
     background: var(--bg-card);
     border-bottom: 1px solid var(--border);
     position: sticky;
     top: 0;
     z-index: 100;
-    backdrop-filter: blur(10px);
 }
-.nav-brand a { font-size: 1.2rem; font-weight: 700; color: var(--text); }
-.nav-brand a:hover { text-decoration: none; }
-.nav-links { display: flex; gap: 1.5rem; }
-.nav-links a { color: var(--text-muted); font-size: 0.95rem; }
-.nav-links a:hover, .nav-links a.active { color: var(--accent); }
+.nav-brand a {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: var(--text);
+}
+.nav-brand a:hover { text-decoration: none; color: var(--text); }
+.nav-links { display: flex; gap: 1.4rem; }
+.nav-links a {
+    color: var(--text-muted);
+    font-size: 0.92rem;
+    font-weight: 500;
+    padding-bottom: 2px;
+    border-bottom: 2px solid transparent;
+}
+.nav-links a:hover, .nav-links a.active {
+    color: var(--text);
+    text-decoration: none;
+    border-bottom-color: var(--accent);
+}
 
 /* Main */
 main {
     max-width: var(--max-width);
     margin: 0 auto;
-    padding: 2rem 1rem;
+    padding: 2rem 1.25rem 4rem;
 }
 
 /* Hero */
-.hero {
-    text-align: center;
-    padding: 3rem 1rem;
+.hero { text-align: center; padding: 3rem 1rem 2rem; }
+.hero h1 { font-size: 2.1rem; margin-bottom: 0.6rem; font-weight: 700; }
+.subtitle { color: var(--text-muted); font-size: 1.05rem; }
+.stats {
+    color: var(--text-muted);
+    font-size: 0.88rem;
+    margin-top: 0.9rem;
+    display: inline-flex;
+    gap: 0.5rem;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
 }
-.hero h1 { font-size: 2.5rem; margin-bottom: 0.5rem; }
-.subtitle { color: var(--text-muted); font-size: 1.2rem; }
-.stats { color: var(--text-muted); font-size: 0.9rem; margin-top: 0.5rem; }
+.stats::before, .stats::after { content: ""; }
 
 /* Activity heatmap */
-.heatmap-section { margin: 0 0 3rem; }
+.heatmap-section {
+    margin: 0 0 3rem;
+    padding: 1.2rem 1.25rem;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+}
 .heatmap-title {
-    font-size: 1rem;
+    font-size: 0.85rem;
     font-weight: 600;
     color: var(--text-muted);
-    margin-bottom: 0.8rem;
+    margin-bottom: 1rem;
     text-align: center;
 }
 .heatmap-scroll { overflow-x: auto; padding-bottom: 0.25rem; }
-.heatmap { display: inline-flex; flex-direction: column; gap: 0.3rem; margin: 0 auto; }
+.heatmap { display: flex; flex-direction: column; gap: 0.3rem; width: 100%; --hcg: 3px; }
 .heatmap-months {
     display: grid;
-    grid-template-columns: repeat(var(--weeks), 13px);
-    gap: 3px;
+    grid-template-columns: repeat(var(--weeks), minmax(0, 1fr));
+    gap: var(--hcg);
     margin-left: 28px;
     font-size: 0.7rem;
     color: var(--text-muted);
 }
-.heatmap-body { display: flex; gap: 4px; }
+.heatmap-body { display: flex; gap: 4px; align-items: stretch; }
 .heatmap-daylabels {
     display: grid;
-    grid-template-rows: repeat(7, 13px);
-    gap: 3px;
+    grid-template-rows: repeat(7, 1fr);
+    gap: var(--hcg);
     width: 24px;
     font-size: 0.65rem;
     color: var(--text-muted);
     text-align: right;
-    line-height: 13px;
+    line-height: 1;
 }
 .heatmap-grid {
+    flex: 1;
     display: grid;
-    grid-template-columns: repeat(var(--weeks), 13px);
-    grid-template-rows: repeat(7, 13px);
+    grid-template-columns: repeat(var(--weeks), minmax(0, 1fr));
+    grid-template-rows: repeat(7, auto);
     grid-auto-flow: column;
-    gap: 3px;
+    gap: var(--hcg);
 }
 .heatmap-cell {
-    width: 13px;
-    height: 13px;
-    border-radius: 3px;
-    border: 1px solid var(--border);
-    background: var(--bg-card);
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    border-radius: 2px;
+    border: 1px solid var(--border-soft);
+    background: var(--bg-hover);
 }
-.heatmap-cell.level-1 { background: color-mix(in srgb, var(--accent) 25%, var(--bg-card)); border-color: transparent; }
-.heatmap-cell.level-2 { background: color-mix(in srgb, var(--accent) 50%, var(--bg-card)); border-color: transparent; }
-.heatmap-cell.level-3 { background: color-mix(in srgb, var(--accent) 75%, var(--bg-card)); border-color: transparent; }
+.heatmap-cell.level-1 { background: color-mix(in srgb, var(--accent) 28%, var(--bg-card)); border-color: transparent; }
+.heatmap-cell.level-2 { background: color-mix(in srgb, var(--accent) 52%, var(--bg-card)); border-color: transparent; }
+.heatmap-cell.level-3 { background: color-mix(in srgb, var(--accent) 76%, var(--bg-card)); border-color: transparent; }
 .heatmap-cell.level-4 { background: var(--accent); border-color: transparent; }
 .heatmap-cell.is-future { background: transparent; border-color: transparent; }
 .heatmap-legend {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 0.3rem;
-    margin-top: 0.6rem;
+    gap: 0.35rem;
+    margin-top: 0.8rem;
     font-size: 0.75rem;
     color: var(--text-muted);
 }
@@ -694,23 +729,25 @@ main {
 
 /* Daily synthesis */
 .daily-synthesis {
-    margin-bottom: 3rem;
-    border-bottom: 1px solid var(--border);
+    margin-bottom: 2.5rem;
+    border-bottom: 1px solid var(--border-soft);
     padding-bottom: 2rem;
 }
 .day-header {
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    margin-bottom: 1.5rem;
+    align-items: baseline;
+    margin-bottom: 1.25rem;
+    flex-wrap: wrap;
+    gap: 0.5rem;
 }
-.day-header h2 { font-size: 1.4rem; }
+.day-header h2 { font-size: 1.25rem; font-weight: 700; }
+.day-header h2 time { color: var(--text); }
 .article-count {
-    background: var(--bg-card);
     color: var(--text-muted);
-    padding: 0.2rem 0.8rem;
-    border-radius: 20px;
     font-size: 0.85rem;
+    font-weight: 500;
+    white-space: nowrap;
 }
 
 /* Article card */
@@ -718,134 +755,185 @@ main {
     background: var(--bg-card);
     border: 1px solid var(--border);
     border-radius: var(--radius);
-    padding: 1.5rem;
-    margin-bottom: 1rem;
-    transition: border-color 0.2s;
+    padding: 1.25rem 1.35rem;
+    margin-bottom: 0.75rem;
 }
 .article-card:hover { border-color: var(--accent); }
-.article-card h3 { margin-bottom: 0.5rem; font-size: 1.15rem; }
+.article-card h3 { margin-bottom: 0.45rem; font-size: 1.05rem; font-weight: 600; }
 .article-card h3 a { color: var(--text); }
-.article-card h3 a:hover { color: var(--accent); }
-.elevator-pitch { color: var(--text-muted); font-size: 0.95rem; margin-bottom: 0.8rem; }
+.article-card h3 a:hover { color: var(--accent); text-decoration: none; }
+.elevator-pitch { color: var(--text-muted); font-size: 0.95rem; margin-bottom: 0.7rem; }
 .article-meta {
     display: flex;
     gap: 1rem;
     flex-wrap: wrap;
-    font-size: 0.85rem;
+    align-items: center;
+    font-size: 0.82rem;
     color: var(--text-muted);
 }
-.source-link { font-weight: 500; }
+.article-meta .meta-date { font-variant-numeric: tabular-nums; }
+.source-link { font-weight: 600; }
+.source-link::before { content: "↗ "; }
 
 /* Takeaways (inline) */
 details.takeaways {
-    margin: 0.8rem 0;
+    margin: 0.75rem 0;
     font-size: 0.9rem;
+    padding: 0.55rem 0.8rem;
+    background: var(--bg-hover);
+    border-radius: var(--radius);
+    border: 1px solid var(--border-soft);
 }
 details.takeaways summary {
     cursor: pointer;
     color: var(--accent);
-    font-weight: 500;
+    font-weight: 600;
+    list-style: none;
 }
-details.takeaways ul { margin-top: 0.5rem; padding-left: 1.5rem; }
+details.takeaways summary::-webkit-details-marker { display: none; }
+details.takeaways summary::before { content: "▸ "; transition: transform 0.15s ease; display: inline-block; }
+details.takeaways[open] summary::before { transform: rotate(90deg); }
+details.takeaways ul { margin-top: 0.5rem; padding-left: 1.3rem; }
 details.takeaways li { color: var(--text-muted); margin-bottom: 0.3rem; }
 
 /* Article full page */
 .article-full { padding: 1rem 0; }
-.back-link { display: inline-block; margin-bottom: 1.5rem; font-size: 0.9rem; }
-.article-full h1 { font-size: 2rem; margin-bottom: 1rem; line-height: 1.3; }
+.back-link {
+    display: inline-block;
+    margin-bottom: 1.4rem;
+    font-size: 0.88rem;
+    color: var(--text-muted);
+}
+.back-link:hover { color: var(--accent); }
+.article-full h1 {
+    font-size: 1.9rem;
+    margin-bottom: 0.9rem;
+    line-height: 1.25;
+    font-weight: 700;
+}
 .article-meta-full {
     display: flex;
-    gap: 1.5rem;
+    gap: 1rem;
     flex-wrap: wrap;
     color: var(--text-muted);
-    font-size: 0.9rem;
-    margin-bottom: 1.5rem;
+    font-size: 0.88rem;
+    margin-bottom: 1.4rem;
 }
 .source-link-full {
     display: inline-block;
     background: var(--accent);
     color: #fff !important;
-    padding: 0.6rem 1.5rem;
+    padding: 0.6rem 1.4rem;
     border-radius: var(--radius);
-    font-weight: 500;
-    margin: 1rem 0 2rem;
-    transition: background 0.2s;
+    font-weight: 600;
+    margin: 0.9rem 0 1.8rem;
 }
 .source-link-full:hover { background: var(--accent-hover); text-decoration: none; }
 
-.elevator-pitch-section, .takeaways-section, .synthesis-section {
-    margin-bottom: 2rem;
-}
+.elevator-pitch-section, .takeaways-section, .synthesis-section { margin-bottom: 2rem; }
 .elevator-pitch-section h2, .takeaways-section h2, .synthesis-section h2 {
-    font-size: 1.3rem;
-    margin-bottom: 0.8rem;
-    border-bottom: 2px solid var(--border);
-    padding-bottom: 0.3rem;
+    font-size: 1.15rem;
+    font-weight: 700;
+    margin-bottom: 0.9rem;
+    padding-bottom: 0.35rem;
+    border-bottom: 1px solid var(--border);
 }
 .elevator-pitch-section .elevator-pitch {
     font-size: 1.1rem;
     color: var(--text);
     font-style: italic;
+    line-height: 1.6;
+    padding: 0.2rem 0;
 }
-.takeaways-list { padding-left: 1.5rem; }
-.takeaways-list li { margin-bottom: 0.5rem; }
-.synthesis-content p { margin-bottom: 1rem; }
-.synthesis-content ul { padding-left: 1.5rem; margin-bottom: 1rem; }
+.takeaways-list { padding-left: 1.3rem; }
+.takeaways-list li { margin-bottom: 0.5rem; line-height: 1.55; }
+.takeaways-list li::marker { color: var(--accent); }
+.synthesis-content p { margin-bottom: 1.1rem; }
+.synthesis-content ul { padding-left: 1.5rem; margin-bottom: 1.1rem; }
+.synthesis-content li { margin-bottom: 0.4rem; }
+.synthesis-content strong { color: var(--text); }
 
 /* Archives */
-.page-header { text-align: center; padding: 2rem 0 3rem; }
-.page-header h1 { font-size: 2rem; }
-.page-header p { color: var(--text-muted); margin-top: 0.5rem; }
-.archive-year { margin-bottom: 2rem; }
-.archive-year h2 { font-size: 1.5rem; margin-bottom: 1rem; }
-.archive-month { margin-bottom: 1.5rem; }
-.archive-month h3 { font-size: 1.1rem; margin-bottom: 0.5rem; color: var(--text-muted); }
+.page-header { text-align: center; padding: 2.5rem 0 2.5rem; }
+.page-header h1 { font-size: 1.9rem; font-weight: 700; }
+.page-header p { color: var(--text-muted); margin-top: 0.5rem; font-size: 1rem; }
+.archive-year { margin-bottom: 2.5rem; }
+.archive-year h2 { font-size: 1.4rem; margin-bottom: 0.9rem; font-weight: 700; }
+.archive-month {
+    margin-bottom: 1.2rem;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 0.9rem 1.1rem;
+}
+.archive-month h3 {
+    font-size: 0.9rem;
+    margin-bottom: 0.5rem;
+    color: var(--text-muted);
+    font-weight: 600;
+}
 .archive-list { list-style: none; }
 .archive-list li {
     padding: 0.5rem 0;
-    border-bottom: 1px solid var(--border);
+    border-bottom: 1px solid var(--border-soft);
     display: flex;
     justify-content: space-between;
     align-items: center;
     gap: 1rem;
 }
-.archive-list li a { flex: 1; }
-.archive-date { color: var(--text-muted); font-size: 0.85rem; white-space: nowrap; }
+.archive-list li:last-child { border-bottom: none; }
+.archive-list li a { flex: 1; color: var(--text); }
+.archive-list li a:hover { color: var(--accent); text-decoration: none; }
+.archive-date {
+    color: var(--text-muted);
+    font-size: 0.82rem;
+    white-space: nowrap;
+    font-variant-numeric: tabular-nums;
+}
 
 /* Buttons */
 .btn {
     display: inline-block;
     background: var(--accent);
     color: #fff !important;
-    padding: 0.8rem 2rem;
+    padding: 0.65rem 1.6rem;
     border-radius: var(--radius);
-    font-weight: 500;
-    transition: background 0.2s;
+    font-weight: 600;
 }
 .btn:hover { background: var(--accent-hover); text-decoration: none; }
-.archives-link { text-align: center; margin: 3rem 0; }
+.archives-link { text-align: center; margin: 3rem 0 1rem; }
 
 /* Footer */
 .site-footer {
     text-align: center;
-    padding: 2rem;
+    padding: 2rem 2rem;
     border-top: 1px solid var(--border);
     color: var(--text-muted);
-    font-size: 0.85rem;
+    font-size: 0.83rem;
 }
-.site-footer a { color: var(--accent); }
+.site-footer p { margin: 0.25rem 0; }
+.site-footer a { color: var(--accent); font-weight: 500; }
 
 /* Responsive */
 @media (max-width: 768px) {
-    .navbar { flex-direction: column; gap: 0.5rem; padding: 1rem; }
-    .nav-links { gap: 1rem; }
-    .hero h1 { font-size: 1.8rem; }
-    .day-header { flex-direction: column; align-items: flex-start; gap: 0.3rem; }
-    .article-card { padding: 1rem; }
-    .archive-list li { flex-direction: column; align-items: flex-start; }
-    .heatmap-scroll { margin: 0 -1rem; padding: 0 1rem 0.25rem; }
+    .navbar { flex-direction: column; gap: 0.6rem; padding: 1rem; }
+    .nav-links { gap: 1.1rem; flex-wrap: wrap; justify-content: center; }
+    .hero { padding: 2.2rem 1rem 1.5rem; }
+    .hero h1 { font-size: 1.6rem; }
+    .day-header { flex-direction: column; align-items: flex-start; gap: 0.35rem; }
+    .article-card { padding: 1.05rem; }
+    .article-full h1 { font-size: 1.45rem; }
+    .archive-list li { flex-direction: column; align-items: flex-start; gap: 0.2rem; }
+    .heatmap-scroll { margin: 0 -1.25rem; padding: 0 1.25rem 0.25rem; }
+    .heatmap { --hcg: 2px; }
+    .heatmap-section { padding: 1rem 0.6rem; }
 }
-"""
+@media (max-width: 560px) {
+    .heatmap { --hcg: 1px; }
+}
+@media (prefers-reduced-motion: reduce) {
+    * { transition: none !important; }
+}"""
 
 
 # ─── Main build ───────────────────────────────────────────────────────────────
