@@ -19,4 +19,13 @@
 
 ## Review
 
-(to be filled on completion)
+**Status**: Success (steps 1-5 complete, step 6 failed — no browser tool available)
+
+- **Title**: The map is now in the driver's seat
+- **File**: substack/20260824-post-the-map-is-now-in-the-drivers-seat.md
+- **Word count**: 1,858 words (within 1500-2000 range)
+- **Structure**: Opening hook (2 para) → Big picture (3 para) → Deep dive (5 para under 2 subheadings) → Tensions/nuances (5 para) → Looking ahead (1 para)
+- **Sources**: All 15 articles linked with original source URLs
+- **Git**: Committed and pushed to origin/main (2 commits: post + tracking)
+- **Substack draft**: NOT created — no browser tool available in this environment. Steps 1-5 completed successfully; step 6 could not be performed.
+- **Version**: 0.1.800
