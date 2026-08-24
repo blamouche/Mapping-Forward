@@ -31,7 +31,7 @@ dist/
 ### Générer le site
 
 ```bash
-cd site/
+cd docs/
 python3 build_site.py
 ```
 
@@ -109,14 +109,14 @@ Le site peut être régénéré automatiquement après chaque passage de la veil
 
 Ajouter à la fin du script de veille mapping:
 ```bash
-cd ~/github/Mapping-Forward/site && python3 build_site.py
+cd ~/github/Mapping-Forward/docs && python3 build_site.py
 ```
 
 ### Option B: Cron job dédié
 
 ```cron
 # Régénérer le site chaque jour à 9h
-0 9 * * * cd ~/github/Mapping-Forward/site && python3 build_site.py
+0 9 * * * cd ~/github/Mapping-Forward/docs && python3 build_site.py
 ```
 
 ### Option C: Git hook post-commit
@@ -124,7 +124,7 @@ cd ~/github/Mapping-Forward/site && python3 build_site.py
 ```bash
 # .git/hooks/post-commit
 #!/bin/bash
-cd site/ && python3 build_site.py
+cd docs/ && python3 build_site.py
 ```
 
 ## Configuration

@@ -1,3 +1,6 @@
+## 0.1.794 - 2026-08-24
+- Move the static-site folder from `site/` to `docs/`; update the GitHub Actions workflow (`docs/build_site.py`, `git add -f docs/dist`) and `docs/README.md`
+
 ## 0.1.793 - 2026-08-24
 - Add GitHub Actions workflow (`build-site.yml`) to regenerate the static site daily at 09:00 Paris time and commit `site/dist/` to main (also on push to `src/` or `site/build_site.py`); dist stays gitignored locally, committed via `git add -f`
 
