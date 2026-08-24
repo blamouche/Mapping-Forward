@@ -6,7 +6,7 @@
     <description>Daily synthesis of articles on cartography, mapping, geospatial data, and geographic intelligence</description>
     <language>en</language>
     <atom:link href="https://mappingforward.fr/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 24 Aug 2026 14:37:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 15:46:10 +0000</lastBuildDate>
 
     <item>
         <title>One Region. 40,000 Bus Stops. An OSM Map at Every One. — State of the Map 2026 × Paris</title>
@@ -14,14 +14,6 @@
         <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260828-sotm-osm-plans-de-proximite-40000-bus-stops-paris.html</guid>
         <description>At State of the Map 2026 in Paris, T-Kartor and Jungle Bus present their massive OpenStreetMap-based project to produce and maintain location-specific area maps (&quot;plans de proximité&quot;) for 35,000+ bus and tram stops across the Paris region — Europe&#x27;s most extensive public transport network. — Key takeaways: T-Kartor, the Swedish cartographic agency behind Legible London, WalkNYC, and Toronto TO360, has partnered with Île-de-France Mobilités to create &quot;plans de proximité&quot; — stop-specific area maps for the entire Paris region ; The project covers approximately 35,000 individual bus and tram stops, each requiring a unique map with high quality and consistency standards ; OpenStreetMap data is the backbone: the process goes from editing OSM data to delivering print-ready files to transport operators, with dozens of intermediate steps ; Jungle Bus, a local OSM community organization, has been a key partner throughout the effort ; The talk at State of the Map 2026 covers the full production pipeline: context, build, deployment, maintenance, and lessons learned</description>
         <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Trump Shares Map Of Strait Of Hormuz As &quot;New US Territory&quot;, Again</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260823-ndtv-trump-map-strait-of-hormuz-new-us-territory.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260823-ndtv-trump-map-strait-of-hormuz-new-us-territory.html</guid>
-        <description>Le président américain Donald Trump publie à nouveau une carte revendiquant le détroit d&#x27;Ormuz comme « nouveau territoire américain », illustrant l&#x27;usage politique des cartes dans le conflit avec l&#x27;Iran. — Key takeaways: Trump a partagé sur Truth Social une carte indiquant le détroit d&#x27;Ormuz comme « nouveau territoire des États-Unis » ; Le détroit est fermé par l&#x27;Iran depuis le 28 février, date du déclenchement du conflit ; Environ un cinquième du pétrole et du GNL mondiaux transitaient par ce chokepoint avant la guerre ; L&#x27;Iran déclare que le détroit restera fermé jusqu&#x27;à ce que les États-Unis « corrigent leur comportement » ; Trump affirme que les États-Unis ont « le contrôle total » du détroit, une affirmation contestée par Téhéran ; Cette publication intervient dans un contexte d&#x27;escalade rhétorique et militaire entre les deux pays</description>
-        <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
     </item>
 
     <item>
@@ -49,10 +41,18 @@
     </item>
 
     <item>
-        <title>Sir Anthony Hopkins Uses Google Maps to Revisit His Welsh Childhood Streets</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-anthony-hopkins-google-maps-wales-port-talbot.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-anthony-hopkins-google-maps-wales-port-talbot.html</guid>
-        <description>Oscar-winning actor Sir Anthony Hopkins, 88, says he uses Google Maps virtually every day to revisit the streets of his childhood in Port Talbot, Wales, inspiring his first music album released at age 88. — Key takeaways: Sir Anthony Hopkins, 88, uses Google Maps to virtually walk the streets of his childhood in Port Talbot, Wales ; He describes going to streets and moving up the street using photographs on Google Maps &quot;most days&quot; ; The actor says he&#x27;s &quot;a bit too old&quot; to physically return to walk the streets but finds solace in the digital exploration ; His childhood memories on Bracken Road in Port Talbot inspired a musical composition on his debut album ; Hopkins describes Wales as &quot;the land of hiraeth (longing)&quot; and credits it as the source of his identity ; He released his first album at 88, comprising music he has written over more than 60 years</description>
+        <title>Trump Shares Map Of Strait Of Hormuz As &quot;New US Territory&quot;, Again</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260823-ndtv-trump-map-strait-of-hormuz-new-us-territory.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260823-ndtv-trump-map-strait-of-hormuz-new-us-territory.html</guid>
+        <description>Le président américain Donald Trump publie à nouveau une carte revendiquant le détroit d&#x27;Ormuz comme « nouveau territoire américain », illustrant l&#x27;usage politique des cartes dans le conflit avec l&#x27;Iran. — Key takeaways: Trump a partagé sur Truth Social une carte indiquant le détroit d&#x27;Ormuz comme « nouveau territoire des États-Unis » ; Le détroit est fermé par l&#x27;Iran depuis le 28 février, date du déclenchement du conflit ; Environ un cinquième du pétrole et du GNL mondiaux transitaient par ce chokepoint avant la guerre ; L&#x27;Iran déclare que le détroit restera fermé jusqu&#x27;à ce que les États-Unis « corrigent leur comportement » ; Trump affirme que les États-Unis ont « le contrôle total » du détroit, une affirmation contestée par Téhéran ; Cette publication intervient dans un contexte d&#x27;escalade rhétorique et militaire entre les deux pays</description>
+        <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>TomTom and Microsoft Extend Collaboration on AI-Powered Mobility Solutions</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260822-tomtom-microsoft-extend-collaboration-ai-mobility.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-tomtom-microsoft-extend-collaboration-ai-mobility.html</guid>
+        <description>TomTom and Microsoft have extended their decade-long collaboration to develop AI-powered solutions for automotive, logistics, and broader mobility domains, with TomTom Orbis Maps continuing to power Azure Maps and Microsoft 365 location features. — Key takeaways: TomTom and Microsoft have collaborated since 2016, including through the Overture Map Foundation ; Microsoft Azure remains TomTom&#x27;s preferred cloud provider, and TomTom powers Azure Maps ; Bing, Microsoft Power BI, and Microsoft 365 all use TomTom maps and location services ; The companies will develop generative AI-powered automotive solutions and an in-vehicle digital cockpit ; TomTom CEO Harold Goddijn highlighted Orbis Maps powering Microsoft&#x27;s traffic and location data ; Microsoft is already rolling out TomTom Traffic based on the new TomTom Orbis Maps platform</description>
         <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
     </item>
 
@@ -65,66 +65,10 @@
     </item>
 
     <item>
-        <title>From These Lands: Mapping US Natural and Cultural Heritage at the Smithsonian</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-smithsonian-maps-natural-cultural-heritage-esri.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-smithsonian-maps-natural-cultural-heritage-esri.html</guid>
-        <description>The Smithsonian&#x27;s National Museum of Natural History uses five animated GIS map layers to trace how biomes, migrations, and geology move across the United States in an exhibit marking the nation&#x27;s 250th birthday. — Key takeaways: The exhibit &quot;From These Lands&quot; at the Smithsonian marks the US 250th birthday with 600+ specimens from all 50 states and 5 territories ; Geography, not alphabetical state-by-state listing, is the exhibit&#x27;s organizing principle ; Five animated map layers trace biomes, migrations, and geology across the country in 60-second sequences ; Paleogeographic maps reveal how a shallow sea once split the middle of what is now the US ; Interactive map stations let visitors send digital postcards and find natural history tied to their home states ; The exhibit uses maps to show connections across regions, illustrating how heritage is shared across the country</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Hyderabad Residents Lose 198 Hours of Sleep a Year to Traffic and Heat</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-tomtom-traffic-index-hyderabad-198-hours-sleep-lost.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-tomtom-traffic-index-hyderabad-198-hours-sleep-lost.html</guid>
-        <description>TomTom Traffic Index data reveals Hyderabad residents lose 198 hours of sleep annually — 123 hours from peak-hour traffic congestion and 75 hours from rising night-time temperatures — highlighting how urban mobility failures impact personal health. — Key takeaways: Hyderabad residents lose 198 hours of sleep per year: 123 hours from traffic congestion and 75 hours from rising night-time temperatures ; The TomTom Traffic Index recorded a 55.5% congestion level for Hyderabad, with evening traffic heavier than morning ; A 10-km journey takes 32.37 minutes normally but rises to 38.5 minutes during evening peaks, with speeds dropping to 10 kmph ; Hyderabad has over 80 lakh (8 million) vehicles with underdeveloped public transport ; Climate Central found warmer nights cost residents 75 hours of sleep annually, with concrete buildings and tar roads absorbing and slowly releasing heat ; Among Indian cities, Bengaluru loses the most sleep from traffic (168 hours), while Chennai loses the most from heat (93 hours)</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Multi-AGV Task Scheduling and Dynamic Map Path Planning Based on Task Pre-Allocation</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-multi-agv-dynamic-map-path-planning-task-pre-allocation.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-multi-agv-dynamic-map-path-planning-task-pre-allocation.html</guid>
-        <description>A PLOS ONE research paper proposes an integrated optimization approach for multi-AGV systems that combines task pre-allocation scheduling with a dynamic map path planning mechanism using a localized Floyd update algorithm to reduce no-load rates and mitigate path congestion in warehouse environments. — Key takeaways: The paper introduces a task segmentation strategy that decomposes complex tasks into long-distance transport and precision in-racking sub-tasks assigned to heterogeneous AGV types ; A task pre-allocation algorithm enables AGVs to receive new assignments before completing current tasks, reducing the system no-load rate ; A dynamic map path planning mechanism incorporates temporary path traffic control and a localized Floyd update algorithm for real-time path adjustment ; The localized Floyd algorithm reduces computational complexity by restricting updates to locally affected regions rather than recomputing the entire path network ; Comparative experiments in a multi-zone warehouse simulation demonstrate reduced no-load rates, mitigated path congestion, and enhanced overall operational performance</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Unlocking Design Autonomy: Announcing the Layout Customization Framework for Navigation SDK</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-google-maps-navigation-sdk-layout-customization-framework.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-google-maps-navigation-sdk-layout-customization-framework.html</guid>
-        <description>Google Maps Platform introduced an experimental layout customization framework for the Android Navigation SDK that gives developers creative freedom to build tailored, context-aware driver experiences by orchestrating Google&#x27;s core mapping interface with developer app workflows in real time. — Key takeaways: The experimental layout customization framework is now available on the Android Navigation SDK ; The framework orchestrates two distinct visual layers: Google&#x27;s core mapping interface and the developer app&#x27;s business workflows ; Developers can independently position content cards, speed limit indicators, floating controls, and more ; UI components can be aligned to camera movements so the map&#x27;s viewport dynamically adapts as elements appear ; The framework addresses UX research findings that enterprise fleets need flexible design systems rather than rigid layouts</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Next Geo Named in Global Top 100 Geospatial Companies – 2026 Edition</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-next-geo-global-top-100-geospatial-companies-2026.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-next-geo-global-top-100-geospatial-companies-2026.html</guid>
-        <description>Turkish location analytics company Next Geo has been named the only Turkish firm in Geoawesome&#x27;s &quot;Global Top 100 Geospatial Companies – 2026 Edition,&quot; alongside industry giants like Google, Mapbox, and HERE Technologies. — Key takeaways: Next Geo is the only Turkish company selected for the &quot;Global Top 100 Geospatial Companies – 2026 Edition&quot; list curated by Geoawesome ; The list was created with community participation, with candidates evaluated and voted on by geospatial industry professionals ; Next Geo specializes in location analytics, investment site selection, target audience analysis, sales forecasting, and AI-powered decision systems ; The company&#x27;s GeoAI solutions combine demographic data, consumer profiles, commercial density, and mobility data to produce measurable business insights ; Next Geo plans to expand into Middle East and European markets, leveraging its scalable software infrastructure and AI-driven decision models</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Yandex Digitally Added Forest to Maps to Hide Russian Military Sites</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-yandex-added-forest-to-maps-hide-military-sites.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-yandex-added-forest-to-maps-hide-military-sites.html</guid>
-        <description>Yandex has been caught digitally pasting copied forest fragments over military installations on its online maps, marking a new method of concealing sensitive sites that goes beyond previous blurring techniques. — Key takeaways: Yandex digitally added forest cover over a military installation near Kronstadt on its online maps ; Finnish outlet YLE reported that copied fragments of forest appear in satellite images where Russian missile batteries are stationed ; This marks a new concealment method; previously Yandex simply blurred images of military sites ; Foreign mapping services from Google, Apple, and Microsoft show the missile batteries in pre-April 2026 images but not in more recent ones ; Military expert Marko Eklund said the concealment makes no operational sense since Western militaries use their own sources ; Yandex also conceals airfields and Putin&#x27;s Valdai residence on its maps</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Maharashtra&#x27;s 701-Km Samruddhi Expressway Set For GIS-Led Development Around 20+ Interchanges</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-maharashtra-samruddhi-expressway-gis-development-plans.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-maharashtra-samruddhi-expressway-gis-development-plans.html</guid>
-        <description>The Maharashtra State Road Development Corporation has floated global tenders for a consultant to prepare GIS-based development plans for the zones surrounding 20+ interchanges on the 701-km Nagpur-Mumbai Samruddhi Expressway. — Key takeaways: MSRDC has issued global tenders for a GIS consultant to prepare development plans for interchange influence zones along the 701-km Samruddhi Expressway ; The consultant will prepare GIS base maps, conduct Existing Land Use (ELU) surveys, and draft GIS-based development plans ; The expressway features over 20 interchanges, each measuring more than 40 acres, creating significant influence zones for planned development ; A pre-bid meeting is scheduled for August 12, 2026, with proposals due by September 15, 2026, and an EMD of Rs 10 lakh ; The initiative aims to enable orderly urban growth and sustainable land use along the key economic corridor linking Mumbai and Nagpur</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Back to School with Maps! — Esri Education Blog</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-esri-back-to-school-with-maps-education.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-esri-back-to-school-with-maps-education.html</guid>
-        <description>Esri&#x27;s education team publishes a back-to-school resource encouraging teachers to integrate free, browser-based mapping tools into their curriculum, emphasizing that every topic taught happens somewhere and that making the &quot;where&quot; visible enhances learning. — Key takeaways: Esri&#x27;s education blog highlights free, browser-based mapping tools available for classroom use at the start of the school year ; The core message is that every subject has a geographic dimension — &quot;every topic you teach happens somewhere&quot; — and making that spatial context visible enhances student understanding ; The resources are designed to be accessible to teachers without prior GIS experience, requiring only a web browser ; The initiative aligns with broader efforts to promote spatial thinking and geographic literacy in primary and secondary education ; Esri offers education-specific ArcGIS licenses and teaching materials through its schools program</description>
+        <title>Waze and Google Maps &quot;Shortcut&quot; at Perthus Turns Into Nightmare for Residents</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260822-waze-google-maps-perthus-shortcut-nightmare.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-waze-google-maps-perthus-shortcut-nightmare.html</guid>
+        <description>Navigation apps are routing drivers through a narrow dirt track near the Spanish border to avoid Perthus traffic jams, turning a peaceful village into a dangerous bottleneck despite a municipal ban on oversized vehicles. — Key takeaways: Waze and Google Maps suggest an alternative route through the col de Manrella and Las Illas to avoid Perthus/Boulou traffic jams ; The route includes a narrow unpaved road designed for emergency access, now flooded with cars, camper vans, and trucks ; A municipal ordinance banning camper vans, trailers, and trucks was issued but remains ineffective two weeks later ; Residents report over 100 vehicles on delivery days, with vehicles unable to pass each other on the narrow road ; A 91-year-old local describes the situation as unprecedented: &quot;C&#x27;est la première fois que je vois ça&quot; ; A caravan previously ended up in a ditch, highlighting the danger of the diversion</description>
         <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
     </item>
 
@@ -137,10 +81,234 @@
     </item>
 
     <item>
+        <title>&#x27;Wall-to-Wall&#x27; Map of NYC Trees Could Help Cool Cities Worldwide</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260822-wall-to-wall-nyc-trees-cool-cities.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-wall-to-wall-nyc-trees-cool-cities.html</guid>
+        <description>Researchers from Cornell University created the first &quot;wall-to-wall&quot; citywide map identifying 1.8 million individual trees in New York City — including 1.4 million never before surveyed — using satellite imagery, ground data, and lidar, with 82% accuracy, to optimize tree placement for urban cooling. — Key takeaways: First wall-to-wall citywide tree map identifying 1.8 million individual trees, 1.4 million of which had never been surveyed ; Uses satellite imagery, on-the-ground datasets, and 3D lidar data with 82% overall accuracy ; Covers private property, natural areas, and unsurveyed areas constituting an estimated 65% of the city&#x27;s canopy ; Part of the Cool Trees project optimizing tree placement for cooling as NYC heat waves become more frequent ; NYC set a goal of expanding tree cover from 22% to 30% by 2040, which the map could directly inform</description>
+        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
         <title>ГИС Panorama Mobile для Android расширяет средства отображения пространственных данных на основе векторных тайлов</title>
         <link>https://mappingforward.fr/articles/2026-08/20260822-gis-panorama-mobile-android-mvt-vector-tiles.html</link>
         <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-gis-panorama-mobile-android-mvt-vector-tiles.html</guid>
         <description>The Russian GIS Panorama Mobile app for Android has added support for Mapbox Vector Tiles (MVT) in PBF format, expanding its spatial data display capabilities for mobile field mapping and navigation. — Key takeaways: GIS Panorama Mobile for Android now supports Mapbox Vector Tiles (MVT) in PBF format as a cartographic base layer ; The update enables use of vector tiles alongside traditional raster data sources for field mapping workflows ; The app integrates GNSS (GPS/GLONASS) receiver support for real-time positioning in the field ; Vector tiles provide sharper rendering at all zoom levels compared to raster tiles, with smaller file sizes ; The enhancement positions Panorama Mobile as a more versatile tool for Russian enterprises and government agencies requiring mobile GIS data collection</description>
+        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Yandex Digitally Added Forest to Maps to Hide Russian Military Sites</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260822-yandex-added-forest-to-maps-hide-military-sites.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-yandex-added-forest-to-maps-hide-military-sites.html</guid>
+        <description>Yandex has been caught digitally pasting copied forest fragments over military installations on its online maps, marking a new method of concealing sensitive sites that goes beyond previous blurring techniques. — Key takeaways: Yandex digitally added forest cover over a military installation near Kronstadt on its online maps ; Finnish outlet YLE reported that copied fragments of forest appear in satellite images where Russian missile batteries are stationed ; This marks a new concealment method; previously Yandex simply blurred images of military sites ; Foreign mapping services from Google, Apple, and Microsoft show the missile batteries in pre-April 2026 images but not in more recent ones ; Military expert Marko Eklund said the concealment makes no operational sense since Western militaries use their own sources ; Yandex also conceals airfields and Putin&#x27;s Valdai residence on its maps</description>
+        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>HD Map Industry Trends Driving Autonomous and Connected Mobility</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260822-hd-map-autonomous-vehicles-industry-trends.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-hd-map-autonomous-vehicles-industry-trends.html</guid>
+        <description>The HD Map for Autonomous Vehicles market is projected to grow from USD 2.59B in 2024 to USD 22.97B by 2032 at 31.48% CAGR, driven by autonomous vehicle adoption, AI/LiDAR integration, V2X technology, and smart city investments. — Key takeaways: HD Map market estimated at USD 2.59 billion in 2024, forecasted to reach USD 22.97 billion by 2032 (31.48% CAGR) ; Unlike regular navigation maps, HD maps provide lane-level positioning and localization essential for ADAS and autonomous driving ; Key players include TomTom, Waymo, HERE Technologies, NVIDIA, Baidu, and Mapbox ; TomTom partnered with Mitsubishi Electric (2024) integrating ADAS HD Maps with Mitsubishi&#x27;s High-Definition Locator ; Waymo began mapping Tokyo streets in 2025 using manually driven vehicles for high-quality 3D representation ; HERE Technologies strengthened its alliance with BMW integrating standard and HD map data for lane-level positioning</description>
+        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>After SDVs, Next Is AI: Future Cars&#x27; Battleground Is Context Data</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260822-tomtom-ai-defined-vehicles-context-data.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-tomtom-ai-defined-vehicles-context-data.html</guid>
+        <description>TomTom CPO Leo Sei argues that the auto industry&#x27;s competitive axis is shifting from software-defined vehicles (SDVs) to AI-defined vehicles (AIDVs), where the ability to understand and respond to roads, drivers, and driving conditions using context data matters more than which software is installed. — Key takeaways: The competitive focus is moving from SDVs (software-defined vehicles) to AIDVs (AI-defined vehicles) where performance is determined by continuously learning ML models ; Context data — combining sensors with detailed maps — enables vehicles to anticipate unseen risks including lane splits, speed-limit changes, and road closures ; AI is not limited to autonomous driving: it extends to navigation, infotainment, battery and energy management, and climate control ; Qualcomm and Nissan have also referenced the AIDV concept, presenting it as the next technology trend ; AI is also being used to create road data itself, by analyzing sensor data to build and update maps</description>
+        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Delhi To Get Digital Twin As Master Plan 2047 Takes Urban Planning Into 3D Era</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260822-delhi-digital-twin-master-plan-2047.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-delhi-digital-twin-master-plan-2047.html</guid>
+        <description>Delhi&#x27;s Master Plan 2047 introduces a 3D Digital Twin of the city combining GIS data, urban sensors, and real-time government systems to simulate development scenarios before implementation, marking a shift from conventional 2D maps to technology-driven urban governance. — Key takeaways: The Delhi Development Authority is developing a 3D digital replica of Delhi as part of Master Plan 2047 ; The digital twin combines GIS data with real-time inputs from urban sensors to simulate and assess development scenarios ; The GIS-based master plan includes layered infrastructure datasets and geo-referenced maps with regularly updated databases ; The approach is aligned with national initiatives including PM Gati Shakti National Master Plan and AMRUT ; Common data standards and spatial systems are proposed to improve interoperability between agencies</description>
+        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Cedar Electronics Selects TomTom Orbis Maps to Enhance Speed Awareness Across the United States</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260822-tomtom-orbis-maps-cedar-electronics-speed-awareness.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-tomtom-orbis-maps-cedar-electronics-speed-awareness.html</guid>
+        <description>TomTom partners with Cedar Electronics to supply Orbis Maps speed limit data for Escort and Cobra radar detectors, leveraging multi-source probe intelligence to deliver accurate, frequently refreshed speed awareness alerts across the US. — Key takeaways: Cedar Electronics selected TomTom Orbis Maps for integration into its Escort and Cobra radar detector product lines ; TomTom&#x27;s speed intelligence combines official government datasets, field-verified surveys, and anonymized connected-vehicle probe data ; The multi-source approach validates and enriches speed information even on roads where signing is incomplete or inconsistent ; The partnership aims to improve real-time speed awareness alerts for drivers across the United States ; This deal signals that probe-based speed intelligence is becoming standard for automotive safety products</description>
+        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>One Hidden Google Maps Setting That Saves Battery Life While Hiking</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260822-google-maps-satellite-view-battery-life-hiking.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-google-maps-satellite-view-battery-life-hiking.html</guid>
+        <description>Disabling Google Maps&#x27; default satellite view while hiking can meaningfully extend battery life, as the extra rendering and cellular data consumption drain power that&#x27;s better preserved for safety and navigation on long trail days. — Key takeaways: Satellite view in Google Maps uses more cellular data and battery due to heavier screen rendering and location updates ; Disabling &quot;Start maps in Satellite View&quot; in Settings &gt; App &amp; Display settings makes the standard map the default ; Standard map view provides nearly all needed information: road locations, compass orientation, and mapped features ; Terrain view offers topographical data and elevation changes, often more useful than satellite imagery under dense tree cover ; Satellite view remains available on-demand via the layers button for specific situations like trail junctions or unmarked paths ; The battery savings are cumulative over a full day of hiking, where every bit of power matters</description>
+        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Hyderabad Residents Lose 198 Hours of Sleep a Year to Traffic and Heat</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260822-tomtom-traffic-index-hyderabad-198-hours-sleep-lost.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-tomtom-traffic-index-hyderabad-198-hours-sleep-lost.html</guid>
+        <description>TomTom Traffic Index data reveals Hyderabad residents lose 198 hours of sleep annually — 123 hours from peak-hour traffic congestion and 75 hours from rising night-time temperatures — highlighting how urban mobility failures impact personal health. — Key takeaways: Hyderabad residents lose 198 hours of sleep per year: 123 hours from traffic congestion and 75 hours from rising night-time temperatures ; The TomTom Traffic Index recorded a 55.5% congestion level for Hyderabad, with evening traffic heavier than morning ; A 10-km journey takes 32.37 minutes normally but rises to 38.5 minutes during evening peaks, with speeds dropping to 10 kmph ; Hyderabad has over 80 lakh (8 million) vehicles with underdeveloped public transport ; Climate Central found warmer nights cost residents 75 hours of sleep annually, with concrete buildings and tar roads absorbing and slowly releasing heat ; Among Indian cities, Bengaluru loses the most sleep from traffic (168 hours), while Chennai loses the most from heat (93 hours)</description>
+        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Unlocking Design Autonomy: Announcing the Layout Customization Framework for Navigation SDK</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260822-google-maps-navigation-sdk-layout-customization-framework.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-google-maps-navigation-sdk-layout-customization-framework.html</guid>
+        <description>Google Maps Platform introduced an experimental layout customization framework for the Android Navigation SDK that gives developers creative freedom to build tailored, context-aware driver experiences by orchestrating Google&#x27;s core mapping interface with developer app workflows in real time. — Key takeaways: The experimental layout customization framework is now available on the Android Navigation SDK ; The framework orchestrates two distinct visual layers: Google&#x27;s core mapping interface and the developer app&#x27;s business workflows ; Developers can independently position content cards, speed limit indicators, floating controls, and more ; UI components can be aligned to camera movements so the map&#x27;s viewport dynamically adapts as elements appear ; The framework addresses UX research findings that enterprise fleets need flexible design systems rather than rigid layouts</description>
+        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Sir Anthony Hopkins Uses Google Maps to Revisit His Welsh Childhood Streets</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260822-anthony-hopkins-google-maps-wales-port-talbot.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-anthony-hopkins-google-maps-wales-port-talbot.html</guid>
+        <description>Oscar-winning actor Sir Anthony Hopkins, 88, says he uses Google Maps virtually every day to revisit the streets of his childhood in Port Talbot, Wales, inspiring his first music album released at age 88. — Key takeaways: Sir Anthony Hopkins, 88, uses Google Maps to virtually walk the streets of his childhood in Port Talbot, Wales ; He describes going to streets and moving up the street using photographs on Google Maps &quot;most days&quot; ; The actor says he&#x27;s &quot;a bit too old&quot; to physically return to walk the streets but finds solace in the digital exploration ; His childhood memories on Bracken Road in Port Talbot inspired a musical composition on his debut album ; Hopkins describes Wales as &quot;the land of hiraeth (longing)&quot; and credits it as the source of his identity ; He released his first album at 88, comprising music he has written over more than 60 years</description>
+        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Maharashtra&#x27;s 701-Km Samruddhi Expressway Set For GIS-Led Development Around 20+ Interchanges</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260822-maharashtra-samruddhi-expressway-gis-development-plans.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-maharashtra-samruddhi-expressway-gis-development-plans.html</guid>
+        <description>The Maharashtra State Road Development Corporation has floated global tenders for a consultant to prepare GIS-based development plans for the zones surrounding 20+ interchanges on the 701-km Nagpur-Mumbai Samruddhi Expressway. — Key takeaways: MSRDC has issued global tenders for a GIS consultant to prepare development plans for interchange influence zones along the 701-km Samruddhi Expressway ; The consultant will prepare GIS base maps, conduct Existing Land Use (ELU) surveys, and draft GIS-based development plans ; The expressway features over 20 interchanges, each measuring more than 40 acres, creating significant influence zones for planned development ; A pre-bid meeting is scheduled for August 12, 2026, with proposals due by September 15, 2026, and an EMD of Rs 10 lakh ; The initiative aims to enable orderly urban growth and sustainable land use along the key economic corridor linking Mumbai and Nagpur</description>
+        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Maps That Read Real-Time Road Changes: WaysOne Unveils LDM Technology</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260822-waysone-ldm-dynamic-map-autonomous-driving-venturesquare.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-waysone-ldm-dynamic-map-autonomous-driving-venturesquare.html</guid>
+        <description>Korean startup WayzOne has unveiled a Local Dynamic Map (LDM) operating system that extends autonomous vehicle perception beyond sensor range by integrating real-time road conditions into high-precision maps, with government policy support extended through 2027. — Key takeaways: WayzOne unveiled three LDM solutions — LDM2X, LDM TWIN, and AVION — at the 2026 Autonomous Driving Mobility Industry Exhibition (AME 2026) in Seoul ; LDM2X combines real-time road information (signals, traffic, incidents) with high-precision maps and converts it to standard V2X messages for vehicles ; LDM TWIN creates a real-time digital twin of traffic signals and vehicle flow for traffic operators to detect and predict hazardous situations ; AVION is a smart HMI that visualizes 3D surrounding objects and autonomous vehicle movement paths for drivers and control personnel ; The company was selected as an &quot;Innovation Premier 1000&quot; company by Korea&#x27;s Ministry of Land, Infrastructure and Transport, extending support through end of 2027</description>
+        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>How Maps Harden Territorial Claims</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260822-how-maps-harden-territorial-claims.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-how-maps-harden-territorial-claims.html</guid>
+        <description>The Lowy Institute analyzes how maps serve as tools of geopolitical power, examining how China&#x27;s dashed-line map and state map regulation harden territorial claims by compressing complex legal questions into single authoritative images. — Key takeaways: Maps can cast one side as lawful occupant and another as intruder in sovereignty disputes ; China&#x27;s dashed-line map, attached to 2009 diplomatic notes, enclosed most of the South China Sea without explaining the dashes&#x27; legal effect ; China regulates public maps through official review, making unauthorized depictions of its territory illegal ; The Ministry of Natural Resources runs an annual publicity week to promote national-territory awareness ; Maps compress complex unsettled questions of land and water rights into a single image ; When governments consistently present contested space as national territory, domestic compromise becomes harder</description>
+        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Google Maps Is More Useful as a Travel Notebook Than a Navigation App</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260822-google-maps-travel-notebook-custom-lists.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-google-maps-travel-notebook-custom-lists.html</guid>
+        <description>An Android Police features author argues that Google Maps&#x27; custom lists feature transforms it from a navigation tool into a powerful travel planning notebook, combining itinerary building, note-taking, and geographic visualization in one app. — Key takeaways: Custom lists in Google Maps allow users to create categorized travel collections with emoji icons ; Users can add notes to each pinned location (e.g., what to order at a restaurant) ; Custom list order can be arranged by priority or chronological itinerary ; Lists can be shared with travel companions as collaborators who can add their own pins and notes ; Zooming out on the map reveals all custom icons, exposing geographically unrealistic itineraries ; Google Maps Timeline preserves a detailed record of trips for future reference</description>
+        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Statiq: Improving User Experience and Increasing EV App Usage with Places UI Kit</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260822-statiq-ev-charging-places-ui-kit-google-maps.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-statiq-ev-charging-places-ui-kit-google-maps.html</guid>
+        <description>India&#x27;s largest EV charging network Statiq integrated Google Maps Platform&#x27;s Places UI Kit directly into its app, enabling an end-to-end charging experience that produced a 13% increase in navigation starts, 15% faster session completion, and 9% more repeat charging sessions within three months. — Key takeaways: Statiq is India&#x27;s largest EV charging network with 2000+ owned stations, 80% of all stations listed, and over 1 million app downloads ; Places UI Kit integration took just three weeks from project start to product launch using ready-made components ; After relaunching in January 2026: 13% increase in navigation starts, 15% reduction in time to successful session, 7% increase in charger discovery interactions ; Revenue impact: 9% increase in repeat sessions, 8% increase in session frequency, 8% reduction in abandoned searches, 3% uptick in download-to-charge conversion ; 10% improvement in overall user satisfaction measured through in-app ratings and post-session feedback</description>
+        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Zürich Moves Property Ownership Inquiry to New GIS-Browser</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260822-zurich-gis-browser-eigentumsauskunft-property-ownership.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-zurich-gis-browser-eigentumsauskunft-property-ownership.html</guid>
+        <description>The Canton of Zürich has migrated property ownership inquiries (Eigentumsauskunft) from the old geoportal application to the new GIS-Browser, providing a more accessible map-based interface for property information lookup. — Key takeaways: The Eigentumsauskunft (property ownership inquiry) function has been moved to Zürich&#x27;s new GIS-Browser as of August 20, 2026 ; The function was deactivated in the previous application ; Users access property information through a dedicated &quot;Eigentumsauskunft&quot; map containing relevant data layers ; Clicking on a property in the map displays an information panel with a link to ownership details ; The migration is part of Zürich&#x27;s broader modernization of its geospatial portal infrastructure</description>
+        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Multi-AGV Task Scheduling and Dynamic Map Path Planning Based on Task Pre-Allocation</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260822-multi-agv-dynamic-map-path-planning-task-pre-allocation.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-multi-agv-dynamic-map-path-planning-task-pre-allocation.html</guid>
+        <description>A PLOS ONE research paper proposes an integrated optimization approach for multi-AGV systems that combines task pre-allocation scheduling with a dynamic map path planning mechanism using a localized Floyd update algorithm to reduce no-load rates and mitigate path congestion in warehouse environments. — Key takeaways: The paper introduces a task segmentation strategy that decomposes complex tasks into long-distance transport and precision in-racking sub-tasks assigned to heterogeneous AGV types ; A task pre-allocation algorithm enables AGVs to receive new assignments before completing current tasks, reducing the system no-load rate ; A dynamic map path planning mechanism incorporates temporary path traffic control and a localized Floyd update algorithm for real-time path adjustment ; The localized Floyd algorithm reduces computational complexity by restricting updates to locally affected regions rather than recomputing the entire path network ; Comparative experiments in a multi-zone warehouse simulation demonstrate reduced no-load rates, mitigated path congestion, and enhanced overall operational performance</description>
+        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>GPS et écologie : pourquoi votre trajet met désormais plus de temps sur Waze ou Google Maps</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260822-gps-ecologie-waze-google-maps-less-polluting-routes.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-gps-ecologie-waze-google-maps-less-polluting-routes.html</guid>
+        <description>A French decree now requires navigation apps like Google Maps and Waze to default to the least polluting route rather than the fastest, meaning your GPS may suggest longer but more environmentally friendly journeys. — Key takeaways: A French decree imposes the least polluting route as the default option in GPS navigation apps ; Google Maps and Waze must now limit suggested speeds and prioritize fuel-efficient routing ; Users may notice their journeys take longer than before as environmental considerations override pure speed optimization ; The regulation reflects a growing policy trend of using digital navigation tools as levers for reducing transportation emissions ; Users can still manually override the default to select the fastest route, but the eco-friendly option is presented first</description>
+        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Google Trends Gains Explore Maps and Regional Breakdown</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260822-google-trends-explore-maps-regional-breakdown.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-google-trends-explore-maps-regional-breakdown.html</guid>
+        <description>Google Trends has launched new interactive maps designed for clearer data storytelling, allowing users to instantly spot regional trends and explore the geographic dimension behind every search query. — Key takeaways: Google Trends added Explore Maps and Regional Breakdown features ; Google designed new interactive maps for &quot;clearer data storytelling&quot; ; Users can &quot;instantly spot regional trends, capture visual insights for your audience&quot; ; The feature allows exploration of the &quot;where&quot; behind every search query ; Features may still be rolling out to all users ; The interactive maps complement existing timeline and average graph comparisons</description>
+        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Overture Maps Data as Parquet Feature Layers (Early Access)</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260822-overture-maps-parquet-feature-layers-esri.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-overture-maps-parquet-feature-layers-esri.html</guid>
+        <description>Esri announced Early Access Parquet feature layers created from Overture Maps Foundation data, enabling ArcGIS Online users to work with large read-only datasets like addresses, railways, infrastructure, places, and major cities directly through pre-configured web maps. — Key takeaways: Eight web maps are now available through the Overture Parquet Layers group on ArcGIS Online: addresses, railways, infrastructure points/lines/polygons, places, major cities, and division areas ; The Parquet feature layer is a new layer type released in Beta in the June 2026 ArcGIS Online release, ideal for large read-only datasets ; Overture Maps Foundation generates monthly releases of reference datasets (buildings, roads, POIs) sourced from OpenStreetMap, Esri Community Maps, Microsoft, Meta, and others ; Data is accessible through open AWS S3 or Microsoft Azure endpoints and the Parquet format makes it well-suited for cloud-hosted large datasets ; Basic functionality like filtering, labeling, and modifying symbology is supported despite Beta limitations</description>
+        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Next Geo Named in Global Top 100 Geospatial Companies – 2026 Edition</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260822-next-geo-global-top-100-geospatial-companies-2026.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-next-geo-global-top-100-geospatial-companies-2026.html</guid>
+        <description>Turkish location analytics company Next Geo has been named the only Turkish firm in Geoawesome&#x27;s &quot;Global Top 100 Geospatial Companies – 2026 Edition,&quot; alongside industry giants like Google, Mapbox, and HERE Technologies. — Key takeaways: Next Geo is the only Turkish company selected for the &quot;Global Top 100 Geospatial Companies – 2026 Edition&quot; list curated by Geoawesome ; The list was created with community participation, with candidates evaluated and voted on by geospatial industry professionals ; Next Geo specializes in location analytics, investment site selection, target audience analysis, sales forecasting, and AI-powered decision systems ; The company&#x27;s GeoAI solutions combine demographic data, consumer profiles, commercial density, and mobility data to produce measurable business insights ; Next Geo plans to expand into Middle East and European markets, leveraging its scalable software infrastructure and AI-driven decision models</description>
+        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Google Maps Just Launched Truck-Aware Routing That Knows About Low Bridges and Weight Limits</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260822-google-maps-large-vehicle-routing-truck-aware.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-google-maps-large-vehicle-routing-truck-aware.html</guid>
+        <description>Google announced the general availability of Large Vehicle Routing (LVR), a version of its mapping technology built specifically for trucks and buses that accounts for height, weight, length, hazmat restrictions, and low bridges — addressing one of the most preventable hazards in trucking through developer APIs rather than a consumer app. — Key takeaways: LVR is now GA in the US across three Google developer products: Routes API, Route Optimization API, and Navigation SDK ; Operators can specify detailed vehicle profiles including height, weight, length, width, axle count, and hazardous goods classifications ; A large-vehicle-specific ETA model combines observed truck travel speeds with real-time and predictive traffic data ; The Navigation SDK displays truck-aware routes with visual callouts flagging restrictions matched to the vehicle&#x27;s dimensions ; LVR is a developer tool, not a consumer app — it will reach drivers through fleet management companies, TMS providers, and telematics firms that integrate it</description>
+        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>TomTom Executive Extols Virtues of Traffic Data in ULEZ Health Debate</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260822-tomtom-ulez-traffic-data-health-debate.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-tomtom-ulez-traffic-data-health-debate.html</guid>
+        <description>A TomTom executive highlighted the role of traffic data in the ULEZ health debate, pointing to a study showing that children whose lung growth had been stunted by air pollution showed a striking recovery after the implementation of London&#x27;s Ultra Low Emission Zone. — Key takeaways: London&#x27;s ULEZ linked to rapid recovery in children&#x27;s lung growth according to a new study ; TomTom&#x27;s traffic data provides evidence for the public health impact of urban emission zones ; Children whose lung growth had been stunted by air pollution showed measurable improvement ; The debate highlights the intersection of traffic data, public health policy, and urban air quality management ; TomTom positions its traffic data as a tool for evidence-based urban policy beyond navigation</description>
+        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>From These Lands: Mapping US Natural and Cultural Heritage at the Smithsonian</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260822-smithsonian-maps-natural-cultural-heritage-esri.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-smithsonian-maps-natural-cultural-heritage-esri.html</guid>
+        <description>The Smithsonian&#x27;s National Museum of Natural History uses five animated GIS map layers to trace how biomes, migrations, and geology move across the United States in an exhibit marking the nation&#x27;s 250th birthday. — Key takeaways: The exhibit &quot;From These Lands&quot; at the Smithsonian marks the US 250th birthday with 600+ specimens from all 50 states and 5 territories ; Geography, not alphabetical state-by-state listing, is the exhibit&#x27;s organizing principle ; Five animated map layers trace biomes, migrations, and geology across the country in 60-second sequences ; Paleogeographic maps reveal how a shallow sea once split the middle of what is now the US ; Interactive map stations let visitors send digital postcards and find natural history tied to their home states ; The exhibit uses maps to show connections across regions, illustrating how heritage is shared across the country</description>
+        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Apple Maps place au Maroc des territoires espagnols, de quoi irriter Madrid</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260822-apple-maps-maroc-territoires-espagnols.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-apple-maps-maroc-territoires-espagnols.html</guid>
+        <description>Apple Maps affiche plusieurs territoires administrés par l&#x27;Espagne et revendiqués par le Maroc comme étant situés au Maroc, soulevant des tensions diplomatiques autour des enclaves espagnoles d&#x27;Afrique du Nord. — Key takeaways: Les îles Chafarinas et le rocher d&#x27;Al Hoceïma apparaissent associés au Maroc dans Apple Maps ; Le rocher d&#x27;Al Hoceïma présente une contradiction interne : sa fiche reprend une description de Wikipedia mentionnant son appartenance à l&#x27;Espagne, avant de le situer au Maroc ; Chafarinas, Al Hoceïma et Vélez de la Gomera font partie des « places de souveraineté » administrées par Madrid et revendiquées par Rabat ; L&#x27;Espagne accorde une attention militaire particulière à ces territoires, avec un détachement permanent déployé aux Chafarinas ; El Debate présente cet affichage comme une erreur cartographique, tandis que les Marocains y voient une prise de position délibérée</description>
+        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Alternativas Reales a Google Maps Que No Son Estadounidenses</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260822-alternatives-google-maps-non-us-wikiversus.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-alternatives-google-maps-non-us-wikiversus.html</guid>
+        <description>A comprehensive comparison of non-US Google Maps alternatives reveals that most share the same OpenStreetMap base data underneath, and the real differentiators are interface, offline capabilities, and business listing quality. — Key takeaways: Most &quot;alternatives&quot; to Google Maps share the same OpenStreetMap base data, differing mainly in interface and features ; Mapy.com has proprietary cartography only in Czechia; elsewhere it uses OpenStreetMap ; HERE WeGo (Netherlands) has its own cartography, originally Nokia&#x27;s maps division, now owned by Audi/BMW/Daimler ; Organic Maps offers unlimited offline downloads with no advertising, built on OpenStreetMap ; OSM data quality varies significantly by zone depending on local contributor activity ; OpenStreetMap excels in hiking/mountain trails and pedestrian detail in European cities, but lacks business listings and reviews</description>
+        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>I Tested the Top 3 Android Auto Navigation Apps to Replace Google Maps</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260822-android-auto-navigation-apps-replace-google-maps.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-android-auto-navigation-apps-replace-google-maps.html</guid>
+        <description>After testing Waze, OsmAnd, and HERE WeGo on Android Auto, one app emerged as the clear Google Maps replacement thanks to its clean interface, community reporting, and surprisingly deep Gemini integration. — Key takeaways: Waze, OsmAnd, and HERE WeGo were tested as Google Maps replacements on Android Auto ; OsmAnd offers extensive customization and offline maps but its UI feels like overkill for everyday use ; HERE WeGo is straightforward with strong offline support but lacked a compelling differentiator ; Waze won with its clean interface, lightweight performance, and real-time community hazard reporting ; Gemini integration gives Waze multi-app voice commands, rivaling Google Maps&#x27; assistant advantage ; Waze&#x27;s community reports (traffic, crashes, hazards) proved useful even on familiar routes</description>
+        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>3366 Hectares Burned in the Hautes Fagnes: Map Visualization Puts the Scale in Perspective</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260822-rtbf-hautes-fagnes-fire-map-3366-hectares-copernicus.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-rtbf-hautes-fagnes-fire-map-3366-hectares-copernicus.html</guid>
+        <description>Belgium&#x27;s RTBF used satellite imagery from Copernicus Sentinel-2 and map overlays to visualize the 3,366 hectares burned in the Hautes Fagnes fire, translating the abstract figure by overlaying it on maps of Brussels, Liège, Namur, and Charleroi for scale. — Key takeaways: The Service public de Wallonie (SPW) reported 3,366 hectares burned in the Hautes Fagnes fire, based on crisis management data from the Cortex coordination center ; The European Copernicus Sentinel-2 satellite captured the fire on August 16, 2026, using infrared spectral bands to reveal the burn trace through cloud cover, with active fires shown in orange and vegetation in bright green ; The European Forest Fire Information System (EFFIS) counted 2,825 hectares burned, with 86.5% located in Natura 2000 protected areas ; RTBF created map overlays translating the burned area onto major Belgian cities: from Grâce-Hollogne to Herstal in Liège, La Plante to Saint-Marc in Namur, and Gilly to Monceau-sur-Sambre in Charleroi ; The SPW noted the data is evolving as the situation develops, with satellite imagery limited by heavy cloud cover during the fire</description>
         <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
     </item>
 
@@ -161,138 +329,26 @@
     </item>
 
     <item>
+        <title>NGT Directs Bhopal to Use GIS Mapping for Forest Encroachment Removal</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260822-ngt-bhopal-gis-mapping-forest-encroachment.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-ngt-bhopal-gis-mapping-forest-encroachment.html</guid>
+        <description>India&#x27;s National Green Tribunal has ordered Bhopal authorities to use GIS and satellite imagery to demarcate forest land and remove illegal encroachments within three months, mandating geo-tagging and a comprehensive tree census. — Key takeaways: The NGT Central Zone Bench directed Bhopal&#x27;s Collector and Divisional Forest Officer to conduct a joint GIS/GPS survey to demarcate all forest land within the district ; Illegal encroachments must be removed within three months where there are no lawful impediments ; Bhopal&#x27;s forest cover is below 12% of district area per ISFR 2023, with a decline of 0.54 sq.km since 2021 ; The tribunal mandated GIS mapping of the Bhopal Municipal Corporation area including road verges, along with a tree census ; Compensatory plantation must be monitored for 15 years by a committee of Forest, Municipal, Horticulture, and State PCB members ; The NGT directed rules requiring Miyawaki plots on vacant municipal land, vertical green facades on metro pillars, and green roofs on commercial buildings</description>
+        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Back to School with Maps! — Esri Education Blog</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260822-esri-back-to-school-with-maps-education.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-esri-back-to-school-with-maps-education.html</guid>
+        <description>Esri&#x27;s education team publishes a back-to-school resource encouraging teachers to integrate free, browser-based mapping tools into their curriculum, emphasizing that every topic taught happens somewhere and that making the &quot;where&quot; visible enhances learning. — Key takeaways: Esri&#x27;s education blog highlights free, browser-based mapping tools available for classroom use at the start of the school year ; The core message is that every subject has a geographic dimension — &quot;every topic you teach happens somewhere&quot; — and making that spatial context visible enhances student understanding ; The resources are designed to be accessible to teachers without prior GIS experience, requiring only a web browser ; The initiative aligns with broader efforts to promote spatial thinking and geographic literacy in primary and secondary education ; Esri offers education-specific ArcGIS licenses and teaching materials through its schools program</description>
+        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
         <title>Why TomTom GPS Is Better Than Flitsmeister for Driving in France and Germany</title>
         <link>https://mappingforward.fr/articles/2026-08/20260822-tomtom-gps-vs-flitsmeister-speed-camera-france-germany.html</link>
         <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-tomtom-gps-vs-flitsmeister-speed-camera-france-germany.html</guid>
         <description>TomTom GPS handles speed camera warnings legally in France by switching to &quot;danger zones&quot; instead of exact locations, while Flitsmeister shows precise positions — risking fines of up to €1,500 for users who don&#x27;t disable the feature. — Key takeaways: France prohibits real-time speed camera location warnings while driving; TomTom complies by showing &quot;danger zones&quot; (300m–4km depending on road type) instead of exact camera positions ; Flitsmeister shows exact camera locations in France, shifting legal responsibility to the user, with potential fines up to €1,500 ; Germany also bans speed camera warnings while driving; both apps advise users to disable the feature before crossing the border ; TomTom offers full speed camera warnings in the Netherlands and Luxembourg where it is legal ; The distinction matters most for drivers regularly crossing between countries with different warning legislation</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>HD Map Industry Trends Driving Autonomous and Connected Mobility</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-hd-map-autonomous-vehicles-industry-trends.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-hd-map-autonomous-vehicles-industry-trends.html</guid>
-        <description>The HD Map for Autonomous Vehicles market is projected to grow from USD 2.59B in 2024 to USD 22.97B by 2032 at 31.48% CAGR, driven by autonomous vehicle adoption, AI/LiDAR integration, V2X technology, and smart city investments. — Key takeaways: HD Map market estimated at USD 2.59 billion in 2024, forecasted to reach USD 22.97 billion by 2032 (31.48% CAGR) ; Unlike regular navigation maps, HD maps provide lane-level positioning and localization essential for ADAS and autonomous driving ; Key players include TomTom, Waymo, HERE Technologies, NVIDIA, Baidu, and Mapbox ; TomTom partnered with Mitsubishi Electric (2024) integrating ADAS HD Maps with Mitsubishi&#x27;s High-Definition Locator ; Waymo began mapping Tokyo streets in 2025 using manually driven vehicles for high-quality 3D representation ; HERE Technologies strengthened its alliance with BMW integrating standard and HD map data for lane-level positioning</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Maps That Read Real-Time Road Changes: WaysOne Unveils LDM Technology</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-waysone-ldm-dynamic-map-autonomous-driving-venturesquare.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-waysone-ldm-dynamic-map-autonomous-driving-venturesquare.html</guid>
-        <description>Korean startup WayzOne has unveiled a Local Dynamic Map (LDM) operating system that extends autonomous vehicle perception beyond sensor range by integrating real-time road conditions into high-precision maps, with government policy support extended through 2027. — Key takeaways: WayzOne unveiled three LDM solutions — LDM2X, LDM TWIN, and AVION — at the 2026 Autonomous Driving Mobility Industry Exhibition (AME 2026) in Seoul ; LDM2X combines real-time road information (signals, traffic, incidents) with high-precision maps and converts it to standard V2X messages for vehicles ; LDM TWIN creates a real-time digital twin of traffic signals and vehicle flow for traffic operators to detect and predict hazardous situations ; AVION is a smart HMI that visualizes 3D surrounding objects and autonomous vehicle movement paths for drivers and control personnel ; The company was selected as an &quot;Innovation Premier 1000&quot; company by Korea&#x27;s Ministry of Land, Infrastructure and Transport, extending support through end of 2027</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>TomTom Executive Extols Virtues of Traffic Data in ULEZ Health Debate</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-tomtom-ulez-traffic-data-health-debate.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-tomtom-ulez-traffic-data-health-debate.html</guid>
-        <description>A TomTom executive highlighted the role of traffic data in the ULEZ health debate, pointing to a study showing that children whose lung growth had been stunted by air pollution showed a striking recovery after the implementation of London&#x27;s Ultra Low Emission Zone. — Key takeaways: London&#x27;s ULEZ linked to rapid recovery in children&#x27;s lung growth according to a new study ; TomTom&#x27;s traffic data provides evidence for the public health impact of urban emission zones ; Children whose lung growth had been stunted by air pollution showed measurable improvement ; The debate highlights the intersection of traffic data, public health policy, and urban air quality management ; TomTom positions its traffic data as a tool for evidence-based urban policy beyond navigation</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Alternativas Reales a Google Maps Que No Son Estadounidenses</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-alternatives-google-maps-non-us-wikiversus.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-alternatives-google-maps-non-us-wikiversus.html</guid>
-        <description>A comprehensive comparison of non-US Google Maps alternatives reveals that most share the same OpenStreetMap base data underneath, and the real differentiators are interface, offline capabilities, and business listing quality. — Key takeaways: Most &quot;alternatives&quot; to Google Maps share the same OpenStreetMap base data, differing mainly in interface and features ; Mapy.com has proprietary cartography only in Czechia; elsewhere it uses OpenStreetMap ; HERE WeGo (Netherlands) has its own cartography, originally Nokia&#x27;s maps division, now owned by Audi/BMW/Daimler ; Organic Maps offers unlimited offline downloads with no advertising, built on OpenStreetMap ; OSM data quality varies significantly by zone depending on local contributor activity ; OpenStreetMap excels in hiking/mountain trails and pedestrian detail in European cities, but lacks business listings and reviews</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Zürich Moves Property Ownership Inquiry to New GIS-Browser</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-zurich-gis-browser-eigentumsauskunft-property-ownership.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-zurich-gis-browser-eigentumsauskunft-property-ownership.html</guid>
-        <description>The Canton of Zürich has migrated property ownership inquiries (Eigentumsauskunft) from the old geoportal application to the new GIS-Browser, providing a more accessible map-based interface for property information lookup. — Key takeaways: The Eigentumsauskunft (property ownership inquiry) function has been moved to Zürich&#x27;s new GIS-Browser as of August 20, 2026 ; The function was deactivated in the previous application ; Users access property information through a dedicated &quot;Eigentumsauskunft&quot; map containing relevant data layers ; Clicking on a property in the map displays an information panel with a link to ownership details ; The migration is part of Zürich&#x27;s broader modernization of its geospatial portal infrastructure</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Google Maps Just Launched Truck-Aware Routing That Knows About Low Bridges and Weight Limits</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-google-maps-large-vehicle-routing-truck-aware.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-google-maps-large-vehicle-routing-truck-aware.html</guid>
-        <description>Google announced the general availability of Large Vehicle Routing (LVR), a version of its mapping technology built specifically for trucks and buses that accounts for height, weight, length, hazmat restrictions, and low bridges — addressing one of the most preventable hazards in trucking through developer APIs rather than a consumer app. — Key takeaways: LVR is now GA in the US across three Google developer products: Routes API, Route Optimization API, and Navigation SDK ; Operators can specify detailed vehicle profiles including height, weight, length, width, axle count, and hazardous goods classifications ; A large-vehicle-specific ETA model combines observed truck travel speeds with real-time and predictive traffic data ; The Navigation SDK displays truck-aware routes with visual callouts flagging restrictions matched to the vehicle&#x27;s dimensions ; LVR is a developer tool, not a consumer app — it will reach drivers through fleet management companies, TMS providers, and telematics firms that integrate it</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>After SDVs, Next Is AI: Future Cars&#x27; Battleground Is Context Data</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-tomtom-ai-defined-vehicles-context-data.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-tomtom-ai-defined-vehicles-context-data.html</guid>
-        <description>TomTom CPO Leo Sei argues that the auto industry&#x27;s competitive axis is shifting from software-defined vehicles (SDVs) to AI-defined vehicles (AIDVs), where the ability to understand and respond to roads, drivers, and driving conditions using context data matters more than which software is installed. — Key takeaways: The competitive focus is moving from SDVs (software-defined vehicles) to AIDVs (AI-defined vehicles) where performance is determined by continuously learning ML models ; Context data — combining sensors with detailed maps — enables vehicles to anticipate unseen risks including lane splits, speed-limit changes, and road closures ; AI is not limited to autonomous driving: it extends to navigation, infotainment, battery and energy management, and climate control ; Qualcomm and Nissan have also referenced the AIDV concept, presenting it as the next technology trend ; AI is also being used to create road data itself, by analyzing sensor data to build and update maps</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>One Hidden Google Maps Setting That Saves Battery Life While Hiking</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-google-maps-satellite-view-battery-life-hiking.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-google-maps-satellite-view-battery-life-hiking.html</guid>
-        <description>Disabling Google Maps&#x27; default satellite view while hiking can meaningfully extend battery life, as the extra rendering and cellular data consumption drain power that&#x27;s better preserved for safety and navigation on long trail days. — Key takeaways: Satellite view in Google Maps uses more cellular data and battery due to heavier screen rendering and location updates ; Disabling &quot;Start maps in Satellite View&quot; in Settings &gt; App &amp; Display settings makes the standard map the default ; Standard map view provides nearly all needed information: road locations, compass orientation, and mapped features ; Terrain view offers topographical data and elevation changes, often more useful than satellite imagery under dense tree cover ; Satellite view remains available on-demand via the layers button for specific situations like trail junctions or unmarked paths ; The battery savings are cumulative over a full day of hiking, where every bit of power matters</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>GPS et écologie : pourquoi votre trajet met désormais plus de temps sur Waze ou Google Maps</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-gps-ecologie-waze-google-maps-less-polluting-routes.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-gps-ecologie-waze-google-maps-less-polluting-routes.html</guid>
-        <description>A French decree now requires navigation apps like Google Maps and Waze to default to the least polluting route rather than the fastest, meaning your GPS may suggest longer but more environmentally friendly journeys. — Key takeaways: A French decree imposes the least polluting route as the default option in GPS navigation apps ; Google Maps and Waze must now limit suggested speeds and prioritize fuel-efficient routing ; Users may notice their journeys take longer than before as environmental considerations override pure speed optimization ; The regulation reflects a growing policy trend of using digital navigation tools as levers for reducing transportation emissions ; Users can still manually override the default to select the fastest route, but the eco-friendly option is presented first</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Waze and Google Maps &quot;Shortcut&quot; at Perthus Turns Into Nightmare for Residents</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-waze-google-maps-perthus-shortcut-nightmare.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-waze-google-maps-perthus-shortcut-nightmare.html</guid>
-        <description>Navigation apps are routing drivers through a narrow dirt track near the Spanish border to avoid Perthus traffic jams, turning a peaceful village into a dangerous bottleneck despite a municipal ban on oversized vehicles. — Key takeaways: Waze and Google Maps suggest an alternative route through the col de Manrella and Las Illas to avoid Perthus/Boulou traffic jams ; The route includes a narrow unpaved road designed for emergency access, now flooded with cars, camper vans, and trucks ; A municipal ordinance banning camper vans, trailers, and trucks was issued but remains ineffective two weeks later ; Residents report over 100 vehicles on delivery days, with vehicles unable to pass each other on the narrow road ; A 91-year-old local describes the situation as unprecedented: &quot;C&#x27;est la première fois que je vois ça&quot; ; A caravan previously ended up in a ditch, highlighting the danger of the diversion</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>I Tested the Top 3 Android Auto Navigation Apps to Replace Google Maps</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-android-auto-navigation-apps-replace-google-maps.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-android-auto-navigation-apps-replace-google-maps.html</guid>
-        <description>After testing Waze, OsmAnd, and HERE WeGo on Android Auto, one app emerged as the clear Google Maps replacement thanks to its clean interface, community reporting, and surprisingly deep Gemini integration. — Key takeaways: Waze, OsmAnd, and HERE WeGo were tested as Google Maps replacements on Android Auto ; OsmAnd offers extensive customization and offline maps but its UI feels like overkill for everyday use ; HERE WeGo is straightforward with strong offline support but lacked a compelling differentiator ; Waze won with its clean interface, lightweight performance, and real-time community hazard reporting ; Gemini integration gives Waze multi-app voice commands, rivaling Google Maps&#x27; assistant advantage ; Waze&#x27;s community reports (traffic, crashes, hazards) proved useful even on familiar routes</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>TomTom and Microsoft Extend Collaboration on AI-Powered Mobility Solutions</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-tomtom-microsoft-extend-collaboration-ai-mobility.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-tomtom-microsoft-extend-collaboration-ai-mobility.html</guid>
-        <description>TomTom and Microsoft have extended their decade-long collaboration to develop AI-powered solutions for automotive, logistics, and broader mobility domains, with TomTom Orbis Maps continuing to power Azure Maps and Microsoft 365 location features. — Key takeaways: TomTom and Microsoft have collaborated since 2016, including through the Overture Map Foundation ; Microsoft Azure remains TomTom&#x27;s preferred cloud provider, and TomTom powers Azure Maps ; Bing, Microsoft Power BI, and Microsoft 365 all use TomTom maps and location services ; The companies will develop generative AI-powered automotive solutions and an in-vehicle digital cockpit ; TomTom CEO Harold Goddijn highlighted Orbis Maps powering Microsoft&#x27;s traffic and location data ; Microsoft is already rolling out TomTom Traffic based on the new TomTom Orbis Maps platform</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Cedar Electronics Selects TomTom Orbis Maps to Enhance Speed Awareness Across the United States</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-tomtom-orbis-maps-cedar-electronics-speed-awareness.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-tomtom-orbis-maps-cedar-electronics-speed-awareness.html</guid>
-        <description>TomTom partners with Cedar Electronics to supply Orbis Maps speed limit data for Escort and Cobra radar detectors, leveraging multi-source probe intelligence to deliver accurate, frequently refreshed speed awareness alerts across the US. — Key takeaways: Cedar Electronics selected TomTom Orbis Maps for integration into its Escort and Cobra radar detector product lines ; TomTom&#x27;s speed intelligence combines official government datasets, field-verified surveys, and anonymized connected-vehicle probe data ; The multi-source approach validates and enriches speed information even on roads where signing is incomplete or inconsistent ; The partnership aims to improve real-time speed awareness alerts for drivers across the United States ; This deal signals that probe-based speed intelligence is becoming standard for automotive safety products</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Overture Maps Data as Parquet Feature Layers (Early Access)</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-overture-maps-parquet-feature-layers-esri.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-overture-maps-parquet-feature-layers-esri.html</guid>
-        <description>Esri announced Early Access Parquet feature layers created from Overture Maps Foundation data, enabling ArcGIS Online users to work with large read-only datasets like addresses, railways, infrastructure, places, and major cities directly through pre-configured web maps. — Key takeaways: Eight web maps are now available through the Overture Parquet Layers group on ArcGIS Online: addresses, railways, infrastructure points/lines/polygons, places, major cities, and division areas ; The Parquet feature layer is a new layer type released in Beta in the June 2026 ArcGIS Online release, ideal for large read-only datasets ; Overture Maps Foundation generates monthly releases of reference datasets (buildings, roads, POIs) sourced from OpenStreetMap, Esri Community Maps, Microsoft, Meta, and others ; Data is accessible through open AWS S3 or Microsoft Azure endpoints and the Parquet format makes it well-suited for cloud-hosted large datasets ; Basic functionality like filtering, labeling, and modifying symbology is supported despite Beta limitations</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>&#x27;Wall-to-Wall&#x27; Map of NYC Trees Could Help Cool Cities Worldwide</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-wall-to-wall-nyc-trees-cool-cities.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-wall-to-wall-nyc-trees-cool-cities.html</guid>
-        <description>Researchers from Cornell University created the first &quot;wall-to-wall&quot; citywide map identifying 1.8 million individual trees in New York City — including 1.4 million never before surveyed — using satellite imagery, ground data, and lidar, with 82% accuracy, to optimize tree placement for urban cooling. — Key takeaways: First wall-to-wall citywide tree map identifying 1.8 million individual trees, 1.4 million of which had never been surveyed ; Uses satellite imagery, on-the-ground datasets, and 3D lidar data with 82% overall accuracy ; Covers private property, natural areas, and unsurveyed areas constituting an estimated 65% of the city&#x27;s canopy ; Part of the Cool Trees project optimizing tree placement for cooling as NYC heat waves become more frequent ; NYC set a goal of expanding tree cover from 22% to 30% by 2040, which the map could directly inform</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Google Maps Is More Useful as a Travel Notebook Than a Navigation App</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-google-maps-travel-notebook-custom-lists.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-google-maps-travel-notebook-custom-lists.html</guid>
-        <description>An Android Police features author argues that Google Maps&#x27; custom lists feature transforms it from a navigation tool into a powerful travel planning notebook, combining itinerary building, note-taking, and geographic visualization in one app. — Key takeaways: Custom lists in Google Maps allow users to create categorized travel collections with emoji icons ; Users can add notes to each pinned location (e.g., what to order at a restaurant) ; Custom list order can be arranged by priority or chronological itinerary ; Lists can be shared with travel companions as collaborators who can add their own pins and notes ; Zooming out on the map reveals all custom icons, exposing geographically unrealistic itineraries ; Google Maps Timeline preserves a detailed record of trips for future reference</description>
         <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
     </item>
 
@@ -305,66 +361,26 @@
     </item>
 
     <item>
-        <title>Apple Maps place au Maroc des territoires espagnols, de quoi irriter Madrid</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-apple-maps-maroc-territoires-espagnols.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-apple-maps-maroc-territoires-espagnols.html</guid>
-        <description>Apple Maps affiche plusieurs territoires administrés par l&#x27;Espagne et revendiqués par le Maroc comme étant situés au Maroc, soulevant des tensions diplomatiques autour des enclaves espagnoles d&#x27;Afrique du Nord. — Key takeaways: Les îles Chafarinas et le rocher d&#x27;Al Hoceïma apparaissent associés au Maroc dans Apple Maps ; Le rocher d&#x27;Al Hoceïma présente une contradiction interne : sa fiche reprend une description de Wikipedia mentionnant son appartenance à l&#x27;Espagne, avant de le situer au Maroc ; Chafarinas, Al Hoceïma et Vélez de la Gomera font partie des « places de souveraineté » administrées par Madrid et revendiquées par Rabat ; L&#x27;Espagne accorde une attention militaire particulière à ces territoires, avec un détachement permanent déployé aux Chafarinas ; El Debate présente cet affichage comme une erreur cartographique, tandis que les Marocains y voient une prise de position délibérée</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Google Trends Gains Explore Maps and Regional Breakdown</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-google-trends-explore-maps-regional-breakdown.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-google-trends-explore-maps-regional-breakdown.html</guid>
-        <description>Google Trends has launched new interactive maps designed for clearer data storytelling, allowing users to instantly spot regional trends and explore the geographic dimension behind every search query. — Key takeaways: Google Trends added Explore Maps and Regional Breakdown features ; Google designed new interactive maps for &quot;clearer data storytelling&quot; ; Users can &quot;instantly spot regional trends, capture visual insights for your audience&quot; ; The feature allows exploration of the &quot;where&quot; behind every search query ; Features may still be rolling out to all users ; The interactive maps complement existing timeline and average graph comparisons</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Statiq: Improving User Experience and Increasing EV App Usage with Places UI Kit</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-statiq-ev-charging-places-ui-kit-google-maps.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-statiq-ev-charging-places-ui-kit-google-maps.html</guid>
-        <description>India&#x27;s largest EV charging network Statiq integrated Google Maps Platform&#x27;s Places UI Kit directly into its app, enabling an end-to-end charging experience that produced a 13% increase in navigation starts, 15% faster session completion, and 9% more repeat charging sessions within three months. — Key takeaways: Statiq is India&#x27;s largest EV charging network with 2000+ owned stations, 80% of all stations listed, and over 1 million app downloads ; Places UI Kit integration took just three weeks from project start to product launch using ready-made components ; After relaunching in January 2026: 13% increase in navigation starts, 15% reduction in time to successful session, 7% increase in charger discovery interactions ; Revenue impact: 9% increase in repeat sessions, 8% increase in session frequency, 8% reduction in abandoned searches, 3% uptick in download-to-charge conversion ; 10% improvement in overall user satisfaction measured through in-app ratings and post-session feedback</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>NGT Directs Bhopal to Use GIS Mapping for Forest Encroachment Removal</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-ngt-bhopal-gis-mapping-forest-encroachment.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-ngt-bhopal-gis-mapping-forest-encroachment.html</guid>
-        <description>India&#x27;s National Green Tribunal has ordered Bhopal authorities to use GIS and satellite imagery to demarcate forest land and remove illegal encroachments within three months, mandating geo-tagging and a comprehensive tree census. — Key takeaways: The NGT Central Zone Bench directed Bhopal&#x27;s Collector and Divisional Forest Officer to conduct a joint GIS/GPS survey to demarcate all forest land within the district ; Illegal encroachments must be removed within three months where there are no lawful impediments ; Bhopal&#x27;s forest cover is below 12% of district area per ISFR 2023, with a decline of 0.54 sq.km since 2021 ; The tribunal mandated GIS mapping of the Bhopal Municipal Corporation area including road verges, along with a tree census ; Compensatory plantation must be monitored for 15 years by a committee of Forest, Municipal, Horticulture, and State PCB members ; The NGT directed rules requiring Miyawaki plots on vacant municipal land, vertical green facades on metro pillars, and green roofs on commercial buildings</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>3366 Hectares Burned in the Hautes Fagnes: Map Visualization Puts the Scale in Perspective</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-rtbf-hautes-fagnes-fire-map-3366-hectares-copernicus.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-rtbf-hautes-fagnes-fire-map-3366-hectares-copernicus.html</guid>
-        <description>Belgium&#x27;s RTBF used satellite imagery from Copernicus Sentinel-2 and map overlays to visualize the 3,366 hectares burned in the Hautes Fagnes fire, translating the abstract figure by overlaying it on maps of Brussels, Liège, Namur, and Charleroi for scale. — Key takeaways: The Service public de Wallonie (SPW) reported 3,366 hectares burned in the Hautes Fagnes fire, based on crisis management data from the Cortex coordination center ; The European Copernicus Sentinel-2 satellite captured the fire on August 16, 2026, using infrared spectral bands to reveal the burn trace through cloud cover, with active fires shown in orange and vegetation in bright green ; The European Forest Fire Information System (EFFIS) counted 2,825 hectares burned, with 86.5% located in Natura 2000 protected areas ; RTBF created map overlays translating the burned area onto major Belgian cities: from Grâce-Hollogne to Herstal in Liège, La Plante to Saint-Marc in Namur, and Gilly to Monceau-sur-Sambre in Charleroi ; The SPW noted the data is evolving as the situation develops, with satellite imagery limited by heavy cloud cover during the fire</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>How Maps Harden Territorial Claims</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-how-maps-harden-territorial-claims.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-how-maps-harden-territorial-claims.html</guid>
-        <description>The Lowy Institute analyzes how maps serve as tools of geopolitical power, examining how China&#x27;s dashed-line map and state map regulation harden territorial claims by compressing complex legal questions into single authoritative images. — Key takeaways: Maps can cast one side as lawful occupant and another as intruder in sovereignty disputes ; China&#x27;s dashed-line map, attached to 2009 diplomatic notes, enclosed most of the South China Sea without explaining the dashes&#x27; legal effect ; China regulates public maps through official review, making unauthorized depictions of its territory illegal ; The Ministry of Natural Resources runs an annual publicity week to promote national-territory awareness ; Maps compress complex unsettled questions of land and water rights into a single image ; When governments consistently present contested space as national territory, domestic compromise becomes harder</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Delhi To Get Digital Twin As Master Plan 2047 Takes Urban Planning Into 3D Era</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-delhi-digital-twin-master-plan-2047.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-delhi-digital-twin-master-plan-2047.html</guid>
-        <description>Delhi&#x27;s Master Plan 2047 introduces a 3D Digital Twin of the city combining GIS data, urban sensors, and real-time government systems to simulate development scenarios before implementation, marking a shift from conventional 2D maps to technology-driven urban governance. — Key takeaways: The Delhi Development Authority is developing a 3D digital replica of Delhi as part of Master Plan 2047 ; The digital twin combines GIS data with real-time inputs from urban sensors to simulate and assess development scenarios ; The GIS-based master plan includes layered infrastructure datasets and geo-referenced maps with regularly updated databases ; The approach is aligned with national initiatives including PM Gati Shakti National Master Plan and AMRUT ; Common data standards and spatial systems are proposed to improve interoperability between agencies</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
         <title>Africans Hope a Fairer Map Can Lead to a Fairer World: The Correct the Map Campaign</title>
         <link>https://mappingforward.fr/articles/2026-08/20260821-africa-cartography-correct-the-map-campaign.html</link>
         <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260821-africa-cartography-correct-the-map-campaign.html</guid>
         <description>An African Union-backed campaign advocating the Equal Earth map projection as a replacement for the centuries-old Mercator projection gained fresh momentum after a US State Department map mislabeled African countries, with Togo set to bring the issue to the UN General Assembly. — Key takeaways: A Trump administration official presented a map of Africa with wrongly labeled and misshapen countries at a global conference in Rio de Janeiro ; The African Union backs the &quot;Correct the Map&quot; campaign advocating the Equal Earth projection over the Mercator projection ; The Mercator projection, created in 1569, grossly underrepresents Africa&#x27;s true size — the continent is 3× larger than Canada and 14× larger than Greenland ; Togo&#x27;s government has pledged to take the map grievance to the UN General Assembly at its annual meeting ; Activists argue the Mercator projection is &quot;the world&#x27;s longest misinformation campaign&quot; that has shaped global perception of Africa</description>
+        <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Mapy.com Redraws Austria&#x27;s Hiking Trails, Adding Tens of Thousands of Kilometres</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260821-mapy-cz-austria-hiking-trails-redrawn.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260821-mapy-cz-austria-hiking-trails-redrawn.html</guid>
+        <description>Czech mapping service Mapy.com has completely rebuilt Austria&#x27;s hiking trail network from scratch, replacing incomplete OpenStreetMap data with its own verified database that now covers approximately 149,000 km of marked trails — up from the previous 95,000 km. — Key takeaways: Mapy.com has redrawn Austria&#x27;s entire hiking trail network, increasing coverage from ~95,000 to ~149,000 km of marked trails ; The team replaced OpenStreetMap data with its own verified database after finding OSM data incomplete and unverified ; For each trail, editors verified existence, actual routing, and type of marking before integrating into the database ; Austria was chosen as a priority destination because it is a top tourist destination for Czech travellers ; The update is part of Mapy.com&#x27;s strategy to differentiate through superior tourist mapping for outdoor use</description>
+        <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>How to Blur Your Home on Google Maps Street View and Why It Matters</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260821-google-maps-blur-home-street-view-privacy.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260821-google-maps-blur-home-street-view-privacy.html</guid>
+        <description>A practical guide to blurring your home on Google Street View for privacy and security, explaining the step-by-step process and why it matters — from deterring burglary planning to protecting the anonymity of public figures. — Key takeaways: Google Street View has faced privacy lawsuits since 2010, when Google admitted secretly collecting unencrypted Wi-Fi data ; Blurring your home removes visual information that could be exploited by burglars to identify entry points ; The process involves finding your address on Google Maps, entering Street View, clicking &quot;Report a problem,&quot; and requesting blurring ; The same approach applies to Bing Maps&#x27; &quot;Streetside&quot; mode and other platforms like Apple Maps ; Public figures and professionals in sensitive sectors can especially benefit from home blurring to avoid unwanted exposure</description>
         <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
     </item>
 
@@ -385,26 +401,10 @@
     </item>
 
     <item>
-        <title>How to Blur Your Home on Google Maps Street View and Why It Matters</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260821-google-maps-blur-home-street-view-privacy.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260821-google-maps-blur-home-street-view-privacy.html</guid>
-        <description>A practical guide to blurring your home on Google Street View for privacy and security, explaining the step-by-step process and why it matters — from deterring burglary planning to protecting the anonymity of public figures. — Key takeaways: Google Street View has faced privacy lawsuits since 2010, when Google admitted secretly collecting unencrypted Wi-Fi data ; Blurring your home removes visual information that could be exploited by burglars to identify entry points ; The process involves finding your address on Google Maps, entering Street View, clicking &quot;Report a problem,&quot; and requesting blurring ; The same approach applies to Bing Maps&#x27; &quot;Streetside&quot; mode and other platforms like Apple Maps ; Public figures and professionals in sensitive sectors can especially benefit from home blurring to avoid unwanted exposure</description>
-        <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Mapy.com Redraws Austria&#x27;s Hiking Trails, Adding Tens of Thousands of Kilometres</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260821-mapy-cz-austria-hiking-trails-redrawn.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260821-mapy-cz-austria-hiking-trails-redrawn.html</guid>
-        <description>Czech mapping service Mapy.com has completely rebuilt Austria&#x27;s hiking trail network from scratch, replacing incomplete OpenStreetMap data with its own verified database that now covers approximately 149,000 km of marked trails — up from the previous 95,000 km. — Key takeaways: Mapy.com has redrawn Austria&#x27;s entire hiking trail network, increasing coverage from ~95,000 to ~149,000 km of marked trails ; The team replaced OpenStreetMap data with its own verified database after finding OSM data incomplete and unverified ; For each trail, editors verified existence, actual routing, and type of marking before integrating into the database ; Austria was chosen as a priority destination because it is a top tourist destination for Czech travellers ; The update is part of Mapy.com&#x27;s strategy to differentiate through superior tourist mapping for outdoor use</description>
-        <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Integrated GIS-Based Multi-Criteria Approach for Seismic Hazard Mapping in the Arabian–Eurasian Convergence Zone</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260820-gis-seismic-hazard-mapping-arabian-eurasian-nature.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260820-gis-seismic-hazard-mapping-arabian-eurasian-nature.html</guid>
-        <description>Researchers have published an integrated GIS-based multi-criteria geospatial approach for seismic hazard mapping in the tectonically active Arabian–Eurasian convergence zone, combining multiple geospatial data layers to produce comprehensive earthquake risk maps. — Key takeaways: The study was published in Scientific Reports on August 19, 2026, as an open-access article ; The research integrates GIS-based multi-criteria analysis with geospatial techniques to map seismic hazards in the Arabian–Eurasian convergence zone ; The approach combines multiple geospatial data layers — including fault proximity, seismic history, geology, and topography — to produce a comprehensive seismic hazard assessment ; The methodology provides a reproducible framework applicable to other tectonically active regions worldwide ; The study received institutional review through Nature&#x27;s peer-review process, accepted August 13, 2026</description>
+        <title>How Does Google Maps Know What Time You Will Arrive? The Technology Behind ETA</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260820-google-maps-eta-how-navigation-works.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260820-google-maps-eta-how-navigation-works.html</guid>
+        <description>An in-depth explainer of how Google Maps estimates arrival times by combining multi-constellation GNSS positioning, A-GPS assisted location, real-time crowd-sourced traffic data, and DeepMind-developed graph neural networks processing one million &quot;supersegments&quot; to achieve 97% journey reliability. — Key takeaways: Google Maps uses multi-constellation GNSS (GPS, Galileo, GLONASS, BeiDou) for positioning, with modern chips receiving signals from multiple systems simultaneously ; A-GPS (Assisted GPS) speeds up localisation by combining satellite signals with mobile network data and Wi-Fi triangulation, achieving 7-13m accuracy outdoors ; Google divides road networks into one million &quot;supersegments&quot; and uses DeepMind-developed graph neural networks to predict traffic and ETA ; The ETA prediction is reliable in over 97% of journeys according to Google product manager Johann Lau ; Google Maps controls 67% of the US navigation market vs Apple Maps (25%) and Waze (8%), with over 2 billion global users</description>
         <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
     </item>
 
