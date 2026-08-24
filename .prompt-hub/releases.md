@@ -1,6 +1,9 @@
 ## 0.1.800 - 2026-08-24
 - Add substack post: The map is now in the driver's seat
 
+## 0.1.799 - 2026-08-24
+- Add a search field in the site header (navbar, all pages): minimal vanilla JS (`search.js`, ~2 KB, no deps) filtering a lean `search-index.json` (title, keywords, date, elevator_pitch, relative URLs). Breaks the documented no-JS constraint — required for a functional search on static hosting. README note updated.
+
 ## 0.1.798 - 2026-08-24
 - Remove the "Static site generated on … — Source" line from the site footer (`docs/build_site.py`), rebuilt `docs/dist`; footer keeps site title + subtitle only
 

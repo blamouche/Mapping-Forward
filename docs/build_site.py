@@ -195,6 +195,10 @@ def page_html(title, body, nav_active="", base=""):
     <div class="nav-brand">
         <a href="{base}index.html">{SITE_TITLE}</a>
     </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
     <div class="nav-links">
         <a href="{base}index.html" class="{ 'active' if nav_active == 'home' else '' }">Home</a>
         <a href="{base}archives.html" class="{ 'active' if nav_active == 'archives' else '' }">Archives</a>
@@ -211,6 +215,8 @@ def page_html(title, body, nav_active="", base=""):
     <meta name="description" content="{escape(SITE_DESCRIPTION)}">
     <link rel="alternate" type="application/rss+xml" title="{SITE_TITLE}" href="{base}feed.xml">
     <link rel="stylesheet" href="{base}style.css">
+    <script>window.SITE_BASE = "{base}";</script>
+    <script src="{base}search.js" defer></script>
 </head>
 <body>
 {nav}
@@ -635,6 +641,54 @@ h1, h2, h3 { line-height: 1.3; font-weight: 700; }
     text-decoration: none;
     border-bottom-color: var(--accent);
 }
+.nav-search { position: relative; }
+#site-search {
+    width: 190px;
+    padding: 0.4rem 0.7rem;
+    font-size: 0.9rem;
+    font-family: var(--font-sans);
+    color: var(--text);
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    outline: none;
+}
+#site-search::placeholder { color: var(--text-muted); }
+#site-search:focus { border-color: var(--accent); }
+.search-results {
+    position: absolute;
+    top: calc(100% + 6px);
+    right: 0;
+    min-width: 320px;
+    max-width: 420px;
+    max-height: 60vh;
+    overflow-y: auto;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    z-index: 200;
+}
+.search-results a {
+    display: block;
+    padding: 0.55rem 0.8rem;
+    color: var(--text);
+    font-size: 0.9rem;
+    line-height: 1.35;
+    border-bottom: 1px solid var(--border-soft);
+}
+.search-results a:last-child { border-bottom: none; }
+.search-results a:hover { background: var(--bg-hover); text-decoration: none; }
+.search-results .search-date {
+    display: block;
+    color: var(--text-muted);
+    font-size: 0.78rem;
+    margin-top: 0.15rem;
+}
+.search-results .search-empty {
+    padding: 0.7rem 0.8rem;
+    color: var(--text-muted);
+    font-size: 0.9rem;
+}
 
 /* Main */
 main {
@@ -917,6 +971,9 @@ details.takeaways li { color: var(--text-muted); margin-bottom: 0.3rem; }
 @media (max-width: 768px) {
     .navbar { flex-direction: column; gap: 0.6rem; padding: 1rem; }
     .nav-links { gap: 1.1rem; flex-wrap: wrap; justify-content: center; }
+    .nav-search { width: 100%; }
+    #site-search { width: 100%; }
+    .search-results { left: 0; right: 0; min-width: 0; max-width: none; }
     .hero { padding: 2.2rem 1rem 1.5rem; }
     .hero h1 { font-size: 1.6rem; }
     .day-header { flex-direction: column; align-items: flex-start; gap: 0.35rem; }
@@ -1008,6 +1065,84 @@ def main():
     with open(os.path.join(DIST_DIR, "manifest.json"), "w") as f:
         json.dump(manifest, f, ensure_ascii=False, indent=2)
     print("  ✓ manifest.json")
+
+    # Generate a lean search index (relative URLs so it works on any host)
+    search_index = [
+        {
+            "title": a["title"],
+            "url": a["url"],
+            "date": a["date"],
+            "keywords": a["keywords"],
+            "elevator_pitch": a["elevator_pitch"],
+        }
+        for a in articles
+    ]
+    with open(os.path.join(DIST_DIR, "search-index.json"), "w") as f:
+        json.dump(search_index, f, ensure_ascii=False)
+    print("  ✓ search-index.json")
+
+    # Client-side search (vanilla JS, no dependencies)
+    search_js = r"""/* Site search: filters search-index.json as you type. */
+(function () {
+    var input = document.getElementById("site-search");
+    if (!input) return;
+    var results = document.getElementById("search-results");
+    var index = null;
+    var base = window.SITE_BASE || "";
+
+    fetch(base + "search-index.json")
+        .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+        .then(function (data) { index = data; })
+        .catch(function () { input.hidden = true; });
+
+    function matches(article, tokens) {
+        var hay = (article.title + " " + article.keywords + " " +
+                   article.date + " " + article.elevator_pitch).toLowerCase();
+        return tokens.every(function (t) { return hay.indexOf(t) !== -1; });
+    }
+
+    function render() {
+        var q = input.value.trim();
+        if (!q || !index) { results.hidden = true; return; }
+        var tokens = q.toLowerCase().split(/\s+/);
+        var hits = [];
+        for (var i = 0; i < index.length && hits.length < 8; i++) {
+            if (matches(index[i], tokens)) hits.push(index[i]);
+        }
+        if (!hits.length) {
+            results.innerHTML = '<div class="search-empty">No results for "' +
+                q.replace(/"/g, "&quot;") + '"</div>';
+        } else {
+            results.innerHTML = hits.map(function (a) {
+                return '<a href="' + base + a.url + '">' + a.title +
+                    '<span class="search-date">' + a.date + "</span></a>";
+            }).join("");
+        }
+        results.hidden = false;
+    }
+
+    var timer = null;
+    input.addEventListener("input", function () {
+        clearTimeout(timer);
+        timer = setTimeout(render, 150);
+    });
+    input.addEventListener("keydown", function (e) {
+        if (e.key === "Enter") {
+            var first = results.querySelector("a");
+            if (first) { window.location.href = first.getAttribute("href"); }
+        } else if (e.key === "Escape") {
+            results.hidden = true;
+            input.blur();
+        }
+    });
+    document.addEventListener("click", function (e) {
+        if (!e.target.closest(".nav-search")) results.hidden = true;
+    });
+})();
+"""
+    with open(os.path.join(DIST_DIR, "search.js"), "w") as f:
+        f.write(search_js)
+    print("  ✓ search.js")
 
     print(f"\nDone! Site generated in {DIST_DIR}")
     print(f"Open with: python3 -m http.server -d {DIST_DIR} 8000")

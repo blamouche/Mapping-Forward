@@ -149,4 +149,4 @@ cd docs/ && python3 build_site.py
 - 783 articles générés en ~1 seconde
 - Taille totale: ~7 MB
 - Aucune dépendance runtime
-- Aucun JavaScript (CSS pure, details/summary natif pour les accordéons)
+- JavaScript minimal (recherche dans le header uniquement, vanilla ~1 Ko, sans dépendance)
