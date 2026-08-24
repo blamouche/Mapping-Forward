@@ -1,3 +1,6 @@
+## 0.1.801 - 2026-08-24
+- Add a "Subscribe" link in the site header navbar (`docs/build_site.py`), pointing to the Substack subscribe URL (utm_source=menu); kept the existing "Substack" link
+
 ## 0.1.800 - 2026-08-24
 - Add substack post: The map is now in the driver's seat
 

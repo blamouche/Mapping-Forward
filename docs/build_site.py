@@ -204,6 +204,7 @@ def page_html(title, body, nav_active="", base=""):
         <a href="{base}archives.html" class="{ 'active' if nav_active == 'archives' else '' }">Archives</a>
         <a href="{base}feed.xml" class="{ 'active' if nav_active == 'rss' else '' }">RSS</a>
         <a href="https://mappingforward.substack.com" target="_blank" rel="noopener">Substack</a>
+        <a href="https://mappingforward.substack.com/subscribe?utm_source=menu&simple=true&next=https%3A%2F%2Fmappingforward.substack.com%2F" target="_blank" rel="noopener">Subscribe</a>
     </div>
 </nav>"""
     return f"""<!DOCTYPE html>
