@@ -1,13 +1,13 @@
 name: Build site
 
-# Regenerate the static site (docs/build_site.py -> docs/dist/) and commit the
-# output to main. Deployement to mappingforward.fr stays a manual rsync/scp
-# from the working copy (see docs/README.md).
+# Regenerate the static site (docs/build_site.py -> docs/dist/), commit the
+# output to main (for the mappingforward.fr rsync workflow) and deploy it to
+# GitHub Pages.
 #
 # Triggers:
 #   - schedule: once per day at 09:00 Europe/Paris. GitHub cron is UTC-only, so
 #     we use a dual cron (07:00 UTC in summer/CEST, 08:00 UTC in winter/CET)
-#     and a timezone guard step that skips any run whose Paris hour is not 09.
+#     and a timezone guard that skips any run whose Paris hour is not 09.
 #   - push: rebuild whenever articles (src/) or the generator change, so the
 #     committed site stays fresh. The bot's own dist commits don't match these
 #     paths, so this never re-triggers itself.
@@ -26,6 +26,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: build-site
@@ -45,19 +47,19 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: Check Paris time (scheduled runs only)
+        id: paris
+        if: github.event_name == 'schedule'
+        run: |
+          HOUR=$(TZ='Europe/Paris' date +%H)
+          echo "hour=$HOUR"
+          echo "run=$([ "$HOUR" = "09" ] && echo true || echo false)" >> "$GITHUB_OUTPUT"
+
       - name: Build and commit site
+        if: github.event_name != 'schedule' || steps.paris.outputs.run == 'true'
         env:
           BRANCH: ${{ github.ref_name }}
         run: |
-          # Scheduled runs only: skip unless it is 09:00 Paris time.
-          if [ "${{ github.event_name }}" = "schedule" ]; then
-            HOUR=$(TZ='Europe/Paris' date +%H)
-            if [ "$HOUR" != "09" ]; then
-              echo "Not 09:00 Paris time (hour=$HOUR) — skipping this scheduled run."
-              exit 0
-            fi
-          fi
-
           # Bring in any remote commits first, then build from the latest src/.
           git checkout "$BRANCH"
           git pull --rebase origin "$BRANCH"
@@ -74,3 +76,14 @@ jobs:
           fi
           git commit -m "Build site: regenerate dist from articles"
           git push origin "$BRANCH"
+
+      - name: Upload GitHub Pages artifact
+        if: github.event_name != 'schedule' || steps.paris.outputs.run == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs/dist
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        if: github.event_name != 'schedule' || steps.paris.outputs.run == 'true'
+        uses: actions/deploy-pages@v4

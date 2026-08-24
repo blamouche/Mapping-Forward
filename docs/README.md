@@ -52,6 +52,15 @@ rsync -avz --delete dist/ user@serveur:/var/www/mappingforward/
 scp -r dist/* user@serveur:/var/www/mappingforward/
 ```
 
+### Déploiement automatique (GitHub Actions + Pages)
+
+Le workflow `.github/workflows/build-site.yml` régénère le site chaque jour à 09:00
+heure de Paris (et à chaque push sur `src/` ou `build_site.py`), commite `dist/` dans
+le repo, puis déploie le contenu sur GitHub Pages :
+**https://blamouche.github.io/Mapping-Forward/**
+
+Le déploiement vers mappingforward.fr reste manuel (rsync/scp ci-dessus).
+
 ### Config nginx (exemple)
 
 ```nginx

@@ -1,3 +1,6 @@
+## 0.1.795 - 2026-08-24
+- Enable GitHub Pages for the static site (build_type=workflow, https://blamouche.github.io/Mapping-Forward/); workflow now deploys `docs/dist` via `upload-pages-artifact` + `deploy-pages`
+
 ## 0.1.794 - 2026-08-24
 - Move the static-site folder from `site/` to `docs/`; update the GitHub Actions workflow (`docs/build_site.py`, `git add -f docs/dist`) and `docs/README.md`
 
