@@ -35,7 +35,11 @@ Articles per month:
 - [Google Maps Could Soon Order Your Food While You Drive — Gemini Integration Teased](src/2026-07/20260706-google-maps-gemini-food-ordering-agentic.md)
 - [Esri ArcGIS Online: Discover How Your Layers, Scenes, Maps, and Apps Connect](src/2026-07/20260706-esri-arcgis-online-item-dependencies-layers-maps-apps.md)
 
-#### August (233 articles)
+#### August (237 articles)
+- [The Tax Escape Map: Billionaires Are Bolting for Florida from the West Coast and Taking $29 Billion in Tax Revenue With Them](src/2026-08/20260823-fortune-tax-escape-map-billionaires-florida-west-coast.md)
+- [Trump Shares Map Of Strait Of Hormuz As "New US Territory", Again](src/2026-08/20260823-ndtv-trump-map-strait-of-hormuz-new-us-territory.md)
+- [7 Google Maps Tricks I Wish I'd Discovered Years Ago](src/2026-08/20260823-howtogeek-7-google-maps-tricks-discovered-years-ago.md)
+- [Google Maps : ce réglage discret préserve votre batterie en randonnée](src/2026-08/20260823-android-mt-google-maps-battery-satellite-view-hiking.md)
 - [Opening the GIS World: From "Maps" to GeoAI — Technology Turning Data into the Future](src/2026-08/20260822-gis-geoai-thailand-digital-twin-location-intelligence.md)
 - [This Little-Known Waze Workaround Solved My Biggest Android Auto Navigation Issues](src/2026-08/20260706-androidpolice-waze-workaround-android-auto-navigation.md)
 - [« Préférer l'ombre » : Google Maps prépare une option étonnante pour vos trajets à pied](src/2026-08/20260706-jeuxvideo-google-maps-prefer-shade-walking-routes.md)
