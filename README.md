@@ -18,7 +18,7 @@ Articles per month:
 2026-04 | ██████████████████████████████████████████████████ 154<br>
 2026-05 | ████████████████████████████████ 117<br>
 2026-07 | █████ 10<br>
-2026-08 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 233<br>
+2026-08 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 247<br>
 ## Articles
 
 ### 2026
@@ -35,7 +35,17 @@ Articles per month:
 - [Google Maps Could Soon Order Your Food While You Drive — Gemini Integration Teased](src/2026-07/20260706-google-maps-gemini-food-ordering-agentic.md)
 - [Esri ArcGIS Online: Discover How Your Layers, Scenes, Maps, and Apps Connect](src/2026-07/20260706-esri-arcgis-online-item-dependencies-layers-maps-apps.md)
 
-#### August (237 articles)
+#### August (247 articles)
+- [Google Maps Bug Won't Show Traffic Data on Android Auto and More](src/2026-08/20260824-9to5google-maps-traffic-data-broken-android-auto.md)
+- [Celebrate 110 Years of National Parks with Maps, Search, and Gemini](src/2026-08/20260824-google-blog-national-parks-week-maps-search-gemini.md)
+- [Connaissez-vous My Maps, la meilleure alternative à Google Maps en voyage ?](src/2026-08/20260824-lesnumeriques-my-maps-alternative-google-maps-voyage.md)
+- [En désactivant l'historique de trajets de Google Maps, j'ai récupéré du stockage et ma vie privée](src/2026-08/20260824-lesnumeriques-desactiver-historique-trajets-google-maps.md)
+- [Ordnance Survey Mapping Data Helps Identify Future Wildfire Risk](src/2026-08/20260824-bbc-ordnance-survey-mapping-wildfire-risk.md)
+- [Google Maps : corrigé sur smartphone, ce bug handicapant touche maintenant Android Auto](src/2026-08/20260824-phonandroid-google-maps-bug-trafic-android-auto.md)
+- [Android Auto perd de nouveau les couleurs du trafic sur Google Maps](src/2026-08/20260824-android-mt-android-auto-couleurs-trafic-google-maps.md)
+- [Hyderabad Ranks Fourth in India for Slow Traffic According to TomTom Traffic Index](src/2026-08/20260824-hyderabadmail-tomtom-traffic-index-hyderabad-fourth-india.md)
+- [Wildfire Map Spotlight: Colwash Fire, Washington](src/2026-08/20260824-iqair-wildfire-map-spotlight-colwash-fire-washington.md)
+- [Les Seychelles bientôt visibles en 360° sur Google Maps](src/2026-08/20260824-seychelles-360-google-maps-street-view.md)
 - [The Tax Escape Map: Billionaires Are Bolting for Florida from the West Coast and Taking $29 Billion in Tax Revenue With Them](src/2026-08/20260823-fortune-tax-escape-map-billionaires-florida-west-coast.md)
 - [Trump Shares Map Of Strait Of Hormuz As "New US Territory", Again](src/2026-08/20260823-ndtv-trump-map-strait-of-hormuz-new-us-territory.md)
 - [7 Google Maps Tricks I Wish I'd Discovered Years Ago](src/2026-08/20260823-howtogeek-7-google-maps-tricks-discovered-years-ago.md)
