@@ -18,7 +18,7 @@ Articles per month:
 2026-04 | ██████████████████████████████████████████████████ 154<br>
 2026-05 | ████████████████████████████████ 117<br>
 2026-07 | █████ 10<br>
-2026-08 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 247<br>
+2026-08 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 256<br>
 ## Articles
 
 ### 2026
@@ -35,7 +35,17 @@ Articles per month:
 - [Google Maps Could Soon Order Your Food While You Drive — Gemini Integration Teased](src/2026-07/20260706-google-maps-gemini-food-ordering-agentic.md)
 - [Esri ArcGIS Online: Discover How Your Layers, Scenes, Maps, and Apps Connect](src/2026-07/20260706-esri-arcgis-online-item-dependencies-layers-maps-apps.md)
 
-#### August (247 articles)
+#### August (256 articles)
+- [One Region. 40,000 Bus Stops. An OSM Map at Every One. — State of the Map 2026](src/2026-08/20260828-sotm-osm-plans-de-proximite-40000-bus-stops-paris.md)
+- [This Unity Asset Pack Allows You to Add Interactive 2D and 3D Maps to Your Games](src/2026-08/20260825-80lv-unity-online-maps-2d-3d-interactive.md)
+- [New Floodplain Maps Take Effect This November in Larimer County](src/2026-08/20260825-larimer-county-floodplain-maps-november-2026.md)
+- [Tactile Maps Installed at MSP Airport Ease Travel for More Than Just Blind Passengers](src/2026-08/20260825-mprnews-msp-airport-tactile-maps-accessibility.md)
+- [Google Builds Korea Team for Full-Functioning Maps Service with Turn-by-Turn Navigation](src/2026-08/20260825-koreaherald-google-maps-korea-team-navigation.md)
+- [Cofiroute Selects TomTom Traffic to Enhance Real-Time Motorway Operations and Driver Information](src/2026-08/20260825-tomtom-cofiroute-traffic-motorway-operations.md)
+- [Ahmedabad Launches ₹240 Crore GIS Mapping Project for 3D City View Ahead of Commonwealth Games 2030](src/2026-08/20260825-ahmedabad-gis-mapping-3d-city-commonwealth-games-2030.md)
+- [Around the Geospatial, 3D, and AEC Industries: Ancient Structures, Coastlines, and Digital Twins](src/2026-08/20260825-geoweek-geospatial-3d-aec-ancient-structures-coastlines-digital-twins.md)
+- [Coimbatore Corporation Geo-tags 1,500 OSR Sites in City](src/2026-08/20260825-toi-coimbatore-geo-tags-1500-osr-sites-gis.md)
+- [How Portcoast Is Rewriting Port Operations in Vietnam with Digital Twins](src/2026-08/20260825-geoweek-portcoast-vietnam-port-operations-digital-twin.md)
 - [Google Maps Bug Won't Show Traffic Data on Android Auto and More](src/2026-08/20260824-9to5google-maps-traffic-data-broken-android-auto.md)
 - [Celebrate 110 Years of National Parks with Maps, Search, and Gemini](src/2026-08/20260824-google-blog-national-parks-week-maps-search-gemini.md)
 - [Connaissez-vous My Maps, la meilleure alternative à Google Maps en voyage ?](src/2026-08/20260824-lesnumeriques-my-maps-alternative-google-maps-voyage.md)
@@ -278,7 +288,6 @@ Articles per month:
 - [Maharashtra to Deploy AI, Geo-Tagging and GIS Mapping to Track Urban Development](src/2026-08/20260731-maharashtra-ai-geo-tagging-gis-mapping-urban-development.md)
 - [US Government Mislabels Countries on Map of Africa at Global Conference](src/2026-08/20260731-aljazeera-us-government-mislabels-countries-map-africa.md)
 - [US Admits 'Unfortunate Error' After Mislabelling Countries on Map of Africa](src/2026-08/20260731-bbc-us-admits-unfortunate-error-mislabelling-countries-africa.md)
-- [One Region. 40,000 Bus Stops. An OSM Map at Every One. — State of the Map 2026](src/2026-08/20260828-sotm-osm-plans-de-proximite-40000-bus-stops-paris.md)
 - [Maps That Read Real-Time Road Changes: WaysOne Unveils LDM Technology](src/2026-08/20260822-waysone-ldm-dynamic-map-autonomous-driving-venturesquare.md)
 - [3366 Hectares Burned in the Hautes Fagnes: Map Visualization Puts the Scale in Perspective](src/2026-08/20260822-rtbf-hautes-fagnes-fire-map-3366-hectares-copernicus.md)
 - [Integrated GIS-Based Multi-Criteria Approach for Seismic Hazard Mapping in the Arabian–Eurasian Convergence Zone](src/2026-08/20260820-gis-seismic-hazard-mapping-arabian-eurasian-nature.md)
