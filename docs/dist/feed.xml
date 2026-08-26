@@ -6,7 +6,7 @@
     <description>Daily synthesis of articles on cartography, mapping, geospatial data, and geographic intelligence</description>
     <language>en</language>
     <atom:link href="https://mappingforward.fr/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 25 Aug 2026 07:48:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 06:03:25 +0000</lastBuildDate>
 
     <item>
         <title>One Region. 40,000 Bus Stops. An OSM Map at Every One. — State of the Map 2026 × Paris</title>
@@ -14,6 +14,78 @@
         <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260828-sotm-osm-plans-de-proximite-40000-bus-stops-paris.html</guid>
         <description>At State of the Map 2026 in Paris, T-Kartor and Jungle Bus present their massive OpenStreetMap-based project to produce and maintain location-specific area maps (&quot;plans de proximité&quot;) for 35,000+ bus and tram stops across the Paris region — Europe&#x27;s most extensive public transport network. — Key takeaways: T-Kartor, the Swedish cartographic agency behind Legible London, WalkNYC, and Toronto TO360, has partnered with Île-de-France Mobilités to create &quot;plans de proximité&quot; — stop-specific area maps for the entire Paris region ; The project covers approximately 35,000 individual bus and tram stops, each requiring a unique map with high quality and consistency standards ; OpenStreetMap data is the backbone: the process goes from editing OSM data to delivering print-ready files to transport operators, with dozens of intermediate steps ; Jungle Bus, a local OSM community organization, has been a key partner throughout the effort ; The talk at State of the Map 2026 covers the full production pipeline: context, build, deployment, maintenance, and lessons learned</description>
         <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>How Portcoast Is Rewriting Port Operations in Vietnam with Digital Twins</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260825-geoweek-portcoast-vietnam-port-operations-digital-twin.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260825-geoweek-portcoast-vietnam-port-operations-digital-twin.html</guid>
+        <description>Vietnam-based engineering firm Portcoast is using an integrated digital twin platform combining bathymetric data, drone reality models, and live vessel tracking on ArcGIS to revolutionize port design, accident analysis, and 100-year planning across Vietnam&#x27;s port sector. — Key takeaways: Portcoast built a digital twin of a port near Ho Chi Minh City that enabled accident simulation using captured footage ; The platform integrates bathymetric data, drone-captured reality models, and live vessel tracking on a single ArcGIS system ; Portcoast&#x27;s engineering pedigree gives it mastery of reality capture: drones, laser scanners, lidar, and unmanned surface vessels ; At a grain port in Vung Tau, the digital twin simulated grain conveyor belt flows from vessel to warehouse ; The company covers the entire built asset lifecycle: surveying, feasibility, design, engineering, and construction supervision ; Environmental data, underwater surveys, and years of studies feed into the single ArcGIS platform for government presentations ; The digital twin approach goes beyond 3D models to include live operational feeds, IoT sensors, and camera systems</description>
+        <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Ahmedabad Launches ₹240 Crore GIS Mapping Project for 3D City View Ahead of Commonwealth Games 2030</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260825-ahmedabad-gis-mapping-3d-city-commonwealth-games-2030.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260825-ahmedabad-gis-mapping-3d-city-commonwealth-games-2030.html</guid>
+        <description>Ahmedabad&#x27;s Municipal Corporation has approved a ₹240 crore citywide GIS mapping project to create a 3D digital model, geo-code 25 lakh properties, and map underground utilities — preparing the city for the 2030 Commonwealth Games while modernizing urban governance. — Key takeaways: The e-Governance Committee approved a modern GIS database for all of Ahmedabad at a cost of ₹240 crore ; Around 25 lakh (2.5 million) properties will be geo-coded in two phases: 9 lakh in phase one, 16 lakh in phase two ; The project covers roughly 625 sq km and will create a three-dimensional digital representation of the city ; Aerial surveys using drones and aircraft with high-resolution cameras will create the 3D city map ; Ground Penetrating Radar (GPR) will capture precise depth and location of underground drainage, water, and storm water lines ; Every property will receive a unique &quot;Digital Door ID&quot; via door-to-door mobile app survey ; 360-degree street-level recording using vehicle-mounted sensors, similar to Google Street View ; The project will be executed by Genesis International Corporation Limited over two and a half years, with 5 years of O&amp;M</description>
+        <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Tactile Maps Installed at MSP Airport Ease Travel for More Than Just Blind Passengers</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260825-mprnews-msp-airport-tactile-maps-accessibility.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260825-mprnews-msp-airport-tactile-maps-accessibility.html</guid>
+        <description>Minneapolis-St. Paul International Airport has become the first airport in North America to install custom 3D-printed tactile maps with braille and textures outside every bathroom, designed in collaboration with blind travelers to improve navigation for passengers with disabilities and everyone else. — Key takeaways: MSP Airport is the first in North America to install tactile bathroom maps with braille and textured surfaces ; 146 bathrooms across two terminals require almost entirely custom maps — only two have identical floor plans ; The airport coordinated with its Travelers with Disabilities Advisory Committee to develop designs and symbology ; 3D printing with a local Bloomington company enabled quick prototypes and lower costs compared to traditional sheet metal ; No Americans with Disabilities Act standards existed for tactile maps, so MSP created its own standards from scratch ; Ken Rogers, president of the American Council of the Blind of Minnesota, served on the advisory committee ; Airport staff hope to share their approach with other airports, with Portland already expressing interest ; The maps benefit sighted travelers too, given the complexity of some MSP restrooms with multiple entrances</description>
+        <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>This Unity Asset Pack Allows You to Add Interactive 2D and 3D Maps to Your Games</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260825-80lv-unity-online-maps-2d-3d-interactive.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260825-80lv-unity-online-maps-2d-3d-interactive.html</guid>
+        <description>Infinity Code&#x27;s Online Maps v5 Unity asset pack enables developers to embed fully customizable 2D and 3D interactive maps with routing, geocoding, GPS, and elevation data from 16+ providers including Mapbox, TomTom, HERE, and Google Maps into their game projects. — Key takeaways: Online Maps v5 supports 2D and 3D interactive maps with elevation on flat surfaces or an interactive globe ; Elevation data sourced from HERE, Mapbox, MapTiler, and TomTom ; Supports 16+ map providers with 88+ map types including Google Maps, Mapbox, ArcGIS, Bing Maps, and OpenStreetMap ; Compatible with Built-in RP, URP, HDRP, and Custom RP; runs on standalone, Android, iOS, Windows Store, and WebGL ; Includes raster and vector tiles with customizable Mapbox and MapTiler vector maps, 2D/3D/billboard markers, and built-in clustering ; Full source code included with no dependencies, available at 50% discount ; Powerful caching system for raster and vector tiles, elevations, and custom data ; Supports WMS, WMTS, custom styles, and multilingual maps with or without labels</description>
+        <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Around the Geospatial, 3D, and AEC Industries: Ancient Structures, Coastlines, and Digital Twins</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260825-geoweek-geospatial-3d-aec-ancient-structures-coastlines-digital-twins.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260825-geoweek-geospatial-3d-aec-ancient-structures-coastlines-digital-twins.html</guid>
+        <description>Geo Week News rounds up three standout geospatial stories: lidar revealing 24,000–30,000 ancient earthworks in the Amazon, a 5,000 km Australian coastline hazard assessment, and how 3D printing is transforming digital twin creation for the AEC industry. — Key takeaways: Airborne lidar has revealed a previously unknown &quot;Aquiry civilization&quot; in Brazil&#x27;s Acre state with 24,000–30,000 monumental earthworks ; Researchers estimate 1.25–3 million people lived in the Amazon region in the first centuries AD — more densely populated than today ; Engineering firm Hatch completed a first-of-its-kind digital mapping assessment of 5,000 km of Australian coastline for flooding and erosion risk ; 1.4 million Australian properties are already at risk of flooding, with annual event costs approaching $400 million ; The coastline assessment used statistical and process-based modelling for a state government agency to create a consistent region-wide hazard picture ; The third story explores how 3D printing technology is being used to create physical models from digital twin data in the AEC industry ; The roundup demonstrates the breadth of geospatial applications from archaeology to coastal engineering to construction</description>
+        <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Coimbatore Corporation Geo-tags 1,500 OSR Sites in City</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260825-toi-coimbatore-geo-tags-1500-osr-sites-gis.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260825-toi-coimbatore-geo-tags-1500-osr-sites-gis.html</guid>
+        <description>Coimbatore&#x27;s municipal corporation has geo-tagged over 1,500 of its 2,702 open space reservation (OSR) sites through GIS mapping, creating a digital inventory to prevent encroachments and enable public access to land records. — Key takeaways: Coimbatore city municipal corporation has geo-tagged 1,507 of 2,702 total OSR sites through GIS mapping ; The title-change process has been completed for 1,771 OSR sites ; GIS mapping began in 2025, with around 500 parcels mapped in the initial stage ; The database includes ward and zone details, survey and patta numbers, approved plot numbers, layout plans, and encroachment details ; Drone imagery and field verification by licensed surveyors were proposed as part of the exercise ; Once online integration is complete, residents can verify whether land is earmarked as OSR and belongs to the civic body ; The initiative aims to protect public assets from encroachment and provide a consolidated database of reserve lands</description>
+        <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Cofiroute Selects TomTom Traffic to Enhance Real-Time Motorway Operations and Driver Information</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260825-tomtom-cofiroute-traffic-motorway-operations.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260825-tomtom-cofiroute-traffic-motorway-operations.html</guid>
+        <description>TomTom announced that Cofiroute, a division of VINCI Autoroutes and a leading private French highway operator, has selected TomTom Traffic and Route Monitoring to provide real-time traffic visibility, incident management, and driver information across its motorway network. — Key takeaways: Cofiroute, a division of VINCI Autoroutes, has selected TomTom Traffic for its motorway network ; The solution leverages TomTom Route Monitoring to monitor traffic conditions in real time on designated areas or routes ; Cofiroute uses the technology for incident management and to inform drivers via variable message sign (VMS) boards ; Traffic information can be published through road signs, websites, mobile applications, and other public channels ; Jérôme Pasteau, Head of Traffic Safety Solutions at Cofiroute, emphasized timely and reliable driver information ; Nicolas Durvaux, Operations Manager at Cofiroute, highlighted a consistent real-time approach across the network ; Benoit Joly, Head of Sales at TomTom, emphasized faster, more informed operational decisions for Cofiroute teams</description>
+        <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Google Builds Korea Team for Full-Functioning Maps Service with Turn-by-Turn Navigation</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260825-koreaherald-google-maps-korea-team-navigation.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260825-koreaherald-google-maps-korea-team-navigation.html</guid>
+        <description>Google is recruiting a senior partnerships manager in Seoul to build out a full-functioning Google Maps service in South Korea — including turn-by-turn navigation — following the government&#x27;s February 2026 conditional approval to export high-precision map data. — Key takeaways: Google is officially recruiting a Seoul-based Strategic Partnerships Development Manager to build its Korea Maps team ; Google confirmed the plan includes turn-by-turn driving and walking navigation, currently unavailable in Korea ; The hiring follows South Korea&#x27;s February 27, 2026 conditional approval of Google&#x27;s export of 1:5,000-scale map data ; Korea had previously rejected Google&#x27;s map data export requests in 2007 and 2016 over national security concerns ; Google Maps in Korea currently offers place listings, reviews, and transit directions but no turn-by-turn navigation ; Naver Map leads the Korean market with 29.25 million monthly active users vs Google Maps&#x27; 9.08 million as of April 2026 ; The new partnerships role will negotiate &quot;first-of-a-kind&quot; agreements with Korean companies and public entities ; Experts say Google needs better base-map data, POI/address data, and traffic/parking/transit information from local providers</description>
+        <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>New Floodplain Maps Take Effect This November in Larimer County</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260825-larimer-county-floodplain-maps-november-2026.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260825-larimer-county-floodplain-maps-november-2026.html</guid>
+        <description>Larimer County, Colorado&#x27;s updated Flood Insurance Rate Maps (FIRMs) become effective November 27, 2026, incorporating new topography and hydrology data following the September 2013 flood, requiring county adoption to remain in the National Flood Insurance Program. — Key takeaways: Updated Flood Insurance Rate Maps (FIRMs) and Flood Insurance Study (FIS) become effective November 27, 2026 ; The update is a response to the September 2013 flood and represents a proactive effort to update flood risks ; New topography and hydrology data have been incorporated into the updated floodplain maps ; Larimer County must adopt the updated FIRMs and FIS to remain in the National Flood Insurance Program (NFIP) ; Property owners can check if their property is affected via the county&#x27;s online resources ; Public hearing dates are available for residents to learn about flood insurance impacts ; The maps affect Unincorporated Larimer County specifically</description>
+        <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
 
     <item>
@@ -333,78 +405,6 @@
         <link>https://mappingforward.fr/articles/2026-08/20260822-android-auto-navigation-apps-replace-google-maps.html</link>
         <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-android-auto-navigation-apps-replace-google-maps.html</guid>
         <description>After testing Waze, OsmAnd, and HERE WeGo on Android Auto, one app emerged as the clear Google Maps replacement thanks to its clean interface, community reporting, and surprisingly deep Gemini integration. — Key takeaways: Waze, OsmAnd, and HERE WeGo were tested as Google Maps replacements on Android Auto ; OsmAnd offers extensive customization and offline maps but its UI feels like overkill for everyday use ; HERE WeGo is straightforward with strong offline support but lacked a compelling differentiator ; Waze won with its clean interface, lightweight performance, and real-time community hazard reporting ; Gemini integration gives Waze multi-app voice commands, rivaling Google Maps&#x27; assistant advantage ; Waze&#x27;s community reports (traffic, crashes, hazards) proved useful even on familiar routes</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>TomTom and Microsoft Extend Collaboration on AI-Powered Mobility Solutions</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-tomtom-microsoft-extend-collaboration-ai-mobility.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-tomtom-microsoft-extend-collaboration-ai-mobility.html</guid>
-        <description>TomTom and Microsoft have extended their decade-long collaboration to develop AI-powered solutions for automotive, logistics, and broader mobility domains, with TomTom Orbis Maps continuing to power Azure Maps and Microsoft 365 location features. — Key takeaways: TomTom and Microsoft have collaborated since 2016, including through the Overture Map Foundation ; Microsoft Azure remains TomTom&#x27;s preferred cloud provider, and TomTom powers Azure Maps ; Bing, Microsoft Power BI, and Microsoft 365 all use TomTom maps and location services ; The companies will develop generative AI-powered automotive solutions and an in-vehicle digital cockpit ; TomTom CEO Harold Goddijn highlighted Orbis Maps powering Microsoft&#x27;s traffic and location data ; Microsoft is already rolling out TomTom Traffic based on the new TomTom Orbis Maps platform</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Cedar Electronics Selects TomTom Orbis Maps to Enhance Speed Awareness Across the United States</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-tomtom-orbis-maps-cedar-electronics-speed-awareness.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-tomtom-orbis-maps-cedar-electronics-speed-awareness.html</guid>
-        <description>TomTom partners with Cedar Electronics to supply Orbis Maps speed limit data for Escort and Cobra radar detectors, leveraging multi-source probe intelligence to deliver accurate, frequently refreshed speed awareness alerts across the US. — Key takeaways: Cedar Electronics selected TomTom Orbis Maps for integration into its Escort and Cobra radar detector product lines ; TomTom&#x27;s speed intelligence combines official government datasets, field-verified surveys, and anonymized connected-vehicle probe data ; The multi-source approach validates and enriches speed information even on roads where signing is incomplete or inconsistent ; The partnership aims to improve real-time speed awareness alerts for drivers across the United States ; This deal signals that probe-based speed intelligence is becoming standard for automotive safety products</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Overture Maps Data as Parquet Feature Layers (Early Access)</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-overture-maps-parquet-feature-layers-esri.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-overture-maps-parquet-feature-layers-esri.html</guid>
-        <description>Esri announced Early Access Parquet feature layers created from Overture Maps Foundation data, enabling ArcGIS Online users to work with large read-only datasets like addresses, railways, infrastructure, places, and major cities directly through pre-configured web maps. — Key takeaways: Eight web maps are now available through the Overture Parquet Layers group on ArcGIS Online: addresses, railways, infrastructure points/lines/polygons, places, major cities, and division areas ; The Parquet feature layer is a new layer type released in Beta in the June 2026 ArcGIS Online release, ideal for large read-only datasets ; Overture Maps Foundation generates monthly releases of reference datasets (buildings, roads, POIs) sourced from OpenStreetMap, Esri Community Maps, Microsoft, Meta, and others ; Data is accessible through open AWS S3 or Microsoft Azure endpoints and the Parquet format makes it well-suited for cloud-hosted large datasets ; Basic functionality like filtering, labeling, and modifying symbology is supported despite Beta limitations</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>&#x27;Wall-to-Wall&#x27; Map of NYC Trees Could Help Cool Cities Worldwide</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-wall-to-wall-nyc-trees-cool-cities.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-wall-to-wall-nyc-trees-cool-cities.html</guid>
-        <description>Researchers from Cornell University created the first &quot;wall-to-wall&quot; citywide map identifying 1.8 million individual trees in New York City — including 1.4 million never before surveyed — using satellite imagery, ground data, and lidar, with 82% accuracy, to optimize tree placement for urban cooling. — Key takeaways: First wall-to-wall citywide tree map identifying 1.8 million individual trees, 1.4 million of which had never been surveyed ; Uses satellite imagery, on-the-ground datasets, and 3D lidar data with 82% overall accuracy ; Covers private property, natural areas, and unsurveyed areas constituting an estimated 65% of the city&#x27;s canopy ; Part of the Cool Trees project optimizing tree placement for cooling as NYC heat waves become more frequent ; NYC set a goal of expanding tree cover from 22% to 30% by 2040, which the map could directly inform</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Google Maps Is More Useful as a Travel Notebook Than a Navigation App</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-google-maps-travel-notebook-custom-lists.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-google-maps-travel-notebook-custom-lists.html</guid>
-        <description>An Android Police features author argues that Google Maps&#x27; custom lists feature transforms it from a navigation tool into a powerful travel planning notebook, combining itinerary building, note-taking, and geographic visualization in one app. — Key takeaways: Custom lists in Google Maps allow users to create categorized travel collections with emoji icons ; Users can add notes to each pinned location (e.g., what to order at a restaurant) ; Custom list order can be arranged by priority or chronological itinerary ; Lists can be shared with travel companions as collaborators who can add their own pins and notes ; Zooming out on the map reveals all custom icons, exposing geographically unrealistic itineraries ; Google Maps Timeline preserves a detailed record of trips for future reference</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Spatial Is Special, Governing AI in the Geospatial Age</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-spatial-is-special-governing-ai-geospatial-age.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-spatial-is-special-governing-ai-geospatial-age.html</guid>
-        <description>Overture Maps CTO Amy Rose argues that spatial data requires special governance in AI systems — distinct from non-spatial data — because scale, precision, proximity, boundaries, and derived location add complexity layers that most AI users aren&#x27;t accounting for. — Key takeaways: Amy Rose, CTO at Overture Maps, reversed her earlier stance that &quot;spatial is not special&quot; when it comes to AI governance ; Spatial data introduces unique governance challenges: scale, precision, proximity, boundaries, and derived location ; The core problem is that users assume AI models have knowledge of the data&#x27;s provenance, fitness for use, and validity of combining datasets ; A practical governance framework must account for the entire decision chain: data provenance, intended purpose, limitations, license, and access restrictions ; Overture&#x27;s Global Entity Reference System addresses the &quot;conflation tax&quot; — the cost of reconciling different datasets referencing the same real-world entities</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Apple Maps place au Maroc des territoires espagnols, de quoi irriter Madrid</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-apple-maps-maroc-territoires-espagnols.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-apple-maps-maroc-territoires-espagnols.html</guid>
-        <description>Apple Maps affiche plusieurs territoires administrés par l&#x27;Espagne et revendiqués par le Maroc comme étant situés au Maroc, soulevant des tensions diplomatiques autour des enclaves espagnoles d&#x27;Afrique du Nord. — Key takeaways: Les îles Chafarinas et le rocher d&#x27;Al Hoceïma apparaissent associés au Maroc dans Apple Maps ; Le rocher d&#x27;Al Hoceïma présente une contradiction interne : sa fiche reprend une description de Wikipedia mentionnant son appartenance à l&#x27;Espagne, avant de le situer au Maroc ; Chafarinas, Al Hoceïma et Vélez de la Gomera font partie des « places de souveraineté » administrées par Madrid et revendiquées par Rabat ; L&#x27;Espagne accorde une attention militaire particulière à ces territoires, avec un détachement permanent déployé aux Chafarinas ; El Debate présente cet affichage comme une erreur cartographique, tandis que les Marocains y voient une prise de position délibérée</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Google Trends Gains Explore Maps and Regional Breakdown</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-google-trends-explore-maps-regional-breakdown.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-google-trends-explore-maps-regional-breakdown.html</guid>
-        <description>Google Trends has launched new interactive maps designed for clearer data storytelling, allowing users to instantly spot regional trends and explore the geographic dimension behind every search query. — Key takeaways: Google Trends added Explore Maps and Regional Breakdown features ; Google designed new interactive maps for &quot;clearer data storytelling&quot; ; Users can &quot;instantly spot regional trends, capture visual insights for your audience&quot; ; The feature allows exploration of the &quot;where&quot; behind every search query ; Features may still be rolling out to all users ; The interactive maps complement existing timeline and average graph comparisons</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Statiq: Improving User Experience and Increasing EV App Usage with Places UI Kit</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-statiq-ev-charging-places-ui-kit-google-maps.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-statiq-ev-charging-places-ui-kit-google-maps.html</guid>
-        <description>India&#x27;s largest EV charging network Statiq integrated Google Maps Platform&#x27;s Places UI Kit directly into its app, enabling an end-to-end charging experience that produced a 13% increase in navigation starts, 15% faster session completion, and 9% more repeat charging sessions within three months. — Key takeaways: Statiq is India&#x27;s largest EV charging network with 2000+ owned stations, 80% of all stations listed, and over 1 million app downloads ; Places UI Kit integration took just three weeks from project start to product launch using ready-made components ; After relaunching in January 2026: 13% increase in navigation starts, 15% reduction in time to successful session, 7% increase in charger discovery interactions ; Revenue impact: 9% increase in repeat sessions, 8% increase in session frequency, 8% reduction in abandoned searches, 3% uptick in download-to-charge conversion ; 10% improvement in overall user satisfaction measured through in-app ratings and post-session feedback</description>
         <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
     </item>
 

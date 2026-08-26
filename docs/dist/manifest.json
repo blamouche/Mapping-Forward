@@ -1,8 +1,8 @@
 {
   "site": "Mapping Forward",
   "url": "https://mappingforward.fr",
-  "generated": "2026-08-25T07:48:44.918545",
-  "article_count": 793,
+  "generated": "2026-08-26T06:03:25.641910",
+  "article_count": 802,
   "articles": [
     {
       "title": "One Region. 40,000 Bus Stops. An OSM Map at Every One. — State of the Map 2026 × Paris",
@@ -12,6 +12,87 @@
       "author": "T-Kartor / Jungle Bus, State of the Map 2026",
       "keywords": "OpenStreetMap, OSM, pedestrian mapping, transit maps, Île-de-France Mobilités, plans de proximité, T-Kartor, Legible London, printed maps, bus stops",
       "elevator_pitch": "At State of the Map 2026 in Paris, T-Kartor and Jungle Bus present their massive OpenStreetMap-based project to produce and maintain location-specific area maps (\"plans de proximité\") for 35,000+ bus and tram stops across the Paris region — Europe's most extensive public transport network."
+    },
+    {
+      "title": "How Portcoast Is Rewriting Port Operations in Vietnam with Digital Twins",
+      "url": "https://mappingforward.fr/articles/2026-08/20260825-geoweek-portcoast-vietnam-port-operations-digital-twin.html",
+      "date": "2026-08-24",
+      "source": "https://www.geoweeknews.com/articles/how-portcoast-is-rewriting-port-operations-in-vietnam/",
+      "author": "Abigail Hart, Geo Week News",
+      "keywords": "Portcoast, Vietnam, digital twin, port operations, ArcGIS, bathymetry, reality capture, lidar, drone surveying, accident simulation, grain port, Ho Chi Minh City",
+      "elevator_pitch": "Vietnam-based engineering firm Portcoast is using an integrated digital twin platform combining bathymetric data, drone reality models, and live vessel tracking on ArcGIS to revolutionize port design, accident analysis, and 100-year planning across Vietnam's port sector."
+    },
+    {
+      "title": "Ahmedabad Launches ₹240 Crore GIS Mapping Project for 3D City View Ahead of Commonwealth Games 2030",
+      "url": "https://mappingforward.fr/articles/2026-08/20260825-ahmedabad-gis-mapping-3d-city-commonwealth-games-2030.html",
+      "date": "2026-08-25",
+      "source": "https://www.bhaskarenglish.in/local/gujarat/ahmedabad/news/ahmedabad-gis-mapping-project-commonwealth-games-2030-properties-138829646.html",
+      "author": "Bhaskar English / Urban Acres",
+      "keywords": "Ahmedabad, GIS mapping, 3D city model, Commonwealth Games 2030, geocoding, property mapping, LiDAR, GPR, digital door ID, underground utilities, India",
+      "elevator_pitch": "Ahmedabad's Municipal Corporation has approved a ₹240 crore citywide GIS mapping project to create a 3D digital model, geo-code 25 lakh properties, and map underground utilities — preparing the city for the 2030 Commonwealth Games while modernizing urban governance."
+    },
+    {
+      "title": "Tactile Maps Installed at MSP Airport Ease Travel for More Than Just Blind Passengers",
+      "url": "https://mappingforward.fr/articles/2026-08/20260825-mprnews-msp-airport-tactile-maps-accessibility.html",
+      "date": "2026-08-25",
+      "source": "https://www.mprnews.org/story/2026/08/25/msp-airports-new-maps-make-traveling-for-blind-and-others-easier",
+      "author": "Matt Mikus, MPR News",
+      "keywords": "tactile maps, accessibility, MSP Airport, braille, 3D printing, blind passengers, disabilities advisory committee, universal design, airport navigation",
+      "elevator_pitch": "Minneapolis-St. Paul International Airport has become the first airport in North America to install custom 3D-printed tactile maps with braille and textures outside every bathroom, designed in collaboration with blind travelers to improve navigation for passengers with disabilities and everyone else."
+    },
+    {
+      "title": "This Unity Asset Pack Allows You to Add Interactive 2D and 3D Maps to Your Games",
+      "url": "https://mappingforward.fr/articles/2026-08/20260825-80lv-unity-online-maps-2d-3d-interactive.html",
+      "date": "2026-08-24",
+      "source": "https://80.lv/articles/this-unity-asset-pack-allows-you-to-add-interactive-2d-and-3d-maps-to-your-games",
+      "author": "Stephanie Almogabar, 80 Level",
+      "keywords": "Unity, Online Maps v5, Infinity Code, 2D maps, 3D maps, Mapbox, MapTiler, TomTom, HERE, game development, interactive maps",
+      "elevator_pitch": "Infinity Code's Online Maps v5 Unity asset pack enables developers to embed fully customizable 2D and 3D interactive maps with routing, geocoding, GPS, and elevation data from 16+ providers including Mapbox, TomTom, HERE, and Google Maps into their game projects."
+    },
+    {
+      "title": "Around the Geospatial, 3D, and AEC Industries: Ancient Structures, Coastlines, and Digital Twins",
+      "url": "https://mappingforward.fr/articles/2026-08/20260825-geoweek-geospatial-3d-aec-ancient-structures-coastlines-digital-twins.html",
+      "date": "2026-08-24",
+      "source": "https://www.geoweeknews.com/articles/around-the-geospatial-3d-and-aec-industries-ancient-structures-coastlines-and-digital-twins/",
+      "author": "Abigail Hart, Geo Week News",
+      "keywords": "lidar, Amazon rainforest, ancient civilization, coastline mapping, flooding, erosion, digital twins, 3D printing, geospatial industry, AEC",
+      "elevator_pitch": "Geo Week News rounds up three standout geospatial stories: lidar revealing 24,000–30,000 ancient earthworks in the Amazon, a 5,000 km Australian coastline hazard assessment, and how 3D printing is transforming digital twin creation for the AEC industry."
+    },
+    {
+      "title": "Coimbatore Corporation Geo-tags 1,500 OSR Sites in City",
+      "url": "https://mappingforward.fr/articles/2026-08/20260825-toi-coimbatore-geo-tags-1500-osr-sites-gis.html",
+      "date": "2026-08-24",
+      "source": "https://timesofindia.indiatimes.com/city/coimbatore/coimbatore-corporation-geo-tags-1500-osr-sites-in-city/articleshow/133473934.cms",
+      "author": "Anushka Juliet, The Times of India",
+      "keywords": "Coimbatore, GIS mapping, geo-tagging, open space reservation, OSR sites, digital inventory, encroachment, municipal corporation, India",
+      "elevator_pitch": "Coimbatore's municipal corporation has geo-tagged over 1,500 of its 2,702 open space reservation (OSR) sites through GIS mapping, creating a digital inventory to prevent encroachments and enable public access to land records."
+    },
+    {
+      "title": "Cofiroute Selects TomTom Traffic to Enhance Real-Time Motorway Operations and Driver Information",
+      "url": "https://mappingforward.fr/articles/2026-08/20260825-tomtom-cofiroute-traffic-motorway-operations.html",
+      "date": "2026-08-25",
+      "source": "https://www.tomtom.com/newsroom/press-releases/general/212447736991280/cofiroute-selects-tomtom-traffic-to-enhance-real-time-motorway-operations-and-driver-information/",
+      "author": "TomTom Newsroom",
+      "keywords": "TomTom, Cofiroute, VINCI Autoroutes, TomTom Route Monitoring, traffic management, motorway operations, variable message signs, VMS, real-time traffic, France",
+      "elevator_pitch": "TomTom announced that Cofiroute, a division of VINCI Autoroutes and a leading private French highway operator, has selected TomTom Traffic and Route Monitoring to provide real-time traffic visibility, incident management, and driver information across its motorway network."
+    },
+    {
+      "title": "Google Builds Korea Team for Full-Functioning Maps Service with Turn-by-Turn Navigation",
+      "url": "https://mappingforward.fr/articles/2026-08/20260825-koreaherald-google-maps-korea-team-navigation.html",
+      "date": "2026-08-25",
+      "source": "https://www.koreaherald.com/article/10851560",
+      "author": "Moon Joon-hyun, The Korea Herald",
+      "keywords": "Google Maps, South Korea, turn-by-turn navigation, map data export, Naver Map, Kakao Map, partnerships, 1:5000 scale maps, Google Korea",
+      "elevator_pitch": "Google is recruiting a senior partnerships manager in Seoul to build out a full-functioning Google Maps service in South Korea — including turn-by-turn navigation — following the government's February 2026 conditional approval to export high-precision map data."
+    },
+    {
+      "title": "New Floodplain Maps Take Effect This November in Larimer County",
+      "url": "https://mappingforward.fr/articles/2026-08/20260825-larimer-county-floodplain-maps-november-2026.html",
+      "date": "2026-08-24",
+      "source": "https://www.larimer.gov/spotlights/2026/08/24/new-floodplain-maps-take-effect-november",
+      "author": "Larimer County Engineering",
+      "keywords": "floodplain maps, FEMA, Flood Insurance Rate Maps, FIRM, Larimer County, Colorado, flood risk, NFIP, hydrology, topography",
+      "elevator_pitch": "Larimer County, Colorado's updated Flood Insurance Rate Maps (FIRMs) become effective November 27, 2026, incorporating new topography and hydrology data following the September 2013 flood, requiring county adoption to remain in the National Flood Insurance Program."
     },
     {
       "title": "Wildfire Map Spotlight: Colwash Fire, Washington",
