@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dans les coulisses de Google Maps : 72 signaux de ranking et l&#x27;architecture derrière la recherche locale — Mapping Forward</title>
+    <meta name="description" content="Daily synthesis of articles on cartography, mapping, geospatial data, and geographic intelligence">
+    <link rel="alternate" type="application/rss+xml" title="Mapping Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Mapping Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://mappingforward.substack.com" target="_blank" rel="noopener">Substack</a>
+        <a href="https://mappingforward.substack.com/subscribe?utm_source=menu&simple=true&next=https%3A%2F%2Fmappingforward.substack.com%2F" target="_blank" rel="noopener">Subscribe</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Dans les coulisses de Google Maps : 72 signaux de ranking et l&#x27;architecture derrière la recherche locale</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-08-26</span>
+        <span class="meta-author">Olivier De Segonzac (Abondance / Resoneo)</span>
+        <span class="meta-keywords">Google Maps, Geostore, Oyster Rank, local SEO, ranking signals, Knowledge Graph, Webref, GConcepts, retrieval pipeline</span>
+    </div>
+
+    <a href="https://www.abondance.com/20260826-2829709-google-maps-72-signaux-ranking-architecture.html" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">A reverse-engineered Google binary exposes Geostore — the system behind Google Maps entities — revealing 72 ranking signals, 793 data providers, and an architecture connecting Maps to the Knowledge Graph and the broader web.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Google&#x27;s Geostore builds a canonical representation of each place from 793 data providers, with conflation mechanisms to resolve conflicting sources — not just a single Google Business Profile listing.</li>
+            <li>The Oyster Rank system uses 72 named ranking signals including reviews, query volume, listing impressions, directions requests, Wikipedia signals, and road segment usage (25 are deprecated).</li>
+            <li>The 72 signals are not &quot;the Google Maps algorithm&quot; — additional systems handle query understanding, semantic matching, candidate generation, geographic retrieval, and reranking in a multi-stage pipeline.</li>
+            <li>Geographic search does not use a fixed radius: the candidate area adapts to query density and the user&#x27;s environment. Removing geographic weighting shifts median result distance from 6.87 km to over 4,000 km while preserving ranking order, suggesting geography changes retrieval, not just reranking.</li>
+            <li>Maps and web search are connected through Knowledge Graph MIDs and the Webref layer, which associates web documents with entities — a store locator page is not just a search result, it is evidence about the entity itself.</li>
+        </ul>
+    </section>
+
+    <a href="https://www.abondance.com/20260826-2829709-google-maps-72-signaux-ranking-architecture.html" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Mapping Forward — Cartography and geospatial intelligence watch</p>
+</footer>
+</body>
+</html>

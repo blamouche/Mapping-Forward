@@ -6,7 +6,7 @@
     <description>Daily synthesis of articles on cartography, mapping, geospatial data, and geographic intelligence</description>
     <language>en</language>
     <atom:link href="https://mappingforward.fr/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 26 Aug 2026 07:50:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 06:02:49 +0000</lastBuildDate>
 
     <item>
         <title>One Region. 40,000 Bus Stops. An OSM Map at Every One. — State of the Map 2026 × Paris</title>
@@ -14,6 +14,46 @@
         <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260828-sotm-osm-plans-de-proximite-40000-bus-stops-paris.html</guid>
         <description>At State of the Map 2026 in Paris, T-Kartor and Jungle Bus present their massive OpenStreetMap-based project to produce and maintain location-specific area maps (&quot;plans de proximité&quot;) for 35,000+ bus and tram stops across the Paris region — Europe&#x27;s most extensive public transport network. — Key takeaways: T-Kartor, the Swedish cartographic agency behind Legible London, WalkNYC, and Toronto TO360, has partnered with Île-de-France Mobilités to create &quot;plans de proximité&quot; — stop-specific area maps for the entire Paris region ; The project covers approximately 35,000 individual bus and tram stops, each requiring a unique map with high quality and consistency standards ; OpenStreetMap data is the backbone: the process goes from editing OSM data to delivering print-ready files to transport operators, with dozens of intermediate steps ; Jungle Bus, a local OSM community organization, has been a key partner throughout the effort ; The talk at State of the Map 2026 covers the full production pipeline: context, build, deployment, maintenance, and lessons learned</description>
         <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Making Maps Cool: John Nelson&#x27;s Cartographic Journey from CMU to Esri</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260826-cmich-john-nelson-cartography-esri-living-atlas.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260826-cmich-john-nelson-cartography-esri-living-atlas.html</guid>
+        <description>CMU alumnus John Nelson has turned cartography into a creative public craft, building Esri&#x27;s Living Atlas by day and teaching nearly 40,000 YouTube followers how to make compelling maps by night. — Key takeaways: John Nelson works as a cartographer and UX designer on Esri&#x27;s ArcGIS Living Atlas team, building what he describes as &quot;a high-resolution, constantly living and growing model of the world.&quot; ; His maps support multiple industries: national and local governments, construction and engineering businesses, and medical systems that use his maps for predictive health analysis. ; He creates educational content for almost 40,000 YouTube followers, 13,000 on Instagram, and 26,000 on Twitter, driven by the principle that &quot;nothing teaches like teaching.&quot; ; Nelson majored in geography, earth science, and social science with a minor in art at Central Michigan University (BA 2000, MS 2004), combining analytical and creative training. ; His father Burton Nelson taught geography at CMU for 81 semesters (1966–2006), and the family&#x27;s connection to the institution is multigenerational.</description>
+        <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Google Maps sur Android : activez cette option pour ne plus rater de sorties en tunnel</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260826-gagadget-google-maps-bluetooth-tunnel-navigation.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260826-gagadget-google-maps-bluetooth-tunnel-navigation.html</guid>
+        <description>Google Maps on Android can now use Bluetooth tunnel beacons to maintain positioning when GPS signal disappears underground, matching a capability Waze has offered since 2016. — Key takeaways: A hidden setting in Google Maps for Android enables scanning of Bluetooth beacons installed in tunnel walls, allowing the app to maintain accurate positioning when GPS is unavailable. ; The beacons use Bluetooth Low Energy (BLE), consuming minimal battery, and once activated the setting persists for all future trips without further manipulation. ; Waze, also owned by Google, has used this beacon technology since 2016, giving it a long-standing advantage in urban tunnels over Google Maps. ; The beacon deployment, started in early 2024, covers a limited set of cities: New York, Chicago, Paris, Rio de Janeiro, Brussels, Oslo, Sydney, Boston, and Mexico. ; No timeline has been announced for iOS; the capability remains Android-only for now.</description>
+        <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Comment Google Maps sait-il quels restaurants sont populaires ?</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260826-vietnam-google-maps-popular-restaurant-prediction.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260826-vietnam-google-maps-popular-restaurant-prediction.html</guid>
+        <description>Google Maps predicts how busy a restaurant or shop is by analyzing anonymized location history data from users who have enabled the feature — no merchant input required. — Key takeaways: Google Maps displays real-time and historical busy-time data for businesses without receiving any information from the business owners themselves. ; The predictions are built from anonymized location data collected from users who have enabled &quot;Location History&quot; on their phones; when enough such users visit a venue, Google can estimate occupancy levels. ; The system also estimates average visit duration by analyzing users&#x27; navigation habits over recent weeks, and derives wait times specific to each establishment type (e.g., table wait time for restaurants). ; Users who do not wish to contribute data can disable Location History in their Google account or Google Maps settings while still benefiting from the aggregate busy-time information. ; The feature illustrates how Google leverages massive-scale passive data collection across its services to produce derivative products that appear to require no active user or merchant participation.</description>
+        <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Measuring a Bridge That Never Stops Moving: Multimodal Lidar Maps the Cape Fear Memorial Bridge</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260826-geoweek-cape-fear-bridge-multimodal-lidar-survey.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260826-geoweek-cape-fear-bridge-multimodal-lidar-survey.html</guid>
+        <description>McKim &amp; Creed delivered a centimeter-accurate 3D survey of a 1969 vertical-lift bridge carrying 65,000 vehicles daily — without a single lane closure — by combining mobile mapping, static lidar, and ground-based survey control. — Key takeaways: The Cape Fear Memorial Bridge in Wilmington, NC, is a 400-foot vertical-lift span built in 1969, now functionally obsolete with 65,000 daily vehicles and a $1.1 billion replacement in environmental review. ; NCDOT required centimeter-accuracy survey data but prohibited any lane closure, direct deck occupation, or interruption of marine traffic — and the bridge has no shoulder for target placement. ; McKim &amp; Creed combined three data sources: a Riegl VMX-2HA mobile mapping system driven at 45 mph, a Riegl VZ-600i static scanner from ground and elevated positions, and a ground-based control network set entirely off the span. ; Survey control was triangulated from safe ground positions, then propagated to the structure via static scans. Mobile data was adjusted using unconventional vertical features (guardrail faces, light poles) as tie-planes instead of standard flat road surfaces. ; Validation showed mobile and static point clouds aligning at centimeter level; the workflow is repeatable for any structure too dangerous, busy, or sensitive to occupy directly.</description>
+        <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Dans les coulisses de Google Maps : 72 signaux de ranking et l&#x27;architecture derrière la recherche locale</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260826-abondance-google-maps-72-signals-ranking-architecture.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260826-abondance-google-maps-72-signals-ranking-architecture.html</guid>
+        <description>A reverse-engineered Google binary exposes Geostore — the system behind Google Maps entities — revealing 72 ranking signals, 793 data providers, and an architecture connecting Maps to the Knowledge Graph and the broader web. — Key takeaways: Google&#x27;s Geostore builds a canonical representation of each place from 793 data providers, with conflation mechanisms to resolve conflicting sources — not just a single Google Business Profile listing. ; The Oyster Rank system uses 72 named ranking signals including reviews, query volume, listing impressions, directions requests, Wikipedia signals, and road segment usage (25 are deprecated). ; The 72 signals are not &quot;the Google Maps algorithm&quot; — additional systems handle query understanding, semantic matching, candidate generation, geographic retrieval, and reranking in a multi-stage pipeline. ; Geographic search does not use a fixed radius: the candidate area adapts to query density and the user&#x27;s environment. Removing geographic weighting shifts median result distance from 6.87 km to over 4,000 km while preserving ranking order, suggesting geography changes retrieval, not just reranking. ; Maps and web search are connected through Knowledge Graph MIDs and the Webref layer, which associates web documents with entities — a store locator page is not just a search result, it is evidence about the entity itself.</description>
+        <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
     </item>
 
     <item>
@@ -365,46 +405,6 @@
         <link>https://mappingforward.fr/articles/2026-08/20260822-google-maps-large-vehicle-routing-truck-aware.html</link>
         <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-google-maps-large-vehicle-routing-truck-aware.html</guid>
         <description>Google announced the general availability of Large Vehicle Routing (LVR), a version of its mapping technology built specifically for trucks and buses that accounts for height, weight, length, hazmat restrictions, and low bridges — addressing one of the most preventable hazards in trucking through developer APIs rather than a consumer app. — Key takeaways: LVR is now GA in the US across three Google developer products: Routes API, Route Optimization API, and Navigation SDK ; Operators can specify detailed vehicle profiles including height, weight, length, width, axle count, and hazardous goods classifications ; A large-vehicle-specific ETA model combines observed truck travel speeds with real-time and predictive traffic data ; The Navigation SDK displays truck-aware routes with visual callouts flagging restrictions matched to the vehicle&#x27;s dimensions ; LVR is a developer tool, not a consumer app — it will reach drivers through fleet management companies, TMS providers, and telematics firms that integrate it</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>After SDVs, Next Is AI: Future Cars&#x27; Battleground Is Context Data</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-tomtom-ai-defined-vehicles-context-data.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-tomtom-ai-defined-vehicles-context-data.html</guid>
-        <description>TomTom CPO Leo Sei argues that the auto industry&#x27;s competitive axis is shifting from software-defined vehicles (SDVs) to AI-defined vehicles (AIDVs), where the ability to understand and respond to roads, drivers, and driving conditions using context data matters more than which software is installed. — Key takeaways: The competitive focus is moving from SDVs (software-defined vehicles) to AIDVs (AI-defined vehicles) where performance is determined by continuously learning ML models ; Context data — combining sensors with detailed maps — enables vehicles to anticipate unseen risks including lane splits, speed-limit changes, and road closures ; AI is not limited to autonomous driving: it extends to navigation, infotainment, battery and energy management, and climate control ; Qualcomm and Nissan have also referenced the AIDV concept, presenting it as the next technology trend ; AI is also being used to create road data itself, by analyzing sensor data to build and update maps</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>One Hidden Google Maps Setting That Saves Battery Life While Hiking</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-google-maps-satellite-view-battery-life-hiking.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-google-maps-satellite-view-battery-life-hiking.html</guid>
-        <description>Disabling Google Maps&#x27; default satellite view while hiking can meaningfully extend battery life, as the extra rendering and cellular data consumption drain power that&#x27;s better preserved for safety and navigation on long trail days. — Key takeaways: Satellite view in Google Maps uses more cellular data and battery due to heavier screen rendering and location updates ; Disabling &quot;Start maps in Satellite View&quot; in Settings &gt; App &amp; Display settings makes the standard map the default ; Standard map view provides nearly all needed information: road locations, compass orientation, and mapped features ; Terrain view offers topographical data and elevation changes, often more useful than satellite imagery under dense tree cover ; Satellite view remains available on-demand via the layers button for specific situations like trail junctions or unmarked paths ; The battery savings are cumulative over a full day of hiking, where every bit of power matters</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>GPS et écologie : pourquoi votre trajet met désormais plus de temps sur Waze ou Google Maps</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-gps-ecologie-waze-google-maps-less-polluting-routes.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-gps-ecologie-waze-google-maps-less-polluting-routes.html</guid>
-        <description>A French decree now requires navigation apps like Google Maps and Waze to default to the least polluting route rather than the fastest, meaning your GPS may suggest longer but more environmentally friendly journeys. — Key takeaways: A French decree imposes the least polluting route as the default option in GPS navigation apps ; Google Maps and Waze must now limit suggested speeds and prioritize fuel-efficient routing ; Users may notice their journeys take longer than before as environmental considerations override pure speed optimization ; The regulation reflects a growing policy trend of using digital navigation tools as levers for reducing transportation emissions ; Users can still manually override the default to select the fastest route, but the eco-friendly option is presented first</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Waze and Google Maps &quot;Shortcut&quot; at Perthus Turns Into Nightmare for Residents</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-waze-google-maps-perthus-shortcut-nightmare.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-waze-google-maps-perthus-shortcut-nightmare.html</guid>
-        <description>Navigation apps are routing drivers through a narrow dirt track near the Spanish border to avoid Perthus traffic jams, turning a peaceful village into a dangerous bottleneck despite a municipal ban on oversized vehicles. — Key takeaways: Waze and Google Maps suggest an alternative route through the col de Manrella and Las Illas to avoid Perthus/Boulou traffic jams ; The route includes a narrow unpaved road designed for emergency access, now flooded with cars, camper vans, and trucks ; A municipal ordinance banning camper vans, trailers, and trucks was issued but remains ineffective two weeks later ; Residents report over 100 vehicles on delivery days, with vehicles unable to pass each other on the narrow road ; A 91-year-old local describes the situation as unprecedented: &quot;C&#x27;est la première fois que je vois ça&quot; ; A caravan previously ended up in a ditch, highlighting the danger of the diversion</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>I Tested the Top 3 Android Auto Navigation Apps to Replace Google Maps</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-android-auto-navigation-apps-replace-google-maps.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-android-auto-navigation-apps-replace-google-maps.html</guid>
-        <description>After testing Waze, OsmAnd, and HERE WeGo on Android Auto, one app emerged as the clear Google Maps replacement thanks to its clean interface, community reporting, and surprisingly deep Gemini integration. — Key takeaways: Waze, OsmAnd, and HERE WeGo were tested as Google Maps replacements on Android Auto ; OsmAnd offers extensive customization and offline maps but its UI feels like overkill for everyday use ; HERE WeGo is straightforward with strong offline support but lacked a compelling differentiator ; Waze won with its clean interface, lightweight performance, and real-time community hazard reporting ; Gemini integration gives Waze multi-app voice commands, rivaling Google Maps&#x27; assistant advantage ; Waze&#x27;s community reports (traffic, crashes, hazards) proved useful even on familiar routes</description>
         <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
     </item>
 

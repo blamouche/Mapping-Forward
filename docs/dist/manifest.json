@@ -1,8 +1,8 @@
 {
   "site": "Mapping Forward",
   "url": "https://mappingforward.fr",
-  "generated": "2026-08-26T07:50:52.006941",
-  "article_count": 802,
+  "generated": "2026-08-27T06:02:49.913594",
+  "article_count": 807,
   "articles": [
     {
       "title": "One Region. 40,000 Bus Stops. An OSM Map at Every One. — State of the Map 2026 × Paris",
@@ -12,6 +12,51 @@
       "author": "T-Kartor / Jungle Bus, State of the Map 2026",
       "keywords": "OpenStreetMap, OSM, pedestrian mapping, transit maps, Île-de-France Mobilités, plans de proximité, T-Kartor, Legible London, printed maps, bus stops",
       "elevator_pitch": "At State of the Map 2026 in Paris, T-Kartor and Jungle Bus present their massive OpenStreetMap-based project to produce and maintain location-specific area maps (\"plans de proximité\") for 35,000+ bus and tram stops across the Paris region — Europe's most extensive public transport network."
+    },
+    {
+      "title": "Making Maps Cool: John Nelson's Cartographic Journey from CMU to Esri",
+      "url": "https://mappingforward.fr/articles/2026-08/20260826-cmich-john-nelson-cartography-esri-living-atlas.html",
+      "date": "2026-08-26",
+      "source": "https://www.cmich.edu/news/details/making-maps-cool",
+      "author": "Heather Smith (Central Michigan University)",
+      "keywords": "cartography, Esri, ArcGIS Living Atlas, John Nelson, map design, education, GIS career, YouTube",
+      "elevator_pitch": "CMU alumnus John Nelson has turned cartography into a creative public craft, building Esri's Living Atlas by day and teaching nearly 40,000 YouTube followers how to make compelling maps by night."
+    },
+    {
+      "title": "Google Maps sur Android : activez cette option pour ne plus rater de sorties en tunnel",
+      "url": "https://mappingforward.fr/articles/2026-08/20260826-gagadget-google-maps-bluetooth-tunnel-navigation.html",
+      "date": "2026-08-26",
+      "source": "https://gagadget.com/fr/723433-google-maps-sur-android-activez-cette-option-pour-ne-plus-rater-de-sorties-en-tunnel/",
+      "author": "Michael Korgs (Gagadget)",
+      "keywords": "Google Maps, Android, Bluetooth beacons, tunnel navigation, GPS, BLE, Waze, driving",
+      "elevator_pitch": "Google Maps on Android can now use Bluetooth tunnel beacons to maintain positioning when GPS signal disappears underground, matching a capability Waze has offered since 2016."
+    },
+    {
+      "title": "Comment Google Maps sait-il quels restaurants sont populaires ?",
+      "url": "https://mappingforward.fr/articles/2026-08/20260826-vietnam-google-maps-popular-restaurant-prediction.html",
+      "date": "2026-08-26",
+      "source": "https://www.vietnam.vn/fr/google-maps-biet-quan-an-dong-khach-bang-cach-nao",
+      "author": "Báo Thanh niên / Vietnam.vn",
+      "keywords": "Google Maps, popular times, location history, crowd data, restaurant affluence, location privacy",
+      "elevator_pitch": "Google Maps predicts how busy a restaurant or shop is by analyzing anonymized location history data from users who have enabled the feature — no merchant input required."
+    },
+    {
+      "title": "Measuring a Bridge That Never Stops Moving: Multimodal Lidar Maps the Cape Fear Memorial Bridge",
+      "url": "https://mappingforward.fr/articles/2026-08/20260826-geoweek-cape-fear-bridge-multimodal-lidar-survey.html",
+      "date": "2026-08-25",
+      "source": "https://www.geoweeknews.com/articles/sponsored/measuring-a-bridge-that-never-stops-moving/",
+      "author": "Carla Lauter (Geo Week News)",
+      "keywords": "lidar, mobile mapping, static scanning, bridge survey, NCDOT, McKim & Creed, centimeter accuracy, digital twin, infrastructure",
+      "elevator_pitch": "McKim & Creed delivered a centimeter-accurate 3D survey of a 1969 vertical-lift bridge carrying 65,000 vehicles daily — without a single lane closure — by combining mobile mapping, static lidar, and ground-based survey control."
+    },
+    {
+      "title": "Dans les coulisses de Google Maps : 72 signaux de ranking et l'architecture derrière la recherche locale",
+      "url": "https://mappingforward.fr/articles/2026-08/20260826-abondance-google-maps-72-signals-ranking-architecture.html",
+      "date": "2026-08-26",
+      "source": "https://www.abondance.com/20260826-2829709-google-maps-72-signaux-ranking-architecture.html",
+      "author": "Olivier De Segonzac (Abondance / Resoneo)",
+      "keywords": "Google Maps, Geostore, Oyster Rank, local SEO, ranking signals, Knowledge Graph, Webref, GConcepts, retrieval pipeline",
+      "elevator_pitch": "A reverse-engineered Google binary exposes Geostore — the system behind Google Maps entities — revealing 72 ranking signals, 793 data providers, and an architecture connecting Maps to the Knowledge Graph and the broader web."
     },
     {
       "title": "How Portcoast Is Rewriting Port Operations in Vietnam with Digital Twins",
