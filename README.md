@@ -18,7 +18,7 @@ Articles per month:
 2026-04 | ██████████████████████████████████████████████████ 154<br>
 2026-05 | ████████████████████████████████ 117<br>
 2026-07 | █████ 10<br>
-2026-08 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 256<br>
+2026-08 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 261<br>
 ## Articles
 
 ### 2026
@@ -35,7 +35,12 @@ Articles per month:
 - [Google Maps Could Soon Order Your Food While You Drive — Gemini Integration Teased](src/2026-07/20260706-google-maps-gemini-food-ordering-agentic.md)
 - [Esri ArcGIS Online: Discover How Your Layers, Scenes, Maps, and Apps Connect](src/2026-07/20260706-esri-arcgis-online-item-dependencies-layers-maps-apps.md)
 
-#### August (256 articles)
+#### August (261 articles)
+- [Dans les coulisses de Google Maps : 72 signaux de ranking et l'architecture derrière la recherche locale](src/2026-08/20260826-abondance-google-maps-72-signals-ranking-architecture.md)
+- [Google Maps sur Android : activez cette option pour ne plus rater de sorties en tunnel](src/2026-08/20260826-gagadget-google-maps-bluetooth-tunnel-navigation.md)
+- [Comment Google Maps sait-il quels restaurants sont populaires ?](src/2026-08/20260826-vietnam-google-maps-popular-restaurant-prediction.md)
+- [Making Maps Cool: John Nelson's Cartographic Journey from CMU to Esri](src/2026-08/20260826-cmich-john-nelson-cartography-esri-living-atlas.md)
+- [Measuring a Bridge That Never Stops Moving: Multimodal Lidar Maps the Cape Fear Memorial Bridge](src/2026-08/20260826-geoweek-cape-fear-bridge-multimodal-lidar-survey.md)
 - [One Region. 40,000 Bus Stops. An OSM Map at Every One. — State of the Map 2026](src/2026-08/20260828-sotm-osm-plans-de-proximite-40000-bus-stops-paris.md)
 - [This Unity Asset Pack Allows You to Add Interactive 2D and 3D Maps to Your Games](src/2026-08/20260825-80lv-unity-online-maps-2d-3d-interactive.md)
 - [New Floodplain Maps Take Effect This November in Larimer County](src/2026-08/20260825-larimer-county-floodplain-maps-november-2026.md)

@@ -1,3 +1,6 @@
+## 0.1.803 - 2026-08-27
+- Daily veille mapping: 4 Google Alerts scanned (Mapping, Maps, Tomtom, GIS geo), 5 new articles synthesized (Abondance Google Maps ranking signals, Gagadget Bluetooth tunnel navigation, Vietnam.vn popular times prediction, CMU John Nelson cartography, Geo Week Cape Fear bridge lidar survey), README updated (261 August articles), 4 emails trashed
+
 ## 0.1.802 - 2026-08-24
 - Align the article detail page style with the home page article card style (`docs/build_site.py` CSS): `.article-full` becomes a card container (bg-card, border, radius, padding), meta + elevator pitch + takeaways section match the card styles, mobile padding override
 
