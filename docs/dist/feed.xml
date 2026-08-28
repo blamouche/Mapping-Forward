@@ -6,7 +6,7 @@
     <description>Daily synthesis of articles on cartography, mapping, geospatial data, and geographic intelligence</description>
     <language>en</language>
     <atom:link href="https://mappingforward.fr/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 27 Aug 2026 06:02:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 06:03:35 +0000</lastBuildDate>
 
     <item>
         <title>One Region. 40,000 Bus Stops. An OSM Map at Every One. — State of the Map 2026 × Paris</title>
@@ -14,6 +14,54 @@
         <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260828-sotm-osm-plans-de-proximite-40000-bus-stops-paris.html</guid>
         <description>At State of the Map 2026 in Paris, T-Kartor and Jungle Bus present their massive OpenStreetMap-based project to produce and maintain location-specific area maps (&quot;plans de proximité&quot;) for 35,000+ bus and tram stops across the Paris region — Europe&#x27;s most extensive public transport network. — Key takeaways: T-Kartor, the Swedish cartographic agency behind Legible London, WalkNYC, and Toronto TO360, has partnered with Île-de-France Mobilités to create &quot;plans de proximité&quot; — stop-specific area maps for the entire Paris region ; The project covers approximately 35,000 individual bus and tram stops, each requiring a unique map with high quality and consistency standards ; OpenStreetMap data is the backbone: the process goes from editing OSM data to delivering print-ready files to transport operators, with dozens of intermediate steps ; Jungle Bus, a local OSM community organization, has been a key partner throughout the effort ; The talk at State of the Map 2026 covers the full production pipeline: context, build, deployment, maintenance, and lessons learned</description>
         <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Updated India Climate Opinion Maps for 2026</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260827-yale-india-climate-opinion-maps-2026.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260827-yale-india-climate-opinion-maps-2026.html</guid>
+        <description>Yale&#x27;s updated India Climate Opinion Maps tool visualises climate change beliefs, risk perceptions, and policy support across 34 Indian states and 634 districts, revealing sharp north–south divides in personal experience and climate literacy despite overwhelming national concern. — Key takeaways: The interactive tool maps climate opinions across 34 of India&#x27;s 36 states/UTs and 634 districts using 25,000+ survey responses (2022–2026) ; After hearing a definition of climate change, over 75% of Indians in every state think global warming is happening, with rates from 80% (Andhra Pradesh) to 92% (Delhi) ; A stark north–south divide exists: northern states report higher personal experience with heat waves and perceived harm, while central/eastern states show low climate literacy (fewer than 50% in Bihar, Madhya Pradesh, Odisha, and West Bengal understand global warming is human-caused) ; Despite regional differences, 94% of Indians support national programs to teach about global warming and train people for renewable energy jobs ; The estimates use multilevel regression with post-stratification (MRP) combined with demographic, geographic, and climate vulnerability data, accurate to approximately ±7 percentage points at state level</description>
+        <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>München: Landshuter Allee Sperrung und ihre Auswirkungen auf den Verkehr</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260827-sueddeutsche-munich-landshuter-allee-tomtom-traffic.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260827-sueddeutsche-munich-landshuter-allee-tomtom-traffic.html</guid>
+        <description>TomTom traffic data analysis reveals how the closure of Munich&#x27;s Landshuter Allee for road maintenance sends ripple effects through surrounding neighbourhoods, with congestion levels rising dramatically in Neuhausen, Schwabing-West, Moosach, and Milbertshofen. — Key takeaways: The Landshuter Allee, one of Munich&#x27;s busiest roads with over 70,000 vehicles daily, was closed for maintenance in both directions on consecutive weekends ; TomTom compared traffic data from August 13–16 (no closure) with August 20–23 (northern carriageway closed) to measure impact ; Neuhausen-Nymphenburg was most affected, but Schwabing-West, Moosach, and Milbertshofen-Am Hart also saw significant congestion increases ; TomTom&#x27;s &quot;Congestion Level&quot; metric quantifies how much travel times increase in affected neighbourhoods compared to baseline ; The analysis identifies which alternative routes absorbed the additional traffic, demonstrating the value of real-time traffic mapping for urban planning</description>
+        <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Nepal–Tibet Floods in Maps, Photos and Videos</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260827-abc-nepal-tibet-floods-maps-photos-videos.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260827-abc-nepal-tibet-floods-maps-photos-videos.html</guid>
+        <description>A devastating flash flood triggered by a landslide on the Nepal–Tibet border has killed at least 168 people with over 1,300 missing, and ABC News uses maps, verified satellite imagery, and video footage to document the unfolding humanitarian disaster along the Trishuli River. — Key takeaways: A landslide approximately 12 miles northeast of the Rasuwagadhi border post triggered massive flash flooding in Nepal&#x27;s Rasuwa district on August 27, 2026 ; At least 168 people confirmed dead and over 1,300 missing, including 65 American tourists and 39 Australians ; The US Geological Survey registered a 5.2-magnitude landslide event, initially misreported as a 4.4 earthquake ; Verified maps and satellite imagery show the path of destruction from the Gyirong border through Nepal&#x27;s Nuwakot district ; The disaster highlights the critical role of crisis mapping and satellite verification in covering remote, rapidly evolving natural disasters</description>
+        <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>¿Qué factores llevaron a que Arequipa tenga un mayor nivel de congestión vehicular que Lima?</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260827-elcomercio-arequipa-tomtom-congestion-lima.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260827-elcomercio-arequipa-tomtom-congestion-lima.html</guid>
+        <description>TomTom&#x27;s latest Traffic Index reveals that Arequipa, Peru&#x27;s second-largest city, has surpassed Lima in congestion level at 69.5%, with drivers losing 154 hours per year in traffic — raising questions about urban planning in rapidly growing secondary cities. — Key takeaways: Arequipa ranks 8th globally in TomTom&#x27;s Traffic Index with a 69.5% congestion level, higher than Lima&#x27;s 69.3% ; Drivers in Arequipa lost an average of 154 hours in traffic during 2025 — equivalent to 6 days and 10 hours ; Arequipa&#x27;s congestion worsened by 1.9 percentage points from 2024, while Lima&#x27;s increased by 0.8 points ; Despite having less total time lost than Lima (154 vs 195 hours), Arequipa&#x27;s congestion percentage is higher due to its smaller road network ; TomTom monitors traffic in 500 cities worldwide using anonymised GPS data from drivers across the complete road network</description>
+        <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>This Former PG&amp;E Engineer Is Building a &#x27;Google Maps for the Underground&#x27;</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260827-techcrunch-civilgrid-google-maps-underground.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260827-techcrunch-civilgrid-google-maps-underground.html</guid>
+        <description>CivilGrid, founded by former PG&amp;E engineer Josh Mackanic, has raised $26 million to build a unified subsurface mapping platform that aggregates data on buried utility assets — solving a problem that causes 200,000 utility strikes per year in the US alone. — Key takeaways: CivilGrid aggregates disparate data on underground utility assets, property ownership, and environmental regulations into a single mapping platform ; The startup raised a $26 million Series A led by Spark Capital, with participation from Afore, A*, Ford Street Ventures, SNR, and Energy Impact Partners ; A PG&amp;E case study identified $60 million in avoidable paving costs across 1,600 planned gas distribution projects using CivilGrid ; The US experiences approximately 200,000 &quot;utility strikes&quot; annually because utilities only have visibility into their own lines, not competitors&#x27; infrastructure ; Mackanic envisions evolving the platform from data provision to automated permitting and infrastructure planning</description>
+        <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>TomTom Expert: Robotaxi Rollout Reveals Challenge of London as a Testing Environment</title>
+        <link>https://mappingforward.fr/articles/2026-08/20260827-highways-news-tomtom-robotaxi-london-testing.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260827-highways-news-tomtom-robotaxi-london-testing.html</guid>
+        <description>TomTom traffic expert Andy Marchant says London&#x27;s complex street layout and evolving infrastructure make it an exceptionally challenging environment for robotaxi deployment, with high-precision mapping and live traffic data forming core infrastructure for safe autonomous driving at scale. — Key takeaways: TomTom&#x27;s Andy Marchant identifies London&#x27;s narrow roads, changing speed limits, and evolving street layouts as key challenges for robotaxi rollout ; Regulatory frameworks, liability models, and operating standards are still catching up to autonomous vehicle technology ; High-precision mapping combined with live traffic and hazard information is &quot;core infrastructure&quot; for automated driving, working alongside vehicle cameras and radar ; Location intelligence provides context &quot;beyond the immediate line of sight&quot; of vehicle sensors, making robotaxis &quot;street smart&quot; ; The same mapping data will be critical for UK government and transport authorities to plan and govern safe, scalable robotaxi deployments</description>
+        <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
     </item>
 
     <item>
@@ -357,54 +405,6 @@
         <link>https://mappingforward.fr/articles/2026-08/20260822-tomtom-gps-vs-flitsmeister-speed-camera-france-germany.html</link>
         <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-tomtom-gps-vs-flitsmeister-speed-camera-france-germany.html</guid>
         <description>TomTom GPS handles speed camera warnings legally in France by switching to &quot;danger zones&quot; instead of exact locations, while Flitsmeister shows precise positions — risking fines of up to €1,500 for users who don&#x27;t disable the feature. — Key takeaways: France prohibits real-time speed camera location warnings while driving; TomTom complies by showing &quot;danger zones&quot; (300m–4km depending on road type) instead of exact camera positions ; Flitsmeister shows exact camera locations in France, shifting legal responsibility to the user, with potential fines up to €1,500 ; Germany also bans speed camera warnings while driving; both apps advise users to disable the feature before crossing the border ; TomTom offers full speed camera warnings in the Netherlands and Luxembourg where it is legal ; The distinction matters most for drivers regularly crossing between countries with different warning legislation</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>HD Map Industry Trends Driving Autonomous and Connected Mobility</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-hd-map-autonomous-vehicles-industry-trends.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-hd-map-autonomous-vehicles-industry-trends.html</guid>
-        <description>The HD Map for Autonomous Vehicles market is projected to grow from USD 2.59B in 2024 to USD 22.97B by 2032 at 31.48% CAGR, driven by autonomous vehicle adoption, AI/LiDAR integration, V2X technology, and smart city investments. — Key takeaways: HD Map market estimated at USD 2.59 billion in 2024, forecasted to reach USD 22.97 billion by 2032 (31.48% CAGR) ; Unlike regular navigation maps, HD maps provide lane-level positioning and localization essential for ADAS and autonomous driving ; Key players include TomTom, Waymo, HERE Technologies, NVIDIA, Baidu, and Mapbox ; TomTom partnered with Mitsubishi Electric (2024) integrating ADAS HD Maps with Mitsubishi&#x27;s High-Definition Locator ; Waymo began mapping Tokyo streets in 2025 using manually driven vehicles for high-quality 3D representation ; HERE Technologies strengthened its alliance with BMW integrating standard and HD map data for lane-level positioning</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Maps That Read Real-Time Road Changes: WaysOne Unveils LDM Technology</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-waysone-ldm-dynamic-map-autonomous-driving-venturesquare.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-waysone-ldm-dynamic-map-autonomous-driving-venturesquare.html</guid>
-        <description>Korean startup WayzOne has unveiled a Local Dynamic Map (LDM) operating system that extends autonomous vehicle perception beyond sensor range by integrating real-time road conditions into high-precision maps, with government policy support extended through 2027. — Key takeaways: WayzOne unveiled three LDM solutions — LDM2X, LDM TWIN, and AVION — at the 2026 Autonomous Driving Mobility Industry Exhibition (AME 2026) in Seoul ; LDM2X combines real-time road information (signals, traffic, incidents) with high-precision maps and converts it to standard V2X messages for vehicles ; LDM TWIN creates a real-time digital twin of traffic signals and vehicle flow for traffic operators to detect and predict hazardous situations ; AVION is a smart HMI that visualizes 3D surrounding objects and autonomous vehicle movement paths for drivers and control personnel ; The company was selected as an &quot;Innovation Premier 1000&quot; company by Korea&#x27;s Ministry of Land, Infrastructure and Transport, extending support through end of 2027</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>TomTom Executive Extols Virtues of Traffic Data in ULEZ Health Debate</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-tomtom-ulez-traffic-data-health-debate.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-tomtom-ulez-traffic-data-health-debate.html</guid>
-        <description>A TomTom executive highlighted the role of traffic data in the ULEZ health debate, pointing to a study showing that children whose lung growth had been stunted by air pollution showed a striking recovery after the implementation of London&#x27;s Ultra Low Emission Zone. — Key takeaways: London&#x27;s ULEZ linked to rapid recovery in children&#x27;s lung growth according to a new study ; TomTom&#x27;s traffic data provides evidence for the public health impact of urban emission zones ; Children whose lung growth had been stunted by air pollution showed measurable improvement ; The debate highlights the intersection of traffic data, public health policy, and urban air quality management ; TomTom positions its traffic data as a tool for evidence-based urban policy beyond navigation</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Alternativas Reales a Google Maps Que No Son Estadounidenses</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-alternatives-google-maps-non-us-wikiversus.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-alternatives-google-maps-non-us-wikiversus.html</guid>
-        <description>A comprehensive comparison of non-US Google Maps alternatives reveals that most share the same OpenStreetMap base data underneath, and the real differentiators are interface, offline capabilities, and business listing quality. — Key takeaways: Most &quot;alternatives&quot; to Google Maps share the same OpenStreetMap base data, differing mainly in interface and features ; Mapy.com has proprietary cartography only in Czechia; elsewhere it uses OpenStreetMap ; HERE WeGo (Netherlands) has its own cartography, originally Nokia&#x27;s maps division, now owned by Audi/BMW/Daimler ; Organic Maps offers unlimited offline downloads with no advertising, built on OpenStreetMap ; OSM data quality varies significantly by zone depending on local contributor activity ; OpenStreetMap excels in hiking/mountain trails and pedestrian detail in European cities, but lacks business listings and reviews</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Zürich Moves Property Ownership Inquiry to New GIS-Browser</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-zurich-gis-browser-eigentumsauskunft-property-ownership.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-zurich-gis-browser-eigentumsauskunft-property-ownership.html</guid>
-        <description>The Canton of Zürich has migrated property ownership inquiries (Eigentumsauskunft) from the old geoportal application to the new GIS-Browser, providing a more accessible map-based interface for property information lookup. — Key takeaways: The Eigentumsauskunft (property ownership inquiry) function has been moved to Zürich&#x27;s new GIS-Browser as of August 20, 2026 ; The function was deactivated in the previous application ; Users access property information through a dedicated &quot;Eigentumsauskunft&quot; map containing relevant data layers ; Clicking on a property in the map displays an information panel with a link to ownership details ; The migration is part of Zürich&#x27;s broader modernization of its geospatial portal infrastructure</description>
-        <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Google Maps Just Launched Truck-Aware Routing That Knows About Low Bridges and Weight Limits</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260822-google-maps-large-vehicle-routing-truck-aware.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260822-google-maps-large-vehicle-routing-truck-aware.html</guid>
-        <description>Google announced the general availability of Large Vehicle Routing (LVR), a version of its mapping technology built specifically for trucks and buses that accounts for height, weight, length, hazmat restrictions, and low bridges — addressing one of the most preventable hazards in trucking through developer APIs rather than a consumer app. — Key takeaways: LVR is now GA in the US across three Google developer products: Routes API, Route Optimization API, and Navigation SDK ; Operators can specify detailed vehicle profiles including height, weight, length, width, axle count, and hazardous goods classifications ; A large-vehicle-specific ETA model combines observed truck travel speeds with real-time and predictive traffic data ; The Navigation SDK displays truck-aware routes with visual callouts flagging restrictions matched to the vehicle&#x27;s dimensions ; LVR is a developer tool, not a consumer app — it will reach drivers through fleet management companies, TMS providers, and telematics firms that integrate it</description>
         <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
     </item>
 

@@ -1,8 +1,8 @@
 {
   "site": "Mapping Forward",
   "url": "https://mappingforward.fr",
-  "generated": "2026-08-27T06:02:49.913594",
-  "article_count": 807,
+  "generated": "2026-08-28T06:03:35.333384",
+  "article_count": 813,
   "articles": [
     {
       "title": "One Region. 40,000 Bus Stops. An OSM Map at Every One. — State of the Map 2026 × Paris",
@@ -12,6 +12,60 @@
       "author": "T-Kartor / Jungle Bus, State of the Map 2026",
       "keywords": "OpenStreetMap, OSM, pedestrian mapping, transit maps, Île-de-France Mobilités, plans de proximité, T-Kartor, Legible London, printed maps, bus stops",
       "elevator_pitch": "At State of the Map 2026 in Paris, T-Kartor and Jungle Bus present their massive OpenStreetMap-based project to produce and maintain location-specific area maps (\"plans de proximité\") for 35,000+ bus and tram stops across the Paris region — Europe's most extensive public transport network."
+    },
+    {
+      "title": "Updated India Climate Opinion Maps for 2026",
+      "url": "https://mappingforward.fr/articles/2026-08/20260827-yale-india-climate-opinion-maps-2026.html",
+      "date": "2026-08-27",
+      "source": "https://climatecommunication.yale.edu/publications/updated-india-climate-opinion-maps-for-2026/",
+      "author": "Yale Program on Climate Change Communication",
+      "keywords": "climate opinion maps, India, MRP, survey data, cartography, climate change perception, district-level mapping, Yale, CVoter",
+      "elevator_pitch": "Yale's updated India Climate Opinion Maps tool visualises climate change beliefs, risk perceptions, and policy support across 34 Indian states and 634 districts, revealing sharp north–south divides in personal experience and climate literacy despite overwhelming national concern."
+    },
+    {
+      "title": "München: Landshuter Allee Sperrung und ihre Auswirkungen auf den Verkehr",
+      "url": "https://mappingforward.fr/articles/2026-08/20260827-sueddeutsche-munich-landshuter-allee-tomtom-traffic.html",
+      "date": "2026-08-27",
+      "source": "https://www.sueddeutsche.de/muenchen/muenchen-verkehr-landshuter-allee-ausweichverkehr-tomtom-li.3537127",
+      "author": "Martin Mühlfenzl, Süddeutsche Zeitung",
+      "keywords": "TomTom, Munich, Landshuter Allee, road closure, traffic analysis, congestion level, Neuhausen, Mittlerer Ring, Ausweichverkehr, urban traffic mapping",
+      "elevator_pitch": "TomTom traffic data analysis reveals how the closure of Munich's Landshuter Allee for road maintenance sends ripple effects through surrounding neighbourhoods, with congestion levels rising dramatically in Neuhausen, Schwabing-West, Moosach, and Milbertshofen."
+    },
+    {
+      "title": "Nepal–Tibet Floods in Maps, Photos and Videos",
+      "url": "https://mappingforward.fr/articles/2026-08/20260827-abc-nepal-tibet-floods-maps-photos-videos.html",
+      "date": "2026-08-27",
+      "source": "https://www.abc.net.au/news/2026-08-27/nepal-tibet-floods-landslide-maps-photos-videos/107083300",
+      "author": "ABC News",
+      "keywords": "Nepal, Tibet, flash floods, landslide, disaster mapping, Trishuli River, Rasuwa district, satellite imagery, crisis cartography",
+      "elevator_pitch": "A devastating flash flood triggered by a landslide on the Nepal–Tibet border has killed at least 168 people with over 1,300 missing, and ABC News uses maps, verified satellite imagery, and video footage to document the unfolding humanitarian disaster along the Trishuli River."
+    },
+    {
+      "title": "¿Qué factores llevaron a que Arequipa tenga un mayor nivel de congestión vehicular que Lima?",
+      "url": "https://mappingforward.fr/articles/2026-08/20260827-elcomercio-arequipa-tomtom-congestion-lima.html",
+      "date": "2026-08-27",
+      "source": "https://elcomercio.pe/peru/arequipa/que-factores-llevaron-a-que-arequipa-tenga-un-mayor-nivel-de-congestion-vehicular-que-lima-noticia/",
+      "author": "El Comercio Perú",
+      "keywords": "TomTom Traffic Index, Arequipa, Lima, Peru, traffic congestion, urban mobility, GPS navigation, congestion level, 154 hours",
+      "elevator_pitch": "TomTom's latest Traffic Index reveals that Arequipa, Peru's second-largest city, has surpassed Lima in congestion level at 69.5%, with drivers losing 154 hours per year in traffic — raising questions about urban planning in rapidly growing secondary cities."
+    },
+    {
+      "title": "This Former PG&E Engineer Is Building a 'Google Maps for the Underground'",
+      "url": "https://mappingforward.fr/articles/2026-08/20260827-techcrunch-civilgrid-google-maps-underground.html",
+      "date": "2026-08-27",
+      "source": "https://techcrunch.com/2026/08/27/this-former-pge-engineer-is-building-a-google-maps-for-the-underground/",
+      "author": "TechCrunch",
+      "keywords": "CivilGrid, underground utilities, subsurface mapping, utility strikes, PG&E, Spark Capital, infrastructure mapping, geospatial startup, Series A",
+      "elevator_pitch": "CivilGrid, founded by former PG&E engineer Josh Mackanic, has raised $26 million to build a unified subsurface mapping platform that aggregates data on buried utility assets — solving a problem that causes 200,000 utility strikes per year in the US alone."
+    },
+    {
+      "title": "TomTom Expert: Robotaxi Rollout Reveals Challenge of London as a Testing Environment",
+      "url": "https://mappingforward.fr/articles/2026-08/20260827-highways-news-tomtom-robotaxi-london-testing.html",
+      "date": "2026-08-27",
+      "source": "https://highways-news.com/tomtom-expert-robotaxi-rollout-reveals-challenge-of-london-as-a-testing-environment/",
+      "author": "Kevin Borras, Highways News",
+      "keywords": "TomTom, robotaxi, London, autonomous vehicles, HD mapping, traffic data, location intelligence, Andy Marchant, Waymo, self-driving cars",
+      "elevator_pitch": "TomTom traffic expert Andy Marchant says London's complex street layout and evolving infrastructure make it an exceptionally challenging environment for robotaxi deployment, with high-precision mapping and live traffic data forming core infrastructure for safe autonomous driving at scale."
     },
     {
       "title": "Making Maps Cool: John Nelson's Cartographic Journey from CMU to Esri",
