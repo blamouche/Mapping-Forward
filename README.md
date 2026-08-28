@@ -18,7 +18,7 @@ Articles per month:
 2026-04 | ██████████████████████████████████████████████████ 154<br>
 2026-05 | ████████████████████████████████ 117<br>
 2026-07 | █████ 10<br>
-2026-08 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 261<br>
+2026-08 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 267<br>
 ## Articles
 
 ### 2026
@@ -35,7 +35,13 @@ Articles per month:
 - [Google Maps Could Soon Order Your Food While You Drive — Gemini Integration Teased](src/2026-07/20260706-google-maps-gemini-food-ordering-agentic.md)
 - [Esri ArcGIS Online: Discover How Your Layers, Scenes, Maps, and Apps Connect](src/2026-07/20260706-esri-arcgis-online-item-dependencies-layers-maps-apps.md)
 
-#### August (261 articles)
+#### August (267 articles)
+- [Nepal–Tibet Floods in Maps, Photos and Videos](src/2026-08/20260827-abc-nepal-tibet-floods-maps-photos-videos.md)
+- [Updated India Climate Opinion Maps for 2026](src/2026-08/20260827-yale-india-climate-opinion-maps-2026.md)
+- [This Former PG&E Engineer Is Building a 'Google Maps for the Underground'](src/2026-08/20260827-techcrunch-civilgrid-google-maps-underground.md)
+- [TomTom Expert: Robotaxi Rollout Reveals Challenge of London as a Testing Environment](src/2026-08/20260827-highways-news-tomtom-robotaxi-london-testing.md)
+- [¿Qué factores llevaron a que Arequipa tenga un mayor nivel de congestión vehicular que Lima?](src/2026-08/20260827-elcomercio-arequipa-tomtom-congestion-lima.md)
+- [München: Landshuter Allee Sperrung und ihre Auswirkungen auf den Verkehr](src/2026-08/20260827-sueddeutsche-munich-landshuter-allee-tomtom-traffic.md)
 - [Dans les coulisses de Google Maps : 72 signaux de ranking et l'architecture derrière la recherche locale](src/2026-08/20260826-abondance-google-maps-72-signals-ranking-architecture.md)
 - [Google Maps sur Android : activez cette option pour ne plus rater de sorties en tunnel](src/2026-08/20260826-gagadget-google-maps-bluetooth-tunnel-navigation.md)
 - [Comment Google Maps sait-il quels restaurants sont populaires ?](src/2026-08/20260826-vietnam-google-maps-popular-restaurant-prediction.md)
