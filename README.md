@@ -19,9 +19,22 @@ Articles per month:
 2026-05 | ████████████████████████████████ 117<br>
 2026-07 | █████ 10<br>
 2026-08 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 267<br>
+2026-09 | █████ 10<br>
 ## Articles
 
 ### 2026
+
+#### September (10 articles)
+- [HERE and Esri Bring a New Chapter in Location Intelligence](src/2026-09/20260901-geoweeknews-here-esri-location-intelligence-partnership.md)
+- [Apple Maps Renames Lake Ontario as "Lake America" After Trump Order](src/2026-09/20260902-bbc-apple-maps-lake-ontario-lake-america-trump.md)
+- [MapQuest Refuses to Rename Lake Ontario, Sees Downloads Surge](src/2026-09/20260901-clubic-mapquest-refuses-lake-america-downloads-surge.md)
+- [Google Maps Has Become a Tool of Digital Imperialism](src/2026-09/20260902-globeandmail-google-maps-digital-imperialism.md)
+- [Why Ford Chose Apple Maps Over Google Maps for Its New EV Platform](src/2026-09/20260902-igen-ford-apple-maps-ev-platform-fathom.md)
+- [Google Maps on Android Auto Tests Darker Theme to Reduce Night Glare](src/2026-09/20260902-softonic-google-maps-android-auto-darker-theme-night.md)
+- [Building AI-Powered GIS Applications: Key Technologies and Challenges](src/2026-09/20260831-gisuser-building-ai-powered-gis-applications.md)
+- [Cities Are Giving Their AI Chatbots a New Dimension: Geography](src/2026-09/20260901-statescoop-cities-ai-chatbots-geography-gis.md)
+- [Punjab to Digitise Property Records Through Drone Surveys and GIS Mapping](src/2026-09/20260903-toi-punjab-drone-surveys-gis-property-records.md)
+- [AMC Approves Citywide GIS Mapping and Digital Door IDs for Ahmedabad](src/2026-09/20260901-constructionworld-amc-ahmedabad-gis-mapping-digital-door-ids.md)
 
 #### July (10 articles)
 - [Brave Place Search API: The Google Maps Alternative That Costs 6–7x Less](src/2026-07/20260708-brave-place-search-api-google-maps-alternative.md)
