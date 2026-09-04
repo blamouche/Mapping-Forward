@@ -19,12 +19,15 @@ Articles per month:
 2026-05 | ████████████████████████████████ 117<br>
 2026-07 | █████ 10<br>
 2026-08 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 267<br>
-2026-09 | █████ 10<br>
+2026-09 | █████████████ 13<br>
 ## Articles
 
 ### 2026
 
-#### September (10 articles)
+#### September (13 articles)
+- [The Agent Drafts, a Human Approves: Inside State of the Map US 2026](src/2026-09/20260903-hackernoon-state-of-the-map-us-2026-ai-osm.md)
+- [TomTom Sees Breakthrough in Autonomous Driving Accelerating](src/2026-09/20260903-telegraaf-tomtom-autonomous-driving-breakthrough-2030.md)
+- [Summer 2026: Why Traffic Was More Fluid on French Roads](src/2026-09/20260831-autojournal-tomtom-summer-2026-traffic-congestion-france.md)
 - [HERE and Esri Bring a New Chapter in Location Intelligence](src/2026-09/20260901-geoweeknews-here-esri-location-intelligence-partnership.md)
 - [Apple Maps Renames Lake Ontario as "Lake America" After Trump Order](src/2026-09/20260902-bbc-apple-maps-lake-ontario-lake-america-trump.md)
 - [MapQuest Refuses to Rename Lake Ontario, Sees Downloads Surge](src/2026-09/20260901-clubic-mapquest-refuses-lake-america-downloads-surge.md)
