@@ -1,9 +1,126 @@
 {
   "site": "Mapping Forward",
   "url": "https://mappingforward.fr",
-  "generated": "2026-08-28T06:03:35.333384",
-  "article_count": 813,
+  "generated": "2026-09-04T06:07:53.646440",
+  "article_count": 826,
   "articles": [
+    {
+      "title": "Punjab to Digitise Property Records Through Drone Surveys and GIS Mapping",
+      "url": "https://mappingforward.fr/articles/2026-09/20260903-toi-punjab-drone-surveys-gis-property-records.html",
+      "date": "2026-09-03",
+      "source": "https://timesofindia.indiatimes.com/city/chandigarh/punjab-to-digitise-property-records-in-urban-villages-through-drone-surveys-gis-mapping/articleshow/133717341.cms",
+      "author": "The Times of India",
+      "keywords": "Punjab, GIS, drone surveys, property records, digitisation, geo-referenced, India",
+      "elevator_pitch": "Punjab is launching a pilot project to digitise property records in 50 urban villages using drone surveys and GIS mapping technology to create accurate, transparent, and geo-referenced property documentation."
+    },
+    {
+      "title": "The Agent Drafts, a Human Approves: Inside State of the Map US 2026",
+      "url": "https://mappingforward.fr/articles/2026-09/20260903-hackernoon-state-of-the-map-us-2026-ai-osm.html",
+      "date": "2026-08-30",
+      "source": "https://hackernoon.com/the-agent-drafts-a-human-approves-inside-state-of-the-map-us-2026",
+      "author": "Vishal Kumar (HackerNoon)",
+      "keywords": "OpenStreetMap, State of the Map, AI mapping, serverless map stacks, geospatial engineering, map tiles, embeddings, human-in-the-loop, OSM",
+      "elevator_pitch": "State of the Map US 2026 in Madison, Wisconsin revealed three trends reshaping geospatial engineering: serverless map stacks replacing databases and tile servers with columnar files on object storage, AI agents drafting map data at industrial volume, and the deliberate human curation of sidewalk-level map data."
+    },
+    {
+      "title": "TomTom Sees Breakthrough in Autonomous Driving Accelerating",
+      "url": "https://mappingforward.fr/articles/2026-09/20260903-telegraaf-tomtom-autonomous-driving-breakthrough-2030.html",
+      "date": "2026-09-03",
+      "source": "https://www.telegraaf.nl/financieel/tomtom-ziet-doorbraak-zelfrijdende-auto-versnellen/160923335.html",
+      "author": "De Telegraaf",
+      "keywords": "TomTom, autonomous driving, self-driving cars, ADAS, map data, navigation, automotive, 2030 predictions",
+      "elevator_pitch": "TomTom expects partially self-driving cars to break through rapidly, predicting that by 2030 approximately 60% of new cars sold in Europe will feature systems capable of largely autonomous steering, acceleration, and braking on highways."
+    },
+    {
+      "title": "Google Maps on Android Auto Tests Darker Theme to Reduce Night Glare",
+      "url": "https://mappingforward.fr/articles/2026-09/20260902-softonic-google-maps-android-auto-darker-theme-night.html",
+      "date": "2026-09-02",
+      "source": "https://fr.softonic.com/articles/google-maps-sur-android-auto-teste-un-theme-plus-sombre-moins-deblouissement-la-nuit",
+      "author": "Softonic",
+      "keywords": "Google Maps, Android Auto, dark theme, night driving, UI, beta",
+      "elevator_pitch": "Google is testing a darker interface for Google Maps on Android Auto in beta version 17.6.663424, aiming to reduce screen glare and driver eye strain during night driving."
+    },
+    {
+      "title": "Google Maps Has Become a Tool of Digital Imperialism",
+      "url": "https://mappingforward.fr/articles/2026-09/20260902-globeandmail-google-maps-digital-imperialism.html",
+      "date": "2026-09-02",
+      "source": "https://www.theglobeandmail.com/opinion/article-google-maps-has-become-a-tool-of-digital-imperialism/",
+      "author": "The Globe and Mail",
+      "keywords": "Google Maps, digital imperialism, Lake Ontario, MapQuest, geographic naming, mapping sovereignty",
+      "elevator_pitch": "The Globe and Mail argues that Google Maps' compliance with Trump's Lake Ontario renaming order exemplifies how dominant mapping platforms have become instruments of digital imperialism, shaping how millions perceive geography."
+    },
+    {
+      "title": "Apple Maps Renames Lake Ontario as \"Lake America\" After Trump Order",
+      "url": "https://mappingforward.fr/articles/2026-09/20260902-bbc-apple-maps-lake-ontario-lake-america-trump.html",
+      "date": "2026-09-02",
+      "source": "https://www.bbc.com/news/articles/cddvyyz0e47o",
+      "author": "BBC News",
+      "keywords": "Apple Maps, Google Maps, Lake Ontario, Lake America, Trump, mapping sovereignty, geographic naming",
+      "elevator_pitch": "Apple Maps followed Google Maps in renaming Lake Ontario to \"Lake America\" for US users after a Trump executive order, while MapQuest refused and Canada pushed back — highlighting how mapping platforms have become geopolitical instruments."
+    },
+    {
+      "title": "Why Ford Chose Apple Maps Over Google Maps for Its New EV Platform",
+      "url": "https://mappingforward.fr/articles/2026-09/20260902-igen-ford-apple-maps-ev-platform-fathom.html",
+      "date": "2026-09-02",
+      "source": "https://www.igen.fr/services/2026/09/pourquoi-ford-prefere-apple-maps-google-maps-pour-sa-nouvelle-plateforme-157769",
+      "author": "iGeneration",
+      "keywords": "Ford, Apple Maps, Google Maps, EV navigation, autonomous driving, CarPlay, Fathom",
+      "elevator_pitch": "Ford chose Apple Maps over Google Maps for its upcoming universal EV platform (Fathom) because Apple offered better integration with vehicle systems for range estimation, charging, and battery preconditioning."
+    },
+    {
+      "title": "Cities Are Giving Their AI Chatbots a New Dimension: Geography",
+      "url": "https://mappingforward.fr/articles/2026-09/20260901-statescoop-cities-ai-chatbots-geography-gis.html",
+      "date": "2026-09-01",
+      "source": "https://statescoop.com/cities-ai-chatbots-dimension-geography/",
+      "author": "StateScoop",
+      "keywords": "AI chatbots, GIS, Maricopa County, IBM Watson, Esri, RAG, municipal government, geography",
+      "elevator_pitch": "Maricopa County and Washington D.C. are connecting AI chatbots to GIS systems, enabling residents to ask location-based questions like \"What construction projects are within a mile of my house?\" or \"Is my property in a flood zone?\""
+    },
+    {
+      "title": "HERE and Esri Bring a New Chapter in Location Intelligence",
+      "url": "https://mappingforward.fr/articles/2026-09/20260901-geoweeknews-here-esri-location-intelligence-partnership.html",
+      "date": "2026-09-01",
+      "source": "https://www.geoweeknews.com/articles/here-and-esri-bring-a-new-chapter-in-location-intelligence/",
+      "author": "Abigail Hart (Geo Week News)",
+      "keywords": "HERE Technologies, Esri, ArcGIS, location intelligence, GIS, AI, location reasoning layer",
+      "elevator_pitch": "HERE Technologies and Esri are deepening their two-decade partnership to make location data a first-class enterprise IT asset, with a new location reasoning layer that lets AI interpret geospatial data without expensive model retraining."
+    },
+    {
+      "title": "AMC Approves Citywide GIS Mapping and Digital Door IDs for Ahmedabad",
+      "url": "https://mappingforward.fr/articles/2026-09/20260901-constructionworld-amc-ahmedabad-gis-mapping-digital-door-ids.html",
+      "date": "2026-09-01",
+      "source": "https://www.constructionworld.in/policy-updates-and-economic-news/amc-approves-citywide-gis-mapping-and-digital-door-ids/96787",
+      "author": "Construction World",
+      "keywords": "Ahmedabad, GIS, digital twin, LiDAR, Mobile LiDAR, Digital Door ID, 3D city model, India",
+      "elevator_pitch": "The Amdavad Municipal Corporation approved a citywide GIS project covering 625 sq km with aerial LiDAR, 5,200 km of road surveys, 2.5 million geo-coded properties with Digital Door IDs, and a 3D digital twin — one of India's most ambitious urban mapping initiatives."
+    },
+    {
+      "title": "MapQuest Refuses to Rename Lake Ontario, Sees Downloads Surge",
+      "url": "https://mappingforward.fr/articles/2026-09/20260901-clubic-mapquest-refuses-lake-america-downloads-surge.html",
+      "date": "2026-09-01",
+      "source": "https://www.clubic.com/actualite-627568-cette-alternative-a-google-maps-n-a-pas-cede-aux-caprices-de-trump-et-explose-les-telechargements.html",
+      "author": "Guillaume Belfiore (Clubic)",
+      "keywords": "MapQuest, Google Maps, Lake Ontario, Lake America, Trump, App Store, mapping alternatives",
+      "elevator_pitch": "MapQuest's refusal to rename Lake Ontario to \"Lake America\" following Trump's executive order propelled it to the top of the US App Store navigation category, with downloads surging 10x above normal levels."
+    },
+    {
+      "title": "Building AI-Powered GIS Applications: Key Technologies and Challenges",
+      "url": "https://mappingforward.fr/articles/2026-08/20260831-gisuser-building-ai-powered-gis-applications.html",
+      "date": "2026-08-31",
+      "source": "https://gisuser.com/2026/08/building-ai-powered-gis-applications-key-technologies-and-challenges/",
+      "author": "Sanjay Singh Rajpurohit (GISuser)",
+      "keywords": "AI, GIS, machine learning, computer vision, NLP, geospatial databases, cloud computing",
+      "elevator_pitch": "A technical overview of the key technologies — machine learning, computer vision, NLP, and cloud computing — needed to build AI-powered GIS applications that go beyond displaying analysis results to recognizing patterns and predicting future events."
+    },
+    {
+      "title": "Summer 2026: Why Traffic Was More Fluid on French Roads",
+      "url": "https://mappingforward.fr/articles/2026-08/20260831-autojournal-tomtom-summer-2026-traffic-congestion-france.html",
+      "date": "2026-08-31",
+      "source": "https://www.autojournal.fr/actu/ete-2026-pourquoi-a-t-il-ete-plus-fluide-sur-les-routes-cette-annee-423695.html",
+      "author": "L'Auto-Journal",
+      "keywords": "TomTom, traffic congestion, France, summer traffic, Île-de-France, driving behavior, fuel consumption, traffic data",
+      "elevator_pitch": "TomTom traffic data reveals that French roads were significantly less congested during summer 2026 compared to 2025, with the maximum congestion peak dropping from 35.6% to 29.4% and the number of high-congestion days in Île-de-France halving from 20 to 10."
+    },
     {
       "title": "One Region. 40,000 Bus Stops. An OSM Map at Every One. — State of the Map 2026 × Paris",
       "url": "https://mappingforward.fr/articles/2026-08/20260828-sotm-osm-plans-de-proximite-40000-bus-stops-paris.html",
