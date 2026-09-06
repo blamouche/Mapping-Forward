@@ -19,12 +19,24 @@ Articles per month:
 2026-05 | ████████████████████████████████ 117<br>
 2026-07 | █████ 10<br>
 2026-08 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 267<br>
-2026-09 | █████████████ 13<br>
+2026-09 | █████████████████████████ 23<br>
 ## Articles
 
 ### 2026
 
-#### September (13 articles)
+#### September (23 articles)
+- [UN to Vote on Adopting New World Map That Shows Africa's True Scale](src/2026-09/20260904-guardian-un-vote-world-map-mercator-equal-earth-africa.md)
+- [What Different World Maps Get Right — and What They Get Wrong](src/2026-09/20260905-bbc-what-different-world-maps-get-right-and-wrong.md)
+- [France Adopts Fairer World Map Ahead of UN Vote on More Balanced Geography](src/2026-09/20260904-lemonde-france-adopts-fairer-world-map-mercator-eckert-iv.md)
+- [UN Tells the World: Stop Making Africa Look Small](src/2026-09/20260905-un-news-stop-making-africa-look-small.md)
+- [UN Approves Resolution in Support of Map That Shows Africa's True Size](src/2026-09/20260904-reuters-un-approves-resolution-africa-true-size.md)
+- [Kan TomTom Terugkeren Naar de Hoogtijdagen van de Jaren Nul?](src/2026-09/20260905-bnr-tomtom-terugkeren-hoogtijdagen-jaren-nul.md)
+- [Warum Man in Simmerath Dem Navi Nicht Trauen Soll](src/2026-09/20260904-aachener-simmerath-navi-nicht-trauen.md)
+- [Google Maps et Gemini Déploient une Nouvelle Météo Surpuissante](src/2026-09/20260904-frandroid-google-maps-gemini-weathernext-3-meteo.md)
+- [Mapping Precision: GPT Image 2.5 Solves Spatial Data](src/2026-09/20260904-gisuser-gpt-image-2-5-spatial-data-mapping-precision.md)
+- [GIS Maps to Be Attached to Sale Deeds from October in Maharashtra](src/2026-09/20260905-toi-maharashtra-gis-maps-sale-deeds-october.md)
+- [Tech for Earth: The Machine Builds Its Own Model of the Planet](src/2026-09/20260830-geoawesome-tech-for-earth-machine-builds-own-model-planet.md)
+- [Waze contre Google Maps : 4 Points Forts de Waze](src/2026-09/20260905-samsung-magazine-waze-vs-google-maps-4-points-forts.md)
 - [The Agent Drafts, a Human Approves: Inside State of the Map US 2026](src/2026-09/20260903-hackernoon-state-of-the-map-us-2026-ai-osm.md)
 - [TomTom Sees Breakthrough in Autonomous Driving Accelerating](src/2026-09/20260903-telegraaf-tomtom-autonomous-driving-breakthrough-2030.md)
 - [Summer 2026: Why Traffic Was More Fluid on French Roads](src/2026-09/20260831-autojournal-tomtom-summer-2026-traffic-congestion-france.md)
