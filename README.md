@@ -19,12 +19,22 @@ Articles per month:
 2026-05 | ████████████████████████████████ 117<br>
 2026-07 | █████ 10<br>
 2026-08 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 267<br>
-2026-09 | █████████████████████████ 23<br>
+2026-09 | ███████████████████████████████████ 35<br>
 ## Articles
 
 ### 2026
 
-#### September (23 articles)
+#### September (35 articles)
+- [Why the UN's New World Map Won't Change Google Maps Anytime Soon](src/2026-09/20260906-clubic-onu-carte-monde-google-maps-projection.md)
+- [Can You Guess the Real Size of Each Country on the New World Map?](src/2026-09/20260906-aljazeera-guess-real-size-country-new-world-map.md)
+- [3 Hidden Google Maps Settings You Should Turn Off Right Away](src/2026-09/20260906-androidpolice-hidden-google-maps-settings-turn-off.md)
+- [How the GNIS Lake Ontario/Lake America Name Change Will Appear in Google Maps](src/2026-09/20260906-googleblog-gnis-lake-ontario-lake-america-maps.md)
+- [Google Maps Switches to "Lake America" as Canada Compares Change to SNL Skit](src/2026-09/20260906-axios-google-maps-lake-america-canada-snl.md)
+- [Google Maps Bluetooth Beacons Bring Precise Navigation to Tunnels](src/2026-09/20260906-larepubliquedespyrenees-google-maps-bluetooth-tunnels.md)
+- [New Maps Show How Israel Has Thwarted Hopes for a Palestinian State](src/2026-09/20260906-newyorker-maps-israel-palestinian-state.md)
+- [Apple Maps Now Shows Ads You Cannot Turn Off](src/2026-09/20260906-etvbharat-apple-maps-ads-cannot-turn-off.md)
+- [Volcanic Eruption Map Spotlight: Anak Krakatau, Indonesia](src/2026-09/20260906-iqair-anak-krakatau-volcanic-eruption-map.md)
+- [UN General Assembly Endorses New World Map Showing Africa's True Size](src/2026-09/20260906-nbcnews-un-general-assembly-new-world-map-africa.md)
 - [UN to Vote on Adopting New World Map That Shows Africa's True Scale](src/2026-09/20260904-guardian-un-vote-world-map-mercator-equal-earth-africa.md)
 - [What Different World Maps Get Right — and What They Get Wrong](src/2026-09/20260905-bbc-what-different-world-maps-get-right-and-wrong.md)
 - [France Adopts Fairer World Map Ahead of UN Vote on More Balanced Geography](src/2026-09/20260904-lemonde-france-adopts-fairer-world-map-mercator-eckert-iv.md)
