@@ -1,8 +1,8 @@
 {
   "site": "Mapping Forward",
   "url": "https://mappingforward.fr",
-  "generated": "2026-09-06T21:21:21.413086",
-  "article_count": 848,
+  "generated": "2026-09-07T06:06:09.421978",
+  "article_count": 859,
   "articles": [
     {
       "title": "Volcanic Eruption Map Spotlight: Anak Krakatau, Indonesia",
@@ -329,6 +329,87 @@
       "elevator_pitch": "At State of the Map 2026 in Paris, T-Kartor and Jungle Bus present their massive OpenStreetMap-based project to produce and maintain location-specific area maps (\"plans de proximité\") for 35,000+ bus and tram stops across the Paris region — Europe's most extensive public transport network."
     },
     {
+      "title": "5 Google Maps Settings Drivers Should Enable",
+      "url": "https://mappingforward.fr/articles/2026-08/20260828-bgr-google-maps-settings-drivers-enable.html",
+      "date": "2026-08-28",
+      "source": "https://www.bgr.com/2242473/google-maps-settings-drivers-should-enable/",
+      "author": "Chris Smith, BGR",
+      "keywords": "Google Maps, navigation settings, car profile, offline maps, EV charging, Gemini AI, driving",
+      "elevator_pitch": "BGR highlights five key Google Maps settings drivers should enable to improve their navigation experience, including customising car profiles for EV owners, downloading offline maps, sharing ETAs, and enabling Gemini AI voice control."
+    },
+    {
+      "title": "Summer 2026: Why Traffic Was More Fluid on French Roads",
+      "url": "https://mappingforward.fr/articles/2026-08/20260828-leparisien-tomtom-summer-2026-traffic-fluid-france.html",
+      "date": "2026-08-28",
+      "source": "https://www.leparisien.fr/societe/moins-de-bouchons-moins-de-galeres-pourquoi-lete-2026-a-ete-plus-fluide-sur-les-routes-francaises-28-08-2026-YKTTWWRHOVBWHBEBCQ33FQWDKY.php",
+      "author": "Matthieu Pelloli, Le Parisien",
+      "keywords": "TomTom, traffic congestion, France, summer 2026, road traffic, navigation data, embouteillages",
+      "elevator_pitch": "Le Parisien reports on exclusive TomTom data showing that summer 2026 was less congested on French roads than the previous year, with fewer traffic peaks despite the final back-to-school weekend being busy."
+    },
+    {
+      "title": "You Can Now 'Ask Maps' For Hyper-Specific Travel Advice. But Should You?",
+      "url": "https://mappingforward.fr/articles/2026-08/20260828-cntraveler-ask-maps-hyper-specific-travel-advice.html",
+      "date": "2026-08-28",
+      "source": "https://www.cntraveler.com/story/you-can-now-ask-maps-for-hyper-specific-travel-advice-but-should-you",
+      "author": "Ross Kenneth Urken, Condé Nast Traveler",
+      "keywords": "Google Maps, Ask Maps, Gemini AI, travel advice, navigation, AI itinerary, serendipity",
+      "elevator_pitch": "Condé Nast Traveler tests Google's new Gemini-powered \"Ask Maps\" feature that lets travellers ask hyper-specific questions without leaving the Maps app, while exploring what we lose when AI replaces the spontaneity of asking locals for directions."
+    },
+    {
+      "title": "Copernicus Emergency Management Service Maps Flood Damages in Northern Nepal",
+      "url": "https://mappingforward.fr/articles/2026-08/20260828-eu-space-copernicus-flood-damages-northern-nepal.html",
+      "date": "2026-08-28",
+      "source": "https://eu-space.europa.eu/components/earth-observation-copernicus/image-of-the-day/copernicus-emergency-management-service-maps-flood-damages-northern-nepal",
+      "author": "EU Space Support Office",
+      "keywords": "Copernicus, CEMS, emergency mapping, flood, Nepal, Tibet, glacier collapse, satellite imagery, disaster response",
+      "elevator_pitch": "The Copernicus Emergency Management Service activated its Rapid Mapping component to assess flood damage in northern Nepal after a glacier collapse triggered a devastating debris avalanche and flash flood on August 26, 2026."
+    },
+    {
+      "title": "Lake Ontario to Lake America: Who Gets to Decide What Goes on Maps?",
+      "url": "https://mappingforward.fr/articles/2026-08/20260828-conversation-lake-ontario-lake-america-who-decides-maps.html",
+      "date": "2026-08-28",
+      "source": "https://theconversation.com/lake-ontario-to-lake-america-who-gets-to-decide-what-goes-on-maps-290698",
+      "author": "The Conversation",
+      "keywords": "Lake Ontario, Lake America, place names, geographic names, Board on Geographic Names, Trump executive order, toponymy, cartography",
+      "elevator_pitch": "The Conversation examines the formal process behind geographic name changes in the United States, using Trump's renaming of Lake Ontario to \"Lake America\" as a case study in who gets to decide what appears on maps."
+    },
+    {
+      "title": "2026 Nepal Debris Avalanche and Flash Flood",
+      "url": "https://mappingforward.fr/articles/2026-08/20260828-usgs-nepal-debris-avalanche-flash-flood.html",
+      "date": "2026-08-28",
+      "source": "https://www.usgs.gov/programs/landslide-hazards/science/2026-nepal-debris-avalanche-and-flash-flood",
+      "author": "U.S. Geological Survey (USGS)",
+      "keywords": "USGS, debris avalanche, flash flood, Nepal, Tibet, landslide hazards, glacier collapse, Himalaya",
+      "elevator_pitch": "The USGS Landslide Hazards program is documenting the 2026 Nepal debris avalanche and flash flood, a catastrophic event triggered by a glacier collapse along the Nepal-Tibet border."
+    },
+    {
+      "title": "Maps Show How a Glacier Collapse Triggered Deadly Nepal Floods",
+      "url": "https://mappingforward.fr/articles/2026-08/20260828-nbcnews-glacier-collapse-nepal-floods-maps.html",
+      "date": "2026-08-28",
+      "source": "https://www.nbcnews.com/data-graphics/himalayan-glacier-collapse-nepal-tibet-disaster-rcna594762",
+      "author": "NBC News",
+      "keywords": "glacier collapse, Nepal, Tibet, flash flood, satellite imagery, disaster mapping, Himalaya, climate change",
+      "elevator_pitch": "NBC News uses maps and satellite imagery to trace the glacier collapse and floodwaters that devastated communities along the Nepal-Tibet border, killing over 380 people with hundreds more missing."
+    },
+    {
+      "title": "Waze and Google Maps No Longer Give the Fastest Routes in France",
+      "url": "https://mappingforward.fr/articles/2026-08/20260828-presse-citron-waze-google-maps-ecological-routing-france.html",
+      "date": "2026-08-28",
+      "source": "https://www.presse-citron.net/cest-dommage-pourquoi-waze-et-google-maps-ne-donnent-plus-les-trajets-les-plus-rapides-en-france/",
+      "author": "Jean-Yves Alric, Presse-citron",
+      "keywords": "Waze, Google Maps, ecological routing, France, decree 2022-1199, emissions, navigation, regulation",
+      "elevator_pitch": "Presse-citron explains why Waze and Google Maps now prioritize ecological routes over fastest routes in France, following a government decree that mandates navigation apps to highlight the lowest-emission itineraries."
+    },
+    {
+      "title": "GIS-Based Application Launched for Rural Water Asset Management in Karnataka",
+      "url": "https://mappingforward.fr/articles/2026-08/20260828-newindianexpress-karnataka-gis-water-asset-management.html",
+      "date": "2026-08-28",
+      "source": "https://www.newindianexpress.com/states/karnataka/2026/Aug/28/gis-based-application-launched-for-rural-water-asset-management-in-karnataka",
+      "author": "Express News Service, The New Indian Express",
+      "keywords": "GIS, geo-tagging, Karnataka, rural water assets, water management, fraud prevention, mobile app, India",
+      "elevator_pitch": "Karnataka's RDPR Minister launched a GIS-based mobile and web application to geo-tag rural water supply assets, improve transparency, and prevent fraudulent billing across the state's more than 3 lakh rural water assets."
+    },
+    {
       "title": "¿Qué factores llevaron a que Arequipa tenga un mayor nivel de congestión vehicular que Lima?",
       "url": "https://mappingforward.fr/articles/2026-08/20260827-elcomercio-arequipa-tomtom-congestion-lima.html",
       "date": "2026-08-27",
@@ -383,6 +464,15 @@
       "elevator_pitch": "CivilGrid, founded by former PG&E engineer Josh Mackanic, has raised $26 million to build a unified subsurface mapping platform that aggregates data on buried utility assets — solving a problem that causes 200,000 utility strikes per year in the US alone."
     },
     {
+      "title": "Tamil Nadu Mandates GIS-Based Master Plans for Urban Local Bodies",
+      "url": "https://mappingforward.fr/articles/2026-08/20260827-newindianexpress-tamil-nadu-gis-master-plans.html",
+      "date": "2026-08-27",
+      "source": "https://www.newindianexpress.com/states/tamil-nadu/2026/Aug/27/tn-government-mandates-gis-based-master-plans-for-urban-local-bodies-development-authorities",
+      "author": "Rudhran Baraasu, The New Indian Express",
+      "keywords": "Tamil Nadu, GIS, master plans, urban planning, land use, geospatial, urban local bodies, India",
+      "elevator_pitch": "The Tamil Nadu government has mandated that all urban local bodies and development authorities prepare, approve, and adopt legally valid GIS-based Master Plans, Zonal Plans, and Land Use Plans using standardised geospatial methodologies."
+    },
+    {
       "title": "Google Maps sur Android : activez cette option pour ne plus rater de sorties en tunnel",
       "url": "https://mappingforward.fr/articles/2026-08/20260826-gagadget-google-maps-bluetooth-tunnel-navigation.html",
       "date": "2026-08-26",
@@ -426,6 +516,15 @@
       "author": "Báo Thanh niên / Vietnam.vn",
       "keywords": "Google Maps, popular times, location history, crowd data, restaurant affluence, location privacy",
       "elevator_pitch": "Google Maps predicts how busy a restaurant or shop is by analyzing anonymized location history data from users who have enabled the feature — no merchant input required."
+    },
+    {
+      "title": "Capturing the Dubai Metro Blue Line with Millimeter Accuracy",
+      "url": "https://mappingforward.fr/articles/2026-08/20260826-geoweeknews-dubai-metro-blue-line-millimeter-accuracy.html",
+      "date": "2026-08-26",
+      "source": "https://www.geoweeknews.com/articles/capturing-the-dubai-metro-blue-line-with-millimeter-accuracy/",
+      "author": "Geo Week News",
+      "keywords": "Dubai Metro, 3D laser scanning, point clouds, Topcon, surveying, BIM, infrastructure, millimeter accuracy",
+      "elevator_pitch": "Geo Week News details how the Dubai Metro Blue Line surveying team used 3D laser scanning technology to capture existing metro stations and infrastructure with sub-5mm accuracy, supporting one of Dubai's most ambitious transportation projects."
     },
     {
       "title": "Around the Geospatial, 3D, and AEC Industries: Ancient Structures, Coastlines, and Digital Twins",
