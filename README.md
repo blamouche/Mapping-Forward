@@ -19,12 +19,23 @@ Articles per month:
 2026-05 | ████████████████████████████████ 117<br>
 2026-07 | █████ 10<br>
 2026-08 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 267<br>
-2026-09 | ███████████████████████████████████ 35<br>
+2026-09 | ███████████████████████████████████████████████ 46<br>
 ## Articles
 
 ### 2026
 
-#### September (35 articles)
+#### September (46 articles)
+- [Copernicus Emergency Management Service Maps Flood Damages in Northern Nepal](src/2026-09/20260828-eu-space-copernicus-flood-damages-northern-nepal.md)
+- [2026 Nepal Debris Avalanche and Flash Flood](src/2026-09/20260828-usgs-nepal-debris-avalanche-flash-flood.md)
+- [Maps Show How a Glacier Collapse Triggered Deadly Nepal Floods](src/2026-09/20260828-nbcnews-glacier-collapse-nepal-floods-maps.md)
+- [5 Google Maps Settings Drivers Should Enable](src/2026-09/20260828-bgr-google-maps-settings-drivers-enable.md)
+- [You Can Now 'Ask Maps' For Hyper-Specific Travel Advice. But Should You?](src/2026-09/20260828-cntraveler-ask-maps-hyper-specific-travel-advice.md)
+- [Lake Ontario to Lake America: Who Gets to Decide What Goes on Maps?](src/2026-09/20260828-conversation-lake-ontario-lake-america-who-decides-maps.md)
+- [GIS-Based Application Launched for Rural Water Asset Management in Karnataka](src/2026-09/20260828-newindianexpress-karnataka-gis-water-asset-management.md)
+- [Tamil Nadu Mandates GIS-Based Master Plans for Urban Local Bodies](src/2026-09/20260827-newindianexpress-tamil-nadu-gis-master-plans.md)
+- [Capturing the Dubai Metro Blue Line with Millimeter Accuracy](src/2026-09/20260826-geoweeknews-dubai-metro-blue-line-millimeter-accuracy.md)
+- [Waze and Google Maps No Longer Give the Fastest Routes in France](src/2026-09/20260828-presse-citron-waze-google-maps-ecological-routing-france.md)
+- [Summer 2026: Why Traffic Was More Fluid on French Roads](src/2026-09/20260828-leparisien-tomtom-summer-2026-traffic-fluid-france.md)
 - [Why the UN's New World Map Won't Change Google Maps Anytime Soon](src/2026-09/20260906-clubic-onu-carte-monde-google-maps-projection.md)
 - [Can You Guess the Real Size of Each Country on the New World Map?](src/2026-09/20260906-aljazeera-guess-real-size-country-new-world-map.md)
 - [3 Hidden Google Maps Settings You Should Turn Off Right Away](src/2026-09/20260906-androidpolice-hidden-google-maps-settings-turn-off.md)
