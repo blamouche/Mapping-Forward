@@ -19,12 +19,22 @@ Articles per month:
 2026-05 | ████████████████████████████████ 117<br>
 2026-07 | █████ 10<br>
 2026-08 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 267<br>
-2026-09 | ███████████████████████████████████████████████ 46<br>
+2026-09 | ███████████████████████████████████████████████████████████████ 56<br>
 ## Articles
 
 ### 2026
 
-#### September (46 articles)
+#### September (56 articles)
+- [INMO GO3 AI Glasses Win IFA Innovation Award with HERE Maps Navigation](src/2026-09/20260907-lelezard-inmo-go3-here-maps-navigation.md)
+- [Google Maps: Disable These Settings to Protect Your Privacy and Battery](src/2026-09/20260907-clubic-google-maps-privacy-settings-disable.md)
+- [African Union Welcomes UN Adoption of the "Correct the Map" Resolution](src/2026-09/20260907-afriquinfos-correct-the-map-african-reactions.md)
+- [UN General Assembly Votes to Promote Equal Earth Projection for More Accurate World Maps](src/2026-09/20260907-archdaily-un-equal-earth-projection-world-maps.md)
+- [Could the World Map Change? What the UN's New Move Means for India](src/2026-09/20260907-brut-world-map-change-india-un.md)
+- [Bucharest Traffic Nightmare Unchanged: 10 Kilometers in Over 45 Minutes at Rush Hour](src/2026-09/20260907-euronews-bucharest-traffic-tomtom-index.md)
+- [Map: Top People From Each Bay Area City, According to Wikipedia Views](src/2026-09/20260907-sfchronicle-bay-area-wikipedia-top-people-map.md)
+- [Movie Scene Map: A Free Interactive Map of 16,000 Film and Series Locations Worldwide](src/2026-09/20260907-parissecret-movie-scene-map-film-locations.md)
+- [Wildfire Map Spotlight: Konitsa Fire, Greece](src/2026-09/20260907-iqair-wildfire-map-konitsa-greece.md)
+- [New UN Map Depicts Arunachal Pradesh and Aksai Chin as Territories Caught Between Indian and Chinese Lines](src/2026-09/20260907-thehindu-un-map-arunachal-aksai-chin-territories.md)
 - [Copernicus Emergency Management Service Maps Flood Damages in Northern Nepal](src/2026-09/20260828-eu-space-copernicus-flood-damages-northern-nepal.md)
 - [2026 Nepal Debris Avalanche and Flash Flood](src/2026-09/20260828-usgs-nepal-debris-avalanche-flash-flood.md)
 - [Maps Show How a Glacier Collapse Triggered Deadly Nepal Floods](src/2026-09/20260828-nbcnews-glacier-collapse-nepal-floods-maps.md)
