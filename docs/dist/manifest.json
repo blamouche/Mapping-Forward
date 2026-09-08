@@ -1,9 +1,99 @@
 {
   "site": "Mapping Forward",
   "url": "https://mappingforward.fr",
-  "generated": "2026-09-07T06:06:09.421978",
-  "article_count": 859,
+  "generated": "2026-09-08T06:05:43.136937",
+  "article_count": 869,
   "articles": [
+    {
+      "title": "Wildfire Map Spotlight: Konitsa Fire, Greece",
+      "url": "https://mappingforward.fr/articles/2026-09/20260907-iqair-wildfire-map-konitsa-greece.html",
+      "date": "2026-09-07",
+      "source": "https://www.iqair.com/ca-fr/newsroom/wildfire-map-spotlight-konitsa-wildfire-greece",
+      "author": "IQAir Staff Writers",
+      "keywords": "wildfire, Greece, Konitsa, Epirus, mapping, air quality, disaster response, interactive maps, Vikos-Aoos National Park, firefighting",
+      "elevator_pitch": "A major wildfire in Greece's Konitsa region is burning in rugged mountain terrain near Vikos-Aoos National Park, with 170 firefighters deployed and emergency alerts issued to residents amid heavy smoke and difficult access conditions."
+    },
+    {
+      "title": "Movie Scene Map: A Free Interactive Map of 16,000 Film and Series Locations Worldwide",
+      "url": "https://mappingforward.fr/articles/2026-09/20260907-parissecret-movie-scene-map-film-locations.html",
+      "date": "2026-09-07",
+      "source": "https://parissecret.com/carte-interactive-tournages/",
+      "author": "Paris Secret",
+      "keywords": "interactive map, film locations, Movie Scene Map, cinema, tourism, Paris, cultural mapping, data visualization, location-based",
+      "elevator_pitch": "Movie Scene Map is a free interactive map listing nearly 16,000 real filming locations across 166 countries, letting users discover which films and series were shot near their home, with a particularly rich collection of Parisian locations."
+    },
+    {
+      "title": "African Union Welcomes UN Adoption of \"Correct the Map\" Resolution",
+      "url": "https://mappingforward.fr/articles/2026-09/20260907-afriquinfos-correct-the-map-african-reactions.html",
+      "date": "2026-09-07",
+      "source": "https://afriquinfos.com/onu-resolution-sur-correct-the-map-reactions-dinstances-et-de-personnalites-africaines/",
+      "author": "Vignikpo Akpéné, Afriquinfos",
+      "keywords": "African Union, Correct the Map, UN, Togo, Mercator, cartographic representation, Africa, equal-area projection, Mahmoud Ali Youssouf",
+      "elevator_pitch": "The Chairperson of the African Union Commission welcomed the UN's adoption of the \"Correct the Map\" resolution, praising Togo's leadership in mobilizing African states to correct the Mercator projection's visual shrinking of Africa's true size."
+    },
+    {
+      "title": "Google Maps: Disable These Settings to Protect Your Privacy and Battery",
+      "url": "https://mappingforward.fr/articles/2026-09/20260907-clubic-google-maps-privacy-settings-disable.html",
+      "date": "2026-09-07",
+      "source": "https://www.clubic.com/actualite-628483-google-maps-desactivez-ces-reglages-pour-proteger-votre-vie-privee-et-votre-batterie.html",
+      "author": "Mia Ogouchi, Clubic",
+      "keywords": "Google Maps, privacy, battery, settings, Timeline, incognito mode, offline maps, data protection, location history",
+      "elevator_pitch": "Clubic details three key Google Maps settings to disable for better privacy and battery life: turning off Timeline location history, enabling incognito navigation mode, and restricting offline map auto-updates to Wi-Fi only."
+    },
+    {
+      "title": "INMO GO3 AI Glasses Win IFA Innovation Award with HERE Maps Navigation",
+      "url": "https://mappingforward.fr/articles/2026-09/20260907-lelezard-inmo-go3-here-maps-navigation.html",
+      "date": "2026-09-07",
+      "source": "https://www.lelezard.com/communique-22356185.html",
+      "author": "Le Lézard",
+      "keywords": "INMO GO3, AI glasses, HERE Maps, navigation, IFA Innovation Award, wearable technology, hands-free navigation, pedestrian navigation, cycling navigation",
+      "elevator_pitch": "The INMO GO3 lightweight AI glasses won the IFA Innovation Award, integrating HERE Maps for hands-free pedestrian and cycling navigation with step-by-step directions displayed directly in the glasses."
+    },
+    {
+      "title": "Could the World Map Change? What the UN's New Move Means for India",
+      "url": "https://mappingforward.fr/articles/2026-09/20260907-brut-world-map-change-india-un.html",
+      "date": "2026-09-07",
+      "source": "https://www.brut.media/in/articles/could-the-world-map-change-what-the-un-s-new-move-means-for-india",
+      "author": "Team Brut",
+      "keywords": "UN, Correct the Map, Equal Earth, Mercator, India, world map, cartographic representation, equal-area projection, Jammu and Kashmir, territorial disputes",
+      "elevator_pitch": "The UN General Assembly's \"Correct the Map\" resolution passed 164-1 with six abstentions, encouraging equal-area projections that show Africa's true size, but India's support comes with a caveat about Jammu and Kashmir and Ladakh representation."
+    },
+    {
+      "title": "Map: Top People From Each Bay Area City, According to Wikipedia Views",
+      "url": "https://mappingforward.fr/articles/2026-09/20260907-sfchronicle-bay-area-wikipedia-top-people-map.html",
+      "date": "2026-09-07",
+      "source": "https://www.sfchronicle.com/projects/2026/wikipedia-top-100-map/",
+      "author": "Hanna Zakharenko and Emma Stiefel, San Francisco Chronicle",
+      "keywords": "interactive map, Wikipedia, Bay Area, data visualization, data journalism, Wikidata, cultural mapping, geographic data",
+      "elevator_pitch": "The San Francisco Chronicle built an interactive map showing the most-viewed Wikipedia person from every Bay Area city, using Wikimedia API pageview data spanning August 2021 to August 2026 to reveal the hometown heroes of each locality."
+    },
+    {
+      "title": "Bucharest Traffic Nightmare Unchanged: 10 Kilometers in Over 45 Minutes at Rush Hour",
+      "url": "https://mappingforward.fr/articles/2026-09/20260907-euronews-bucharest-traffic-tomtom-index.html",
+      "date": "2026-09-07",
+      "source": "https://www.euronews.ro/articole/cosmarul-traficului-din-bucuresti-nu-s-a-schimbat-10-kilometri-in-peste-45-de-minute",
+      "author": "Euronews Romania",
+      "keywords": "TomTom Traffic Index, Bucharest, traffic congestion, Romania, GPS data, urban mobility, rush hour, commuting",
+      "elevator_pitch": "Bucharest ranks 20th globally in the TomTom Traffic Index 2025, with drivers losing nearly 171 hours per year in traffic — a 10km trip taking over 45 minutes at evening rush hour, and conditions worsening compared to 2024."
+    },
+    {
+      "title": "UN General Assembly Votes to Promote Equal Earth Projection for More Accurate World Maps",
+      "url": "https://mappingforward.fr/articles/2026-09/20260907-archdaily-un-equal-earth-projection-world-maps.html",
+      "date": "2026-09-07",
+      "source": "https://www.archdaily.com/1184635/un-general-assembly-votes-to-promote-equal-earth-projection-for-more-accurate-world-maps",
+      "author": "Reyyan Dogan, ArchDaily",
+      "keywords": "UN, Equal Earth projection, Mercator, world map, cartographic representation, equal-area projection, architecture, education, Togo, African Union",
+      "elevator_pitch": "The UN General Assembly voted 164-1 to promote equal-area map projections like Equal Earth, encouraging governments, schools, and tech companies to represent continents at their true relative sizes rather than the distorted Mercator view used since the 16th century."
+    },
+    {
+      "title": "New UN Map Depicts Arunachal Pradesh and Aksai Chin as Territories Caught Between Indian and Chinese Lines",
+      "url": "https://mappingforward.fr/articles/2026-09/20260907-thehindu-un-map-arunachal-aksai-chin-territories.html",
+      "date": "2026-09-07",
+      "source": "https://www.thehindu.com/news/national/new-un-map-depicts-arunachal-pradesh-and-aksai-chin-as-territories-caught-between-indian-line-and-chinese-line/article71437431.ece",
+      "author": "The Hindu",
+      "keywords": "UN, Correct the Map, Arunachal Pradesh, Aksai Chin, India, China, territorial dispute, cartographic representation, Mercator, Equal Earth, borders",
+      "elevator_pitch": "A new UN world map published following the \"Correct the Map\" resolution depicts Arunachal Pradesh and Aksai Chin as territories between Indian and Chinese claim lines, prompting India's MEA to reiterate that any inaccurate depiction of its sovereign territory is unacceptable."
+    },
     {
       "title": "Volcanic Eruption Map Spotlight: Anak Krakatau, Indonesia",
       "url": "https://mappingforward.fr/articles/2026-09/20260906-iqair-anak-krakatau-volcanic-eruption-map.html",
