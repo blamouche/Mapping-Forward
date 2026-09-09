@@ -19,12 +19,19 @@ Articles per month:
 2026-05 | ████████████████████████████████ 117<br>
 2026-07 | █████ 10<br>
 2026-08 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 267<br>
-2026-09 | ███████████████████████████████████████████████████████████████ 56<br>
+2026-09 | ████████████████████████████████████████████████████████████████████ 63<br>
 ## Articles
 
 ### 2026
 
-#### September (56 articles)
+#### September (63 articles)
+- [The Next Chapter in Electric Driving Isn't About EVs](src/2026-09/20260908-tomtom-2026-ev-vision-future.md)
+- [TomTom's New Route Runs Through AI: Discovery Event Reveals Strategic Pivot](src/2026-09/20260908-ioplus-tomtom-discovery-event-ai-route.md)
+- [TomTom Expands EV Charger Data Past 2 Million Points](src/2026-09/20260908-theevreport-tomtom-ev-charging-data-2-million.md)
+- [Five Colombian Cities Rank Among World's Most Congested According to TomTom Traffic Index](src/2026-09/20260908-elcolombiano-colombia-tomtom-traffic-index-congestion.md)
+- [This Little-Known Google Maps Setting Saves Your Battery and Mobile Data](src/2026-09/20260908-commentcamarche-google-maps-offline-plans-battery-data.md)
+- [Iceland Summons US Ambassador After Trump Posts Map Showing Iceland as US Territory](src/2026-09/20260908-noovo-islande-convoque-ambassadeur-carte-trump.md)
+- [Fairmont State's Frank LaFone Honored with Geospatial Lifetime Achievement Award](src/2026-09/20260908-mybuckhannon-frank-lafone-geospatial-lifetime-award.md)
 - [INMO GO3 AI Glasses Win IFA Innovation Award with HERE Maps Navigation](src/2026-09/20260907-lelezard-inmo-go3-here-maps-navigation.md)
 - [Google Maps: Disable These Settings to Protect Your Privacy and Battery](src/2026-09/20260907-clubic-google-maps-privacy-settings-disable.md)
 - [African Union Welcomes UN Adoption of the "Correct the Map" Resolution](src/2026-09/20260907-afriquinfos-correct-the-map-african-reactions.md)
