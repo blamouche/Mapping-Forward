@@ -6,7 +6,63 @@
     <description>Daily synthesis of articles on cartography, mapping, geospatial data, and geographic intelligence</description>
     <language>en</language>
     <atom:link href="https://mappingforward.fr/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 08 Sep 2026 06:05:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 06:06:29 +0000</lastBuildDate>
+
+    <item>
+        <title>TomTom&#x27;s New Route Runs Through AI: Discovery Event Reveals Strategic Pivot</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260908-ioplus-tomtom-discovery-event-ai-route.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260908-ioplus-tomtom-discovery-event-ai-route.html</guid>
+        <description>At its TomTom Discovery Event in Amsterdam, the company revealed a fundamental strategic repositioning: maps are no longer primarily for guiding people, but for navigating AI and machines, with Orbis serving as a spatial knowledge layer for autonomous driving and enterprise AI agents. — Key takeaways: TomTom is shifting from 40 years of helping humans understand the physical world to helping intelligent systems and AI understand and move within it ; CEO Mike Schoofs aims to provide the critical safety map layer for more than half of all new European cars by 2030 ; The company has transitioned from hardware (navigation devices with ~40% margins) to pure software (gross margins heading toward 90%) ; Orbis Maps serves as &quot;ground truth&quot; — a uniform, verified reference reality combining OpenStreetMap, Overture Maps, TomTom&#x27;s own data, and vehicle sensor data ; The platform uses more than 5 billion data points to continuously enrich and verify the map, with 2.8 trillion kilometres of worldwide distance data stored ; TomTom has made Orbis APIs and an MCP server available for AI agents to access spatial intelligence ; Location intelligence is identified as a double-digit growth market, with 70-80% of enterprise data containing a spatial component</description>
+        <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Iceland Summons US Ambassador After Trump Posts Map Showing Iceland as US Territory</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260908-noovo-islande-convoque-ambassadeur-carte-trump.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260908-noovo-islande-convoque-ambassadeur-carte-trump.html</guid>
+        <description>Iceland has summoned the US ambassador after President Trump posted a map on Truth Social showing the entire North American continent — including Iceland — covered by the American flag, escalating a series of cartographic provocations that now intersect with Google Maps&#x27; renaming of Lake Ontario to &quot;Lake America.&quot; — Key takeaways: Iceland&#x27;s Foreign Minister Thorgerdur Katrin Gunnarsdottir summoned US Ambassador Billy Long to signal that the image was &quot;totally inappropriate&quot; ; Trump posted the map on Truth Social showing the US, Central America, Canada, Greenland, and Iceland covered by the American flag, with no caption ; The incident follows Trump&#x27;s persistent territorial ambitions regarding Greenland, a Danish autonomous territory whose coast is less than 300 km from Iceland ; Trump previously confused Greenland with Iceland in January 2026 ; Iceland has been independent since 1944, has no army, and relies on NATO and a 1951 bilateral defense agreement with the US for security ; Icelandic voters rejected EU accession negotiations in an August 29 referendum, maintaining their balance of European economic integration and Atlantic defense posture ; The map incident coincides with Google Maps displaying &quot;Lake America&quot; instead of Lake Ontario within the United States</description>
+        <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>This Little-Known Google Maps Setting Saves Your Battery and Mobile Data</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260908-commentcamarche-google-maps-offline-plans-battery-data.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260908-commentcamarche-google-maps-offline-plans-battery-data.html</guid>
+        <description>Google Maps&#x27; offline maps feature can save both battery and mobile data, but a hidden default setting silently updates downloaded maps over cellular data without user confirmation — here&#x27;s how to fix it. — Key takeaways: GPS navigation is one of the most battery-intensive tasks on a smartphone, simultaneously using GPS, screen, CPU, and mobile data ; Google Maps&#x27; offline maps feature allows pre-downloading detailed maps to navigate without a network connection ; Once downloaded, the app no longer needs to constantly request mobile data to display streets and points of interest ; A hidden default setting automatically updates offline maps over both Wi-Fi and cellular data without asking for confirmation ; The update process runs in the background with no notification or visible indication ; Disabling &quot;Automatically update offline maps&quot; and &quot;Automatically download recommended maps&quot; prevents unwanted data consumption ; Restricting offline map updates to Wi-Fi only further protects mobile data allowances</description>
+        <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Fairmont State&#x27;s Frank LaFone Honored with Geospatial Lifetime Achievement Award</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260908-mybuckhannon-frank-lafone-geospatial-lifetime-award.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260908-mybuckhannon-frank-lafone-geospatial-lifetime-award.html</guid>
+        <description>Dr. Frank LaFone, geography faculty member at Fairmont State University, has received the West Virginia Association of Geospatial Professionals Lifetime Achievement Award for over two decades of contributions to GIS and geospatial technology across the state. — Key takeaways: Dr. Frank LaFone honored with the WVAGP Lifetime Achievement Award for career-long contributions to GIS in West Virginia ; He was a founding member and key architect of the West Virginia Association of Geospatial Professionals (WVAGP) ; LaFone earned his GISP certification early in the program&#x27;s history and served multiple terms on the WVAGP Board, including as president and vice president ; He co-founded VerySpatial, one of the longest-running geography and geospatial podcasts, contributing to professional education nationally and internationally ; The award was presented at WV GEOCON, West Virginia&#x27;s annual geospatial conference ; As a faculty member at Fairmont State University, LaFone continues to connect students with geospatial technology opportunities to address community needs</description>
+        <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>TomTom Expands EV Charger Data Past 2 Million Points</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260908-theevreport-tomtom-ev-charging-data-2-million.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260908-theevreport-tomtom-ev-charging-data-2-million.html</guid>
+        <description>TomTom now covers more than two million EV charging points globally and plans to ship an AI-based battery range prediction model by the end of 2026, as the company reports delivering on its two-year EV roadmap with overhauled POI data, availability profiles, and live pricing. — Key takeaways: TomTom&#x27;s EV charging data now covers over 2 million charging points globally ; Availability profiles use six weeks of rolling usage data to predict charger busyness at expected arrival time ; A &quot;super aggregator&quot; model works with regional data partners rather than connecting to every charge point operator individually ; Driver demand has shifted from finding a charger to choosing one based on price, amenities, security, and weather protection ; An AI-based range prediction API is on track for release by end of 2026, using learning models trained on actual usage data ; The EV product group has been reorganized as Destination and Waypoint Management, expanding to cover POI search, fuel prices, parking, and in-car transactions ; Vehicle-to-grid and vehicle-to-load functions are flagged as growing in importance, but driver experience must be reliable</description>
+        <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>The Next Chapter in Electric Driving Isn&#x27;t About EVs</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260908-tomtom-2026-ev-vision-future.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260908-tomtom-2026-ev-vision-future.html</guid>
+        <description>TomTom reviews its two-year EV roadmap, revealing that EV charging data now covers over 2 million points globally, with AI-based range prediction and background intelligence features planned by year-end as the company shifts focus from simply finding chargers to helping drivers choose the right one. — Key takeaways: EVs now account for close to 30% of new car sales across Europe on average, with battery EVs at 20%; Norway leads at over 97% ; TomTom has overhauled its EV charging POI data, added availability profiles, live pricing, and unified its search and routing stack for EV-specific navigation ; The company uses a &quot;super aggregator&quot; model, working with regional data partners rather than connecting to every charge point operator individually ; Driver demand has shifted from finding a charger to choosing one based on price, amenities, security, and covered parking ; An AI-based range prediction API is on track for release by end of 2026, moving from multi-variate equations to learning models trained on actual usage data ; The EV team has been reorganized as &quot;Destination and Waypoint Management,&quot; expanding scope to POI search, fuel prices, parking, and in-car transactions</description>
+        <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Five Colombian Cities Rank Among World&#x27;s Most Congested According to TomTom Traffic Index</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260908-elcolombiano-colombia-tomtom-traffic-index-congestion.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260908-elcolombiano-colombia-tomtom-traffic-index-congestion.html</guid>
+        <description>The TomTom Traffic Index 2025 reveals that four Colombian cities — Bogotá, Medellín, Cali, and Barranquilla — rank among the 20 most congested in the world, with Bogotá leading at 69.6% congestion, underscoring a national challenge in urban mobility planning. — Key takeaways: Bogotá recorded the highest congestion level among Colombian cities at 69.6%, meaning travel times were on average 69.6% longer than free-flow conditions ; Medellín followed at 66.9%, Cali at 65.6%, Barranquilla at 62.8%, and Cartagena at 57.7% ; Four Colombian cities placed among the 20 most congested cities globally in the TomTom Traffic Index 2025 ; All five major Colombian cities exceeded 57% congestion, well above the global average ; Graphisoft identifies five keys for modernizing road infrastructure: integrate information from the start, simulate before building, detect errors early, plan for future growth, and strengthen digital talent ; The use of open standards like IFC is recommended to ensure information accessibility across all project stakeholders</description>
+        <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
 
     <item>
         <title>Wildfire Map Spotlight: Konitsa Fire, Greece</title>
@@ -350,62 +406,6 @@
         <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260831-autojournal-tomtom-summer-2026-traffic-congestion-france.html</guid>
         <description>TomTom traffic data reveals that French roads were significantly less congested during summer 2026 compared to 2025, with the maximum congestion peak dropping from 35.6% to 29.4% and the number of high-congestion days in Île-de-France halving from 20 to 10. — Key takeaways: Maximum congestion peak in France dropped to 29.4% on July 7, 2026, compared to 35.6% in summer 2025 ; France experienced zero days above 30% congestion in summer 2026, versus 7 days in summer 2025 ; Île-de-France saw congestion peaks above 40% drop from 20 days (2025) to 10 days (2026) — a 50% reduction ; Key factors: shorter summer holidays, better anticipation of departure times, and trips spread across the entire season ; Declining purchasing power in 2026 also contributed to fewer and shorter road trips ; Gasoline consumption dropped significantly in May 2026, reducing state tax revenue</description>
         <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Building AI-Powered GIS Applications: Key Technologies and Challenges</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260831-gisuser-building-ai-powered-gis-applications.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260831-gisuser-building-ai-powered-gis-applications.html</guid>
-        <description>A technical overview of the key technologies — machine learning, computer vision, NLP, and cloud computing — needed to build AI-powered GIS applications that go beyond displaying analysis results to recognizing patterns and predicting future events. — Key takeaways: ML enables GIS to predict traffic congestion, identify flood-prone areas, and estimate agricultural yields from spatial patterns ; Computer vision processes satellite and aerial imagery for damage assessment, unauthorized building detection, and urban mapping ; NLP allows non-technical users to query GIS in natural language (&quot;show me areas within 5 miles of a river with rapid urbanization in the last 10 years&quot;) ; Performance and scalability are critical: GIS apps work with satellite imagery, 3D models, and large geospatial datasets requiring cloud infrastructure ; AI automates routine GIS analyst tasks, freeing professionals for higher-value work</description>
-        <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Tech for Earth: The Machine Builds Its Own Model of the Planet</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260830-geoawesome-tech-for-earth-machine-builds-own-model-planet.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260830-geoawesome-tech-for-earth-machine-builds-own-model-planet.html</guid>
-        <description>Geoawesome reviews Google Research&#x27;s new planetary prediction engine that takes a natural-language geospatial question and autonomously runs the entire modelling pipeline — from data discovery to model training — while Overture Maps data powers new early-access web maps. — Key takeaways: Google Research&#x27;s engine goes from plain-English question to trained planetary model without human data engineering ; The system achieved 76.8% mean R² across 21 CDC health indicators vs. 60.0% for manual pipelines ; It correctly flagged 15 of 18 newly invaded health zones during a 2026 DRC ebolavirus outbreak ; Eight early-access web maps built from Overture Maps Foundation data are now available ; NISAR satellite radar archive opened to the public, enabling widespread InSAR monitoring</description>
-        <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>One Region. 40,000 Bus Stops. An OSM Map at Every One. — State of the Map 2026 × Paris</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260828-sotm-osm-plans-de-proximite-40000-bus-stops-paris.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260828-sotm-osm-plans-de-proximite-40000-bus-stops-paris.html</guid>
-        <description>At State of the Map 2026 in Paris, T-Kartor and Jungle Bus present their massive OpenStreetMap-based project to produce and maintain location-specific area maps (&quot;plans de proximité&quot;) for 35,000+ bus and tram stops across the Paris region — Europe&#x27;s most extensive public transport network. — Key takeaways: T-Kartor, the Swedish cartographic agency behind Legible London, WalkNYC, and Toronto TO360, has partnered with Île-de-France Mobilités to create &quot;plans de proximité&quot; — stop-specific area maps for the entire Paris region ; The project covers approximately 35,000 individual bus and tram stops, each requiring a unique map with high quality and consistency standards ; OpenStreetMap data is the backbone: the process goes from editing OSM data to delivering print-ready files to transport operators, with dozens of intermediate steps ; Jungle Bus, a local OSM community organization, has been a key partner throughout the effort ; The talk at State of the Map 2026 covers the full production pipeline: context, build, deployment, maintenance, and lessons learned</description>
-        <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>5 Google Maps Settings Drivers Should Enable</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260828-bgr-google-maps-settings-drivers-enable.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260828-bgr-google-maps-settings-drivers-enable.html</guid>
-        <description>BGR highlights five key Google Maps settings drivers should enable to improve their navigation experience, including customising car profiles for EV owners, downloading offline maps, sharing ETAs, and enabling Gemini AI voice control. — Key takeaways: Drivers should customise their car profile (gas, diesel, hybrid, electric) so Google Maps can suggest the most efficient route and show EV charging options ; Offline maps are essential for areas with spotty cellular connectivity, roaming charges abroad, or during natural disasters that disrupt service ; Sharing ETAs with friends and family provides safety benefits during road trips ; Gemini AI integration enables hands-free voice control for adding stops, finding restaurants, and asking questions about the route ; The settings are accessible on both Android and iPhone through the Google Maps navigation menu</description>
-        <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Summer 2026: Why Traffic Was More Fluid on French Roads</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260828-leparisien-tomtom-summer-2026-traffic-fluid-france.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260828-leparisien-tomtom-summer-2026-traffic-fluid-france.html</guid>
-        <description>Le Parisien reports on exclusive TomTom data showing that summer 2026 was less congested on French roads than the previous year, with fewer traffic peaks despite the final back-to-school weekend being busy. — Key takeaways: TomTom&#x27;s exclusive data reveals fewer traffic jam peaks during summer 2026 compared to summer 2025 ; TomTom&#x27;s traffic analytics are increasingly embedded in car manufacturers&#x27; built-in navigation systems ; The data covers France&#x27;s major holiday travel routes and provides comparative year-over-year congestion analysis ; Even the final weekend before the school year was expected to be busy, but the overall seasonal trend was smoother ; TomTom&#x27;s data positions it as a key provider of traffic intelligence for both consumers and the automotive industry</description>
-        <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>You Can Now &#x27;Ask Maps&#x27; For Hyper-Specific Travel Advice. But Should You?</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260828-cntraveler-ask-maps-hyper-specific-travel-advice.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260828-cntraveler-ask-maps-hyper-specific-travel-advice.html</guid>
-        <description>Condé Nast Traveler tests Google&#x27;s new Gemini-powered &quot;Ask Maps&quot; feature that lets travellers ask hyper-specific questions without leaving the Maps app, while exploring what we lose when AI replaces the spontaneity of asking locals for directions. — Key takeaways: Google&#x27;s &quot;Ask Maps&quot; is a conversational AI feature powered by Gemini that lets users ask hyper-specific travel queries directly within Google Maps ; Users can ask questions like &quot;My phone is dying—where can I charge it without waiting in a long line?&quot; or &quot;Is there a public tennis court with lights I can play at tonight?&quot; ; The feature charts travel itineraries based on crowd-sourced rankings and efficient routes with waypoints matching specified preferences ; Experts warn that over-reliance on AI may erode the serendipity and human connection of traditional travel ; Travel industry professionals note AI can help you &quot;get to the door&quot; but cannot replace what happens once you walk through it</description>
-        <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Copernicus Emergency Management Service Maps Flood Damages in Northern Nepal</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260828-eu-space-copernicus-flood-damages-northern-nepal.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260828-eu-space-copernicus-flood-damages-northern-nepal.html</guid>
-        <description>The Copernicus Emergency Management Service activated its Rapid Mapping component to assess flood damage in northern Nepal after a glacier collapse triggered a devastating debris avalanche and flash flood on August 26, 2026. — Key takeaways: A high-altitude glacier partially collapsed on August 26, 2026, triggering an ice and rock avalanche that descended 1,200 metres into the Lhende River basin ; The Copernicus Emergency Management Service (CEMS) activated Rapid Mapping under activation EMSR927 to map flood extent and assess damage across four Areas of Interest ; CEMS analysis around the village of Syapru Besi identified more than 240 buildings destroyed and 32 damaged ; The event affected northern Nepal and Tibet, generating powerful flows of water, mud, and debris downstream ; The satellite-derived damage maps support emergency response and recovery planning</description>
-        <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
     </item>
 
 </channel>

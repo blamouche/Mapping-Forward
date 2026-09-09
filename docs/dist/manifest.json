@@ -1,9 +1,72 @@
 {
   "site": "Mapping Forward",
   "url": "https://mappingforward.fr",
-  "generated": "2026-09-08T06:05:43.136937",
-  "article_count": 869,
+  "generated": "2026-09-09T06:06:29.451200",
+  "article_count": 876,
   "articles": [
+    {
+      "title": "TomTom's New Route Runs Through AI: Discovery Event Reveals Strategic Pivot",
+      "url": "https://mappingforward.fr/articles/2026-09/20260908-ioplus-tomtom-discovery-event-ai-route.html",
+      "date": "2026-09-08",
+      "source": "https://ioplus.nl/en/posts/tomtoms-new-route-runs-through-ai",
+      "author": "Vyggovan der Ceelen, IO+",
+      "keywords": "TomTom, Discovery Event, AI, Orbis Maps, automated driving, location intelligence, Mike Schoofs, strategic pivot, software-defined vehicles, MCP server, AI agents, Agent Toolkit",
+      "elevator_pitch": "At its TomTom Discovery Event in Amsterdam, the company revealed a fundamental strategic repositioning: maps are no longer primarily for guiding people, but for navigating AI and machines, with Orbis serving as a spatial knowledge layer for autonomous driving and enterprise AI agents."
+    },
+    {
+      "title": "Iceland Summons US Ambassador After Trump Posts Map Showing Iceland as US Territory",
+      "url": "https://mappingforward.fr/articles/2026-09/20260908-noovo-islande-convoque-ambassadeur-carte-trump.html",
+      "date": "2026-09-08",
+      "source": "https://www.noovo.info/nouvelles/international/article/nouvelle-carte-nord-americaine-de-trump-lislande-convoque-lambassadeur-americain/",
+      "author": "Agence France-Presse",
+      "keywords": "Trump, map, Iceland, US ambassador, expansionism, Greenland, Google Maps, Lake America, cartography, geopolitics, territorial claims, Truth Social",
+      "elevator_pitch": "Iceland has summoned the US ambassador after President Trump posted a map on Truth Social showing the entire North American continent — including Iceland — covered by the American flag, escalating a series of cartographic provocations that now intersect with Google Maps' renaming of Lake Ontario to \"Lake America.\""
+    },
+    {
+      "title": "This Little-Known Google Maps Setting Saves Your Battery and Mobile Data",
+      "url": "https://mappingforward.fr/articles/2026-09/20260908-commentcamarche-google-maps-offline-plans-battery-data.html",
+      "date": "2026-09-08",
+      "source": "https://www.commentcamarche.net/applis-sites/transports-cartes/38797-plans-google-maps/",
+      "author": "La Rédac, CommentCaMarche.net",
+      "keywords": "Google Maps, offline maps, battery saving, mobile data, GPS navigation, settings, data consumption, automatic updates, smartphone battery",
+      "elevator_pitch": "Google Maps' offline maps feature can save both battery and mobile data, but a hidden default setting silently updates downloaded maps over cellular data without user confirmation — here's how to fix it."
+    },
+    {
+      "title": "Fairmont State's Frank LaFone Honored with Geospatial Lifetime Achievement Award",
+      "url": "https://mappingforward.fr/articles/2026-09/20260908-mybuckhannon-frank-lafone-geospatial-lifetime-award.html",
+      "date": "2026-09-08",
+      "source": "https://www.mybuckhannon.com/fairmont-states-frank-lafone-honored-with-geospatial-lifetime-achievement-award/",
+      "author": "News Release, My Buckhannon",
+      "keywords": "Frank LaFone, Fairmont State University, WVAGP, GIS, geospatial professionals, lifetime achievement award, West Virginia, VerySpatial podcast, GISP certification, GIS education, geospatial technology",
+      "elevator_pitch": "Dr. Frank LaFone, geography faculty member at Fairmont State University, has received the West Virginia Association of Geospatial Professionals Lifetime Achievement Award for over two decades of contributions to GIS and geospatial technology across the state."
+    },
+    {
+      "title": "TomTom Expands EV Charger Data Past 2 Million Points",
+      "url": "https://mappingforward.fr/articles/2026-09/20260908-theevreport-tomtom-ev-charging-data-2-million.html",
+      "date": "2026-09-08",
+      "source": "https://theevreport.com/tomtom-ev-charging-data-2-million-chargers",
+      "author": "The EV Report Staff",
+      "keywords": "TomTom, EV charging, 2 million chargers, availability profiles, live pricing, AI range prediction, super aggregator, Drew Meehan, EV POI data, charging infrastructure",
+      "elevator_pitch": "TomTom now covers more than two million EV charging points globally and plans to ship an AI-based battery range prediction model by the end of 2026, as the company reports delivering on its two-year EV roadmap with overhauled POI data, availability profiles, and live pricing."
+    },
+    {
+      "title": "The Next Chapter in Electric Driving Isn't About EVs",
+      "url": "https://mappingforward.fr/articles/2026-09/20260908-tomtom-2026-ev-vision-future.html",
+      "date": "2026-09-08",
+      "source": "https://www.tomtom.com/newsroom/behind-the-map/tomtoms-2026-ev-vision-and-future",
+      "author": "Matthew Beedham, TomTom Newsroom",
+      "keywords": "TomTom, EV, electric vehicle, charging infrastructure, EV charging data, range anxiety, AI range prediction, Drew Meehan, Destination and Waypoint Management, Orbis Maps",
+      "elevator_pitch": "TomTom reviews its two-year EV roadmap, revealing that EV charging data now covers over 2 million points globally, with AI-based range prediction and background intelligence features planned by year-end as the company shifts focus from simply finding chargers to helping drivers choose the right one."
+    },
+    {
+      "title": "Five Colombian Cities Rank Among World's Most Congested According to TomTom Traffic Index",
+      "url": "https://mappingforward.fr/articles/2026-09/20260908-elcolombiano-colombia-tomtom-traffic-index-congestion.html",
+      "date": "2026-09-08",
+      "source": "https://www.elcolombiano.com/negocios/medellin-tres-ciudades-colombia-mas-congestionadas-mundo-cuales-son-JE40770559",
+      "author": "El Colombiano",
+      "keywords": "TomTom Traffic Index 2025, Colombia, Bogotá, Medellín, Cali, Barranquilla, Cartagena, traffic congestion, Graphisoft, BIM, infrastructure planning, road congestion",
+      "elevator_pitch": "The TomTom Traffic Index 2025 reveals that four Colombian cities — Bogotá, Medellín, Cali, and Barranquilla — rank among the 20 most congested in the world, with Bogotá leading at 69.6% congestion, underscoring a national challenge in urban mobility planning."
+    },
     {
       "title": "Wildfire Map Spotlight: Konitsa Fire, Greece",
       "url": "https://mappingforward.fr/articles/2026-09/20260907-iqair-wildfire-map-konitsa-greece.html",
