@@ -6,7 +6,63 @@
     <description>Daily synthesis of articles on cartography, mapping, geospatial data, and geographic intelligence</description>
     <language>en</language>
     <atom:link href="https://mappingforward.fr/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 09 Sep 2026 06:06:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 06:03:35 +0000</lastBuildDate>
+
+    <item>
+        <title>AI Maps Global Methane Emissions from Space with NASA&#x27;s EMIT Instrument</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260909-googleblog-mapl-emit-methane-emissions-space.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260909-googleblog-mapl-emit-methane-emissions-space.html</guid>
+        <description>Google and NASA JPL introduced MAPL-EMIT, an AI model that detects 50% more methane plumes than human experts by analyzing satellite imagery, identifying over 23,000 additional plumes globally. — Key takeaways: MAPL-EMIT is a deep learning model from Google Research and NASA&#x27;s Jet Propulsion Laboratory, published in PNAS ; Trained on 3.6 million physics-simulated methane plumes, it detects 50% more plumes than human experts ; The model identified over 23,000 additional plumes globally, including 24 of the 25 world&#x27;s largest-emitting landfills ; Methane has 30 times the warming potential of CO2 over a 100-year timeframe ; Google released the global plume database on Earth Engine, with open-source models on Kaggle and GitHub</description>
+        <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Extending the TomTom Maps and Navigation SDK Android Example App with Claude Code</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260909-tomtom-sdk-android-claude-code.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260909-tomtom-sdk-android-claude-code.html</guid>
+        <description>TomTom demonstrates how Claude Code can extend its Android Maps and Navigation SDK example app by building a Route Instructions Panel feature, documenting pitfalls in a reusable skill file. — Key takeaways: TomTom used Anthropic&#x27;s Claude Code AI agent to build a Route Instructions Panel — a draggable bottom sheet listing every maneuver on a planned route — on top of their Android SDK example app ; The agent mapped nine routing instruction subtypes (departures, turns, forks, merges, roundabouts, highway exits, tollgates, arrivals) to icons and natural-language phrases ; Key challenges included type-shape surprises in the SDK (e.g., `Road.name` returning `TextWithPhonetics?` not `String?`), packages in unexpected locations, and experimental Compose APIs that compile but crash at runtime ; The experiment is fully reproducible: prompt, CLAUDE.md, and skill file are published in a GitHub repo, pinned to exact app commit and SDK version ; The Superpowers plugin by Jesse Vincent was used to add workflow skills on top of Claude Code</description>
+        <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>In Maps and Charts: Russian and Ukrainian Attacks on Civilian Targets</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260909-aljazeera-maps-russia-ukraine-civilian-targets.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260909-aljazeera-maps-russia-ukraine-civilian-targets.html</guid>
+        <description>Al Jazeera&#x27;s data visualization maps how both sides in the Russia-Ukraine war have increasingly targeted civilian infrastructure, with drone attacks more than doubling and interception rates falling. — Key takeaways: Russian attacks on Ukrainian civilian infrastructure rose from 5% of all attacks in 2022 to 13% by August 2026 (7,170 incidents), per ACLED data ; Ukrainian attacks on Russian civilian infrastructure rose from 10% in 2022 to 27% by August 2026 (3,560 incidents) ; Donetsk (3,652 attacks) and Belgorod (9,549 attacks) are the most targeted regions on each side ; Drones now dominate the war, replacing artillery as the primary attack method, with Ukraine planning 1,000 drone launches per day ; Missile interception rates fell from 24% in 2025 to 10.2% in 2026 due to dwindling Patriot and IRIS-T interceptor supplies</description>
+        <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Mapping the Global Health Landscape: Analysis of Fourteen International Organizations</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260909-kff-mapping-global-health-landscape.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260909-kff-mapping-global-health-landscape.html</guid>
+        <description>KFF published a descriptive mapping of 14 key global health institutions to inform discussions about duplication, synergies, and architectural reform in the global health ecosystem. — Key takeaways: KFF mapped 14 key global health and related international institutions, focusing on their work in low- and middle-income countries (LMICs) ; The mapping examines mandates, governance models, financing structures, and operational approaches across organizations ; Multiple reform efforts are underway: the Lusaka Agenda, the Accra Reset, and WHO&#x27;s Joint Process on Reform of the Global Health Architecture ; The mapping is descriptive, not evaluative — it does not assess organizational performance or effectiveness ; The report is intended to inform discussions about synergies, coordination, duplication, and comparative advantage across entities</description>
+        <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Esri India Launches Free Digital Atlas Program to Make School Geography Genuinely Interesting</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260909-gadgetbridge-esri-india-digital-atlas-schools.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260909-gadgetbridge-esri-india-digital-atlas-schools.html</guid>
+        <description>Esri India launched a free Digital Atlas Program built on ArcGIS Online, giving schoolteachers interactive mapping tools to transform geography from memorization to real-world investigation. — Key takeaways: Esri India launched the Digital Atlas Program, offering interactive digital mapping tools and curriculum-relevant content free to schools across India ; Built on ArcGIS Online, the program provides interactive tools to explore layers of real-world data: population patterns, weather, land use, and more ; The initiative shifts students from asking &quot;where is it&quot; to &quot;why is it there,&quot; examining real-world events like flooding through data ; GIS in classrooms has been linked to measurable gains in analytical skills and stronger STEM performance ; The program targets spatial and geographic literacy — skills that underpin urban planning, disaster management, and climate science</description>
+        <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Google Maps Loses Speedometer and Speed Limits on Android Auto Just Weeks After Launch</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260909-lesnumeriques-google-maps-android-auto-speed-bug.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260909-lesnumeriques-google-maps-android-auto-speed-bug.html</guid>
+        <description>A bug on Android Auto causes Google Maps&#x27; newly launched speedometer and speed limit display to disappear, along with traffic lights and stop signs, while everything works fine on Apple CarPlay. — Key takeaways: Google Maps&#x27; real-time speedometer, deployed on Android Auto in July 2026, has disappeared for many users due to a display bug ; The bug also removes speed limit indicators, and in some cases traffic lights, stop signs, and traffic lines ; Apple CarPlay remains unaffected — the speedometer and all indicators continue working normally ; Some users recovered the feature by leaving the Google Maps and Android Auto beta channels and reinstalling stable versions, but this workaround is inconsistent ; Google has not issued an official fix or statement; Waze is also experiencing display glitches</description>
+        <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Satellite Navigators Concentrate Traffic on Few Roads, Reducing Environmental Benefits</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260909-skytg24-navigatori-satellitari-traffico-ambientale.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260909-skytg24-navigatori-satellitari-traffico-ambientale.html</guid>
+        <description>A study published in Nature Communications shows that when adoption of navigation apps like Google Maps and TomTom exceeds 60–80%, traffic concentrates on few roads and environmental benefits disappear or reverse. — Key takeaways: Research by CNR-Isti, University of Pisa, and Scuola Normale Superiore simulated traffic in Florence, Milan, and Rome using GPS data cross-referenced with Google Maps, TomTom, Bing Maps, and Mapbox routing ; Route diversity decreases up to 14% at full adoption, pushing vehicles toward major arteries and highways ; With light traffic, navigators reduce CO2 emissions; with heavy traffic, benefits only hold below 60–80% adoption ; Beyond that threshold, benefits &quot;attenuate, vanish, or even reverse&quot; — in some Rome scenarios, emissions actually increased ; The study highlights how individual-level optimization algorithms can produce collectively harmful outcomes at scale</description>
+        <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
 
     <item>
         <title>TomTom&#x27;s New Route Runs Through AI: Discovery Event Reveals Strategic Pivot</title>
@@ -350,62 +406,6 @@
         <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260902-softonic-google-maps-android-auto-darker-theme-night.html</guid>
         <description>Google is testing a darker interface for Google Maps on Android Auto in beta version 17.6.663424, aiming to reduce screen glare and driver eye strain during night driving. — Google is currently testing a darker theme for Google Maps on Android Auto, available in the beta version 17.6.663424. The update addresses a well-known problem: standard dark mode on navigation apps can still produce too much light at night, causing glare that distracts drivers and reduces visibili...</description>
         <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Google Maps Has Become a Tool of Digital Imperialism</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260902-globeandmail-google-maps-digital-imperialism.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260902-globeandmail-google-maps-digital-imperialism.html</guid>
-        <description>The Globe and Mail argues that Google Maps&#x27; compliance with Trump&#x27;s Lake Ontario renaming order exemplifies how dominant mapping platforms have become instruments of digital imperialism, shaping how millions perceive geography. — The Globe and Mail&#x27;s opinion piece frames the Lake Ontario renaming controversy as symptomatic of a broader issue: the concentration of mapping power in the hands of a few technology giants who can be influenced by political pressure from individual governments. Two decades after Yahoo Maps shut dow...</description>
-        <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Why Ford Chose Apple Maps Over Google Maps for Its New EV Platform</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260902-igen-ford-apple-maps-ev-platform-fathom.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260902-igen-ford-apple-maps-ev-platform-fathom.html</guid>
-        <description>Ford chose Apple Maps over Google Maps for its upcoming universal EV platform (Fathom) because Apple offered better integration with vehicle systems for range estimation, charging, and battery preconditioning. — Key takeaways: Ford selected Apple Maps for its universal EV platform, with the first model called Fathom ; Alan Clarke, Ford&#x27;s VP of advanced vehicle projects, cited Apple Maps&#x27; constant improvements and engineering team flexibility as key factors ; EV navigation requires deep integration with powertrain systems: range estimation, real-time charging station availability, battery preconditioning ; Apple&#x27;s ability to cross-reference navigation data with topography and weather for dynamic consumption predictions was decisive ; This is native integration, not CarPlay Ultra — Apple Maps runs on Ford&#x27;s own operating system</description>
-        <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Cities Are Giving Their AI Chatbots a New Dimension: Geography</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260901-statescoop-cities-ai-chatbots-geography-gis.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260901-statescoop-cities-ai-chatbots-geography-gis.html</guid>
-        <description>Maricopa County and Washington D.C. are connecting AI chatbots to GIS systems, enabling residents to ask location-based questions like &quot;What construction projects are within a mile of my house?&quot; or &quot;Is my property in a flood zone?&quot; — Key takeaways: Maricopa County launched Mari (public) and Marco (internal) AI agents built on IBM Watson with Esri GIS tools ; The system uses RAG (Retrieval-Augmented Generation) for text search and Esri tools for spatial queries ; After testing 11,000 prompts, the system launched in June 2026 and averages 706 users per month with 12,000+ questions asked ; &quot;Nearest neighbor&quot; searches convert user addresses to map points and calculate distances to relevant services ; Privacy safeguards include policy warnings, access controls, 13-month retention limits, and guardrails against legal advice</description>
-        <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>MapQuest Refuses to Rename Lake Ontario, Sees Downloads Surge</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260901-clubic-mapquest-refuses-lake-america-downloads-surge.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260901-clubic-mapquest-refuses-lake-america-downloads-surge.html</guid>
-        <description>MapQuest&#x27;s refusal to rename Lake Ontario to &quot;Lake America&quot; following Trump&#x27;s executive order propelled it to the top of the US App Store navigation category, with downloads surging 10x above normal levels. — Key takeaways: MapQuest reached #1 in free navigation apps on the US App Store, with usage multiplied 50x compared to a normal week ; Sensor Tower estimates 184,000 global downloads for the week of August 24, including 162,000 in the US — 10x the usual volume ; Daily US downloads jumped 128% between August 26-30, and MapQuest also reached #1 in Canada ; MapQuest adopted the same approach as with the Gulf of Mexico renaming, which it also refused to implement ; The service, launched in 1996, was acquired by System1 in 2019 after passing through AOL and Verizon</description>
-        <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>AMC Approves Citywide GIS Mapping and Digital Door IDs for Ahmedabad</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260901-constructionworld-amc-ahmedabad-gis-mapping-digital-door-ids.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260901-constructionworld-amc-ahmedabad-gis-mapping-digital-door-ids.html</guid>
-        <description>The Amdavad Municipal Corporation approved a citywide GIS project covering 625 sq km with aerial LiDAR, 5,200 km of road surveys, 2.5 million geo-coded properties with Digital Door IDs, and a 3D digital twin — one of India&#x27;s most ambitious urban mapping initiatives. — Key takeaways: Aerial LiDAR and photography will cover the 625 sq km municipal area with 240 ground control points ; 5,200 km of roads surveyed with Mobile LiDAR and 360-degree imaging; underground utilities recorded for asset management ; 2.5 million properties geo-coded through door-to-door surveys with Digital Door IDs for property tax assessment ; 3D digital twin with Level of Detail 3 models for 500 key buildings ; 12 GIS-based applications for town planning, disaster management, health services, and a citizen geoportal</description>
-        <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>HERE and Esri Bring a New Chapter in Location Intelligence</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260901-geoweeknews-here-esri-location-intelligence-partnership.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260901-geoweeknews-here-esri-location-intelligence-partnership.html</guid>
-        <description>HERE Technologies and Esri are deepening their two-decade partnership to make location data a first-class enterprise IT asset, with a new location reasoning layer that lets AI interpret geospatial data without expensive model retraining. — Key takeaways: HERE and Esri are expanding their partnership beyond API-delivered data to persistent location data accessible through ArcGIS visualization and analytics ; HERE argues location data deserves recognition as a distinct discipline within enterprise IT strategy, not just another dataset ; A new &quot;location reasoning layer&quot; acts as an intermediary allowing AI to interpret location data without requiring full model training ; The partnership aims to bring Esri&#x27;s ArcGIS capabilities to non-GIS users working with traffic, EV charging, and autonomous vehicle data ; Early assumptions that knowledge graphs and vector queries would suffice for AI integration proved insufficient — AI hasn&#x27;t been trained on geospatial services</description>
-        <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Summer 2026: Why Traffic Was More Fluid on French Roads</title>
-        <link>https://mappingforward.fr/articles/2026-08/20260831-autojournal-tomtom-summer-2026-traffic-congestion-france.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-08/20260831-autojournal-tomtom-summer-2026-traffic-congestion-france.html</guid>
-        <description>TomTom traffic data reveals that French roads were significantly less congested during summer 2026 compared to 2025, with the maximum congestion peak dropping from 35.6% to 29.4% and the number of high-congestion days in Île-de-France halving from 20 to 10. — Key takeaways: Maximum congestion peak in France dropped to 29.4% on July 7, 2026, compared to 35.6% in summer 2025 ; France experienced zero days above 30% congestion in summer 2026, versus 7 days in summer 2025 ; Île-de-France saw congestion peaks above 40% drop from 20 days (2025) to 10 days (2026) — a 50% reduction ; Key factors: shorter summer holidays, better anticipation of departure times, and trips spread across the entire season ; Declining purchasing power in 2026 also contributed to fewer and shorter road trips ; Gasoline consumption dropped significantly in May 2026, reducing state tax revenue</description>
-        <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
     </item>
 
 </channel>

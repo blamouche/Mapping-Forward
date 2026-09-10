@@ -1,9 +1,72 @@
 {
   "site": "Mapping Forward",
   "url": "https://mappingforward.fr",
-  "generated": "2026-09-09T06:06:29.451200",
-  "article_count": 876,
+  "generated": "2026-09-10T06:03:35.643458",
+  "article_count": 883,
   "articles": [
+    {
+      "title": "AI Maps Global Methane Emissions from Space with NASA's EMIT Instrument",
+      "url": "https://mappingforward.fr/articles/2026-09/20260909-googleblog-mapl-emit-methane-emissions-space.html",
+      "date": "2026-09-09",
+      "source": "https://blog.google/innovation-and-ai/models-and-research/google-research/mapping-global-methane-emissions-from-space/",
+      "author": "Vishal Batchu (Google Research)",
+      "keywords": "methane emissions, MAPL-EMIT, deep learning, NASA EMIT, PNAS, climate, Earth Engine, greenhouse gas",
+      "elevator_pitch": "Google and NASA JPL introduced MAPL-EMIT, an AI model that detects 50% more methane plumes than human experts by analyzing satellite imagery, identifying over 23,000 additional plumes globally."
+    },
+    {
+      "title": "Extending the TomTom Maps and Navigation SDK Android Example App with Claude Code",
+      "url": "https://mappingforward.fr/articles/2026-09/20260909-tomtom-sdk-android-claude-code.html",
+      "date": "2026-09-09",
+      "source": "https://www.tomtom.com/newsroom/product-focus/extending-the-tomtom-maps-and-navigation-sdk-android-example-app-with-claude-code",
+      "author": "TomTom Docs",
+      "keywords": "TomTom, Android SDK, Claude Code, AI coding agent, navigation, route instructions, Compose",
+      "elevator_pitch": "TomTom demonstrates how Claude Code can extend its Android Maps and Navigation SDK example app by building a Route Instructions Panel feature, documenting pitfalls in a reusable skill file."
+    },
+    {
+      "title": "In Maps and Charts: Russian and Ukrainian Attacks on Civilian Targets",
+      "url": "https://mappingforward.fr/articles/2026-09/20260909-aljazeera-maps-russia-ukraine-civilian-targets.html",
+      "date": "2026-09-09",
+      "source": "https://www.aljazeera.com/news/2026/9/9/in-maps-and-charts-russian-and-ukrainian-attacks-on-civilian-targets",
+      "author": "Hanna Duggal, Marium Ali (Al Jazeera)",
+      "keywords": "Russia-Ukraine war, civilian infrastructure, maps, drones, ACLED, CSIS, ballistic missiles, Patriot",
+      "elevator_pitch": "Al Jazeera's data visualization maps how both sides in the Russia-Ukraine war have increasingly targeted civilian infrastructure, with drone attacks more than doubling and interception rates falling."
+    },
+    {
+      "title": "Mapping the Global Health Landscape: Analysis of Fourteen International Organizations",
+      "url": "https://mappingforward.fr/articles/2026-09/20260909-kff-mapping-global-health-landscape.html",
+      "date": "2026-09-08",
+      "source": "https://www.kff.org/global-health-policy/mapping-the-global-health-landscape-analysis-of-fourteen-international-organizations/",
+      "author": "Jennifer Kates, Adam Wexler (KFF)",
+      "keywords": "global health, international organizations, mapping, architecture reform, LMICs, MOPAN, Lusaka Agenda, WHO",
+      "elevator_pitch": "KFF published a descriptive mapping of 14 key global health institutions to inform discussions about duplication, synergies, and architectural reform in the global health ecosystem."
+    },
+    {
+      "title": "Esri India Launches Free Digital Atlas Program to Make School Geography Genuinely Interesting",
+      "url": "https://mappingforward.fr/articles/2026-09/20260909-gadgetbridge-esri-india-digital-atlas-schools.html",
+      "date": "2026-09-08",
+      "source": "https://www.gadgetbridge.com/esri-india-launches-free-digital-atlas-program-to-make-school-geography-genuinely-interesting/",
+      "author": "Aasthaa Bhandari (Gadget Bridge)",
+      "keywords": "Esri India, ArcGIS Online, digital atlas, schools, geography education, GIS, spatial thinking, ed-tech",
+      "elevator_pitch": "Esri India launched a free Digital Atlas Program built on ArcGIS Online, giving schoolteachers interactive mapping tools to transform geography from memorization to real-world investigation."
+    },
+    {
+      "title": "Google Maps Loses Speedometer and Speed Limits on Android Auto Just Weeks After Launch",
+      "url": "https://mappingforward.fr/articles/2026-09/20260909-lesnumeriques-google-maps-android-auto-speed-bug.html",
+      "date": "2026-09-09",
+      "source": "https://www.lesnumeriques.com/gps/a-peine-lancee-cet-ete-google-maps-perd-l-une-de-ses-meilleures-fonctionnalites-sur-android-auto-n261582.html",
+      "author": "Les Numériques",
+      "keywords": "Google Maps, Android Auto, speedometer, speed limits, bug, CarPlay, Waze",
+      "elevator_pitch": "A bug on Android Auto causes Google Maps' newly launched speedometer and speed limit display to disappear, along with traffic lights and stop signs, while everything works fine on Apple CarPlay."
+    },
+    {
+      "title": "Satellite Navigators Concentrate Traffic on Few Roads, Reducing Environmental Benefits",
+      "url": "https://mappingforward.fr/articles/2026-09/20260909-skytg24-navigatori-satellitari-traffico-ambientale.html",
+      "date": "2026-09-09",
+      "source": "https://tg24.sky.it/ambiente/2026/09/09/navigatori-satellitari-traffico-benefici-ambientali",
+      "author": "Sky TG24",
+      "keywords": "satellite navigation, traffic, CO2 emissions, Google Maps, TomTom, Bing Maps, Mapbox, urban mobility, Nature Communications, CNR-Isti",
+      "elevator_pitch": "A study published in Nature Communications shows that when adoption of navigation apps like Google Maps and TomTom exceeds 60–80%, traffic concentrates on few roads and environmental benefits disappear or reverse."
+    },
     {
       "title": "TomTom's New Route Runs Through AI: Discovery Event Reveals Strategic Pivot",
       "url": "https://mappingforward.fr/articles/2026-09/20260908-ioplus-tomtom-discovery-event-ai-route.html",
