@@ -19,12 +19,19 @@ Articles per month:
 2026-05 | ████████████████████████████████ 117<br>
 2026-07 | █████ 10<br>
 2026-08 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 267<br>
-2026-09 | ████████████████████████████████████████████████████████████████████ 63<br>
+2026-09 | ████████████████████████████████████████████████████████████████████████ 70<br>
 ## Articles
 
 ### 2026
 
-#### September (63 articles)
+#### September (70 articles)
+- [Extending the TomTom Maps and Navigation SDK Android Example App with Claude Code](src/2026-09/20260909-tomtom-sdk-android-claude-code.md)
+- [Satellite Navigators Concentrate Traffic on Few Roads, Reducing Environmental Benefits](src/2026-09/20260909-skytg24-navigatori-satellitari-traffico-ambientale.md)
+- [Google Maps Loses Speedometer and Speed Limits on Android Auto Just Weeks After Launch](src/2026-09/20260909-lesnumeriques-google-maps-android-auto-speed-bug.md)
+- [In Maps and Charts: Russian and Ukrainian Attacks on Civilian Targets](src/2026-09/20260909-aljazeera-maps-russia-ukraine-civilian-targets.md)
+- [AI Maps Global Methane Emissions from Space with NASA's EMIT Instrument](src/2026-09/20260909-googleblog-mapl-emit-methane-emissions-space.md)
+- [Mapping the Global Health Landscape: Analysis of Fourteen International Organizations](src/2026-09/20260909-kff-mapping-global-health-landscape.md)
+- [Esri India Launches Free Digital Atlas Program to Make School Geography Genuinely Interesting](src/2026-09/20260909-gadgetbridge-esri-india-digital-atlas-schools.md)
 - [The Next Chapter in Electric Driving Isn't About EVs](src/2026-09/20260908-tomtom-2026-ev-vision-future.md)
 - [TomTom's New Route Runs Through AI: Discovery Event Reveals Strategic Pivot](src/2026-09/20260908-ioplus-tomtom-discovery-event-ai-route.md)
 - [TomTom Expands EV Charger Data Past 2 Million Points](src/2026-09/20260908-theevreport-tomtom-ev-charging-data-2-million.md)
