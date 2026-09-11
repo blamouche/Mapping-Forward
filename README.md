@@ -19,12 +19,22 @@ Articles per month:
 2026-05 | ████████████████████████████████ 117<br>
 2026-07 | █████ 10<br>
 2026-08 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 267<br>
-2026-09 | ████████████████████████████████████████████████████████████████████████ 70<br>
+2026-09 | █████████████████████████████████████████████████████████████████████████████ 80<br>
 ## Articles
 
 ### 2026
 
-#### September (70 articles)
+#### September (80 articles)
+- [Will the UN Decision Change Our World Maps?](src/2026-09/20260910-ledevoir-onu-cartes-monde-equal-earth.md)
+- [Japan Seeks Change to New UN World Map Over Russia 'Misconception'](src/2026-09/20260910-guardian-japan-un-world-map-russia-kuril.md)
+- [Correcting the Map, as We Must, and Yet Still](src/2026-09/20260910-verfassungsblog-correct-the-map-resolution.md)
+- [TomTom and citiEU Strengthen Ties to Deliver Advanced Traffic Monitoring and Location Analytics](src/2026-09/20260910-tomtom-citieu-traffic-monitoring-location-analytics.md)
+- [California Keeps Widening Roads. Traffic Keeps Getting Worse.](src/2026-09/20260910-governing-california-road-widening-tomtom-traffic.md)
+- [Esri and Saint Louis University to Advance Geospatial Research and Innovation](src/2026-09/20260910-gim-international-esri-slu-geospatial-research.md)
+- [Geo Week Announces Strategic Partnerships for 2027 Event](src/2026-09/20260910-amerisurv-geo-week-2027-strategic-partnerships.md)
+- [Field Evaluation of Photogrammetric SLAM for Infrastructure Asset Mapping](src/2026-09/20260910-geoweeknews-photogrammetric-slam-infrastructure-asset-mapping.md)
+- [Xpeng Integrates Google Maps Into Its Embedded Navigation](src/2026-09/20260910-automobil-revue-xpeng-google-maps-navigation.md)
+- [Google Maps Begins Blurring South Korean Military Sites and the DMZ](src/2026-09/20260910-kbs-google-maps-blurring-south-korea-dmz.md)
 - [Extending the TomTom Maps and Navigation SDK Android Example App with Claude Code](src/2026-09/20260909-tomtom-sdk-android-claude-code.md)
 - [Satellite Navigators Concentrate Traffic on Few Roads, Reducing Environmental Benefits](src/2026-09/20260909-skytg24-navigatori-satellitari-traffico-ambientale.md)
 - [Google Maps Loses Speedometer and Speed Limits on Android Auto Just Weeks After Launch](src/2026-09/20260909-lesnumeriques-google-maps-android-auto-speed-bug.md)
