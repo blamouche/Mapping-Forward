@@ -1,9 +1,99 @@
 {
   "site": "Mapping Forward",
   "url": "https://mappingforward.fr",
-  "generated": "2026-09-11T06:05:14.222347",
-  "article_count": 893,
+  "generated": "2026-09-12T06:04:53.858682",
+  "article_count": 903,
   "articles": [
+    {
+      "title": "A New UN Resolution Takes a Step Toward Decolonizing World Maps",
+      "url": "https://mappingforward.fr/articles/2026-09/20260911-tyee-un-resolution-decolonizing-world-maps.html",
+      "date": "2026-09-11",
+      "source": "https://thetyee.ca/Analysis/2026/09/11/UN-Resolution-Decolonizing-World-Maps/",
+      "author": "Sébastien Caquard (The Tyee / The Conversation)",
+      "keywords": "Correct the Map, UN resolution, Mercator, Equal Earth, colonialism, Web Mercator, Google Maps, decolonization, Arno Peters, cartographic justice",
+      "elevator_pitch": "A geography professor argues that the UN's \"Correct the Map\" resolution is a meaningful step toward decolonizing cartography, but notes that online platforms like Google Maps still use the Web Mercator projection, limiting the resolution's practical impact on everyday mapping."
+    },
+    {
+      "title": "After Google Maps, Simon Weckert Now Targets AI Cameras With \"Digital Camouflage\" Shirt",
+      "url": "https://mappingforward.fr/articles/2026-09/20260911-bluewin-simon-weckert-digital-camouflage-ai-cameras.html",
+      "date": "2026-09-11",
+      "source": "https://www.bluewin.ch/fr/tech-et-digital/apres-google-maps-il-veut-maintenant-pieger-les-cameras-ia-avec-cette-chemise-li.3596070",
+      "author": "Nicolas Barman (Bluewin)",
+      "keywords": "Simon Weckert, Digital Camouflage, adversarial attack, YOLO, AI surveillance, Google Maps, cartographic manipulation, computer vision, Berlin, Kottbusser Tor",
+      "elevator_pitch": "Six years after tricking Google Maps with 99 smartphones to fake a Berlin traffic jam, artist Simon Weckert has created a \"Digital Camouflage\" shirt that uses adversarial patterns to make its wearer invisible to AI-powered surveillance cameras."
+    },
+    {
+      "title": "Overture Maps Points of Interest: 60 Million POIs from Open Data",
+      "url": "https://mappingforward.fr/articles/2026-09/20260911-meta-overture-maps-poi-dataset.html",
+      "date": "2026-09-11",
+      "source": "https://ai.meta.com/fr-fr/ai-for-good/datasets/points-of-interest/",
+      "author": "Meta AI",
+      "keywords": "Overture Maps, points of interest, POI, Meta, open data, OpenStreetMap, geospatial data, AI for good, mapping",
+      "elevator_pitch": "Meta AI highlights the Overture Maps Foundation's points-of-interest dataset, which comprises nearly 60 million POIs worldwide — data not previously available in OpenStreetMap, released as open data for mapping and geospatial applications."
+    },
+    {
+      "title": "Waze Dethroned? Drivers Now Prefer Google Maps for Navigation",
+      "url": "https://mappingforward.fr/articles/2026-09/20260911-journaldugeek-waze-dethroned-google-maps-preferred.html",
+      "date": "2026-09-11",
+      "source": "https://www.journaldugeek.com/2026/09/11/waze-detrone-les-automobilistes-preferent-une-autre-application-gps/",
+      "author": "Thomas Estimbre (Journal du Geek)",
+      "keywords": "Waze, Google Maps, Apple Maps, navigation apps, GPS, radars, Android Auto, TomTom AmiGo, traffic, MarketWatch",
+      "elevator_pitch": "A MarketWatch study shows Google Maps has overtaken Waze as the most-used GPS app among US drivers (70%), driven by its intuitive interface, real-time traffic prediction, and Google's ongoing integration of Waze's best community features."
+    },
+    {
+      "title": "TomTom AmiGo Becomes New Map Option for Android Auto",
+      "url": "https://mappingforward.fr/articles/2026-09/20260911-estadao-tomtom-amigo-android-auto.html",
+      "date": "2026-09-11",
+      "source": "https://www.estadao.com.br/tecmundo/produto-e-review/215394-tomtom-amiggo-nova-opcao-mapa-android-auto/",
+      "author": "Luiz Paulo Charleaux (Estadão)",
+      "keywords": "TomTom AmiGo, Android Auto, Google Maps, Waze, navigation apps, connected cars, GPS, speed cameras, real-time alerts",
+      "elevator_pitch": "TomTom AmiGo has launched as a new navigation option for Android Auto, offering a free, ad-free alternative to Google Maps and Waze with community-powered speed camera alerts, real-time traffic, and a cleaner interface."
+    },
+    {
+      "title": "TomTom Adds Knowledge Management and AI to Orbis Maps",
+      "url": "https://mappingforward.fr/articles/2026-09/20260911-techcentral-tomtom-orbis-maps-ai-knowledge-management.html",
+      "date": "2026-09-08",
+      "source": "https://www.techcentral.ie/tomtom-adds-knowledge-management-and-ai-to-orbis-maps/",
+      "author": "TechCentral.ie (via Emerce)",
+      "keywords": "TomTom, Orbis Maps, AI agents, location intelligence, MCP server, OpenStreetMap, Overture Maps, spatial knowledge, autonomous driving, geomarketing, TAIA",
+      "elevator_pitch": "TomTom is transforming its Orbis Maps platform into a spatial knowledge layer for AI agents, adding contextual data, AI assistant capabilities, and an MCP server that lets AI models query location intelligence for complex spatial reasoning tasks."
+    },
+    {
+      "title": "Japan, India, Ukraine: Why Some Countries Are Uneasy About the New UN Map",
+      "url": "https://mappingforward.fr/articles/2026-09/20260911-aljazeera-japan-india-ukraine-un-map-concerns.html",
+      "date": "2026-09-11",
+      "source": "https://www.aljazeera.com/news/2026/9/11/japan-india-ukraine-why-some-countries-are-uneasy-about-new-un-map",
+      "author": "Al Jazeera",
+      "keywords": "UN world map, Equal Earth, Japan, Kuril Islands, India, Kashmir, Ukraine, Crimea, cartographic sovereignty, territorial disputes",
+      "elevator_pitch": "Following the UN's adoption of the Equal Earth projection, Japan, India, and Ukraine have raised concerns — not about the projection itself, but about how the new map depicts their disputed territories through colour shading and border delineation."
+    },
+    {
+      "title": "\"Correct the Map\" Resolution: From Cartographic Question to Cultural and Political Issue",
+      "url": "https://mappingforward.fr/articles/2026-09/20260911-africaradio-correct-the-map-cultural-political.html",
+      "date": "2026-09-11",
+      "source": "https://www.africaradio.com/actualite-116461-la-resolution-correct-the-map-adoptee-on-passe-d-une-question-cartographique-a-une-vraie-question-culturelle-et-politique",
+      "author": "Keisha Mougani (Africa Radio)",
+      "keywords": "Correct the Map, Speak Up Africa, Fara Ndiaye, UN resolution, Mercator, Equal Earth, Togo, African Union, cartographic representation, cultural justice",
+      "elevator_pitch": "In an interview with Africa Radio, Speak Up Africa co-founder Fara Ndiaye discusses the UN's adoption of the \"Correct the Map\" resolution, arguing that cartographic representation is not merely a technical issue but a cultural and political one that shapes how generations perceive the world."
+    },
+    {
+      "title": "Mapping Silicate Minerals From Space",
+      "url": "https://mappingforward.fr/articles/2026-09/20260911-nasa-earthdata-silicate-minerals-space-mapping.html",
+      "date": "2026-09-11",
+      "source": "https://www.earthdata.nasa.gov/news/mapping-silicate-minerals-from-space",
+      "author": "Charlie Plain (NASA Earthdata)",
+      "keywords": "NASA, ECOSTRESS, ASTER, thermal infrared spectroscopy, silicate minerals, mineral mapping, lithium, geothermal energy, satellite remote sensing, ECOSTRESS, GeoTIFF",
+      "elevator_pitch": "NASA-funded scientists have created the first global maps of silicate, sulfate, and carbonate minerals in Earth's arid regions using thermal infrared spectroscopy data from the ECOSTRESS and ASTER satellite sensors, enabling space-based identification of mineral resources including lithium-bearing rocks."
+    },
+    {
+      "title": "Apple Maps Caught in \"New America\" Toponymy Controversy Over New Mexico",
+      "url": "https://mappingforward.fr/articles/2026-09/20260911-appsystem-apple-maps-new-america-new-mexico.html",
+      "date": "2026-09-11",
+      "source": "https://www.appsystem.fr/260344/apple-maps-new-america-nouveau-mexique/",
+      "author": "Adrien Vasseur (AppSystem)",
+      "keywords": "Apple Maps, Google Maps, New Mexico, New America, toponymy, GNIS, Geographic Names Information System, Trump, cartographic politics, place names",
+      "elevator_pitch": "New Mexico's congressional delegation has asked Apple and Google to commit to keeping the state's name on their maps, preempting potential \"New America\" renaming after social media posts by the US president suggested the change."
+    },
     {
       "title": "TomTom and citiEU Strengthen Ties to Deliver Advanced Traffic Monitoring and Location Analytics",
       "url": "https://mappingforward.fr/articles/2026-09/20260910-tomtom-citieu-traffic-monitoring-location-analytics.html",

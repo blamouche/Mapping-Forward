@@ -6,7 +6,87 @@
     <description>Daily synthesis of articles on cartography, mapping, geospatial data, and geographic intelligence</description>
     <language>en</language>
     <atom:link href="https://mappingforward.fr/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 11 Sep 2026 06:05:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 06:04:53 +0000</lastBuildDate>
+
+    <item>
+        <title>A New UN Resolution Takes a Step Toward Decolonizing World Maps</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260911-tyee-un-resolution-decolonizing-world-maps.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260911-tyee-un-resolution-decolonizing-world-maps.html</guid>
+        <description>A geography professor argues that the UN&#x27;s &quot;Correct the Map&quot; resolution is a meaningful step toward decolonizing cartography, but notes that online platforms like Google Maps still use the Web Mercator projection, limiting the resolution&#x27;s practical impact on everyday mapping. — Key takeaways: The UN resolution (A/RES/80/297) was adopted 164-1 with 6 abstentions; the US was the sole opponent ; The Mercator projection&#x27;s distortions were known for centuries but only politically challenged in the 1970s, beginning with Arno Peters&#x27; equal-area map ; The Equal Earth projection (2018) is positioned as a less controversial alternative to the Gall-Peters projection ; Web Mercator remains the default for Google Maps and similar platforms, perpetuating the same distortions the UN resolution seeks to correct ; Online maps don&#x27;t just reproduce Mercator&#x27;s size distortions — they also structure worldviews around road networks, business accessibility, and consumption ; Maps are &quot;instruments of power&quot; that influence how we see and interact with the world, not neutral representations</description>
+        <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>After Google Maps, Simon Weckert Now Targets AI Cameras With &quot;Digital Camouflage&quot; Shirt</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260911-bluewin-simon-weckert-digital-camouflage-ai-cameras.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260911-bluewin-simon-weckert-digital-camouflage-ai-cameras.html</guid>
+        <description>Six years after tricking Google Maps with 99 smartphones to fake a Berlin traffic jam, artist Simon Weckert has created a &quot;Digital Camouflage&quot; shirt that uses adversarial patterns to make its wearer invisible to AI-powered surveillance cameras. — Key takeaways: Weckert&#x27;s &quot;Digital Camouflage&quot; shirt uses psychedelic patterns designed to defeat YOLO object detection algorithms ; The technique uses &quot;adversarial attacks&quot; — the pattern is iteratively modified until the algorithm&#x27;s confidence in detecting a person drops below threshold ; The project is a response to 30 new AI-assisted surveillance cameras installed at Kottbusser Tor in Berlin&#x27;s Kreuzberg district ; The cameras are not yet active; their activation is expected after Berlin&#x27;s September 20 election ; Weckert&#x27;s 2020 &quot;Google Maps hack&quot; used 99 smartphones in a cart to create a fake traffic jam on Google Maps in Berlin ; The new project shifts from manipulating cartographic data to exposing the fragility of AI vision systems</description>
+        <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Overture Maps Points of Interest: 60 Million POIs from Open Data</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260911-meta-overture-maps-poi-dataset.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260911-meta-overture-maps-poi-dataset.html</guid>
+        <description>Meta AI highlights the Overture Maps Foundation&#x27;s points-of-interest dataset, which comprises nearly 60 million POIs worldwide — data not previously available in OpenStreetMap, released as open data for mapping and geospatial applications. — Key takeaways: The Overture Maps Foundation&#x27;s POI layer contains nearly 60 million points of interest ; These POIs are data not previously available in OpenStreetMap, adding significant new coverage ; The dataset is part of Overture Maps&#x27; mission to create a comprehensive, interoperable open map of the world ; Overture Maps combines data from Meta, Microsoft, Amazon, TomTom, and the Linux Foundation ; The POI layer supports applications in navigation, local search, urban planning, and commercial analytics</description>
+        <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Waze Dethroned? Drivers Now Prefer Google Maps for Navigation</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260911-journaldugeek-waze-dethroned-google-maps-preferred.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260911-journaldugeek-waze-dethroned-google-maps-preferred.html</guid>
+        <description>A MarketWatch study shows Google Maps has overtaken Waze as the most-used GPS app among US drivers (70%), driven by its intuitive interface, real-time traffic prediction, and Google&#x27;s ongoing integration of Waze&#x27;s best community features. — Key takeaways: Google Maps is used by 70% of US drivers for radar avoidance, compared to 27% for Waze and 25% for Apple Maps ; Even iPhone users in the US prefer Google Maps over Apple&#x27;s native Maps app ; Google has been gradually merging Waze&#x27;s best features into Google Maps, including community alerts for police controls and incidents ; In France, Google Maps cannot display radar warnings due to legal restrictions (Code de la route Article R. 413-15), giving Waze and TomTom AmiGo an advantage ; Waze has faced criticism for connectivity issues and less relevant routing over the past year ; Google plans to add more incident types (accidents, road hazards, construction) to Google Maps community alerts</description>
+        <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>TomTom AmiGo Becomes New Map Option for Android Auto</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260911-estadao-tomtom-amigo-android-auto.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260911-estadao-tomtom-amigo-android-auto.html</guid>
+        <description>TomTom AmiGo has launched as a new navigation option for Android Auto, offering a free, ad-free alternative to Google Maps and Waze with community-powered speed camera alerts, real-time traffic, and a cleaner interface. — Key takeaways: TomTom AmiGo is now available as a navigation app for Android Auto, offering an alternative to Google Maps and Waze ; The app provides community-powered real-time alerts for fixed and mobile speed cameras, accidents, roadblocks, and speed limits ; TomTom AmiGo is completely free and ad-free, unlike TomTom&#x27;s premium subscription services ; The app features a cleaner, more minimalist interface than its competitors, showing only essential driving information ; TomTom AmiGo has been available in Brazil since 2017 as a standalone mobile app ; The expansion to Android Auto follows Sygic as the first third-party navigation app on Google&#x27;s car platform</description>
+        <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>TomTom Adds Knowledge Management and AI to Orbis Maps</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260911-techcentral-tomtom-orbis-maps-ai-knowledge-management.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260911-techcentral-tomtom-orbis-maps-ai-knowledge-management.html</guid>
+        <description>TomTom is transforming its Orbis Maps platform into a spatial knowledge layer for AI agents, adding contextual data, AI assistant capabilities, and an MCP server that lets AI models query location intelligence for complex spatial reasoning tasks. — Key takeaways: TomTom Orbis Maps combines OpenStreetMap, Overture Maps, TomTom&#x27;s own data, and vehicle sensor data — over 5 billion data points ; TomTom has stored 2.8 trillion kilometres of worldwide distance data and trillions of GPS points ; Orbis is being positioned as a &quot;spatial knowledge layer&quot; for AI agents, enabling natural-language spatial queries ; TomTom has released Orbis APIs and an MCP server for AI agent integration ; The TomTom AI Assistant (TAIA) works at the front end, while the Agent Toolkit enables third-party AI agents to access spatial intelligence ; Use cases include insurers querying flood-damage proximity, city planners analyzing travel-time changes, and fleet managers rerouting vehicles ; Orbis Lane Model Maps provide lane-level geometry for autonomous driving applications</description>
+        <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Japan, India, Ukraine: Why Some Countries Are Uneasy About the New UN Map</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260911-aljazeera-japan-india-ukraine-un-map-concerns.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260911-aljazeera-japan-india-ukraine-un-map-concerns.html</guid>
+        <description>Following the UN&#x27;s adoption of the Equal Earth projection, Japan, India, and Ukraine have raised concerns — not about the projection itself, but about how the new map depicts their disputed territories through colour shading and border delineation. — Key takeaways: Japan objects to the Equal Earth map using the same colour for the disputed Kuril Islands as for Russian territory ; India demands that Kashmir be depicted &quot;in accordance with India&#x27;s official map,&quot; rejecting any &quot;inaccurate or misleading depiction&quot; ; Ukraine abstained from the vote, arguing the map&#x27;s shading of Crimea legitimizes Russia&#x27;s 2014 annexation ; None of the three countries oppose the Equal Earth projection itself — they contest how their disputed territories are rendered ; Japan has formally asked Equal Earth&#x27;s creators to change the map through its embassy in the US ; The six abstentions (Estonia, Georgia, Moldova, Serbia, Lithuania, Ukraine) all voted in solidarity with Ukraine over Crimea</description>
+        <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>&quot;Correct the Map&quot; Resolution: From Cartographic Question to Cultural and Political Issue</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260911-africaradio-correct-the-map-cultural-political.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260911-africaradio-correct-the-map-cultural-political.html</guid>
+        <description>In an interview with Africa Radio, Speak Up Africa co-founder Fara Ndiaye discusses the UN&#x27;s adoption of the &quot;Correct the Map&quot; resolution, arguing that cartographic representation is not merely a technical issue but a cultural and political one that shapes how generations perceive the world. — Key takeaways: The &quot;Correct the Map&quot; campaign was launched by NGOs Africa No Filter and Speak Up Africa, co-founded by Fara Ndiaye ; The campaign does not exclusively promote Equal Earth — it advocates ending the default use of Mercator, and would accept any equal-area projection ; Equal Earth was chosen partly because it is free to use and less controversial than the Gall-Peters projection ; 164 countries voted in favor — described as &quot;not Africa against Western countries, but 164 countries against one&quot; ; The campaign&#x27;s next phase focuses on working with education ministries to update school textbooks ; The resolution also calls on UN agencies to update their working documents to use equal-area projections as the default ; Ndiaye emphasizes the issue affects not just Africa but also Latin America and South Asia, whose surfaces are particularly reduced on Mercator</description>
+        <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Mapping Silicate Minerals From Space</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260911-nasa-earthdata-silicate-minerals-space-mapping.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260911-nasa-earthdata-silicate-minerals-space-mapping.html</guid>
+        <description>NASA-funded scientists have created the first global maps of silicate, sulfate, and carbonate minerals in Earth&#x27;s arid regions using thermal infrared spectroscopy data from the ECOSTRESS and ASTER satellite sensors, enabling space-based identification of mineral resources including lithium-bearing rocks. — Key takeaways: Researchers created 1-kilometer resolution global maps of silicate, sulfate, and carbonate minerals using ECOSTRESS (ISS) and ASTER (Terra satellite) thermal infrared data ; Thermal infrared spectroscopy is the only known method to detect silica from space, using each mineral&#x27;s unique spectral signature ; Silicate deposits are associated with lithium-bearing minerals used in batteries, making the maps valuable for resource exploration ; Silicate alteration on the surface can also indicate underground geothermal activity, pointing to potential renewable energy sites ; The maps were validated by comparing satellite observations with field data from sites in California, New Mexico, and Morocco ; The data complement NASA&#x27;s EMIT sensor, which detects oxides, sulfides, and clays associated with precious minerals ; The dataset is publicly available through NASA&#x27;s Earthdata Search and the Land Processes DAAC as GeoTIFF</description>
+        <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Apple Maps Caught in &quot;New America&quot; Toponymy Controversy Over New Mexico</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260911-appsystem-apple-maps-new-america-new-mexico.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260911-appsystem-apple-maps-new-america-new-mexico.html</guid>
+        <description>New Mexico&#x27;s congressional delegation has asked Apple and Google to commit to keeping the state&#x27;s name on their maps, preempting potential &quot;New America&quot; renaming after social media posts by the US president suggested the change. — Key takeaways: Democratic representatives from New Mexico wrote to Apple and Google asking them not to rename their state &quot;New America&quot; in mapping services ; The request follows social media posts by President Trump suggesting the name change, though no official measure has been taken ; Apple Maps and Google Maps rely on the federal Geographic Names Information System (GNIS) for US place names ; Previous GNIS updates (Gulf of Mexico, Lake Ontario) were reflected in Apple Maps after presidential decrees modified entries ; Google Maps applied the Lake Ontario name change immediately upon the decree&#x27;s signing; Apple Maps updated after GNIS was updated ; The episode highlights how digital mapping has become a concrete terrain for political decisions</description>
+        <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
 
     <item>
         <title>TomTom and citiEU Strengthen Ties to Deliver Advanced Traffic Monitoring and Location Analytics</title>
@@ -326,86 +406,6 @@
         <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260906-larepubliquedespyrenees-google-maps-bluetooth-tunnels.html</guid>
         <description>Google Maps now uses Bluetooth beacons installed in tunnels to maintain navigation continuity when GPS signals drop, an Android-only feature that Waze has offered for years. — Key takeaways: Google Maps uses Bluetooth beacons installed in tunnels to maintain navigation when GPS signal is lost ; The feature is activated via Settings &gt; Navigation &gt; Driving options &gt; &quot;Tunnel Bluetooth beacon&quot; ; Currently Android-only because Apple limits background Bluetooth usage on iPhone ; Waze has offered a similar beacon-based tunnel navigation service for several years ; The feature provides real-time positioning information inside tunnels where GPS is unavailable</description>
         <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Can You Guess the Real Size of Each Country on the New World Map?</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260906-aljazeera-guess-real-size-country-new-world-map.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260906-aljazeera-guess-real-size-country-new-world-map.html</guid>
-        <description>Al Jazeera launched an interactive map quiz that lets users guess which country is bigger, then morphs the map from Mercator to Equal Earth to reveal how distortion has been shrinking Africa and other equatorial regions for centuries. — Key takeaways: The interactive quiz lets users pick which country is bigger, then morphs from Mercator to Equal Earth to show the true proportions ; On a Mercator map, Greenland appears roughly the size of Africa, which is actually 14 times larger ; The distortion inflates Europe, Russia, and North America while shrinking Africa, Latin America, and South Asia ; The US called the resolution a &quot;radical ideological project&quot; and voted alone against it ; Togo plans a meeting in Lomé early next year with UNESCO, the African Union, and tech companies including Google to discuss implementation</description>
-        <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>How the GNIS Lake Ontario/Lake America Name Change Will Appear in Google Maps</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260906-googleblog-gnis-lake-ontario-lake-america-maps.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260906-googleblog-gnis-lake-ontario-lake-america-maps.html</guid>
-        <description>Google&#x27;s official blog explains that Maps will show &quot;Lake America&quot; to US users, &quot;Lake Ontario&quot; to Canadian users, and both names to everyone else, following the GNIS name change under Trump&#x27;s executive order. — Key takeaways: The US Geographic Names Information System (GNIS) formally changed &quot;Lake Ontario&quot; to &quot;Lake America&quot; in the United States ; Google Maps follows official government sources (GNIS for the US) for name changes ; US users see &quot;Lake America,&quot; Canadian users see &quot;Lake Ontario,&quot; and users outside both countries see both names ; The update follows Google&#x27;s long-standing policy for bodies of water with country-specific names ; Changes were rolling out as of August 30, 2026</description>
-        <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Apple Maps Now Shows Ads You Cannot Turn Off</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260906-etvbharat-apple-maps-ads-cannot-turn-off.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260906-etvbharat-apple-maps-ads-cannot-turn-off.html</guid>
-        <description>Apple has begun showing permanent, non-removable ads in Apple Maps for users in the US and Canada, with no opt-out setting — even for paying Apple One subscribers. — Key takeaways: Apple Maps now displays permanent ads on the main search screen and in search results for US and Canadian users ; There is no setting to turn off the ads, and even Apple One subscribers will see them ; Apple claims the ads are privacy-preserving, using on-device data not shared with advertisers ; The ads follow Apple&#x27;s existing ad model in App Store, Apple News, and Apple TV ; Apple plans to expand the ads to the rest of North America soon</description>
-        <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Why the UN&#x27;s New World Map Won&#x27;t Change Google Maps Anytime Soon</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260906-clubic-onu-carte-monde-google-maps-projection.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260906-clubic-onu-carte-monde-google-maps-projection.html</guid>
-        <description>The UN&#x27;s adoption of the Equal Earth projection resolution won&#x27;t change Google Maps because the app&#x27;s tiling system depends on Mercator&#x27;s angle-preserving properties, and the resolution is nonbinding. — Key takeaways: The UN resolution passed with 164 votes in favour, 1 against (US), and 6 abstentions, but is nonbinding ; France announced it will switch official maps from Mercator to Eckert IV projection ; Google Maps uses a square-tile system since 2005 that requires Mercator&#x27;s angle-preserving properties at all zoom levels ; Equal Earth and Eckert IV preserve surface areas but sacrifice angular accuracy, making them incompatible with current tile-based mapping infrastructure ; Togo plans to meet with Google, the African Union, and UNESCO within six months to discuss practical implementation</description>
-        <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>GIS Maps to Be Attached to Sale Deeds from October in Maharashtra</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260905-toi-maharashtra-gis-maps-sale-deeds-october.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260905-toi-maharashtra-gis-maps-sale-deeds-october.html</guid>
-        <description>Maharashtra will attach GIS maps to property sale deeds starting October 2026, replacing decades-old boundary descriptions with precise digital maps in an initial 10-district rollout. — Key takeaways: GIS-linked sale deeds will replace textual boundary descriptions in Maharashtra ; Initial rollout covers 10 districts, with statewide expansion to follow ; The system integrates land records, building footprints, and satellite imagery ; The &#x27;mojini&#x27; (land measurement) system will be implemented before registration ; Benefits include precise identification, fewer boundary disputes, and fraud deterrence</description>
-        <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>What Different World Maps Get Right — and What They Get Wrong</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260905-bbc-what-different-world-maps-get-right-and-wrong.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260905-bbc-what-different-world-maps-get-right-and-wrong.html</guid>
-        <description>The BBC provides a comparative analysis of the world&#x27;s most prominent map projections — Mercator, Equal Earth, and Peters — explaining the trade-offs between area accuracy, shape fidelity, and navigational utility. — Key takeaways: No flat map can perfectly represent a spherical Earth; every projection sacrifices something ; Mercator preserves compass bearings but massively distorts area, making Africa look Greenland-sized ; Equal Earth, adopted by the UN, preserves area accuracy but cannot be used for navigation ; The Peters projection (1973) also preserves area but severely distorts shapes of landmasses ; Critics argue Mercator&#x27;s distortions have psychological effects, shaping how regions are perceived politically and economically</description>
-        <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>UN Tells the World: Stop Making Africa Look Small</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260905-un-news-stop-making-africa-look-small.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260905-un-news-stop-making-africa-look-small.html</guid>
-        <description>The UN General Assembly voted overwhelmingly to adopt the &quot;Correct the Map&quot; resolution, urging governments, schools, and tech companies to stop using maps that make Africa look smaller than it is. — Key takeaways: The resolution passed with 164 votes in favour, 1 against (United States), and 6 abstentions ; The vote encourages governments, schools, and tech companies to adopt equal-area map projections ; Togo spearheaded the resolution on behalf of the African Union ; Togo announced it would change maps in schools starting this year ; The resolution is nonbinding but carries significant symbolic and practical weight</description>
-        <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Kan TomTom Terugkeren Naar de Hoogtijdagen van de Jaren Nul?</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260905-bnr-tomtom-terugkeren-hoogtijdagen-jaren-nul.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260905-bnr-tomtom-terugkeren-hoogtijdagen-jaren-nul.html</guid>
-        <description>BNR Nieuwsradio examines whether TomTom can return to its golden years by pivoting from failed consumer products to enterprise and government clients. — Key takeaways: TomTom has shifted focus from consumer products to enterprise and government clients ; The company has had a string of failed consumer product launches ; The B2B pivot raises questions about whether TomTom can match its peak performance ; The article examines TomTom&#x27;s strategic transformation and market positioning ; TomTom&#x27;s map data and location intelligence remain core assets</description>
-        <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Waze contre Google Maps : 4 Points Forts de Waze</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260905-samsung-magazine-waze-vs-google-maps-4-points-forts.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260905-samsung-magazine-waze-vs-google-maps-4-points-forts.html</guid>
-        <description>Despite Google owning Waze for over a decade, the community-driven navigation app still outperforms Google Maps in four key areas: real-time incident reporting, volunteer-managed local data, EV charging routing, and speed camera alerts. — Key takeaways: Waze&#x27;s community-driven incident reporting remains superior to Google Maps ; Volunteer contributors update local data that algorithms cannot capture ; Waze offers EV-specific connector type and charging network preferences ; Google Maps excels at finding businesses, reviews, and offline resources ; The two platforms have not merged despite a decade of shared ownership</description>
-        <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>UN to Vote on Adopting New World Map That Shows Africa&#x27;s True Scale</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260904-guardian-un-vote-world-map-mercator-equal-earth-africa.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260904-guardian-un-vote-world-map-mercator-equal-earth-africa.html</guid>
-        <description>The UN General Assembly voted on a Togo-sponsored resolution to phase out the Mercator projection in favour of the Equal Earth map, which accurately depicts Africa&#x27;s true size relative to other continents. — Key takeaways: Togo&#x27;s foreign minister Robert Dussey sponsored the resolution on behalf of the African Union&#x27;s 55 member states ; The Mercator projection, created in 1569, makes Africa appear similar in size to Greenland despite being 14 times larger ; The campaign promotes the 2018 Equal Earth projection as a more accurate alternative ; Critics call the Mercator distortion &quot;cartographic colonialism&quot; for visually diminishing the global south ; The resolution is nonbinding but could influence classroom curricula and technology platforms</description>
-        <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
     </item>
 
 </channel>
