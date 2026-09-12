@@ -19,12 +19,22 @@ Articles per month:
 2026-05 | ████████████████████████████████ 117<br>
 2026-07 | █████ 10<br>
 2026-08 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 267<br>
-2026-09 | █████████████████████████████████████████████████████████████████████████████ 80<br>
+2026-09 | ██████████████████████████████████████████████████████████████████████████████████████ 90<br>
 ## Articles
 
 ### 2026
 
-#### September (80 articles)
+#### September (90 articles)
+- [Japan, India, Ukraine: Why Some Countries Are Uneasy About the New UN Map](src/2026-09/20260911-aljazeera-japan-india-ukraine-un-map-concerns.md)
+- [A New UN Resolution Takes a Step Toward Decolonizing World Maps](src/2026-09/20260911-tyee-un-resolution-decolonizing-world-maps.md)
+- ["Correct the Map" Resolution: From Cartographic Question to Cultural and Political Issue](src/2026-09/20260911-africaradio-correct-the-map-cultural-political.md)
+- [After Google Maps, Simon Weckert Now Targets AI Cameras With "Digital Camouflage" Shirt](src/2026-09/20260911-bluewin-simon-weckert-digital-camouflage-ai-cameras.md)
+- [Overture Maps Points of Interest: 60 Million POIs from Open Data](src/2026-09/20260911-meta-overture-maps-poi-dataset.md)
+- [Waze Dethroned? Drivers Now Prefer Google Maps for Navigation](src/2026-09/20260911-journaldugeek-waze-dethroned-google-maps-preferred.md)
+- [Apple Maps Caught in "New America" Toponymy Controversy Over New Mexico](src/2026-09/20260911-appsystem-apple-maps-new-america-new-mexico.md)
+- [Mapping Silicate Minerals From Space](src/2026-09/20260911-nasa-earthdata-silicate-minerals-space-mapping.md)
+- [TomTom AmiGo Becomes New Map Option for Android Auto](src/2026-09/20260911-estadao-tomtom-amigo-android-auto.md)
+- [TomTom Adds Knowledge Management and AI to Orbis Maps](src/2026-09/20260911-techcentral-tomtom-orbis-maps-ai-knowledge-management.md)
 - [Will the UN Decision Change Our World Maps?](src/2026-09/20260910-ledevoir-onu-cartes-monde-equal-earth.md)
 - [Japan Seeks Change to New UN World Map Over Russia 'Misconception'](src/2026-09/20260910-guardian-japan-un-world-map-russia-kuril.md)
 - [Correcting the Map, as We Must, and Yet Still](src/2026-09/20260910-verfassungsblog-correct-the-map-resolution.md)
