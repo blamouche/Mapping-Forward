@@ -1,9 +1,54 @@
 {
   "site": "Mapping Forward",
   "url": "https://mappingforward.fr",
-  "generated": "2026-09-12T06:04:53.858682",
-  "article_count": 903,
+  "generated": "2026-09-13T06:04:04.859182",
+  "article_count": 908,
   "articles": [
+    {
+      "title": "IBM and NASA Release Open-Source AI Model for Lunar Surface Mapping",
+      "url": "https://mappingforward.fr/articles/2026-09/20260912-ibm-nasa-lunar-foundation-model-mapping.html",
+      "date": "2026-09-12",
+      "source": "https://newsroom.ibm.com/2026-09-10-ibm-and-nasa-release-open-source-ai-model-to-support-lunar-exploration",
+      "author": "IBM Research / NASA",
+      "keywords": "IBM, NASA, Lunar Foundation Model, open-source AI, lunar mapping, crater mapping, ice deposits, Hugging Face, Prithvi, remote sensing, geospatial AI",
+      "elevator_pitch": "IBM and NASA have released the open-source NASA-IBM Lunar Foundation Model, an AI foundation model trained on decades of lunar observation data that outperforms widely used methods by up to 23% in identifying key geographic features on the Moon's surface, including potential ice deposits, craters, and volcanic formations."
+    },
+    {
+      "title": "Google Maps Is Now Terrible: Explained",
+      "url": "https://mappingforward.fr/articles/2026-09/20260912-thedrive-google-maps-now-terrible-explained.html",
+      "date": "2026-09-12",
+      "source": "https://www.thedrive.com/news/google-maps-is-now-terrible-explained",
+      "author": "Stephen Edelstein (The Drive)",
+      "keywords": "Google Maps, GPS, navigation apps, traffic congestion, routing algorithms, Nash equilibrium, induced demand, fuel savings, GPS adoption",
+      "elevator_pitch": "The Drive explains why Google Maps and similar navigation apps have gotten worse at saving time: mass adoption of GPS routing means too many users are sent down the same alternate routes, creating a Nash equilibrium where individual optimization degrades collective outcomes — and there is no easy fix."
+    },
+    {
+      "title": "Google Maps Has a Private Navigation Mode — But It Doesn't Make You Invisible",
+      "url": "https://mappingforward.fr/articles/2026-09/20260912-automobile-magazine-google-maps-incognito-navigation-privee.html",
+      "date": "2026-09-12",
+      "source": "https://www.automobile-magazine.fr/toute-l-actualite/article/53077-google-maps-peut-enregistrer-tous-vos-trajets-ce-reglage-meconnu-permet-de-naviguer-plus-discretement",
+      "author": "L'Automobile Magazine",
+      "keywords": "Google Maps, incognito mode, private navigation, privacy, Timeline, location history, Android, iPhone, navigation settings, personal data",
+      "elevator_pitch": "L'Automobile Magazine explains Google Maps' little-known private navigation mode (mode navigation privée), which suspends recording of searches, routes, and visited locations — but warns that it does not make the user invisible, as location data is still transmitted for navigation purposes."
+    },
+    {
+      "title": "Google Explains the Disappearing Speedometer in Maps on Android Auto",
+      "url": "https://mappingforward.fr/articles/2026-09/20260912-androidauthority-google-maps-speedometer-android-auto-explained.html",
+      "date": "2026-09-12",
+      "source": "https://www.androidauthority.com/android-auto-maps-speedometer-3710468/",
+      "author": "Stephen Schenck (Android Authority)",
+      "keywords": "Google Maps, Android Auto, speedometer, speed limit, traffic signals, Google, navigation, rollout, Mishaal Rahman",
+      "elevator_pitch": "Google has explained that the disappearing speedometer in Google Maps on Android Auto is not a bug but a rollout issue: the ability to view the speedometer, speed limit, and traffic signs without a destination set is still rolling out gradually, and users need to set a destination for the features to appear in the meantime."
+    },
+    {
+      "title": "Geo Sessions 2026: From Data Collection to Operational Intelligence",
+      "url": "https://mappingforward.fr/articles/2026-09/20260912-gim-international-geo-sessions-2026.html",
+      "date": "2026-09-12",
+      "source": "https://www.gim-international.com/event/join-the-conversation-at-geo-sessions-2026",
+      "author": "GIM International / NV5",
+      "keywords": "Geo Sessions 2026, NV5, geospatial, remote sensing, lidar, SAR, spectral imagery, GeoAI, digital twins, operational intelligence, webinar",
+      "elevator_pitch": "NV5's Geo Sessions 2026 virtual event highlights a fundamental shift in the geospatial industry: the challenge is no longer collecting data but turning it into operational intelligence, with AI connecting multiple remote sensing technologies into seamless decision-support workflows."
+    },
     {
       "title": "A New UN Resolution Takes a Step Toward Decolonizing World Maps",
       "url": "https://mappingforward.fr/articles/2026-09/20260911-tyee-un-resolution-decolonizing-world-maps.html",

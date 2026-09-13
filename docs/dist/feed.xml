@@ -6,7 +6,47 @@
     <description>Daily synthesis of articles on cartography, mapping, geospatial data, and geographic intelligence</description>
     <language>en</language>
     <atom:link href="https://mappingforward.fr/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 12 Sep 2026 06:04:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 06:04:04 +0000</lastBuildDate>
+
+    <item>
+        <title>IBM and NASA Release Open-Source AI Model for Lunar Surface Mapping</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260912-ibm-nasa-lunar-foundation-model-mapping.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260912-ibm-nasa-lunar-foundation-model-mapping.html</guid>
+        <description>IBM and NASA have released the open-source NASA-IBM Lunar Foundation Model, an AI foundation model trained on decades of lunar observation data that outperforms widely used methods by up to 23% in identifying key geographic features on the Moon&#x27;s surface, including potential ice deposits, craters, and volcanic formations. — Key takeaways: The NASA-IBM Lunar Foundation Model is one of the first publicly available foundation models for scientific exploration of the Moon, now available on Hugging Face ; The model exceeds widely used methods by up to 23% in identifying key geographic features including potential ice deposits, craters, and volcanic formations ; It reduced error (RMSE) in identifying areas with high potential for lunar ice up to 22% compared to the SwinV2-B (ImageNet) model ; At context-scale resolution (~100 meters), it outperforms SwinV2-B by nearly 19% using just half the training data ; The model was trained on a unified, machine learning-ready lunar dataset aggregating over 30 spatially-aligned layers from nine instruments across four missions (LRO, GRAIL, SELENE/Kaguya) ; It joins the Prithvi family of open foundation models, spanning geospatial, weather, heliophysics, and now lunar science ; Crater mapping with the model helps NASA select safe landing sites, avoid hazards, and plan long-term lunar infrastructure</description>
+        <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Google Maps Is Now Terrible: Explained</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260912-thedrive-google-maps-now-terrible-explained.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260912-thedrive-google-maps-now-terrible-explained.html</guid>
+        <description>The Drive explains why Google Maps and similar navigation apps have gotten worse at saving time: mass adoption of GPS routing means too many users are sent down the same alternate routes, creating a Nash equilibrium where individual optimization degrades collective outcomes — and there is no easy fix. — Key takeaways: An estimated 7 billion devices worldwide rely on GPS, from phones to golf balls ; A 2019 study found that between 2007 and 2017, services like Google Maps saved 52 billion gallons of fuel and a trillion miles through more efficient routing ; GPS adoption has generated an estimated $1.4 trillion in economic benefits since the 1980s ; The core problem: routing apps don&#x27;t track how many users they&#x27;ve sent on a given route and can&#x27;t know where competitor services are sending users ; When everyone uses the same app to avoid traffic, alternate routes become congested too, negating the benefit ; This creates a Nash equilibrium where individual route optimization degrades collective traffic outcomes ; There is no simple solution — the problem is structural to how decentralized routing works at scale</description>
+        <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Google Maps Has a Private Navigation Mode — But It Doesn&#x27;t Make You Invisible</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260912-automobile-magazine-google-maps-incognito-navigation-privee.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260912-automobile-magazine-google-maps-incognito-navigation-privee.html</guid>
+        <description>L&#x27;Automobile Magazine explains Google Maps&#x27; little-known private navigation mode (mode navigation privée), which suspends recording of searches, routes, and visited locations — but warns that it does not make the user invisible, as location data is still transmitted for navigation purposes. — Key takeaways: Google Maps memorizes searches, routes, and visited locations by default, feeding personalized recommendations ; The private navigation mode (mode navigation privée) suspends recording of activity in the user&#x27;s Google account during the session ; Comparable to a browser&#x27;s incognito mode: searches and trips are not saved, and activity is not used for personalized recommendations ; On Android and iPhone: tap profile photo → select &quot;Activer le mode navigation privée&quot; ; Personalization features that depend on location history become unavailable during private navigation ; The mode does NOT make the user invisible: GPS location is still used for navigation, and mobile operators and third parties may still collect data ; Timeline (historique de trajets), location permissions, and GPS battery consumption are separate settings that can be managed independently</description>
+        <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Google Explains the Disappearing Speedometer in Maps on Android Auto</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260912-androidauthority-google-maps-speedometer-android-auto-explained.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260912-androidauthority-google-maps-speedometer-android-auto-explained.html</guid>
+        <description>Google has explained that the disappearing speedometer in Google Maps on Android Auto is not a bug but a rollout issue: the ability to view the speedometer, speed limit, and traffic signs without a destination set is still rolling out gradually, and users need to set a destination for the features to appear in the meantime. — Key takeaways: Google Maps on Android Auto gained a live speedometer feature earlier in 2026, but users recently reported it had vanished ; Google confirmed the speedometer rollout is proceeding normally — the issue is that viewing it without a destination set is a separate feature still rolling out ; Users need to set a destination for the speedometer, speed limit, and traffic signals/stop signs to appear ; Android Authority alum and current Googler Mishaal Rahman confirmed the explanation after speaking with the Android Auto product team ; The &quot;disappearances&quot; were not a bug but rather the absence of a not-yet-fully-deployed feature for destination-free display</description>
+        <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Geo Sessions 2026: From Data Collection to Operational Intelligence</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260912-gim-international-geo-sessions-2026.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260912-gim-international-geo-sessions-2026.html</guid>
+        <description>NV5&#x27;s Geo Sessions 2026 virtual event highlights a fundamental shift in the geospatial industry: the challenge is no longer collecting data but turning it into operational intelligence, with AI connecting multiple remote sensing technologies into seamless decision-support workflows. — Key takeaways: NV5&#x27;s Geo Sessions 2026 is a global virtual event focused on the practical application of geospatial technologies, attracting several thousand registrants from 100+ countries ; The industry has &quot;largely solved the collection problem&quot; — commercial satellites, drones, and airborne sensors generate unprecedented amounts of data ; The real challenge is now helping decision makers understand what matters and what action they should take ; The event features dedicated sessions on SAR, spectral imaging, lidar, and new for 2026, GeoAI ; AI is accelerating the evolution by creating new opportunities to connect geospatial data, automate workflows, and surface insights that previously required significant manual effort ; Over 20 international speakers with live panel discussions and audience Q&amp;A ; The event is free to attend with sessions available on demand afterwards</description>
+        <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
 
     <item>
         <title>A New UN Resolution Takes a Step Toward Decolonizing World Maps</title>
@@ -365,46 +405,6 @@
         <link>https://mappingforward.fr/articles/2026-09/20260906-iqair-anak-krakatau-volcanic-eruption-map.html</link>
         <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260906-iqair-anak-krakatau-volcanic-eruption-map.html</guid>
         <description>Anak Krakatau volcano in Indonesia&#x27;s Sunda Strait erupted on September 4, 2026, sending ash plumes to 50,000 feet, disrupting 300+ flights, and prompting evacuation zones and air quality monitoring via interactive maps. — Key takeaways: Anak Krakatau began erupting on September 4, 2026, producing lava fountains and ash plumes reaching approximately 50,000 feet ; The volcano is at Alert Level III (second-highest on Indonesia&#x27;s four-level scale) ; Over 300 flights were affected, with airports in Jakarta, Bandung, and Lampung disrupted ; Authorities established a 3-kilometer exclusion zone around the active crater ; Indonesia&#x27;s disaster mitigation agency plans cloud seeding to encourage rainfall that may help remove ash from affected areas</description>
-        <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>New Maps Show How Israel Has Thwarted Hopes for a Palestinian State</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260906-newyorker-maps-israel-palestinian-state.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260906-newyorker-maps-israel-palestinian-state.html</guid>
-        <description>Ten years after maps of Israeli settlements shocked President Obama, updated 2026 maps show that settlement expansion has confined Palestinians to just 8% of the land, rendering the two-state solution virtually impossible. — Key takeaways: Over 500,000 Jewish settlers now live among 3 million Palestinians in the West Bank ; Since 2023, Israel approved 104 new settlements, up from just 3 during the entire Obama Administration ; Settler attacks documented by the UN surged from 107 in 2016 to over 5,300 since 2023 — more than 4 per day ; Palestinians now control approximately 8% of the land between the Jordan River and Mediterranean Sea; Israel controls 92% ; Netanyahu campaigns on never allowing a Palestinian state, while far-right Cabinet members suggest driving Palestinians out of Gaza</description>
-        <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Google Maps Switches to &quot;Lake America&quot; as Canada Compares Change to SNL Skit</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260906-axios-google-maps-lake-america-canada-snl.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260906-axios-google-maps-lake-america-canada-snl.html</guid>
-        <description>As Google Maps implements the &quot;Lake America&quot; name change following Trump&#x27;s executive order, MapQuest refuses and surges in popularity while Canada&#x27;s Ontario Premier Doug Ford calls the change &quot;completely absurd.&quot; — Key takeaways: Google Maps now shows &quot;Lake America&quot; on mobile and desktop for US users, while Apple Maps initially kept &quot;Lake Ontario&quot; ; MapQuest publicly refused the name change and its tweet went viral, boosting the app to #1 on the US App Store ; &quot;Lake America&quot; appeared on Ontario government agency websites pulling data from Google Maps, despite Google saying Canadian users would see &quot;Lake Ontario&quot; ; Ontario Premier Doug Ford compared the change to a &quot;Saturday Night Live&quot; skit and installed a &quot;Lake Ontario, today and forever&quot; sign ; Google&#x27;s region-localization means developers embedding Maps can set a Canada region to display &quot;Lake Ontario&quot;</description>
-        <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>3 Hidden Google Maps Settings You Should Turn Off Right Away</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260906-androidpolice-hidden-google-maps-settings-turn-off.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260906-androidpolice-hidden-google-maps-settings-turn-off.html</guid>
-        <description>Android Police identifies three Google Maps settings — background location tracking, automatic offline map downloads over cellular, and personalized ads based on visual search — that users should disable for privacy, battery life, and data conservation. — Key takeaways: Background location/Timeline tracking logs every location visited, duration, and route, and is enabled by default ; Automatic offline map downloads over cellular data drain battery, fill storage, and consume mobile data unnecessarily ; Google Maps serves personalized ads based on location, search history, and visual searches, pulling data from YouTube and Search ; Timeline tracking can be set to auto-delete after 3 months as a compromise ; Offline map downloads should be restricted to Wi-Fi only via Settings &gt; Offline Maps &gt; gear icon</description>
-        <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>UN General Assembly Endorses New World Map Showing Africa&#x27;s True Size</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260906-nbcnews-un-general-assembly-new-world-map-africa.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260906-nbcnews-un-general-assembly-new-world-map-africa.html</guid>
-        <description>The UN General Assembly endorsed the Equal Earth projection by 164-1, encouraging governments and institutions worldwide to replace the Mercator map that has distorted Africa&#x27;s size for over four centuries. — Key takeaways: 164 member states voted in favor, only the US voted against, and 6 countries abstained ; The resolution encourages replacing the Mercator projection with Equal Earth but does not ban Mercator or impose a replacement ; Africa is 14 times larger than Greenland, but Mercator makes them appear similar in size ; French Foreign Minister Jean-Noël Barrot called the correction &quot;an act of truth&quot; ; Advocacy group Africa No Filter wants accurate maps in schools, textbooks, newsrooms, and digital platforms</description>
-        <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Google Maps Bluetooth Beacons Bring Precise Navigation to Tunnels</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260906-larepubliquedespyrenees-google-maps-bluetooth-tunnels.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260906-larepubliquedespyrenees-google-maps-bluetooth-tunnels.html</guid>
-        <description>Google Maps now uses Bluetooth beacons installed in tunnels to maintain navigation continuity when GPS signals drop, an Android-only feature that Waze has offered for years. — Key takeaways: Google Maps uses Bluetooth beacons installed in tunnels to maintain navigation when GPS signal is lost ; The feature is activated via Settings &gt; Navigation &gt; Driving options &gt; &quot;Tunnel Bluetooth beacon&quot; ; Currently Android-only because Apple limits background Bluetooth usage on iPhone ; Waze has offered a similar beacon-based tunnel navigation service for several years ; The feature provides real-time positioning information inside tunnels where GPS is unavailable</description>
         <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
     </item>
 
