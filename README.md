@@ -19,12 +19,17 @@ Articles per month:
 2026-05 | ████████████████████████████████ 117<br>
 2026-07 | █████ 10<br>
 2026-08 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 267<br>
-2026-09 | ██████████████████████████████████████████████████████████████████████████████████████ 90<br>
+2026-09 | █████████████████████████████████████████████████████████████████████████████████████████████████ 95<br>
 ## Articles
 
 ### 2026
 
-#### September (90 articles)
+#### September (95 articles)
+- [IBM and NASA Release Open-Source AI Model for Lunar Surface Mapping](src/2026-09/20260912-ibm-nasa-lunar-foundation-model-mapping.md)
+- [Google Explains the Disappearing Speedometer in Maps on Android Auto](src/2026-09/20260912-androidauthority-google-maps-speedometer-android-auto-explained.md)
+- [Google Maps Is Now Terrible: Explained](src/2026-09/20260912-thedrive-google-maps-now-terrible-explained.md)
+- [Geo Sessions 2026: From Data Collection to Operational Intelligence](src/2026-09/20260912-gim-international-geo-sessions-2026.md)
+- [Google Maps Has a Private Navigation Mode — But It Doesn't Make You Invisible](src/2026-09/20260912-automobile-magazine-google-maps-incognito-navigation-privee.md)
 - [Japan, India, Ukraine: Why Some Countries Are Uneasy About the New UN Map](src/2026-09/20260911-aljazeera-japan-india-ukraine-un-map-concerns.md)
 - [A New UN Resolution Takes a Step Toward Decolonizing World Maps](src/2026-09/20260911-tyee-un-resolution-decolonizing-world-maps.md)
 - ["Correct the Map" Resolution: From Cartographic Question to Cultural and Political Issue](src/2026-09/20260911-africaradio-correct-the-map-cultural-political.md)
