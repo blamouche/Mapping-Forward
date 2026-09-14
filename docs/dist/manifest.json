@@ -1,9 +1,63 @@
 {
   "site": "Mapping Forward",
   "url": "https://mappingforward.fr",
-  "generated": "2026-09-13T06:04:04.859182",
-  "article_count": 908,
+  "generated": "2026-09-14T06:04:26.632402",
+  "article_count": 914,
   "articles": [
+    {
+      "title": "There Is No Such Thing as a \"UN Map With Borders\": Guterres",
+      "url": "https://mappingforward.fr/articles/2026-09/20260913-thehindu-guterres-no-un-map-with-borders.html",
+      "date": "2026-09-13",
+      "source": "https://www.thehindu.com/news/international/there-is-no-such-thing-as-a-un-map-with-borders-guterres/article71464117.ece",
+      "author": "Suhasini Haidar and Kallol Bhattacherjee (The Hindu)",
+      "keywords": "UN, Antonio Guterres, Correct the Map, India, Arunachal Pradesh, Aksai Chin, borders, world map, Equal Earth, UN Geospatial",
+      "elevator_pitch": "UN Secretary-General Antonio Guterres clarified that the UN has never published a map with borders, after India raised \"anomalies\" about a map used during the \"Correct the Map\" resolution that omitted Indian and Chinese claim lines in Arunachal Pradesh and Aksai Chin."
+    },
+    {
+      "title": "Togo's Faure Gnassingbé Celebrates the \"Correct the Map\" Resolution Amid Domestic Criticism",
+      "url": "https://mappingforward.fr/articles/2026-09/20260913-togoactualite-togo-gnassingbe-correct-the-map.html",
+      "date": "2026-09-13",
+      "source": "https://togoactualite.com/togo-les-dirigeants-africains-en-chantiers-faure-gnassingbe-fete-la-correction-du-map/",
+      "author": "Togo Actualité",
+      "keywords": "Togo, Faure Gnassingbé, Correct the Map, UN resolution, Equal Earth, Africa, cartography, world map, cognitive justice",
+      "elevator_pitch": "Togolese President Faure Gnassingbé has championed the UN's \"Correct the Map\" resolution as a triumph for Africa, but critics at home dismiss the celebration as a distraction from two decades of domestic infrastructure failure and political stagnation."
+    },
+    {
+      "title": "Australia to Look Bigger on New World Map After Historic UN Vote",
+      "url": "https://mappingforward.fr/articles/2026-09/20260913-newscom-australia-bigger-equal-earth-un-vote.html",
+      "date": "2026-09-13",
+      "source": "https://www.news.com.au/finance/work/leaders/australia-to-look-bigger-on-new-world-map-after-historic-un-vote/news-story/4c9876cd4dded74fcabb88cb71754aa1",
+      "author": "Ben Graham (news.com.au)",
+      "keywords": "Australia, Equal Earth projection, UN, world map, Mercator, Greenland, cartography, Greg Lauer, OSGeo Oceania",
+      "elevator_pitch": "Australia will appear roughly 10% larger relative to northern landmasses under the UN-endorsed Equal Earth projection, as geographer Greg Lauer explains how the shift changes visual perception of the continent's size compared to Greenland and Africa."
+    },
+    {
+      "title": "New World Map Makes Africa Look Bigger: What's the Fuss About? Cartographers Explain",
+      "url": "https://mappingforward.fr/articles/2026-09/20260913-conversation-equal-earth-africa-cartographers-explain.html",
+      "date": "2026-09-13",
+      "source": "https://theconversation.com/new-world-map-makes-africa-look-bigger-whats-the-fuss-about-cartographers-explain-291691",
+      "author": "Jack Swab and Derek Alderman (The Conversation)",
+      "keywords": "Equal Earth projection, Mercator projection, UN resolution, cartography, Africa, map distortion, cognitive justice, Correct the Map",
+      "elevator_pitch": "Cartographers Jack Swab and Derek Alderman explain the UN's endorsement of the Equal Earth projection, why the Mercator map distorts Africa's true size, how the new projection works, and why the US was the lone \"no\" vote against the resolution."
+    },
+    {
+      "title": "How Do GPS Apps Like Google Maps Know When There's Police Ahead?",
+      "url": "https://mappingforward.fr/articles/2026-09/20260913-slashgear-google-maps-police-crowdsourcing.html",
+      "date": "2026-09-13",
+      "source": "https://www.slashgear.com/2252697/how-gps-apps-google-maps-know-police-ahead/",
+      "author": "SlashGear",
+      "keywords": "Google Maps, Waze, police reports, crowdsourcing, GPS apps, navigation, Android Auto, Apple CarPlay, incident reports",
+      "elevator_pitch": "Google Maps and other GPS apps detect police sightings through crowdsourced user reports, not through any official data feed — drivers submit reports that other users confirm or deny, with Waze data also integrated into Google Maps."
+    },
+    {
+      "title": "Wildfire Map Spotlight: Indonesia Forest and Peatland Fires",
+      "url": "https://mappingforward.fr/articles/2026-09/20260913-iqair-indonesia-forest-peatland-fires-wildfire-map.html",
+      "date": "2026-09-13",
+      "source": "https://www.iqair.com/fr/newsroom/wildfire-map-spotlight-indonesia-forest-and-peatland-fires-september-2026",
+      "author": "IQAir Staff Writers",
+      "keywords": "Indonesia, wildfires, peatland fires, karhutla, Kalimantan, Sumatra, air quality map, El Niño, haze, IQAir",
+      "elevator_pitch": "Indonesia is experiencing its most intense wildfire season in 11 years, with forest and peatland fires burning across 1.36 million hectares by August 2026, concentrated in Kalimantan and Sumatra, producing massive smoke haze that has affected over 12.5 million people and spread to Malaysia and Singapore."
+    },
     {
       "title": "IBM and NASA Release Open-Source AI Model for Lunar Surface Mapping",
       "url": "https://mappingforward.fr/articles/2026-09/20260912-ibm-nasa-lunar-foundation-model-mapping.html",
