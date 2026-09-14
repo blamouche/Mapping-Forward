@@ -19,12 +19,18 @@ Articles per month:
 2026-05 | ████████████████████████████████ 117<br>
 2026-07 | █████ 10<br>
 2026-08 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 267<br>
-2026-09 | █████████████████████████████████████████████████████████████████████████████████████████████████ 95<br>
+2026-09 | ███████████████████████████████████████████████████████████████████████████████████████████████████████ 101<br>
 ## Articles
 
 ### 2026
 
-#### September (95 articles)
+#### September (101 articles)
+- [Wildfire Map Spotlight: Indonesia Forest and Peatland Fires](src/2026-09/20260913-iqair-indonesia-forest-peatland-fires-wildfire-map.md)
+- [Togo's Faure Gnassingbé Celebrates the "Correct the Map" Resolution Amid Domestic Criticism](src/2026-09/20260913-togoactualite-togo-gnassingbe-correct-the-map.md)
+- [New World Map Makes Africa Look Bigger: What's the Fuss About? Cartographers Explain](src/2026-09/20260913-conversation-equal-earth-africa-cartographers-explain.md)
+- [There Is No Such Thing as a "UN Map With Borders": Guterres](src/2026-09/20260913-thehindu-guterres-no-un-map-with-borders.md)
+- [Australia to Look Bigger on New World Map After Historic UN Vote](src/2026-09/20260913-newscom-australia-bigger-equal-earth-un-vote.md)
+- [How Do GPS Apps Like Google Maps Know When There's Police Ahead?](src/2026-09/20260913-slashgear-google-maps-police-crowdsourcing.md)
 - [IBM and NASA Release Open-Source AI Model for Lunar Surface Mapping](src/2026-09/20260912-ibm-nasa-lunar-foundation-model-mapping.md)
 - [Google Explains the Disappearing Speedometer in Maps on Android Auto](src/2026-09/20260912-androidauthority-google-maps-speedometer-android-auto-explained.md)
 - [Google Maps Is Now Terrible: Explained](src/2026-09/20260912-thedrive-google-maps-now-terrible-explained.md)
