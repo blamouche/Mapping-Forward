@@ -19,12 +19,21 @@ Articles per month:
 2026-05 | ████████████████████████████████ 117<br>
 2026-07 | █████ 10<br>
 2026-08 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 267<br>
-2026-09 | ███████████████████████████████████████████████████████████████████████████████████████████████████████ 101<br>
+2026-09 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████ 110<br>
 ## Articles
 
 ### 2026
 
-#### September (101 articles)
+#### September (110 articles)
+- [BMW Maps Displays Navigation and Driver Assistance Information in a Single 3D View](src/2026-09/20260914-pressbmwgroup-bmw-maps-3d-navigation-driver-assistance.md)
+- [Wildfire Map Spotlight: Brac Island Fire, Croatia](src/2026-09/20260914-iqair-wildfire-map-brac-island-croatia.md)
+- [Africa: "Correct The Map" Initiative Adopted by the UN](src/2026-09/20260914-africa24tv-correct-the-map-adopted-un.md)
+- [Animated Map Shows Spread of Illegal Israeli Settlements Across Palestine](src/2026-09/20260914-aljazeera-animated-map-israeli-settlements-palestine.md)
+- [Google Maps Rolling Out Always-On Speed Limits and Speedometer on Android Auto](src/2026-09/20260914-9to5google-maps-android-auto-speed-limits-speedometer.md)
+- [Barranquilla: What to Do About Slow and Congested Mobility, According to TomTom Traffic Index](src/2026-09/20260914-zonacero-barranquilla-tomtom-traffic-index-congestion.md)
+- [Matrix Geo Solutions Wins Three-Year Adani Infra Contract for Precision Drone Surveying and Geospatial Solutions](src/2026-09/20260914-itvoice-matrix-geo-solutions-adani-drone-surveying.md)
+- [DILRMP 3.0 (2026–2031): Bhu-Aadhaar, GIS Land Records, NAKSHA and Key Features](src/2026-09/20260914-studyiq-dilrmp-3-gis-land-records-india.md)
+- [GPS Navigation and Traffic Concentration: When Everyone Follows the Same Route](src/2026-09/20260914-difesapopolo-gps-traffic-concentration-nature-study.md)
 - [Wildfire Map Spotlight: Indonesia Forest and Peatland Fires](src/2026-09/20260913-iqair-indonesia-forest-peatland-fires-wildfire-map.md)
 - [Togo's Faure Gnassingbé Celebrates the "Correct the Map" Resolution Amid Domestic Criticism](src/2026-09/20260913-togoactualite-togo-gnassingbe-correct-the-map.md)
 - [New World Map Makes Africa Look Bigger: What's the Fuss About? Cartographers Explain](src/2026-09/20260913-conversation-equal-earth-africa-cartographers-explain.md)
