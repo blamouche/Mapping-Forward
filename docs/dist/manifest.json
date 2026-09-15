@@ -1,9 +1,90 @@
 {
   "site": "Mapping Forward",
   "url": "https://mappingforward.fr",
-  "generated": "2026-09-14T06:04:26.632402",
-  "article_count": 914,
+  "generated": "2026-09-15T06:05:59.275329",
+  "article_count": 923,
   "articles": [
+    {
+      "title": "Wildfire Map Spotlight: Brac Island Fire, Croatia",
+      "url": "https://mappingforward.fr/articles/2026-09/20260914-iqair-wildfire-map-brac-island-croatia.html",
+      "date": "2026-09-14",
+      "source": "https://www.iqair.com/ca-fr/newsroom/wildfire-map-spotlight-brac-island-wildfire-croatia",
+      "author": "IQAir Staff Writers",
+      "keywords": "wildfire map, Brac Island, Croatia, satellite imagery, Copernicus, evacuation, bora winds, fire mapping",
+      "elevator_pitch": "A major wildfire on Croatia's largest Adriatic island, Brac, has burned over 5,600 hectares — nearly 14% of the island's total area — forcing the evacuation of nearly 700 people, with satellite imagery from Copernicus tracking the fire's spread."
+    },
+    {
+      "title": "Barranquilla: What to Do About Slow and Congested Mobility, According to TomTom Traffic Index",
+      "url": "https://mappingforward.fr/articles/2026-09/20260914-zonacero-barranquilla-tomtom-traffic-index-congestion.html",
+      "date": "2026-09-14",
+      "source": "https://zonacero.com/generales/que-hacer-para-que-la-movilidad-en-barranquilla-deje-de-ser-lenta-y-congestionada",
+      "author": "Zona Cero",
+      "keywords": "TomTom Traffic Index, Barranquilla, Colombia, traffic congestion, urban mobility, travel times, city planning",
+      "elevator_pitch": "Barranquilla ranked as one of the world's slowest and most congested cities in the TomTom Traffic Index 2025, with a 10km trip taking over 36 minutes on average and 46 minutes during evening rush hour, prompting experts to propose solutions from better public transit to parking pricing."
+    },
+    {
+      "title": "BMW Maps Displays Navigation and Driver Assistance Information in a Single 3D View",
+      "url": "https://mappingforward.fr/articles/2026-09/20260914-pressbmwgroup-bmw-maps-3d-navigation-driver-assistance.html",
+      "date": "2026-09-14",
+      "source": "https://www.press.bmwgroup.com/global/article/detail/T0460275EN/bmw-maps-displays-navigation-and-driver-assistance-information-in-a-single-3d-view",
+      "author": "BMW Group PressClub",
+      "keywords": "BMW Maps, 3D navigation, driver assistance, Mapbox, Operating System X, semi-automated driving, Highway Assistant, connected vehicles",
+      "elevator_pitch": "Starting October 2026, BMW Maps will unify route guidance, surrounding perception, and driver assistance information into a single 3D view on the central display, helping drivers understand both navigation and assisted driving functions in complex traffic situations."
+    },
+    {
+      "title": "GPS Navigation and Traffic Concentration: When Everyone Follows the Same Route",
+      "url": "https://mappingforward.fr/articles/2026-09/20260914-difesapopolo-gps-traffic-concentration-nature-study.html",
+      "date": "2026-09-14",
+      "source": "https://www.difesapopolo.it/lingorgo-da-gps/",
+      "author": "La Difesa del Popolo",
+      "keywords": "GPS navigation, Google Maps, TomTom, traffic concentration, Nature Communications, CNR-Isti, University of Pisa, route diversity, CO2 emissions, algorithmic optimization",
+      "elevator_pitch": "A study published in Nature Communications by researchers from CNR-Isti and the University of Pisa shows that when too many drivers follow GPS navigation simultaneously, route diversity drops by up to 14%, concentrating traffic on the same roads and potentially reversing environmental benefits."
+    },
+    {
+      "title": "DILRMP 3.0 (2026–2031): Bhu-Aadhaar, GIS Land Records, NAKSHA and Key Features",
+      "url": "https://mappingforward.fr/articles/2026-09/20260914-studyiq-dilrmp-3-gis-land-records-india.html",
+      "date": "2026-09-14",
+      "source": "https://www.studyiq.com/articles/dilrmp/",
+      "author": "StudyIQ",
+      "keywords": "DILRMP 3.0, India, GIS, land records, Bhu-Aadhaar, ULPIN, NAKSHA, cadastral maps, land governance, digital transformation",
+      "elevator_pitch": "India's Digital India Land Records Modernisation Programme enters its third phase (2026–2031), creating an integrated GIS-enabled land administration system with unique parcel identification numbers, paperless registration, and cadastral mapping."
+    },
+    {
+      "title": "Animated Map Shows Spread of Illegal Israeli Settlements Across Palestine",
+      "url": "https://mappingforward.fr/articles/2026-09/20260914-aljazeera-animated-map-israeli-settlements-palestine.html",
+      "date": "2026-09-14",
+      "source": "https://www.aljazeera.com/news/2026/9/14/animated-map-shows-spread-of-illegal-israeli-settlements-across-palestine",
+      "author": "Al Jazeera",
+      "keywords": "animated map, Israeli settlements, Palestine, West Bank, East Jerusalem, outposts, cartography, territorial mapping, visual explainer",
+      "elevator_pitch": "Al Jazeera has published an animated map visualizing the spread of illegal Israeli settlements and outposts across Palestine, showing 163 settlements housing 744,700 settlers alongside more than 400 unauthorized outposts by 2024."
+    },
+    {
+      "title": "Africa: \"Correct The Map\" Initiative Adopted by the UN",
+      "url": "https://mappingforward.fr/articles/2026-09/20260914-africa24tv-correct-the-map-adopted-un.html",
+      "date": "2026-09-14",
+      "source": "https://africa24tv.com/afrique-linitiative-correct-the-map-adoptee-par-lonu/",
+      "author": "Africa24 TV",
+      "keywords": "Correct The Map, UN General Assembly, Togo, African Union, Equal Earth, Mercator projection, cartographic representation, Africa, diplomacy",
+      "elevator_pitch": "The UN General Assembly adopted the \"Correct The Map\" resolution spearheaded by Togo on behalf of the African Group, a diplomatic milestone that seeks to replace Mercator projection world maps with fairer representations of Africa's true size."
+    },
+    {
+      "title": "Matrix Geo Solutions Wins Three-Year Adani Infra Contract for Precision Drone Surveying and Geospatial Solutions",
+      "url": "https://mappingforward.fr/articles/2026-09/20260914-itvoice-matrix-geo-solutions-adani-drone-surveying.html",
+      "date": "2026-09-14",
+      "source": "https://www.itvoice.in/matrix-geo-solutions-wins-three-year-contract-from-adani-infra-for-precision-drone-surveying-and-geospatial-solutions-for-pan-india-project-locations",
+      "author": "IT Voice",
+      "keywords": "Matrix Geo Solutions, Adani Infra, drone surveying, GIS, LiDAR, geospatial, mapping, infrastructure, India, precision surveying",
+      "elevator_pitch": "Matrix Geo Solutions, an NSE-listed geospatial technology company, has secured a three-year Annual Rate Contract from Adani Infra for precision drone surveying, LiDAR, GIS, and mapping services across pan-India project locations."
+    },
+    {
+      "title": "Google Maps Rolling Out Always-On Speed Limits and Speedometer on Android Auto",
+      "url": "https://mappingforward.fr/articles/2026-09/20260914-9to5google-maps-android-auto-speed-limits-speedometer.html",
+      "date": "2026-09-14",
+      "source": "https://9to5google.com/2026/09/14/google-maps-android-auto-speed-limits-speedometer-update/",
+      "author": "9to5Google",
+      "keywords": "Google Maps, Android Auto, speed limits, speedometer, navigation, always-on, update, traffic signals",
+      "elevator_pitch": "Google Maps is rolling out speed limits, a live speedometer, and traffic signals/stop signs on Android Auto that display even when no destination is set, while also investigating a recent bug that caused the speedometer to disappear for some users."
+    },
     {
       "title": "There Is No Such Thing as a \"UN Map With Borders\": Guterres",
       "url": "https://mappingforward.fr/articles/2026-09/20260913-thehindu-guterres-no-un-map-with-borders.html",

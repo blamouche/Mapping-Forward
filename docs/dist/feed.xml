@@ -6,7 +6,79 @@
     <description>Daily synthesis of articles on cartography, mapping, geospatial data, and geographic intelligence</description>
     <language>en</language>
     <atom:link href="https://mappingforward.fr/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 14 Sep 2026 06:04:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 06:05:59 +0000</lastBuildDate>
+
+    <item>
+        <title>Wildfire Map Spotlight: Brac Island Fire, Croatia</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260914-iqair-wildfire-map-brac-island-croatia.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260914-iqair-wildfire-map-brac-island-croatia.html</guid>
+        <description>A major wildfire on Croatia&#x27;s largest Adriatic island, Brac, has burned over 5,600 hectares — nearly 14% of the island&#x27;s total area — forcing the evacuation of nearly 700 people, with satellite imagery from Copernicus tracking the fire&#x27;s spread. — Key takeaways: A wildfire broke out on September 10, 2026, near the village of Ložišće on Brac Island, Croatia ; The fire has burned more than 5,600 hectares, affecting nearly 14% of the island&#x27;s total area ; Nearly 700 people have been evacuated, including 230 by sea near Milna ; 220 firefighters, 69 fire vehicles, and four Canadair water-bombing aircraft have been deployed ; Strong bora winds have driven the fire&#x27;s rapid spread toward the southern coast ; Satellite imagery from the EU&#x27;s Copernicus program has been used to monitor the fire&#x27;s progression ; The fire spread toward the Blaca desert area and the island&#x27;s southern coast</description>
+        <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Barranquilla: What to Do About Slow and Congested Mobility, According to TomTom Traffic Index</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260914-zonacero-barranquilla-tomtom-traffic-index-congestion.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260914-zonacero-barranquilla-tomtom-traffic-index-congestion.html</guid>
+        <description>Barranquilla ranked as one of the world&#x27;s slowest and most congested cities in the TomTom Traffic Index 2025, with a 10km trip taking over 36 minutes on average and 46 minutes during evening rush hour, prompting experts to propose solutions from better public transit to parking pricing. — Key takeaways: Barranquilla ranked #1 as the slowest city and #19 for congestion globally in the TomTom Traffic Index 2025 ; A 10km trip took 36 minutes 35 seconds on average, rising to 46 minutes 9 seconds during evening rush hour ; Congestion increased 1.7 percentage points from 61.1% to 62.8% in 2025 ; Barranquilla ranked as the 4th most congested city in Colombia, after Bogotá, Medellín, and Cali ; Expert Isidro Ruiz disputes the global ranking, calling congestion &quot;localized&quot; rather than city-wide ; Road works, canalization, and intersection improvements contribute to temporary congestion ; Proposed solutions include strengthening public transit, limiting building heights, and implementing parking fees in tourist areas</description>
+        <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>BMW Maps Displays Navigation and Driver Assistance Information in a Single 3D View</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260914-pressbmwgroup-bmw-maps-3d-navigation-driver-assistance.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260914-pressbmwgroup-bmw-maps-3d-navigation-driver-assistance.html</guid>
+        <description>Starting October 2026, BMW Maps will unify route guidance, surrounding perception, and driver assistance information into a single 3D view on the central display, helping drivers understand both navigation and assisted driving functions in complex traffic situations. — Key takeaways: BMW Maps with driver assistance launches in October 2026 for vehicles equipped with BMW Operating System X ; The 3D view combines navigation, vehicle surroundings, and driver assistance information in one display ; The system shows the vehicle precisely within its lane and at the correct road level ; Highway Assistant 2 enables hands-free driving at up to 130 km/h with automated lane changes via glance confirmation ; The technology was developed by BMW Group, combining precise map data, onboard sensors, and AI, with Mapbox mapping technology support ; Starting in 2027, navigation-guided semi-automated driving will roll out in urban areas, initially in Germany ; The feature covers the entire highway network and the city of Paris at launch, with gradual expansion to other cities</description>
+        <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>GPS Navigation and Traffic Concentration: When Everyone Follows the Same Route</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260914-difesapopolo-gps-traffic-concentration-nature-study.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260914-difesapopolo-gps-traffic-concentration-nature-study.html</guid>
+        <description>A study published in Nature Communications by researchers from CNR-Isti and the University of Pisa shows that when too many drivers follow GPS navigation simultaneously, route diversity drops by up to 14%, concentrating traffic on the same roads and potentially reversing environmental benefits. — Key takeaways: A Nature Communications study by CNR-Isti and University of Pisa researchers simulated traffic in Florence, Milan, and Rome ; The study integrated GPS data, road network characteristics, and routes from Google Maps, TomTom, Bing Maps, and Mapbox ; Route diversity can decrease by up to 14% when all drivers follow navigation systems ; A critical threshold exists between 60-80% of drivers using navigation, beyond which environmental benefits diminish ; In some Rome scenarios, CO2 reduction benefits completely reversed at high navigation adoption rates ; The problem is the gap between individual optimization and collective outcomes ; Researchers call for algorithms that consider overall city-level effects, not just individual route optimization</description>
+        <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>DILRMP 3.0 (2026–2031): Bhu-Aadhaar, GIS Land Records, NAKSHA and Key Features</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260914-studyiq-dilrmp-3-gis-land-records-india.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260914-studyiq-dilrmp-3-gis-land-records-india.html</guid>
+        <description>India&#x27;s Digital India Land Records Modernisation Programme enters its third phase (2026–2031), creating an integrated GIS-enabled land administration system with unique parcel identification numbers, paperless registration, and cadastral mapping. — Key takeaways: DILRMP 3.0 (2026–2031) is the third phase of India&#x27;s land-records modernisation programme ; The programme creates an integrated, GIS-enabled, and interoperable land administration system ; Bhu-Aadhaar (ULPIN) provides every geo-referenced land parcel with a 14-digit Unique Land Parcel Identification Number ; GIS and cadastral maps are central to the programme&#x27;s approach ; NAKSHA scheme supports land survey modernisation ; The programme includes paperless registration and integrated revenue courts ; DILRMP 3.0 shifts from digitising records to creating an integrated digital land-governance ecosystem</description>
+        <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Animated Map Shows Spread of Illegal Israeli Settlements Across Palestine</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260914-aljazeera-animated-map-israeli-settlements-palestine.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260914-aljazeera-animated-map-israeli-settlements-palestine.html</guid>
+        <description>Al Jazeera has published an animated map visualizing the spread of illegal Israeli settlements and outposts across Palestine, showing 163 settlements housing 744,700 settlers alongside more than 400 unauthorized outposts by 2024. — Key takeaways: Al Jazeera created an animated visual map showing the spread of illegal Israeli settlements and outposts ; By 2024, 163 illegal settlements housed 744,700 Israeli settlers: 511,100 in the West Bank and 233,600 in East Jerusalem ; More than 400 illegal outposts exist that are not officially counted but are often absorbed into recognized settlements ; The animated map tracks the geographic expansion of settlements over time ; The visualization also documents settler violence accompanying the settlement expansion ; The map serves as a visual explainer of the territorial changes on the ground</description>
+        <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Africa: &quot;Correct The Map&quot; Initiative Adopted by the UN</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260914-africa24tv-correct-the-map-adopted-un.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260914-africa24tv-correct-the-map-adopted-un.html</guid>
+        <description>The UN General Assembly adopted the &quot;Correct The Map&quot; resolution spearheaded by Togo on behalf of the African Group, a diplomatic milestone that seeks to replace Mercator projection world maps with fairer representations of Africa&#x27;s true size. — Key takeaways: The UN General Assembly adopted the &quot;Correct The Map&quot; resolution on September 4, 2026, in New York ; The initiative was carried by Togo on behalf of the African Group ; The resolution aims to promote more accurate, balanced, and equitable cartographic representations of Africa ; The initiative challenges the Mercator projection, which distorts the true size of African countries ; While non-binding, the resolution could influence international institutions&#x27; map choices ; The Togo and the African Union plan to work together on implementation ; The adoption is seen as a diplomatic victory for Togo and the African Group</description>
+        <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Matrix Geo Solutions Wins Three-Year Adani Infra Contract for Precision Drone Surveying and Geospatial Solutions</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260914-itvoice-matrix-geo-solutions-adani-drone-surveying.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260914-itvoice-matrix-geo-solutions-adani-drone-surveying.html</guid>
+        <description>Matrix Geo Solutions, an NSE-listed geospatial technology company, has secured a three-year Annual Rate Contract from Adani Infra for precision drone surveying, LiDAR, GIS, and mapping services across pan-India project locations. — Key takeaways: Matrix Geo Solutions won a three-year Annual Rate Contract (ARC) from Adani Infra ; The contract covers geospatial, LiDAR, surveying, mapping, and allied technology-enabled services ; Services include GIS, digital terrain and surface modelling, infrastructure mapping, and asset intelligence ; The engagement spans pan-India project locations ; Matrix Geo Solutions is an NSE-listed geospatial technology and engineering consultancy ; The company previously completed a 314 km geospatial survey across five highway sections for RITES-NHAI ; The contract highlights the growing role of drone-based surveying in Indian infrastructure</description>
+        <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Google Maps Rolling Out Always-On Speed Limits and Speedometer on Android Auto</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260914-9to5google-maps-android-auto-speed-limits-speedometer.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260914-9to5google-maps-android-auto-speed-limits-speedometer.html</guid>
+        <description>Google Maps is rolling out speed limits, a live speedometer, and traffic signals/stop signs on Android Auto that display even when no destination is set, while also investigating a recent bug that caused the speedometer to disappear for some users. — Key takeaways: Google Maps is rolling out always-on speed limits and speedometer on Android Auto, even without a destination set ; The feature includes traffic signals and stop signs display without active navigation ; The rollout is gradual and not yet available to all users ; A recent bug caused the speedometer to vanish for some Android Auto users, which is being investigated ; Speed limits in Google Maps originally launched in 2019, with the speedometer appearing later ; The feature was previously only visible during active navigation ; The update makes Google Maps more useful for shorter or familiar trips where setting a destination isn&#x27;t necessary</description>
+        <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
 
     <item>
         <title>There Is No Such Thing as a &quot;UN Map With Borders&quot;: Guterres</title>
@@ -334,78 +406,6 @@
         <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260908-commentcamarche-google-maps-offline-plans-battery-data.html</guid>
         <description>Google Maps&#x27; offline maps feature can save both battery and mobile data, but a hidden default setting silently updates downloaded maps over cellular data without user confirmation — here&#x27;s how to fix it. — Key takeaways: GPS navigation is one of the most battery-intensive tasks on a smartphone, simultaneously using GPS, screen, CPU, and mobile data ; Google Maps&#x27; offline maps feature allows pre-downloading detailed maps to navigate without a network connection ; Once downloaded, the app no longer needs to constantly request mobile data to display streets and points of interest ; A hidden default setting automatically updates offline maps over both Wi-Fi and cellular data without asking for confirmation ; The update process runs in the background with no notification or visible indication ; Disabling &quot;Automatically update offline maps&quot; and &quot;Automatically download recommended maps&quot; prevents unwanted data consumption ; Restricting offline map updates to Wi-Fi only further protects mobile data allowances</description>
         <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Fairmont State&#x27;s Frank LaFone Honored with Geospatial Lifetime Achievement Award</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260908-mybuckhannon-frank-lafone-geospatial-lifetime-award.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260908-mybuckhannon-frank-lafone-geospatial-lifetime-award.html</guid>
-        <description>Dr. Frank LaFone, geography faculty member at Fairmont State University, has received the West Virginia Association of Geospatial Professionals Lifetime Achievement Award for over two decades of contributions to GIS and geospatial technology across the state. — Key takeaways: Dr. Frank LaFone honored with the WVAGP Lifetime Achievement Award for career-long contributions to GIS in West Virginia ; He was a founding member and key architect of the West Virginia Association of Geospatial Professionals (WVAGP) ; LaFone earned his GISP certification early in the program&#x27;s history and served multiple terms on the WVAGP Board, including as president and vice president ; He co-founded VerySpatial, one of the longest-running geography and geospatial podcasts, contributing to professional education nationally and internationally ; The award was presented at WV GEOCON, West Virginia&#x27;s annual geospatial conference ; As a faculty member at Fairmont State University, LaFone continues to connect students with geospatial technology opportunities to address community needs</description>
-        <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>TomTom Expands EV Charger Data Past 2 Million Points</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260908-theevreport-tomtom-ev-charging-data-2-million.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260908-theevreport-tomtom-ev-charging-data-2-million.html</guid>
-        <description>TomTom now covers more than two million EV charging points globally and plans to ship an AI-based battery range prediction model by the end of 2026, as the company reports delivering on its two-year EV roadmap with overhauled POI data, availability profiles, and live pricing. — Key takeaways: TomTom&#x27;s EV charging data now covers over 2 million charging points globally ; Availability profiles use six weeks of rolling usage data to predict charger busyness at expected arrival time ; A &quot;super aggregator&quot; model works with regional data partners rather than connecting to every charge point operator individually ; Driver demand has shifted from finding a charger to choosing one based on price, amenities, security, and weather protection ; An AI-based range prediction API is on track for release by end of 2026, using learning models trained on actual usage data ; The EV product group has been reorganized as Destination and Waypoint Management, expanding to cover POI search, fuel prices, parking, and in-car transactions ; Vehicle-to-grid and vehicle-to-load functions are flagged as growing in importance, but driver experience must be reliable</description>
-        <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>The Next Chapter in Electric Driving Isn&#x27;t About EVs</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260908-tomtom-2026-ev-vision-future.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260908-tomtom-2026-ev-vision-future.html</guid>
-        <description>TomTom reviews its two-year EV roadmap, revealing that EV charging data now covers over 2 million points globally, with AI-based range prediction and background intelligence features planned by year-end as the company shifts focus from simply finding chargers to helping drivers choose the right one. — Key takeaways: EVs now account for close to 30% of new car sales across Europe on average, with battery EVs at 20%; Norway leads at over 97% ; TomTom has overhauled its EV charging POI data, added availability profiles, live pricing, and unified its search and routing stack for EV-specific navigation ; The company uses a &quot;super aggregator&quot; model, working with regional data partners rather than connecting to every charge point operator individually ; Driver demand has shifted from finding a charger to choosing one based on price, amenities, security, and covered parking ; An AI-based range prediction API is on track for release by end of 2026, moving from multi-variate equations to learning models trained on actual usage data ; The EV team has been reorganized as &quot;Destination and Waypoint Management,&quot; expanding scope to POI search, fuel prices, parking, and in-car transactions</description>
-        <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Five Colombian Cities Rank Among World&#x27;s Most Congested According to TomTom Traffic Index</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260908-elcolombiano-colombia-tomtom-traffic-index-congestion.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260908-elcolombiano-colombia-tomtom-traffic-index-congestion.html</guid>
-        <description>The TomTom Traffic Index 2025 reveals that four Colombian cities — Bogotá, Medellín, Cali, and Barranquilla — rank among the 20 most congested in the world, with Bogotá leading at 69.6% congestion, underscoring a national challenge in urban mobility planning. — Key takeaways: Bogotá recorded the highest congestion level among Colombian cities at 69.6%, meaning travel times were on average 69.6% longer than free-flow conditions ; Medellín followed at 66.9%, Cali at 65.6%, Barranquilla at 62.8%, and Cartagena at 57.7% ; Four Colombian cities placed among the 20 most congested cities globally in the TomTom Traffic Index 2025 ; All five major Colombian cities exceeded 57% congestion, well above the global average ; Graphisoft identifies five keys for modernizing road infrastructure: integrate information from the start, simulate before building, detect errors early, plan for future growth, and strengthen digital talent ; The use of open standards like IFC is recommended to ensure information accessibility across all project stakeholders</description>
-        <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Wildfire Map Spotlight: Konitsa Fire, Greece</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260907-iqair-wildfire-map-konitsa-greece.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260907-iqair-wildfire-map-konitsa-greece.html</guid>
-        <description>A major wildfire in Greece&#x27;s Konitsa region is burning in rugged mountain terrain near Vikos-Aoos National Park, with 170 firefighters deployed and emergency alerts issued to residents amid heavy smoke and difficult access conditions. — Key takeaways: The Konitsa wildfire began August 31, 2026 and intensified through September 7 in the Trapezitsa area near Konitsa, Epirus, northwestern Greece ; About 170 firefighters, 45 vehicles, 20 support vehicles, aircraft, helicopters, and drone teams are involved in suppression efforts ; A 112 emergency alert was sent to Konitsa residents urging alertness due to the wildfire and heavy smoke ; The fire threatens Vikos-Aoos National Park, the Aoos Gorge, and the Tymfi mountain area ; Steep terrain, dense vegetation, and strong flare-ups continue to complicate firefighting operations ; The trail toward Stomio Monastery was preventively closed due to fire and dense smoke</description>
-        <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Movie Scene Map: A Free Interactive Map of 16,000 Film and Series Locations Worldwide</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260907-parissecret-movie-scene-map-film-locations.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260907-parissecret-movie-scene-map-film-locations.html</guid>
-        <description>Movie Scene Map is a free interactive map listing nearly 16,000 real filming locations across 166 countries, letting users discover which films and series were shot near their home, with a particularly rich collection of Parisian locations. — Key takeaways: Movie Scene Map catalogs nearly 16,000 real filming locations across 166 countries ; The platform covers over 10,000 films and series, plus video games, anime, and manga locations ; Paris is among the most represented cities, with locations from Mission: Impossible – Fallout, Emily in Paris, and other productions ; France has nearly 1,000 listed filming locations including châteaux, beaches, villages, stations, and streets ; Users can search by location by zooming on the map, or by film title to find all shooting locations ; The map includes fictional locations from anime and manga rather than physical filming sites</description>
-        <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>African Union Welcomes UN Adoption of &quot;Correct the Map&quot; Resolution</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260907-afriquinfos-correct-the-map-african-reactions.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260907-afriquinfos-correct-the-map-african-reactions.html</guid>
-        <description>The Chairperson of the African Union Commission welcomed the UN&#x27;s adoption of the &quot;Correct the Map&quot; resolution, praising Togo&#x27;s leadership in mobilizing African states to correct the Mercator projection&#x27;s visual shrinking of Africa&#x27;s true size. — Key takeaways: African Union Commission Chairperson Mahmoud Ali Youssouf welcomed the UN adoption of the &quot;Correct the Map&quot; resolution ; He praised Togo&#x27;s leadership and President Faure Essozimna Gnassingbé for championing the initiative on behalf of Africa ; The AU Commission noted the Mercator projection gives a &quot;considerably reduced visual representation of the real size of the African continent&quot; ; The AU encourages international institutions, education systems, publishers, and digital actors to progressively adopt more faithful cartographic representations ; Togo&#x27;s diplomacy hailed the adoption as &quot;a victory for accuracy&quot; and pledged to focus on concrete implementation ; The resolution passed with 164 votes in favor on September 4, 2026</description>
-        <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Google Maps: Disable These Settings to Protect Your Privacy and Battery</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260907-clubic-google-maps-privacy-settings-disable.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260907-clubic-google-maps-privacy-settings-disable.html</guid>
-        <description>Clubic details three key Google Maps settings to disable for better privacy and battery life: turning off Timeline location history, enabling incognito navigation mode, and restricting offline map auto-updates to Wi-Fi only. — Key takeaways: Google Maps&#x27; Timeline feature records every trip, stop, and route by default, storing data on the device ; Users can disable Timeline or set auto-deletion after 3 months instead of permanent recording ; Incognito mode suspends location history recording, search tracking, and personalized recommendations ; Offline maps auto-update by default over both Wi-Fi and cellular data, draining battery and consuming mobile data ; Users can restrict offline map downloads to Wi-Fi only and disable auto-updates in Settings ; All three settings are accessible through the profile photo menu in Google Maps</description>
-        <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>INMO GO3 AI Glasses Win IFA Innovation Award with HERE Maps Navigation</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260907-lelezard-inmo-go3-here-maps-navigation.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260907-lelezard-inmo-go3-here-maps-navigation.html</guid>
-        <description>The INMO GO3 lightweight AI glasses won the IFA Innovation Award, integrating HERE Maps for hands-free pedestrian and cycling navigation with step-by-step directions displayed directly in the glasses. — Key takeaways: INMO GO3 AI glasses won the IFA Innovation Award for innovations in the wearable technology domain ; The GO3 integrate HERE Maps for pedestrian and cycling navigation in hands-free mode ; Navigation directions are displayed step-by-step directly in the glasses&#x27; display ; HERE Maps provides the mapping and routing backbone for the glasses&#x27; navigation features ; The glasses are positioned as lightweight AI eyewear designed for everyday use ; The award was announced at IFA, one of the world&#x27;s leading consumer electronics trade shows</description>
-        <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
     </item>
 
 </channel>
