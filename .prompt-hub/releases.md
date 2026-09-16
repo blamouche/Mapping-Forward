@@ -1,3 +1,6 @@
+## 0.1.804 - 2026-09-16
+- Add substack post: From drug dealers to dashboards
+
 ## 0.1.803 - 2026-08-27
 - Daily veille mapping: 4 Google Alerts scanned (Mapping, Maps, Tomtom, GIS geo), 5 new articles synthesized (Abondance Google Maps ranking signals, Gagadget Bluetooth tunnel navigation, Vietnam.vn popular times prediction, CMU John Nelson cartography, Geo Week Cape Fear bridge lidar survey), README updated (261 August articles), 4 emails trashed
 
