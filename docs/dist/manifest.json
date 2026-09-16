@@ -1,9 +1,72 @@
 {
   "site": "Mapping Forward",
   "url": "https://mappingforward.fr",
-  "generated": "2026-09-15T06:05:59.275329",
-  "article_count": 923,
+  "generated": "2026-09-16T06:04:13.974393",
+  "article_count": 930,
   "articles": [
+    {
+      "title": "Google Maps: Speed Limits and Speedometer Now Display Permanently on Android Auto",
+      "url": "https://mappingforward.fr/articles/2026-09/20260915-lesnumeriques-google-maps-speed-permanent-android-auto.html",
+      "date": "2026-09-15",
+      "source": "https://www.lesnumeriques.com/gps/google-maps-limitations-et-compteur-de-vitesse-s-affichent-en-permanence-sur-android-auto-mais-les-bugs-persistent-n261870.html",
+      "author": "Les Numériques",
+      "keywords": "Google Maps, Android Auto, speedometer, speed limits, always-on display, bug fix, deployment",
+      "elevator_pitch": "After disappearing for a week, Google Maps' speed limits and speedometer are returning to Android Auto with a new always-on mode that displays even without an active navigation route, though bugs persist for some users."
+    },
+    {
+      "title": "Not Google Maps, Not Waze: 5 Navigation App Alternatives for Android Auto",
+      "url": "https://mappingforward.fr/articles/2026-09/20260915-bgr-navigation-app-alternatives-android-auto.html",
+      "date": "2026-09-15",
+      "source": "https://www.bgr.com/2254995/google-maps-waze-alternatives-android-auto-apps/",
+      "author": "Gaurav Shukla, BGR",
+      "keywords": "Android Auto, navigation apps, TomTom, Sygic, OsmAnd, Calimoto, MapQuest, Google Maps alternatives",
+      "elevator_pitch": "BGR surveys five navigation apps that work with Android Auto as alternatives to the dominant Google Maps and Waze, covering TomTom, Sygic, OsmAnd, Calimoto, and a resurgent MapQuest."
+    },
+    {
+      "title": "BMW and Mapbox Team Up for New 3D View That Makes Driving Easier",
+      "url": "https://mappingforward.fr/articles/2026-09/20260915-arenaev-bmw-mapbox-3d-view-driving-easier.html",
+      "date": "2026-09-15",
+      "source": "https://www.arenaev.com/bmw_and_mapbox_team_up_for_new_3d_view_that_makes_driving_easier-news-6230.php",
+      "author": "ArenaEV",
+      "keywords": "BMW, Mapbox, 3D navigation, driver assistance, cockpit view, Operating System X, automotive mapping",
+      "elevator_pitch": "BMW and Mapbox have merged navigation and driver-assistance visuals into a single unified 3D cockpit view, eliminating the disjointed experience of darting between the instrument cluster and center screen."
+    },
+    {
+      "title": "Drug Dealers Listed on Google Maps as Ordinary Businesses",
+      "url": "https://mappingforward.fr/articles/2026-09/20260915-franceinfo-dealers-references-google-maps.html",
+      "date": "2026-09-14",
+      "source": "https://www.franceinfo.fr/societe/drogue/des-dealers-references-sur-google-maps_8192528.html",
+      "author": "Le Journal de 20h, France Télévisions",
+      "keywords": "Google Maps, drug dealing, cannabis, platform abuse, content moderation, France",
+      "elevator_pitch": "Drug dealers in France are using Google Maps as a virtual storefront, listing dealing spots as ordinary businesses with addresses, ratings, reviews, and even phone numbers — exposing a major content moderation gap on the world's most popular mapping platform."
+    },
+    {
+      "title": "World Maps Might Soon Get an Upgrade: The UN Votes to Endorse Equal Earth Projection",
+      "url": "https://mappingforward.fr/articles/2026-09/20260915-smithsonian-un-endorses-equal-earth-maps.html",
+      "date": "2026-09-15",
+      "source": "https://www.smithsonianmag.com/smart-news/world-maps-might-soon-get-an-upgrade-the-united-nationas-votes-to-endorse-global-charts-that-better-represent-africas-true-size-180989495/",
+      "author": "Smithsonian Magazine",
+      "keywords": "UN resolution, Equal Earth projection, Mercator projection, Africa, map distortion, Correct the Map, cartography, cognitive justice",
+      "elevator_pitch": "The UN General Assembly voted 164-1 to endorse equal-area maps like the Equal Earth projection over the 500-year-old Mercator, which drastically distorts Africa's true size — with only the United States voting against."
+    },
+    {
+      "title": "BMW Dates Urban Hands-Free Driving: 2027, Germany First",
+      "url": "https://mappingforward.fr/articles/2026-09/20260915-autonext-bmw-maps-3d-hands-free-2027.html",
+      "date": "2026-09-15",
+      "source": "https://www.autonext.co/fr/news/bmw-maps-3d-aide-conduite-octobre-2026-ville-mains-libres-2027",
+      "author": "Beau Ackx, AutoNext",
+      "keywords": "BMW, hands-free driving, urban autonomous driving, Mapbox, Operating System X, Germany, 2027",
+      "elevator_pitch": "BMW will launch its unified 3D navigation and driver-assistance view in October 2026, with the next step being semi-automated urban driving guided by navigation — hands-free city driving arriving in Germany from 2027."
+    },
+    {
+      "title": "Rhodes College Launches New GIS Undergraduate Certificate Program",
+      "url": "https://mappingforward.fr/articles/2026-09/20260915-rhodes-college-gis-certificate.html",
+      "date": "2026-09-15",
+      "source": "https://news.rhodes.edu/stories/career-booster-rhodes-college-offers-new-certificate-geographic-information-science",
+      "author": "Rhodes College",
+      "keywords": "GIS, geographic information science, undergraduate certificate, liberal arts, spatial data, cartography, education",
+      "elevator_pitch": "Rhodes College has launched a Geographic Information Science undergraduate certificate, claiming to be the only liberal arts college offering an interdisciplinary GIS credential that bridges sciences, humanities, and arts."
+    },
     {
       "title": "Wildfire Map Spotlight: Brac Island Fire, Croatia",
       "url": "https://mappingforward.fr/articles/2026-09/20260914-iqair-wildfire-map-brac-island-croatia.html",

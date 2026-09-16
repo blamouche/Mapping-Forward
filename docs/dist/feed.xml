@@ -6,7 +6,63 @@
     <description>Daily synthesis of articles on cartography, mapping, geospatial data, and geographic intelligence</description>
     <language>en</language>
     <atom:link href="https://mappingforward.fr/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 15 Sep 2026 06:05:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 06:04:13 +0000</lastBuildDate>
+
+    <item>
+        <title>Google Maps: Speed Limits and Speedometer Now Display Permanently on Android Auto</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260915-lesnumeriques-google-maps-speed-permanent-android-auto.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260915-lesnumeriques-google-maps-speed-permanent-android-auto.html</guid>
+        <description>After disappearing for a week, Google Maps&#x27; speed limits and speedometer are returning to Android Auto with a new always-on mode that displays even without an active navigation route, though bugs persist for some users. — Key takeaways: Speed limits and the speedometer disappeared from Google Maps on Android Auto for many users, prompting fears of a feature removal ; Google confirmed the disappearance was a temporary bug, not a deliberate rollback of the feature launched in summer 2026 ; A new always-on mode is now rolling out, displaying the speedometer, speed limits, stop signs, and traffic lights without requiring a destination to be set ; The always-on display is particularly useful for daily commutes on familiar routes where full navigation is unnecessary ; Deployment is gradual and not yet available to all users, with Google not specifying a timeline</description>
+        <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Not Google Maps, Not Waze: 5 Navigation App Alternatives for Android Auto</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260915-bgr-navigation-app-alternatives-android-auto.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260915-bgr-navigation-app-alternatives-android-auto.html</guid>
+        <description>BGR surveys five navigation apps that work with Android Auto as alternatives to the dominant Google Maps and Waze, covering TomTom, Sygic, OsmAnd, Calimoto, and a resurgent MapQuest. — Key takeaways: TomTom offers free turn-by-turn navigation with Android Auto support, offline maps, EV routing, and an ad-free, privacy-respecting interface ; Sygic provides offline navigation, live traffic, and speed camera alerts, but requires a Premium+ subscription ($20/year) for Android Auto support ; OsmAnd excels at off-road and rural navigation with custom map layers and topographic maps, with Android Auto as a paid feature ($15/year Maps+) ; Calimoto is designed for motorcycle riders with scenic routing, offline maps, and curved-road preference, starting at $13/week ; MapQuest relaunched in March 2026, went viral for refusing to rename Lake Ontario as Lake America, and now supports Android Auto in beta</description>
+        <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>BMW and Mapbox Team Up for New 3D View That Makes Driving Easier</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260915-arenaev-bmw-mapbox-3d-view-driving-easier.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260915-arenaev-bmw-mapbox-3d-view-driving-easier.html</guid>
+        <description>BMW and Mapbox have merged navigation and driver-assistance visuals into a single unified 3D cockpit view, eliminating the disjointed experience of darting between the instrument cluster and center screen. — Key takeaways: BMW Maps now consolidates navigation and driver-assistance graphics into one 3D landscape on the central display ; The system projects the vehicle into a depth-mapped virtual reconstruction of the road, showing the car in its lane with real-time traffic ; BMW developed the visualization layer in-house while licensing Mapbox&#x27;s mapping engine, acknowledging that automakers rarely make world-class software alone ; The unified view allows drivers to confirm at a glance that the car&#x27;s AI vision matches reality ; Available on BMW vehicles with Operating System X starting October 2026</description>
+        <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Drug Dealers Listed on Google Maps as Ordinary Businesses</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260915-franceinfo-dealers-references-google-maps.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260915-franceinfo-dealers-references-google-maps.html</guid>
+        <description>Drug dealers in France are using Google Maps as a virtual storefront, listing dealing spots as ordinary businesses with addresses, ratings, reviews, and even phone numbers — exposing a major content moderation gap on the world&#x27;s most popular mapping platform. — Key takeaways: Cannabis dealers are creating fake business listings on Google Maps with precise addresses, star ratings, customer reviews, and contact numbers ; These listings appear as ordinary commercial points of interest to unsuspecting users ; The phenomenon raises serious questions about Google&#x27;s ability to moderate user-generated business content on its mapping platform ; Law enforcement faces new challenges as drug distribution moves onto mainstream digital platforms ; The case highlights how legitimate mapping infrastructure can be repurposed for illicit commerce</description>
+        <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>World Maps Might Soon Get an Upgrade: The UN Votes to Endorse Equal Earth Projection</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260915-smithsonian-un-endorses-equal-earth-maps.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260915-smithsonian-un-endorses-equal-earth-maps.html</guid>
+        <description>The UN General Assembly voted 164-1 to endorse equal-area maps like the Equal Earth projection over the 500-year-old Mercator, which drastically distorts Africa&#x27;s true size — with only the United States voting against. — Key takeaways: The UN General Assembly passed a resolution on September 4 urging institutions to adopt maps that better represent countries&#x27; relative sizes, with 164 votes in favor and only the United States against ; The resolution specifically recommends the Equal Earth projection, developed in 2018, as a fairer alternative to the 1569 Mercator projection ; The #CorrectTheMap campaign, spearheaded by Togo and endorsed by the African Union, argues that the Mercator map diminishes Africa&#x27;s significance ; The resolution does not ban the Mercator map but urges governments, schools, and tech companies to use equal-area maps where relative landmass size matters ; Togo will be the first country to update its geography textbooks, aiming to do so before the end of 2026</description>
+        <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>BMW Dates Urban Hands-Free Driving: 2027, Germany First</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260915-autonext-bmw-maps-3d-hands-free-2027.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260915-autonext-bmw-maps-3d-hands-free-2027.html</guid>
+        <description>BMW will launch its unified 3D navigation and driver-assistance view in October 2026, with the next step being semi-automated urban driving guided by navigation — hands-free city driving arriving in Germany from 2027. — Key takeaways: From October 2026, BMW Maps on Operating System X combines navigation, environmental perception, and driver-assistance status into a single 3D view on the central screen ; The system places the car in its own lane at the correct road level on multi-level interchanges, drawing traffic from sensors rather than the map ; BMW&#x27;s next milestone is semi-automated city driving guided by navigation, starting in Germany in 2027 ; Mapbox provides the mapping and rendering layer while HERE supplies the certified high-definition map for redundant lane detection ; The visualization was developed in-house by BMW, running on Mapbox data since Operating System 9 in 2023</description>
+        <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Rhodes College Launches New GIS Undergraduate Certificate Program</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260915-rhodes-college-gis-certificate.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260915-rhodes-college-gis-certificate.html</guid>
+        <description>Rhodes College has launched a Geographic Information Science undergraduate certificate, claiming to be the only liberal arts college offering an interdisciplinary GIS credential that bridges sciences, humanities, and arts. — Key takeaways: Rhodes College now offers a 12-credit GIS Undergraduate Certificate, the first interdisciplinary GIS certificate at an independent liberal arts college ; The program includes a foundational course plus electives like Critical Cartographies, Remote Sensing, Mapping Population Health, and Mapping Oral Histories ; GIS skills are increasingly valued across fields including environmental science, urban planning, public health, data analytics, and historic preservation ; The certificate bridges technical skill-building with critical thinking and writing, leveraging the liberal arts context ; Alumni already working in GIS roles report that the combination of hard GIS skills and soft skills from liberal arts training is highly valuable in the job market</description>
+        <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
 
     <item>
         <title>Wildfire Map Spotlight: Brac Island Fire, Croatia</title>
@@ -350,62 +406,6 @@
         <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260909-aljazeera-maps-russia-ukraine-civilian-targets.html</guid>
         <description>Al Jazeera&#x27;s data visualization maps how both sides in the Russia-Ukraine war have increasingly targeted civilian infrastructure, with drone attacks more than doubling and interception rates falling. — Key takeaways: Russian attacks on Ukrainian civilian infrastructure rose from 5% of all attacks in 2022 to 13% by August 2026 (7,170 incidents), per ACLED data ; Ukrainian attacks on Russian civilian infrastructure rose from 10% in 2022 to 27% by August 2026 (3,560 incidents) ; Donetsk (3,652 attacks) and Belgorod (9,549 attacks) are the most targeted regions on each side ; Drones now dominate the war, replacing artillery as the primary attack method, with Ukraine planning 1,000 drone launches per day ; Missile interception rates fell from 24% in 2025 to 10.2% in 2026 due to dwindling Patriot and IRIS-T interceptor supplies</description>
         <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Mapping the Global Health Landscape: Analysis of Fourteen International Organizations</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260909-kff-mapping-global-health-landscape.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260909-kff-mapping-global-health-landscape.html</guid>
-        <description>KFF published a descriptive mapping of 14 key global health institutions to inform discussions about duplication, synergies, and architectural reform in the global health ecosystem. — Key takeaways: KFF mapped 14 key global health and related international institutions, focusing on their work in low- and middle-income countries (LMICs) ; The mapping examines mandates, governance models, financing structures, and operational approaches across organizations ; Multiple reform efforts are underway: the Lusaka Agenda, the Accra Reset, and WHO&#x27;s Joint Process on Reform of the Global Health Architecture ; The mapping is descriptive, not evaluative — it does not assess organizational performance or effectiveness ; The report is intended to inform discussions about synergies, coordination, duplication, and comparative advantage across entities</description>
-        <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Esri India Launches Free Digital Atlas Program to Make School Geography Genuinely Interesting</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260909-gadgetbridge-esri-india-digital-atlas-schools.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260909-gadgetbridge-esri-india-digital-atlas-schools.html</guid>
-        <description>Esri India launched a free Digital Atlas Program built on ArcGIS Online, giving schoolteachers interactive mapping tools to transform geography from memorization to real-world investigation. — Key takeaways: Esri India launched the Digital Atlas Program, offering interactive digital mapping tools and curriculum-relevant content free to schools across India ; Built on ArcGIS Online, the program provides interactive tools to explore layers of real-world data: population patterns, weather, land use, and more ; The initiative shifts students from asking &quot;where is it&quot; to &quot;why is it there,&quot; examining real-world events like flooding through data ; GIS in classrooms has been linked to measurable gains in analytical skills and stronger STEM performance ; The program targets spatial and geographic literacy — skills that underpin urban planning, disaster management, and climate science</description>
-        <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Google Maps Loses Speedometer and Speed Limits on Android Auto Just Weeks After Launch</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260909-lesnumeriques-google-maps-android-auto-speed-bug.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260909-lesnumeriques-google-maps-android-auto-speed-bug.html</guid>
-        <description>A bug on Android Auto causes Google Maps&#x27; newly launched speedometer and speed limit display to disappear, along with traffic lights and stop signs, while everything works fine on Apple CarPlay. — Key takeaways: Google Maps&#x27; real-time speedometer, deployed on Android Auto in July 2026, has disappeared for many users due to a display bug ; The bug also removes speed limit indicators, and in some cases traffic lights, stop signs, and traffic lines ; Apple CarPlay remains unaffected — the speedometer and all indicators continue working normally ; Some users recovered the feature by leaving the Google Maps and Android Auto beta channels and reinstalling stable versions, but this workaround is inconsistent ; Google has not issued an official fix or statement; Waze is also experiencing display glitches</description>
-        <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Satellite Navigators Concentrate Traffic on Few Roads, Reducing Environmental Benefits</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260909-skytg24-navigatori-satellitari-traffico-ambientale.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260909-skytg24-navigatori-satellitari-traffico-ambientale.html</guid>
-        <description>A study published in Nature Communications shows that when adoption of navigation apps like Google Maps and TomTom exceeds 60–80%, traffic concentrates on few roads and environmental benefits disappear or reverse. — Key takeaways: Research by CNR-Isti, University of Pisa, and Scuola Normale Superiore simulated traffic in Florence, Milan, and Rome using GPS data cross-referenced with Google Maps, TomTom, Bing Maps, and Mapbox routing ; Route diversity decreases up to 14% at full adoption, pushing vehicles toward major arteries and highways ; With light traffic, navigators reduce CO2 emissions; with heavy traffic, benefits only hold below 60–80% adoption ; Beyond that threshold, benefits &quot;attenuate, vanish, or even reverse&quot; — in some Rome scenarios, emissions actually increased ; The study highlights how individual-level optimization algorithms can produce collectively harmful outcomes at scale</description>
-        <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>TomTom&#x27;s New Route Runs Through AI: Discovery Event Reveals Strategic Pivot</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260908-ioplus-tomtom-discovery-event-ai-route.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260908-ioplus-tomtom-discovery-event-ai-route.html</guid>
-        <description>At its TomTom Discovery Event in Amsterdam, the company revealed a fundamental strategic repositioning: maps are no longer primarily for guiding people, but for navigating AI and machines, with Orbis serving as a spatial knowledge layer for autonomous driving and enterprise AI agents. — Key takeaways: TomTom is shifting from 40 years of helping humans understand the physical world to helping intelligent systems and AI understand and move within it ; CEO Mike Schoofs aims to provide the critical safety map layer for more than half of all new European cars by 2030 ; The company has transitioned from hardware (navigation devices with ~40% margins) to pure software (gross margins heading toward 90%) ; Orbis Maps serves as &quot;ground truth&quot; — a uniform, verified reference reality combining OpenStreetMap, Overture Maps, TomTom&#x27;s own data, and vehicle sensor data ; The platform uses more than 5 billion data points to continuously enrich and verify the map, with 2.8 trillion kilometres of worldwide distance data stored ; TomTom has made Orbis APIs and an MCP server available for AI agents to access spatial intelligence ; Location intelligence is identified as a double-digit growth market, with 70-80% of enterprise data containing a spatial component</description>
-        <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Iceland Summons US Ambassador After Trump Posts Map Showing Iceland as US Territory</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260908-noovo-islande-convoque-ambassadeur-carte-trump.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260908-noovo-islande-convoque-ambassadeur-carte-trump.html</guid>
-        <description>Iceland has summoned the US ambassador after President Trump posted a map on Truth Social showing the entire North American continent — including Iceland — covered by the American flag, escalating a series of cartographic provocations that now intersect with Google Maps&#x27; renaming of Lake Ontario to &quot;Lake America.&quot; — Key takeaways: Iceland&#x27;s Foreign Minister Thorgerdur Katrin Gunnarsdottir summoned US Ambassador Billy Long to signal that the image was &quot;totally inappropriate&quot; ; Trump posted the map on Truth Social showing the US, Central America, Canada, Greenland, and Iceland covered by the American flag, with no caption ; The incident follows Trump&#x27;s persistent territorial ambitions regarding Greenland, a Danish autonomous territory whose coast is less than 300 km from Iceland ; Trump previously confused Greenland with Iceland in January 2026 ; Iceland has been independent since 1944, has no army, and relies on NATO and a 1951 bilateral defense agreement with the US for security ; Icelandic voters rejected EU accession negotiations in an August 29 referendum, maintaining their balance of European economic integration and Atlantic defense posture ; The map incident coincides with Google Maps displaying &quot;Lake America&quot; instead of Lake Ontario within the United States</description>
-        <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>This Little-Known Google Maps Setting Saves Your Battery and Mobile Data</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260908-commentcamarche-google-maps-offline-plans-battery-data.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260908-commentcamarche-google-maps-offline-plans-battery-data.html</guid>
-        <description>Google Maps&#x27; offline maps feature can save both battery and mobile data, but a hidden default setting silently updates downloaded maps over cellular data without user confirmation — here&#x27;s how to fix it. — Key takeaways: GPS navigation is one of the most battery-intensive tasks on a smartphone, simultaneously using GPS, screen, CPU, and mobile data ; Google Maps&#x27; offline maps feature allows pre-downloading detailed maps to navigate without a network connection ; Once downloaded, the app no longer needs to constantly request mobile data to display streets and points of interest ; A hidden default setting automatically updates offline maps over both Wi-Fi and cellular data without asking for confirmation ; The update process runs in the background with no notification or visible indication ; Disabling &quot;Automatically update offline maps&quot; and &quot;Automatically download recommended maps&quot; prevents unwanted data consumption ; Restricting offline map updates to Wi-Fi only further protects mobile data allowances</description>
-        <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
     </item>
 
 </channel>
