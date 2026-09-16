@@ -19,12 +19,19 @@ Articles per month:
 2026-05 | ████████████████████████████████ 117<br>
 2026-07 | █████ 10<br>
 2026-08 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 267<br>
-2026-09 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████ 110<br>
+2026-09 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 117<br>
 ## Articles
 
 ### 2026
 
-#### September (110 articles)
+#### September (117 articles)
+- [Drug Dealers Listed on Google Maps as Ordinary Businesses](src/2026-09/20260915-franceinfo-dealers-references-google-maps.md)
+- [BMW and Mapbox Team Up for New 3D View That Makes Driving Easier](src/2026-09/20260915-arenaev-bmw-mapbox-3d-view-driving-easier.md)
+- [BMW Dates Urban Hands-Free Driving: 2027, Germany First](src/2026-09/20260915-autonext-bmw-maps-3d-hands-free-2027.md)
+- [Not Google Maps, Not Waze: 5 Navigation App Alternatives for Android Auto](src/2026-09/20260915-bgr-navigation-app-alternatives-android-auto.md)
+- [Google Maps: Speed Limits and Speedometer Now Display Permanently on Android Auto](src/2026-09/20260915-lesnumeriques-google-maps-speed-permanent-android-auto.md)
+- [World Maps Might Soon Get an Upgrade: The UN Votes to Endorse Equal Earth Projection](src/2026-09/20260915-smithsonian-un-endorses-equal-earth-maps.md)
+- [Rhodes College Launches New GIS Undergraduate Certificate Program](src/2026-09/20260915-rhodes-college-gis-certificate.md)
 - [BMW Maps Displays Navigation and Driver Assistance Information in a Single 3D View](src/2026-09/20260914-pressbmwgroup-bmw-maps-3d-navigation-driver-assistance.md)
 - [Wildfire Map Spotlight: Brac Island Fire, Croatia](src/2026-09/20260914-iqair-wildfire-map-brac-island-croatia.md)
 - [Africa: "Correct The Map" Initiative Adopted by the UN](src/2026-09/20260914-africa24tv-correct-the-map-adopted-un.md)
