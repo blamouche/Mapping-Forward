@@ -1,9 +1,108 @@
 {
   "site": "Mapping Forward",
   "url": "https://mappingforward.fr",
-  "generated": "2026-09-16T06:04:13.974393",
-  "article_count": 930,
+  "generated": "2026-09-17T06:04:10.358046",
+  "article_count": 941,
   "articles": [
+    {
+      "title": "BMW Maps Gets 3D Navigation and Driver Assistance Integration via Mapbox",
+      "url": "https://mappingforward.fr/articles/2026-09/20260916-geekzilla-bmw-maps-3d-navigation-mapbox.html",
+      "date": "2026-09-16",
+      "source": "https://geekzilla.tech/bmw-maps-se-reinventa-con-navegacion-3d-y-asistencia-al-conductor/",
+      "author": "Geekzilla.tech",
+      "keywords": "BMW Maps, Mapbox, 3D navigation, driver assistance, Highway Assistant, Operating System X, lane guidance, connected maps",
+      "elevator_pitch": "BMW announced a major BMW Maps update arriving October 2026 with OS X, combining 3D navigation with driver assistance systems in a single screen view — developed with Mapbox to show real-time lane position, road level, and surrounding environment."
+    },
+    {
+      "title": "Maps Are a Starting Point for Responsible Clean Energy Development",
+      "url": "https://mappingforward.fr/articles/2026-09/20260916-nature-conservancy-clean-energy-maps-community-engagement.html",
+      "date": "2026-09-16",
+      "source": "https://www.nature.org/en-us/what-we-do/our-insights/perspectives/clean-energy-map-data-community-engagement/",
+      "author": "Maya Batres — The Nature Conservancy",
+      "keywords": "clean energy, spatial data, mapping tools, community engagement, renewable energy siting, Clean Energy Compass, environmental justice, GIS",
+      "elevator_pitch": "The Nature Conservancy argues that spatial data mapping tools like its Clean Energy Compass are valuable for early-stage renewable energy siting, but relationship-driven community engagement — not data-driven siting — remains the strongest predictor of project success."
+    },
+    {
+      "title": "Google Maps' Misleading Nine-Hour Detour Spells Plummeting Bookings for West Coast Businesses",
+      "url": "https://mappingforward.fr/articles/2026-09/20260916-thepress-google-maps-detour-nz-west-coast.html",
+      "date": "2026-09-16",
+      "source": "https://www.thepress.co.nz/nz-news/361081290/google-maps-misleading-nine-hour-detour-spells-plummeting-bookings-west-coast-businesses",
+      "author": "The Press (New Zealand)",
+      "keywords": "Google Maps, detour, routing error, New Zealand, West Coast, tourism, SH6, business impact, navigation reliability",
+      "elevator_pitch": "Tourism operators on New Zealand's West Coast report cancellations and plummeting bookings because Google Maps is routing drivers on a misleading nine-hour detour, treating a restricted section of State Highway 6 as fully closed when it remains passable."
+    },
+    {
+      "title": "Android Auto: Better Destination Preview Coming to Google Maps with Photos and AI Summaries",
+      "url": "https://mappingforward.fr/articles/2026-09/20260916-phonandroid-android-auto-google-maps-destination-preview-ai.html",
+      "date": "2026-09-16",
+      "source": "https://www.phonandroid.com/android-auto-un-meilleur-apercu-de-la-destination-sera-affiche-sur-google-maps.html",
+      "author": "Alexandre Schmid — PhonAndroid",
+      "keywords": "Android Auto, Google Maps, destination preview, Gemini AI, photos, UI redesign, navigation",
+      "elevator_pitch": "Android Auto version 17.8 brings a redesigned Google Maps destination preview with photos, Gemini AI-generated summaries, and a reworked interface that moves trip time and distance to a bottom bar."
+    },
+    {
+      "title": "Cameroon Wraps Up Population Census After Two Deadline Extensions, Using Satellite Mapping",
+      "url": "https://mappingforward.fr/articles/2026-09/20260916-cameroon-tribune-census-satellite-mapping.html",
+      "date": "2026-09-16",
+      "source": "https://www.cameroon-tribune.cm/article.html/80700/fr.html/population-agropastoral-census-cameroon-wraps-up-process-two-deadline-extensions",
+      "author": "Cameroon Tribune",
+      "keywords": "Cameroon, population census, satellite mapping, GIS, BUCREP, RGPH-4, GPS tablets, rural settlements, data collection",
+      "elevator_pitch": "Cameroon completed its 4th General Population and Housing Census after two deadline extensions, deploying 33,000 enumerators with GPS-enabled tablets and high-resolution satellite mapping to locate unrecorded rural settlements — preliminary results expected in five months."
+    },
+    {
+      "title": "Drought in Summer 2026 in 12 Maps and Graphs",
+      "url": "https://mappingforward.fr/articles/2026-09/20260916-drought-gov-summer-2026-12-maps-graphs.html",
+      "date": "2026-09-16",
+      "source": "https://www.drought.gov/news/drought-summer-2026-12-maps-and-graphs-2026-09-16",
+      "author": "NOAA/NIDIS",
+      "keywords": "drought, maps, NOAA, NIDIS, climate, temperature, precipitation, wildfire, reservoirs, El Niño, United States",
+      "elevator_pitch": "NOAA's National Integrated Drought Information System presents 12 maps and graphs showing that the contiguous US experienced its warmest June-August on record in 2026, with drought covering nearly half the country, record-low reservoir levels, and a historically strong El Niño developing."
+    },
+    {
+      "title": "High-Resolution European Soil Property Maps Based on LUCAS and AlphaEarth Satellite Embeddings",
+      "url": "https://mappingforward.fr/articles/2026-09/20260916-nature-scientific-data-european-soil-property-maps.html",
+      "date": "2026-09-16",
+      "source": "https://www.nature.com/articles/s41597-026-08273-1",
+      "author": "Nature Scientific Data",
+      "keywords": "soil property maps, LUCAS, satellite embeddings, machine learning, Random Forest, neural networks, precision agriculture, Europe, 10m resolution",
+      "elevator_pitch": "Researchers produced 10-meter resolution soil property maps for all of Europe (EU-27 + UK) using machine learning trained on LUCAS soil datasets with AlphaEarth Foundations satellite embeddings, covering soil texture, pH, bulk density, and coarse fragments — a significant leap from the previous 30–250m resolution."
+    },
+    {
+      "title": "Google Maps affiche enfin la vitesse sans itinéraire actif sur l'écran",
+      "url": "https://mappingforward.fr/articles/2026-09/20260916-generation-nt-google-maps-vitesse-sans-itineraire-android-auto.html",
+      "date": "2026-09-16",
+      "source": "https://www.generation-nt.com/actualites/google-maps-vitesse-sans-itineraire-2081213",
+      "author": "Mathieu M. — Generation-NT",
+      "keywords": "Google Maps, Android Auto, speedometer, speed limits, navigation, car display",
+      "elevator_pitch": "Google deploys a server-side update enabling permanent display of speedometer, speed limits, and stop signs on Android Auto — even without an active navigation route — closing a long-standing gap with Apple CarPlay."
+    },
+    {
+      "title": "TomTom Clarifies AFM Register Change Relating to Co-Founders' Shareholding",
+      "url": "https://mappingforward.fr/articles/2026-09/20260916-tomtom-afm-register-change-cofounders-shareholding.html",
+      "date": "2026-09-16",
+      "source": "https://www.tomtom.com/newsroom/press-releases/general/29626/tomtom-clarifies-afm-register-change-relating-to-co-founders-shareholding/",
+      "author": "TomTom",
+      "keywords": "TomTom, AFM, shareholding, co-founders, Harold Goddijn, Corinne Vigreux, restructuring, corporate",
+      "elevator_pitch": "TomTom confirmed that a change in the Dutch AFM substantial holdings register regarding co-founders Harold Goddijn and Corinne Vigreux is merely an internal restructuring of how their shares are held — their combined 25.6% position remains unchanged."
+    },
+    {
+      "title": "Google Maps Tests New Approach to Prevent Everyone Taking the Same Route",
+      "url": "https://mappingforward.fr/articles/2026-09/20260916-menow-google-maps-traffic-concentration-routing.html",
+      "date": "2026-09-16",
+      "source": "https://www.menow.fr/google-maps-teste-une-nouvelle-approche-pour-eviter-que-tout-le-monde-prenne-la-meme-route/",
+      "author": "Eric Thomas — Menow.fr",
+      "keywords": "Google Maps, traffic routing, congestion, route optimization, network-level optimization, fuel consumption",
+      "elevator_pitch": "Google Maps is testing a system that deliberately sends some drivers on different routes to optimize overall network traffic flow rather than individual trip time — early trials show a 2% increase in average speed and 1% reduction in fuel consumption by modifying only 2% of trips."
+    },
+    {
+      "title": "Aerial Surveys International Awarded GSA Multiple Award Schedule Contract",
+      "url": "https://mappingforward.fr/articles/2026-09/20260916-geoweeknews-aerial-surveys-gsa-contract.html",
+      "date": "2026-09-16",
+      "source": "https://www.geoweeknews.com/articles/aerial-surveys-international-awarded-gsa-multiple-award-schedule-contract/",
+      "author": "Geo Week News",
+      "keywords": "Aerial Surveys International, GSA, government contract, GIS, aerial imagery, LiDAR, geospatial, federal procurement, TrinityGEO",
+      "elevator_pitch": "Aerial Surveys International has been awarded a GSA Multiple Award Schedule contract, enabling federal, state, local, and tribal agencies to directly procure its GIS and Earth observation services — including aerial imagery, LiDAR, and geospatial analytics — as a prime contractor."
+    },
     {
       "title": "Google Maps: Speed Limits and Speedometer Now Display Permanently on Android Auto",
       "url": "https://mappingforward.fr/articles/2026-09/20260915-lesnumeriques-google-maps-speed-permanent-android-auto.html",

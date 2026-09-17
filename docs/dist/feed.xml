@@ -6,7 +6,95 @@
     <description>Daily synthesis of articles on cartography, mapping, geospatial data, and geographic intelligence</description>
     <language>en</language>
     <atom:link href="https://mappingforward.fr/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 16 Sep 2026 06:04:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 06:04:10 +0000</lastBuildDate>
+
+    <item>
+        <title>BMW Maps Gets 3D Navigation and Driver Assistance Integration via Mapbox</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260916-geekzilla-bmw-maps-3d-navigation-mapbox.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260916-geekzilla-bmw-maps-3d-navigation-mapbox.html</guid>
+        <description>BMW announced a major BMW Maps update arriving October 2026 with OS X, combining 3D navigation with driver assistance systems in a single screen view — developed with Mapbox to show real-time lane position, road level, and surrounding environment. — Key takeaways: BMW Maps update arriving October 2026 for vehicles equipped with BMW Operating System X ; The update combines 3D navigation with driver assistance systems, showing route, environment, and exact vehicle position in a single view ; Developed in collaboration with Mapbox for more precise environmental representation ; Real-time display includes current lane, road level, and nearby environment through 3D graphics ; Highway Assistant system can assist driving on compatible highways at up to 130 km/h with automatic lane changes ; Semi-automated urban driving assistance planned for 2027 in select markets where regulation permits ; Availability depends on vehicle equipment and local regulations; no timeline for Latin American markets yet</description>
+        <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Maps Are a Starting Point for Responsible Clean Energy Development</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260916-nature-conservancy-clean-energy-maps-community-engagement.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260916-nature-conservancy-clean-energy-maps-community-engagement.html</guid>
+        <description>The Nature Conservancy argues that spatial data mapping tools like its Clean Energy Compass are valuable for early-stage renewable energy siting, but relationship-driven community engagement — not data-driven siting — remains the strongest predictor of project success. — Key takeaways: The Nature Conservancy&#x27;s Clean Energy Compass is an interactive mapping tool for early clean energy planning that incorporates conservation and community considerations ; Mapping tools now include socioeconomic and environmental vulnerability indicators (income, pollution exposure, health burdens, energy affordability) to identify community-level impacts ; Maps can highlight opportunities like brownfields and landfills for renewable energy redevelopment, aligning clean energy goals with land restoration ; Despite their value, maps have limitations: spatial datasets lack local detail, cannot capture community experiences, and may reinforce inequities if used without care ; Early, meaningful community engagement is the strongest predictor of renewable energy project success and long-term acceptance ; Relationship-driven planning, not data-driven siting, is the key to accelerating the clean energy transition</description>
+        <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Google Maps&#x27; Misleading Nine-Hour Detour Spells Plummeting Bookings for West Coast Businesses</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260916-thepress-google-maps-detour-nz-west-coast.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260916-thepress-google-maps-detour-nz-west-coast.html</guid>
+        <description>Tourism operators on New Zealand&#x27;s West Coast report cancellations and plummeting bookings because Google Maps is routing drivers on a misleading nine-hour detour, treating a restricted section of State Highway 6 as fully closed when it remains passable. — Key takeaways: Google Maps is treating a restricted section of New Zealand&#x27;s State Highway 6 as completely closed, routing drivers on a nine-hour detour ; Tourism operators report visitors cancelling bookings due to the misleading routing information ; The restricted SH6 section remains passable, but Google Maps does not reflect this nuance ; The issue highlights the real-world economic impact of mapping errors on local businesses dependent on accurate navigation data ; This is another example of navigation apps causing problems by not accurately reflecting road conditions</description>
+        <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Android Auto: Better Destination Preview Coming to Google Maps with Photos and AI Summaries</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260916-phonandroid-android-auto-google-maps-destination-preview-ai.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260916-phonandroid-android-auto-google-maps-destination-preview-ai.html</guid>
+        <description>Android Auto version 17.8 brings a redesigned Google Maps destination preview with photos, Gemini AI-generated summaries, and a reworked interface that moves trip time and distance to a bottom bar. — Key takeaways: Android Auto 17.8 update adds photos and AI-generated summaries to Google Maps destination previews, a feature previously only available on smartphones ; Google redesigned the entire UI: trip time and distance now display in a bottom horizontal bar that can be expanded for alternate routes and stops ; Destination photos can be viewed in a dedicated gallery, eliminating the need to check the phone ; A Gemini-generated summary helps drivers confirm the correct destination and anticipate what to expect before arriving ; Features are ready but not yet officially deployed by Google; changes may occur before general availability</description>
+        <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Cameroon Wraps Up Population Census After Two Deadline Extensions, Using Satellite Mapping</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260916-cameroon-tribune-census-satellite-mapping.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260916-cameroon-tribune-census-satellite-mapping.html</guid>
+        <description>Cameroon completed its 4th General Population and Housing Census after two deadline extensions, deploying 33,000 enumerators with GPS-enabled tablets and high-resolution satellite mapping to locate unrecorded rural settlements — preliminary results expected in five months. — Key takeaways: Cameroon&#x27;s RGPH-4 census ran from April 24 to September 15, 2026, extended twice by the Prime Minister due to operational hurdles ; Over 33,000 enumerators deployed with encrypted, GPS-enabled mobile tablets for real-time data transmission ; High-resolution satellite mapping was incorporated during the first extension to locate unrecorded rural settlements ; The census was conducted jointly with the General Census of Agriculture and Livestock (RGAE) — a first for Cameroon ; The 2026 census replaces over two decades of projections; the last official census (2005) recorded 17,463,836 inhabitants ; Estimated population prior to census: over 28.8 million; preliminary results expected within five months ; The fully digital CAPI model contrasts sharply with the paper-based 2005 census, whose results took over four years to publish</description>
+        <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Drought in Summer 2026 in 12 Maps and Graphs</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260916-drought-gov-summer-2026-12-maps-graphs.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260916-drought-gov-summer-2026-12-maps-graphs.html</guid>
+        <description>NOAA&#x27;s National Integrated Drought Information System presents 12 maps and graphs showing that the contiguous US experienced its warmest June-August on record in 2026, with drought covering nearly half the country, record-low reservoir levels, and a historically strong El Niño developing. — Key takeaways: The contiguous US experienced its warmest June-August on record in 2026, exceeding previous records from 1936 and 2021 by 0.4°F ; Drought covered nearly half the country, sustained by below-normal precipitation and above-normal temperatures ; Major western reservoirs Lake Mead and Lake Powell hit all-time record lows ; The extreme conditions fueled a destructive wildfire season with unhealthy smoke levels across large parts of the US ; A potentially historically strong El Niño is projected to continue developing through fall and winter ; Flash drought is worsening in the Southern Plains and Lower Mississippi River Basin ; High evaporative demand was observed across almost every CONUS state, especially Colorado</description>
+        <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>High-Resolution European Soil Property Maps Based on LUCAS and AlphaEarth Satellite Embeddings</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260916-nature-scientific-data-european-soil-property-maps.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260916-nature-scientific-data-european-soil-property-maps.html</guid>
+        <description>Researchers produced 10-meter resolution soil property maps for all of Europe (EU-27 + UK) using machine learning trained on LUCAS soil datasets with AlphaEarth Foundations satellite embeddings, covering soil texture, pH, bulk density, and coarse fragments — a significant leap from the previous 30–250m resolution. — Key takeaways: 10 m resolution soil property maps produced for EU-27 + UK, covering clay, silt, sand content, coarse fragments, pH, and bulk density ; Previous European soil maps ranged from 250 m to 30 m resolution depending on the property; this work closes the resolution gap ; Machine learning workflow trained on LUCAS soil datasets using AlphaEarth Foundations satellite embeddings as predictors ; Artificial Neural Networks outperformed Random Forests, with R² values ranging from 0.21 (coarse fragments) to 0.69 (pH) ; Uncertainty estimate maps were produced using Monte Carlo dropout ; Maps support precision agriculture, soil health assessment at field scale, and spatial planning</description>
+        <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Google Maps affiche enfin la vitesse sans itinéraire actif sur l&#x27;écran</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260916-generation-nt-google-maps-vitesse-sans-itineraire-android-auto.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260916-generation-nt-google-maps-vitesse-sans-itineraire-android-auto.html</guid>
+        <description>Google deploys a server-side update enabling permanent display of speedometer, speed limits, and stop signs on Android Auto — even without an active navigation route — closing a long-standing gap with Apple CarPlay. — Key takeaways: Google Maps now displays real-time speed, speed limits, and stop signs permanently on Android Auto screens without requiring an active route ; The update is rolling out progressively via server-side flags; users need the latest app version but no manual action ; A recent display bug temporarily removed the speedometer for some users after cache clearing; Google confirmed it was isolated and a fix is being distributed ; Apple CarPlay already had this persistent speed display, highlighting a feature gap Google has now closed</description>
+        <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>TomTom Clarifies AFM Register Change Relating to Co-Founders&#x27; Shareholding</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260916-tomtom-afm-register-change-cofounders-shareholding.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260916-tomtom-afm-register-change-cofounders-shareholding.html</guid>
+        <description>TomTom confirmed that a change in the Dutch AFM substantial holdings register regarding co-founders Harold Goddijn and Corinne Vigreux is merely an internal restructuring of how their shares are held — their combined 25.6% position remains unchanged. — Key takeaways: TomTom co-founders Harold Goddijn and Corinne Vigreux restructured how their TomTom shares are held, triggering an AFM register update ; Their total combined position remains 31,971,749 shares, representing 25.6% of total shares — no change in actual shareholding ; The restructuring was reported to the Dutch Authority for the Financial Markets (AFM) in accordance with regulations ; Both co-founders reaffirmed their commitment to TomTom&#x27;s strategy, technology, and people</description>
+        <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Google Maps Tests New Approach to Prevent Everyone Taking the Same Route</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260916-menow-google-maps-traffic-concentration-routing.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260916-menow-google-maps-traffic-concentration-routing.html</guid>
+        <description>Google Maps is testing a system that deliberately sends some drivers on different routes to optimize overall network traffic flow rather than individual trip time — early trials show a 2% increase in average speed and 1% reduction in fuel consumption by modifying only 2% of trips. — Key takeaways: Google Maps is experimenting with routing that optimizes global traffic flow rather than each driver&#x27;s individual fastest path ; The system selectively redirects only some drivers to alternate routes, preventing secondary roads from becoming saturated when a main road has an incident ; Trials in major American cities modified only about 2% of trips but achieved ~2% increase in average speed and ~1% reduction in fuel consumption ; Current GPS apps share a weakness: when an accident or congestion blocks a main road, thousands of drivers receive the same detour, simply moving the problem elsewhere ; The approach represents a shift from individual optimization to network-level traffic management</description>
+        <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Aerial Surveys International Awarded GSA Multiple Award Schedule Contract</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260916-geoweeknews-aerial-surveys-gsa-contract.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260916-geoweeknews-aerial-surveys-gsa-contract.html</guid>
+        <description>Aerial Surveys International has been awarded a GSA Multiple Award Schedule contract, enabling federal, state, local, and tribal agencies to directly procure its GIS and Earth observation services — including aerial imagery, LiDAR, and geospatial analytics — as a prime contractor. — Key takeaways: Aerial Surveys International (ASIntl) awarded GSA Multiple Award Schedule (MAS) contract for GIS and Earth observation services ; Contract covers SIN 541370GIS (GIS services) and SIN 541370GEO (Earth observation solutions) — placing ASIntl among select contractors authorized for both under a single GSA vehicle ; Federal agencies including USGS, USDA, NOAA, USFS, FEMA, DHS, NGA, and FAA can now issue task orders directly without separate competitive procurement ; ASIntl maintains teaming agreements with 27 partner organizations representing nearly 4,000 professionals ; The award strengthens the TrinityGEO geospatial intelligence framework developed with Polygon Solutions and Urban Hawk ; State, local, and tribal governments also gain direct access for disaster preparedness and emergency response GIS purchases</description>
+        <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
 
     <item>
         <title>Google Maps: Speed Limits and Speedometer Now Display Permanently on Android Auto</title>
@@ -318,94 +406,6 @@
         <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260910-automobil-revue-xpeng-google-maps-navigation.html</guid>
         <description>Chinese automaker Xpeng has integrated Google Maps cartographic data and navigation capabilities directly into its embedded vehicle navigation system — not as an app, but as a native integration of Google&#x27;s mapping data. — Key takeaways: Google Maps data arrives natively in Xpeng vehicles, not as a standalone application ; Xpeng integrates Google&#x27;s cartographic data and navigational APIs for the first time ; This makes Xpeng the first Chinese automaker to natively integrate Google Maps data ; The integration provides real-time cartographic data and navigation features ; Previous coverage noted Xpeng&#x27;s integration of Google Maps Auto SDK in August 2026</description>
         <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Correcting the Map, as We Must, and Yet Still</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260910-verfassungsblog-correct-the-map-resolution.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260910-verfassungsblog-correct-the-map-resolution.html</guid>
-        <description>A legal scholar analyzes the UN&#x27;s &quot;Correct the Map&quot; resolution (A/RES/80/297), arguing that correcting cartographic representation is a matter of cognitive justice — recognizing and contesting inherited colonial ways of seeing the world. — Key takeaways: 164 UN Member States adopted resolution A/RES/80/297, with only one voting against ; The resolution was led by Togo on behalf of the African Group, building on an African Union campaign ; The Equal Earth projection was developed in 2018 by researchers at Esri, US National Park Service, and Monash University ; Togo&#x27;s Foreign Minister Robert Dussey framed the issue as &quot;cognitive justice&quot; — access to geographical knowledge, dignity, and historical memory ; The Mercator projection &quot;midwifed a particular global socio-economic and political order&quot; centered on Europe ; The author argues that no perfectly neutral map exists; every projection involves choices about what to preserve</description>
-        <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Will the UN Decision Change Our World Maps?</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260910-ledevoir-onu-cartes-monde-equal-earth.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260910-ledevoir-onu-cartes-monde-equal-earth.html</guid>
-        <description>The UN General Assembly adopted a resolution with 164 votes in favor and one against, calling for world maps to use representations that more faithfully reflect the relative size of continents — favoring the Equal Earth projection over the colonial-era Mercator projection. — Key takeaways: The resolution was passed with 164 votes for and 1 against, presented by a coalition of African countries led by Togo ; The Equal Earth projection, developed in 2018, preserves proportional area while accepting distortions elsewhere ; Greenland appears similar in size to Africa on Mercator maps, but Africa is actually 14 times larger ; Brazil appears the same size as Alaska on Mercator but is in reality five times larger ; UQAM geography professor Rodolphe Gonzalès frames this as a &quot;symbolic injustice, a geometric injustice between North and South&quot; ; Google Maps and other navigators predominantly use Mercator because it enables smooth zoom</description>
-        <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>California Keeps Widening Roads. Traffic Keeps Getting Worse.</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260910-governing-california-road-widening-tomtom-traffic.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260910-governing-california-road-widening-tomtom-traffic.html</guid>
-        <description>California ranks as the third most congested state in the US according to the TomTom Traffic Index, and billions spent on road widening show no clear evidence of reducing traffic — illustrating the phenomenon of induced demand. — Key takeaways: California was the 3rd most congested state in the US in the 2025 TomTom Traffic Index ; Los Angeles ranked 25th worldwide for worst average congestion, with 59.8% time lost to traffic ; LA drivers lose 83 hours during rush hour per year; San Francisco has the 6th worst congestion in North America ; San Francisco has the lowest average speed (12.6 mph) and lowest average distance in 15 minutes (4.5 miles) in the US ; The American Society of Civil Engineers gave California roadways a &quot;D&quot; grade ; Transport for America reports that &quot;expanding highways to improve traffic flow can actually increase congestion by encouraging people to drive more&quot; ; Nearly one-third of California&#x27;s roads are in poor condition</description>
-        <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Geo Week Announces Strategic Partnerships for 2027 Event</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260910-amerisurv-geo-week-2027-strategic-partnerships.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260910-amerisurv-geo-week-2027-strategic-partnerships.html</guid>
-        <description>Geo Week 2027 has announced its strategic partnerships including event partners ASPRS and Reality Capture Network, industry partners including GISCI, ISPRS, and NSPS, and 185+ supporting partner organizations spanning six continents. — Key takeaways: Geo Week 2027 will take place February 23-25, 2027, in Salt Lake City, Utah ; Event Partners: ASPRS (American Society for Photogrammetry and Remote Sensing) and Reality Capture Network (RCN) ; Industry Partners include GISCI, ISPRS, MAPPS, NSPS, OGC, USGIF, USIBD, and WGIC ; New partnerships with Utah-based organizations UGIC and SLUG reflect local community engagement ; Women in GIS will participate, strengthening diversity initiatives ; 185+ supporting partner organizations span six continents ; Registration is open with Super Saver pricing</description>
-        <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Google Maps Begins Blurring South Korean Military Sites and the DMZ</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260910-kbs-google-maps-blurring-south-korea-dmz.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260910-kbs-google-maps-blurring-south-korea-dmz.html</guid>
-        <description>Google Maps has begun blurring satellite imagery of military sites in South Korea and the Demilitarized Zone (DMZ), complying with South Korean security regulations regarding the publication of sensitive military installations. — Key takeaways: Google Maps has started blurring satellite imagery of South Korean military sites ; The DMZ (Demilitarized Zone) imagery is also being blurred ; This follows South Korean security regulations regarding sensitive military installations ; The blurring affects satellite view imagery visible to all Google Maps users ; South Korea has long requested satellite platforms to obscure military installations</description>
-        <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Japan Seeks Change to New UN World Map Over Russia &#x27;Misconception&#x27;</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260910-guardian-japan-un-world-map-russia-kuril.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260910-guardian-japan-un-world-map-russia-kuril.html</guid>
-        <description>Japan has formally requested changes to the new UN &quot;true-scale&quot; world map, arguing that it depicts the disputed Kuril Islands as ruled by Moscow — a depiction Tokyo considers a &quot;misconception&quot; of its territorial sovereignty. — Key takeaways: The new &#x27;true-scale&#x27; map shrinks Europe and North America while enlarging Africa ; Japan objects to the map showing the disputed Kuril Islands as Russian territory ; The Kuril Islands have been disputed between Japan and Russia since WWII ; Japan&#x27;s objection highlights how map representations carry political and territorial implications beyond mere cartographic accuracy ; The UN adopted the Equal Earth-type map with 164 votes for and 1 against</description>
-        <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Esri and Saint Louis University to Advance Geospatial Research and Innovation</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260910-gim-international-esri-slu-geospatial-research.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260910-gim-international-esri-slu-geospatial-research.html</guid>
-        <description>Esri has entered into an official partnership with Saint Louis University&#x27;s Geospatial Institute (GeoSLU) to advance GIS research addressing global challenges including climate change, food security, and economic stability, with both organizations affiliated with the National Geospatial-Intelligence Agency. — Key takeaways: Saint Louis University recently founded the Geospatial Institute (GeoSLU) ; Both SLU and Esri are affiliated with the National Geospatial-Intelligence Agency (NGA) ; Esri has collaborated with NGA for 30 years; SLU signed a CRADA with NGA last year ; Projects include an &quot;Ideathon&quot; called &quot;Saving the Herd with AI&quot; using ArcGIS Online to counter wildlife trafficking ; Jack Dangermond, Esri founder, will participate at Geo-Resolution, a geospatial collaboration event ; Research focus areas include climate change, access to food and clean water, and economic stability</description>
-        <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Field Evaluation of Photogrammetric SLAM for Infrastructure Asset Mapping</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260910-geoweeknews-photogrammetric-slam-infrastructure-asset-mapping.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260910-geoweeknews-photogrammetric-slam-infrastructure-asset-mapping.html</guid>
-        <description>A field evaluation at BCIT compares Looq AI&#x27;s handheld photogrammetric mapping platform against Total Station and GNSS RTK survey methods for infrastructure asset mapping, finding that the system can support precision mapping when used with rigorous survey control protocols. — Key takeaways: Looq AI&#x27;s Platform combines imagery, GNSS, and inertial sensing to produce georeferenced 3D data ; Evaluation conducted on a 150m x 50m outdoor plaza at BCIT Burnaby campus with ~45-47 manhole/utility features ; Reference framework established via Leica TS13 Robotic Total Station with closed traverse tied to BCIT geodetic network ; Leica GS06 GNSS RTK receiver provided comparison via Leica SmartNet CORS network ; In the no-control test, the Looq dataset exceeded the 50mm tolerance for GIS asset management ; With external ground control alignment, accuracy improved significantly ; Wet surface conditions from post-rain capture did not significantly affect geometry or detection accuracy</description>
-        <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>AI Maps Global Methane Emissions from Space with NASA&#x27;s EMIT Instrument</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260909-googleblog-mapl-emit-methane-emissions-space.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260909-googleblog-mapl-emit-methane-emissions-space.html</guid>
-        <description>Google and NASA JPL introduced MAPL-EMIT, an AI model that detects 50% more methane plumes than human experts by analyzing satellite imagery, identifying over 23,000 additional plumes globally. — Key takeaways: MAPL-EMIT is a deep learning model from Google Research and NASA&#x27;s Jet Propulsion Laboratory, published in PNAS ; Trained on 3.6 million physics-simulated methane plumes, it detects 50% more plumes than human experts ; The model identified over 23,000 additional plumes globally, including 24 of the 25 world&#x27;s largest-emitting landfills ; Methane has 30 times the warming potential of CO2 over a 100-year timeframe ; Google released the global plume database on Earth Engine, with open-source models on Kaggle and GitHub</description>
-        <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Extending the TomTom Maps and Navigation SDK Android Example App with Claude Code</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260909-tomtom-sdk-android-claude-code.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260909-tomtom-sdk-android-claude-code.html</guid>
-        <description>TomTom demonstrates how Claude Code can extend its Android Maps and Navigation SDK example app by building a Route Instructions Panel feature, documenting pitfalls in a reusable skill file. — Key takeaways: TomTom used Anthropic&#x27;s Claude Code AI agent to build a Route Instructions Panel — a draggable bottom sheet listing every maneuver on a planned route — on top of their Android SDK example app ; The agent mapped nine routing instruction subtypes (departures, turns, forks, merges, roundabouts, highway exits, tollgates, arrivals) to icons and natural-language phrases ; Key challenges included type-shape surprises in the SDK (e.g., `Road.name` returning `TextWithPhonetics?` not `String?`), packages in unexpected locations, and experimental Compose APIs that compile but crash at runtime ; The experiment is fully reproducible: prompt, CLAUDE.md, and skill file are published in a GitHub repo, pinned to exact app commit and SDK version ; The Superpowers plugin by Jesse Vincent was used to add workflow skills on top of Claude Code</description>
-        <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>In Maps and Charts: Russian and Ukrainian Attacks on Civilian Targets</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260909-aljazeera-maps-russia-ukraine-civilian-targets.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260909-aljazeera-maps-russia-ukraine-civilian-targets.html</guid>
-        <description>Al Jazeera&#x27;s data visualization maps how both sides in the Russia-Ukraine war have increasingly targeted civilian infrastructure, with drone attacks more than doubling and interception rates falling. — Key takeaways: Russian attacks on Ukrainian civilian infrastructure rose from 5% of all attacks in 2022 to 13% by August 2026 (7,170 incidents), per ACLED data ; Ukrainian attacks on Russian civilian infrastructure rose from 10% in 2022 to 27% by August 2026 (3,560 incidents) ; Donetsk (3,652 attacks) and Belgorod (9,549 attacks) are the most targeted regions on each side ; Drones now dominate the war, replacing artillery as the primary attack method, with Ukraine planning 1,000 drone launches per day ; Missile interception rates fell from 24% in 2025 to 10.2% in 2026 due to dwindling Patriot and IRIS-T interceptor supplies</description>
-        <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
     </item>
 
 </channel>
