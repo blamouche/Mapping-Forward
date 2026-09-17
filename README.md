@@ -19,12 +19,23 @@ Articles per month:
 2026-05 | ████████████████████████████████ 117<br>
 2026-07 | █████ 10<br>
 2026-08 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 267<br>
-2026-09 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 117<br>
+2026-09 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 128<br>
 ## Articles
 
 ### 2026
 
-#### September (117 articles)
+#### September (128 articles)
+- [Cameroon Wraps Up Population Census After Two Deadline Extensions, Using Satellite Mapping](src/2026-09/20260916-cameroon-tribune-census-satellite-mapping.md)
+- [Aerial Surveys International Awarded GSA Multiple Award Schedule Contract](src/2026-09/20260916-geoweeknews-aerial-surveys-gsa-contract.md)
+- [TomTom Clarifies AFM Register Change Relating to Co-Founders' Shareholding](src/2026-09/20260916-tomtom-afm-register-change-cofounders-shareholding.md)
+- [High-Resolution European Soil Property Maps Based on LUCAS and AlphaEarth Satellite Embeddings](src/2026-09/20260916-nature-scientific-data-european-soil-property-maps.md)
+- [Maps Are a Starting Point for Responsible Clean Energy Development](src/2026-09/20260916-nature-conservancy-clean-energy-maps-community-engagement.md)
+- [Drought in Summer 2026 in 12 Maps and Graphs](src/2026-09/20260916-drought-gov-summer-2026-12-maps-graphs.md)
+- [Google Maps' Misleading Nine-Hour Detour Spells Plummeting Bookings for West Coast Businesses](src/2026-09/20260916-thepress-google-maps-detour-nz-west-coast.md)
+- [Google Maps Tests New Approach to Prevent Everyone Taking the Same Route](src/2026-09/20260916-menow-google-maps-traffic-concentration-routing.md)
+- [Android Auto: Better Destination Preview Coming to Google Maps with Photos and AI Summaries](src/2026-09/20260916-phonandroid-android-auto-google-maps-destination-preview-ai.md)
+- [Google Maps affiche enfin la vitesse sans itinéraire actif sur l'écran](src/2026-09/20260916-generation-nt-google-maps-vitesse-sans-itineraire-android-auto.md)
+- [BMW Maps Gets 3D Navigation and Driver Assistance Integration via Mapbox](src/2026-09/20260916-geekzilla-bmw-maps-3d-navigation-mapbox.md)
 - [Drug Dealers Listed on Google Maps as Ordinary Businesses](src/2026-09/20260915-franceinfo-dealers-references-google-maps.md)
 - [BMW and Mapbox Team Up for New 3D View That Makes Driving Easier](src/2026-09/20260915-arenaev-bmw-mapbox-3d-view-driving-easier.md)
 - [BMW Dates Urban Hands-Free Driving: 2027, Germany First](src/2026-09/20260915-autonext-bmw-maps-3d-hands-free-2027.md)
