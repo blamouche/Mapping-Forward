@@ -1,9 +1,99 @@
 {
   "site": "Mapping Forward",
   "url": "https://mappingforward.fr",
-  "generated": "2026-09-17T06:04:10.358046",
-  "article_count": 941,
+  "generated": "2026-09-18T06:05:13.827704",
+  "article_count": 951,
   "articles": [
+    {
+      "title": "Amateur Astronomer Discovers 390-Million-Year-Old Crater on Google Maps",
+      "url": "https://mappingforward.fr/articles/2026-09/20260917-futura-sciences-crater-google-maps-quebec.html",
+      "date": "2026-09-17",
+      "source": "https://www.futura-sciences.com/en/he-was-picking-a-campsite-on-google-maps-when-he-noticed-a-circle-it-turned-out-to-be-a-15-mile-crater-nobody-had-recorded-g1_900175/",
+      "author": "Futura Sciences",
+      "keywords": "Google Maps, crater, meteorite, Quebec, impact structure, satellite imagery, shock metamorphism, planetary geology, discovery",
+      "elevator_pitch": "An amateur astronomer planning a camping trip on Google Maps spotted a near-perfect 15-mile ring in Quebec's Côte-Nord region that turned out to be a previously unrecorded 390-million-year-old meteorite impact crater — the first confirmed crater discovery by a member of the public."
+    },
+    {
+      "title": "Gujarat to Geo-Tag and Map Manufacturing MSMEs on PM Gati Shakti Portal",
+      "url": "https://mappingforward.fr/articles/2026-09/20260917-deshgujarat-msme-gis-geo-tagging-gati-shakti.html",
+      "date": "2026-09-17",
+      "source": "https://deshgujarat.com/2026/09/17/gujarat-to-geo-tag-map-manufacturing-msmes-on-pm-gati-shakti-portal/",
+      "author": "DeshGujarat",
+      "keywords": "Gujarat, MSME, GIS, geo-tagging, PM Gati Shakti, RAMP scheme, Udyog Portal, industrial mapping, infrastructure planning",
+      "elevator_pitch": "The Gujarat government is undertaking a statewide GIS-based geo-tagging and mapping exercise of manufacturing MSMEs, integrating the data with the PM Gati Shakti national infrastructure portal to enable data-driven planning and infrastructure development."
+    },
+    {
+      "title": "September 16, 2026 — Kīlauea Summit Eruption Reference Map",
+      "url": "https://mappingforward.fr/articles/2026-09/20260917-usgs-kilauea-summit-eruption-reference-map.html",
+      "date": "2026-09-17",
+      "source": "https://www.usgs.gov/media/images/september-16-2026-kilauea-summit-eruption-reference-map",
+      "author": "USGS Hawaiian Volcano Observatory",
+      "keywords": "USGS, Kīlauea, eruption, reference map, Hawaii, volcanic, Halemaʻumaʻu, overflight, volcanic observatory",
+      "elevator_pitch": "The USGS Hawaiian Volcano Observatory published a reference map of the Kīlauea summit eruption on September 16, 2026, based on helicopter overflight data collected during the eruption's early hours."
+    },
+    {
+      "title": "How AI Object Detection Is Changing What \"Imagery\" Means",
+      "url": "https://mappingforward.fr/articles/2026-09/20260917-geoweeknews-ai-object-detection-imagery.html",
+      "date": "2026-09-17",
+      "source": "https://www.geoweeknews.com/articles/how-ai-object-detection-is-changing-what-imagery-means/",
+      "author": "Geo Week News",
+      "keywords": "AI, object detection, satellite imagery, remote sensing, computer vision, foundation models, temporal detection, geospatial intelligence, Prithvi, SatlasPretrain",
+      "elevator_pitch": "Geo Week News examines how AI object detection is transforming satellite imagery from pictures that humans look at into queryable spatial databases, drawing an analogy to how full-text search changed our relationship with documents."
+    },
+    {
+      "title": "Mapbox Announces Location Infrastructure for AI",
+      "url": "https://mappingforward.fr/articles/2026-09/20260917-prnewswire-mapbox-location-infrastructure-ai.html",
+      "date": "2026-09-17",
+      "source": "https://www.prnewswire.com/news-releases/mapbox-announces-location-infrastructure-for-ai-mapbox-announces-location-infrastructure-for-ai-302882326.html",
+      "author": "PR Newswire / Mapbox",
+      "keywords": "Mapbox, AI, location infrastructure, agentic mapping engine, Places API, Traffic 2.0, natural language search, agents, geospatial",
+      "elevator_pitch": "Mapbox introduced a comprehensive suite of AI-focused location services at its BUILD conference, including an agentic mapping engine, a new Places API with 250 million POIs, Traffic 2.0 with 98% ETA accuracy, and tools for AI agents to interact with maps programmatically."
+    },
+    {
+      "title": "Ladakh Orders Spatial Mapping of Changthang Wildlife Sanctuary",
+      "url": "https://mappingforward.fr/articles/2026-09/20260917-tribuneindia-changthang-wildlife-sanctuary-spatial-mapping-ladakh.html",
+      "date": "2026-09-17",
+      "source": "https://www.tribuneindia.com/news/j-k/ladakh-l-g-orders-settlement-of-wildlife-sanctuary-rights-claims-within-two-months/",
+      "author": "PTI / The Tribune",
+      "keywords": "Ladakh, Changthang, wildlife sanctuary, spatial mapping, GIS, GPS, geo-referencing, satellite imagery, boundary review, defence installations",
+      "elevator_pitch": "The Ladakh administration has ordered spatial mapping and field verification of the Changthang Cold Desert Wildlife Sanctuary using GPS/GIS and satellite imagery, in a process that balances community rights, wildlife conservation, and national security concerns in a strategic border region."
+    },
+    {
+      "title": "Tannée du trafic, une étudiante crée une carte interactive des travaux à Montréal",
+      "url": "https://mappingforward.fr/articles/2026-09/20260917-tvanouvelles-montreal-carte-interactive-travaux.html",
+      "date": "2026-09-17",
+      "source": "https://www.tvanouvelles.ca/2026/09/17/une-ingenieure-creee-une-carte-interactive-des-travaux-routiers-a-montreal",
+      "author": "Agence QMI / TVA Nouvelles",
+      "keywords": "Montreal, road works, interactive map, crowdsourcing, AI, traffic, Google Maps, cestdejalenfer.ca",
+      "elevator_pitch": "A computer engineering student in Montreal built an interactive platform that aggregates road construction data from 20 municipalities in the Greater Montreal area, using AI to fill gaps where official sources and Google Maps fall behind."
+    },
+    {
+      "title": "A fairer world map – but old borders creep back in",
+      "url": "https://mappingforward.fr/articles/2026-09/20260917-lowyinstitute-fairer-world-map-borders.html",
+      "date": "2026-09-18",
+      "source": "https://www.lowyinstitute.org/the-interpreter/a-fairer-world-map-but-old-borders-creep-back-in",
+      "author": "Abhinandan Kumar / Lowy Institute",
+      "keywords": "UN, Equal Earth, Mercator, Correct the Map, cartography, sovereignty, borders, Africa, projections, geopolitics",
+      "elevator_pitch": "The Lowy Institute analyzes how the UN's \"Correct the Map\" resolution, intended to replace the Mercator projection with equal-area alternatives, has become entangled in sovereignty disputes as countries object to how the new maps depict contested territories."
+    },
+    {
+      "title": "Google Maps et Waze intègrent un lecteur audio pour les conducteurs sans Android Auto",
+      "url": "https://mappingforward.fr/articles/2026-09/20260917-phonandroid-google-maps-waze-lecteur-audio-integre.html",
+      "date": "2026-09-17",
+      "source": "https://www.phonandroid.com/pas-dandroid-auto-ne-jonglez-plus-entre-votre-musique-et-votre-gps-grace-a-cette-astuce-gratuite-sur-google-maps.html",
+      "author": "Céline Demoineret / PhonAndroid",
+      "keywords": "Google Maps, Waze, audio player, streaming, navigation, Android Auto, CarPlay, Spotify, driving",
+      "elevator_pitch": "PhonAndroid reveals a little-known native feature in Google Maps and Waze that lets drivers control music streaming apps directly from the navigation interface — no Android Auto or CarPlay required."
+    },
+    {
+      "title": "D'après les avis laissés sur Google Maps, la plus belle forêt de France se situe en Provence",
+      "url": "https://mappingforward.fr/articles/2026-09/20260917-tameteo-google-mavis-foret-france-provence.html",
+      "date": "2026-09-17",
+      "source": "https://www.tameteo.com/actualites/loisirs/d-apres-les-avis-laisses-sur-google-maps-la-plus-belle-foret-de-france-se-situe-en-provence.html",
+      "author": "Tameteo.com",
+      "keywords": "Google Maps, reviews, forests, France, Sainte-Baume, Huelgoat, Aïtone, Holidu, rankings",
+      "elevator_pitch": "A ranking by vacation rental platform Holidu uses Google Maps user reviews to identify France's most beautiful forests, with the Sainte-Baume forest in Provence taking first place — though the methodology reveals how review-based rankings can skew toward lesser-known locations."
+    },
     {
       "title": "BMW Maps Gets 3D Navigation and Driver Assistance Integration via Mapbox",
       "url": "https://mappingforward.fr/articles/2026-09/20260916-geekzilla-bmw-maps-3d-navigation-mapbox.html",
