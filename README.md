@@ -19,12 +19,22 @@ Articles per month:
 2026-05 | ████████████████████████████████ 117<br>
 2026-07 | █████ 10<br>
 2026-08 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 267<br>
-2026-09 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 128<br>
+2026-09 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 138<br>
 ## Articles
 
 ### 2026
 
-#### September (128 articles)
+#### September (138 articles)
+- [Tannée du trafic, une étudiante crée une carte interactive des travaux à Montréal](src/2026-09/20260917-tvanouvelles-montreal-carte-interactive-travaux.md)
+- [Google Maps et Waze intègrent un lecteur audio pour les conducteurs sans Android Auto](src/2026-09/20260917-phonandroid-google-maps-waze-lecteur-audio-integre.md)
+- [D'après les avis laissés sur Google Maps, la plus belle forêt de France se situe en Provence](src/2026-09/20260917-tameteo-google-mavis-foret-france-provence.md)
+- [Mapbox Announces Location Infrastructure for AI](src/2026-09/20260917-prnewswire-mapbox-location-infrastructure-ai.md)
+- [A fairer world map – but old borders creep back in](src/2026-09/20260917-lowyinstitute-fairer-world-map-borders.md)
+- [Amateur Astronomer Discovers 390-Million-Year-Old Crater on Google Maps](src/2026-09/20260917-futura-sciences-crater-google-maps-quebec.md)
+- [How AI Object Detection Is Changing What "Imagery" Means](src/2026-09/20260917-geoweeknews-ai-object-detection-imagery.md)
+- [Ladakh Orders Spatial Mapping of Changthang Wildlife Sanctuary](src/2026-09/20260917-tribuneindia-changthang-wildlife-sanctuary-spatial-mapping-ladakh.md)
+- [Gujarat to Geo-Tag and Map Manufacturing MSMEs on PM Gati Shakti Portal](src/2026-09/20260917-deshgujarat-msme-gis-geo-tagging-gati-shakti.md)
+- [September 16, 2026 — Kīlauea Summit Eruption Reference Map](src/2026-09/20260917-usgs-kilauea-summit-eruption-reference-map.md)
 - [Cameroon Wraps Up Population Census After Two Deadline Extensions, Using Satellite Mapping](src/2026-09/20260916-cameroon-tribune-census-satellite-mapping.md)
 - [Aerial Surveys International Awarded GSA Multiple Award Schedule Contract](src/2026-09/20260916-geoweeknews-aerial-surveys-gsa-contract.md)
 - [TomTom Clarifies AFM Register Change Relating to Co-Founders' Shareholding](src/2026-09/20260916-tomtom-afm-register-change-cofounders-shareholding.md)
