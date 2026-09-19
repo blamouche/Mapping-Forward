@@ -1,9 +1,81 @@
 {
   "site": "Mapping Forward",
   "url": "https://mappingforward.fr",
-  "generated": "2026-09-18T06:05:13.827704",
-  "article_count": 951,
+  "generated": "2026-09-19T06:03:59.178575",
+  "article_count": 959,
   "articles": [
+    {
+      "title": "'A map is never neutral': meet the cartographers who took on centuries of western bias",
+      "url": "https://mappingforward.fr/articles/2026-09/20260918-guardian-cartographers-western-bias-mercator-equal-earth.html",
+      "date": "2026-09-18",
+      "source": "https://www.theguardian.com/science/ng-interactive/2026/sep/18/map-cartographers-western-bias-mercator-equal-earth",
+      "author": "The Guardian",
+      "keywords": "Equal Earth projection, Mercator, UN, cartography, western bias, map projections, Tom Patterson, Bojan Šavrič, Bernhard Jenny, Africa, Correct the Map",
+      "elevator_pitch": "The three creators of the Equal Earth projection — Tom Patterson, Bojan Šavrič, and Bernhard Jenny — describe their astonishment at the UN's near-universal adoption of their map, which more accurately represents Africa and all continents, and share how diplomatic complaints about borders crept into what was meant as a pure mathematical projection."
+    },
+    {
+      "title": "I tested 4 Android Auto navigation apps; one underrated option handles heavy traffic better than Google Maps",
+      "url": "https://mappingforward.fr/articles/2026-09/20260918-androidpolice-android-auto-navigation-apps-tested.html",
+      "date": "2026-09-18",
+      "source": "https://www.androidpolice.com/tested-android-auto-navigation-apps-one-underrated-option-handles-heavy-traffic-better-than-google-maps/",
+      "author": "",
+      "keywords": "Android Auto, Google Maps, navigation apps, TomTom GO, HERE WeGo, OsmAnd, traffic, alternatives",
+      "elevator_pitch": "An Android Police writer tested four navigation apps on Android Auto and found TomTom GO delivers more accurate real-time traffic data and better rerouting than Google Maps in heavy congestion, while Google Maps struggles with wrong-direction routing and closed-road suggestions."
+    },
+    {
+      "title": "New Google Maps Feature on Android Auto: Gemini-Powered Destination Information",
+      "url": "https://mappingforward.fr/articles/2026-09/20260918-autoevolution-google-maps-gemini-destination-card-android-auto.html",
+      "date": "2026-09-18",
+      "source": "https://www.autoevolution.com/news/new-google-maps-feature-on-android-auto-gemini-powered-destination-information-275763.html",
+      "author": "Autoevolution",
+      "keywords": "Google Maps, Android Auto, Gemini, AI, destination card, navigation, photos, AI summaries, Android Auto 17.8",
+      "elevator_pitch": "An APK teardown of Android Auto 17.8 reveals a hidden Gemini-powered destination card in Google Maps that provides AI summaries, photos from reviews, and practical details (parking, accessibility) about destinations — all without touching your phone."
+    },
+    {
+      "title": "How I made OsmAnd Maps look and feel more like Google Maps",
+      "url": "https://mappingforward.fr/articles/2026-09/20260918-howtogeek-osmand-maps-look-google-maps.html",
+      "date": "2026-09-18",
+      "source": "https://www.howtogeek.com/how-i-made-osmand-maps-feel-more-like-google-maps/",
+      "author": "Joe Fedewa / How-To Geek",
+      "keywords": "OsmAnd, Google Maps, open source, map styling, Android, navigation, OpenStreetMap, customization, rendering style",
+      "elevator_pitch": "A How-To Geek writer details how to transform OsmAnd Maps — a powerful but visually unpolished open-source navigation app — into a Google Maps lookalike using custom rendering styles and UI tweaks, making the transition from Google's ecosystem more palatable."
+    },
+    {
+      "title": "GNOME 51 : les cartes hors ligne débarquent sur le bureau Linux",
+      "url": "https://mappingforward.fr/articles/2026-09/20260918-goodtech-gnome-51-cartes-hors-ligne-linux.html",
+      "date": "2026-09-18",
+      "source": "https://goodtech.info/gnome-51-cartes-hors-ligne-mutter-bureau-linux/",
+      "author": "GoodTech.info",
+      "keywords": "GNOME 51, GNOME Maps, offline maps, Linux, open source, OpenStreetMap, navigation, privacy, Mutter, Flatpak",
+      "elevator_pitch": "GNOME 51 (\"A Coruña\") brings offline map downloads to GNOME Maps for the first time, allowing Linux users to navigate without internet or ad tracking, alongside real-time transit info, an improved file manager, and the Bazaar app store joining GNOME Circle."
+    },
+    {
+      "title": "68% de los mexicanos busca esquemas laborales híbridos para reducir el tiempo de traslado",
+      "url": "https://mappingforward.fr/articles/2026-09/20260918-siempre-mexico-tomtom-traffic-index-hybrid-work.html",
+      "date": "2026-09-18",
+      "source": "https://www.siempre.mx/2026/09/68-de-los-mexicanos-busca-esquemas-laborales-hibridos-para-reducir-el-tiempo-de-traslado/",
+      "author": "Siempre!",
+      "keywords": "TomTom Traffic Index, Mexico, hybrid work, mobility, commute, World Car-Free Day, traffic congestion",
+      "elevator_pitch": "A study citing the TomTom Traffic Index reveals that 68% of Mexicans seek hybrid work arrangements to reduce commute times, with 67.7% citing reduced travel time as their primary motivator, ahead of World Car-Free Day on September 22."
+    },
+    {
+      "title": "Overture's August Release Shows Open Maps Becoming Data Infrastructure",
+      "url": "https://mappingforward.fr/articles/2026-09/20260918-geoawesome-overture-august-release-data-infrastructure.html",
+      "date": "2026-09-18",
+      "source": "https://geoawesome.com/overture-august-release-open-map-data-infrastructure/",
+      "author": "",
+      "keywords": "Overture Maps, open data, GeoParquet, PMTiles, data infrastructure, AI agents, schema, conflation, addresses, buildings, transportation",
+      "elevator_pitch": "Overture Maps Foundation's August 2026 release (2026-08-19.0) shows open map data evolving into governed, machine-ready infrastructure with 472.8 million address records, schema transitions for AI consumption, and quality controls that prioritize deduplication over raw feature accumulation."
+    },
+    {
+      "title": "Quand Google Maps répond en phrases : les cinq champs de votre fiche que l'IA lit en premier",
+      "url": "https://mappingforward.fr/articles/2026-09/20260918-info-lux-ask-maps-google-maps-fiche-entreprise.html",
+      "date": "2026-09-18",
+      "source": "https://www.info-lux.com/ask-maps-google-maps-repond-fiche-entreprise/intelligence-artificielle/",
+      "author": "Info-lux.com",
+      "keywords": "Google Maps, Ask Maps, Gemini, AI, conversational search, Google Business Profile, local SEO, business listing",
+      "elevator_pitch": "Ask Maps, the Gemini-powered conversational feature in Google Maps, now covers 150+ countries since August 2026. It reads five specific fields on a business listing — category/services, hours, reviews/replies, photos, and Q&A — to compose natural-language answers, making listing completeness critical for visibility."
+    },
     {
       "title": "Amateur Astronomer Discovers 390-Million-Year-Old Crater on Google Maps",
       "url": "https://mappingforward.fr/articles/2026-09/20260917-futura-sciences-crater-google-maps-quebec.html",
