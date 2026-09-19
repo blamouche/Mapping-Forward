@@ -19,12 +19,20 @@ Articles per month:
 2026-05 | ████████████████████████████████ 117<br>
 2026-07 | █████ 10<br>
 2026-08 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 267<br>
-2026-09 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 138<br>
+2026-09 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 146<br>
 ## Articles
 
 ### 2026
 
-#### September (138 articles)
+#### September (146 articles)
+- [Quand Google Maps répond en phrases : les cinq champs de votre fiche que l'IA lit en premier](src/2026-09/20260918-info-lux-ask-maps-google-maps-fiche-entreprise.md)
+- [GNOME 51 : les cartes hors ligne débarquent sur le bureau Linux](src/2026-09/20260918-goodtech-gnome-51-cartes-hors-ligne-linux.md)
+- ['A map is never neutral': meet the cartographers who took on centuries of western bias](src/2026-09/20260918-guardian-cartographers-western-bias-mercator-equal-earth.md)
+- [New Google Maps Feature on Android Auto: Gemini-Powered Destination Information](src/2026-09/20260918-autoevolution-google-maps-gemini-destination-card-android-auto.md)
+- [How I made OsmAnd Maps look and feel more like Google Maps](src/2026-09/20260918-howtogeek-osmand-maps-look-google-maps.md)
+- [I tested 4 Android Auto navigation apps; one underrated option handles heavy traffic better than Google Maps](src/2026-09/20260918-androidpolice-android-auto-navigation-apps-tested.md)
+- [Overture's August Release Shows Open Maps Becoming Data Infrastructure](src/2026-09/20260918-geoawesome-overture-august-release-data-infrastructure.md)
+- [68% de los mexicanos busca esquemas laborales híbridos para reducir el tiempo de traslado](src/2026-09/20260918-siempre-mexico-tomtom-traffic-index-hybrid-work.md)
 - [Tannée du trafic, une étudiante crée une carte interactive des travaux à Montréal](src/2026-09/20260917-tvanouvelles-montreal-carte-interactive-travaux.md)
 - [Google Maps et Waze intègrent un lecteur audio pour les conducteurs sans Android Auto](src/2026-09/20260917-phonandroid-google-maps-waze-lecteur-audio-integre.md)
 - [D'après les avis laissés sur Google Maps, la plus belle forêt de France se situe en Provence](src/2026-09/20260917-tameteo-google-mavis-foret-france-provence.md)
