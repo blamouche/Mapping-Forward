@@ -19,7 +19,7 @@ Articles per month:
 2026-05 | ████████████████████████████████ 117<br>
 2026-07 | █████ 10<br>
 2026-08 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 267<br>
-2026-09 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 156<br>
+2026-09 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 156<br>
 ## Articles
 
 ### 2026
@@ -30,9 +30,7 @@ Articles per month:
 - [Online map shows how suitable Guernsey homes are for solar panels](src/2026-09/20260920-bbc-guernsey-solar-panel-suitability-map.md)
 - [Pourquoi ce lieu situé dans le département de la Sarthe est volontairement flouté sur Google Maps ?](src/2026-09/20260920-actu-sarthe-prison-google-maps-blurred.md)
 - [Google Maps is missing 4 simple navigation features that would make everyone's commute better](src/2026-09/20260919-androidpolice-google-maps-missing-navigation-features.md)
-- [These 4 Google Maps features matter more before a road trip than while you're driving](src/2026-09/20260919-makeuseof-google-maps-road-trip-features.md)
 - [I tried the Google Maps rival nobody talks about, and it's a refreshingly smart alternative](src/2026-09/20260919-makeuseof-sygic-google-maps-alternative.md)
-- [Change This Google Maps Setting To Always See The Fastest Route](src/2026-09/20260919-bgr-google-maps-fastest-route-setting.md)
 - [Quelle est cette option méconnue de Google Maps qui permet d'économiser jusqu'à 30 % de carburant ?](src/2026-09/20260919-larepubliquedespyrenees-google-maps-fuel-efficient-routing.md)
 - [Android Auto 17.8 : nouvelle fiche de destination Google Maps avec Gemini](src/2026-09/20260919-speedme-android-auto-gemini-maps-destination-card.md)
 - [Carte interactive : quelles villes canadiennes sont les plus touchées par les droits de douane ?](src/2026-09/20260919-noovo-mapping-tariffs-canada-cities.md)
