@@ -19,12 +19,24 @@ Articles per month:
 2026-05 | ████████████████████████████████ 117<br>
 2026-07 | █████ 10<br>
 2026-08 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 267<br>
-2026-09 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 146<br>
+2026-09 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 156<br>
 ## Articles
 
 ### 2026
 
-#### September (146 articles)
+#### September (156 articles)
+- [L'Equal Earth ? Une nouvelle carte du monde prônée par l'ONU qui rend sa vraie superficie à l'Afrique](src/2026-09/20260920-moustique-equal-earth-un-projection-africa.md)
+- [I use Google Maps every day, but Apple Maps still does these 4 things better](src/2026-09/20260920-androidauthority-apple-maps-vs-google-maps-2026.md)
+- [Online map shows how suitable Guernsey homes are for solar panels](src/2026-09/20260920-bbc-guernsey-solar-panel-suitability-map.md)
+- [Pourquoi ce lieu situé dans le département de la Sarthe est volontairement flouté sur Google Maps ?](src/2026-09/20260920-actu-sarthe-prison-google-maps-blurred.md)
+- [Google Maps is missing 4 simple navigation features that would make everyone's commute better](src/2026-09/20260919-androidpolice-google-maps-missing-navigation-features.md)
+- [These 4 Google Maps features matter more before a road trip than while you're driving](src/2026-09/20260919-makeuseof-google-maps-road-trip-features.md)
+- [I tried the Google Maps rival nobody talks about, and it's a refreshingly smart alternative](src/2026-09/20260919-makeuseof-sygic-google-maps-alternative.md)
+- [Change This Google Maps Setting To Always See The Fastest Route](src/2026-09/20260919-bgr-google-maps-fastest-route-setting.md)
+- [Quelle est cette option méconnue de Google Maps qui permet d'économiser jusqu'à 30 % de carburant ?](src/2026-09/20260919-larepubliquedespyrenees-google-maps-fuel-efficient-routing.md)
+- [Android Auto 17.8 : nouvelle fiche de destination Google Maps avec Gemini](src/2026-09/20260919-speedme-android-auto-gemini-maps-destination-card.md)
+- [Carte interactive : quelles villes canadiennes sont les plus touchées par les droits de douane ?](src/2026-09/20260919-noovo-mapping-tariffs-canada-cities.md)
+- [BMW Maps with driver assistance : Mapbox alimente la nouvelle navigation 3D de BMW](src/2026-09/20260919-mobimaniak-bmw-maps-mapbox-driver-assistance.md)
 - [Quand Google Maps répond en phrases : les cinq champs de votre fiche que l'IA lit en premier](src/2026-09/20260918-info-lux-ask-maps-google-maps-fiche-entreprise.md)
 - [GNOME 51 : les cartes hors ligne débarquent sur le bureau Linux](src/2026-09/20260918-goodtech-gnome-51-cartes-hors-ligne-linux.md)
 - ['A map is never neutral': meet the cartographers who took on centuries of western bias](src/2026-09/20260918-guardian-cartographers-western-bias-mercator-equal-earth.md)
