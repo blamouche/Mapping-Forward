@@ -1,8 +1,8 @@
 {
   "site": "Mapping Forward",
   "url": "https://mappingforward.fr",
-  "generated": "2026-09-21T06:03:38.021046",
-  "article_count": 971,
+  "generated": "2026-09-21T06:04:31.745734",
+  "article_count": 969,
   "articles": [
     {
       "title": "Online map shows how suitable Guernsey homes are for solar panels",
@@ -59,15 +59,6 @@
       "elevator_pitch": "BMW lance en octobre 2026 \"BMW Maps with driver assistance\", une vue 3D unifiée combinant navigation, reconnaissance de l'environnement et état des systèmes d'assistance, développée en partenariat avec Mapbox pour les véhicules sous BMW Operating System X."
     },
     {
-      "title": "These 4 Google Maps features matter more before a road trip than while you're driving",
-      "url": "https://mappingforward.fr/articles/2026-09/20260919-makeuseof-google-maps-road-trip-features.html",
-      "date": "2026-09-19",
-      "source": "https://www.makeuseof.com/google-maps-road-trip-feature/",
-      "author": "Judy Sanhz / MakeUseOf",
-      "keywords": "Google Maps, road trip, cartes hors ligne, listes de lieux, Street View, planification d'itinéraire",
-      "elevator_pitch": "Quatre fonctionnalités de Google Maps sont plus utiles avant le départ qu'en conduisant : téléchargement de cartes hors ligne, création de listes de lieux, exploration Street View et planification d'étapes multiples."
-    },
-    {
       "title": "Quelle est cette option méconnue de Google Maps qui permet d'économiser jusqu'à 30 % de carburant ?",
       "url": "https://mappingforward.fr/articles/2026-09/20260919-larepubliquedespyrenees-google-maps-fuel-efficient-routing.html",
       "date": "2026-09-19",
@@ -93,15 +84,6 @@
       "author": "Nikita Novikov / SpeedMe",
       "keywords": "Android Auto, Google Maps, Gemini, IA, destination cards, CarPlay, navigation automobile",
       "elevator_pitch": "Google teste dans Android Auto 17.8 une fiche de destination enrichie intégrant photos, résumés Gemini, informations de stationnement et d'accessibilité, réduisant le nombre d'actions à effectuer sur le téléphone avant de prendre la route."
-    },
-    {
-      "title": "Change This Google Maps Setting To Always See The Fastest Route",
-      "url": "https://mappingforward.fr/articles/2026-09/20260919-bgr-google-maps-fastest-route-setting.html",
-      "date": "2026-09-19",
-      "source": "https://www.bgr.com/2257574/google-maps-setting-to-show-fastest-route/",
-      "author": "BGR",
-      "keywords": "Google Maps, itinéraire le plus rapide, itinéraire économe en carburant, paramètres de navigation, optimisation de trajet",
-      "elevator_pitch": "Désactiver l'option \"Privilégier les itinéraires économes en carburant\" dans Google Maps permet d'obtenir systématiquement le trajet le plus rapide, complétée par la vérification des options d'évitement (autoroutes, péages, ferries)."
     },
     {
       "title": "Carte interactive : quelles villes canadiennes sont les plus touchées par les droits de douane ?",

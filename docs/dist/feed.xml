@@ -6,7 +6,7 @@
     <description>Daily synthesis of articles on cartography, mapping, geospatial data, and geographic intelligence</description>
     <language>en</language>
     <atom:link href="https://mappingforward.fr/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 21 Sep 2026 06:03:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 06:04:31 +0000</lastBuildDate>
 
     <item>
         <title>Online map shows how suitable Guernsey homes are for solar panels</title>
@@ -57,14 +57,6 @@
     </item>
 
     <item>
-        <title>These 4 Google Maps features matter more before a road trip than while you&#x27;re driving</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260919-makeuseof-google-maps-road-trip-features.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260919-makeuseof-google-maps-road-trip-features.html</guid>
-        <description>Quatre fonctionnalités de Google Maps sont plus utiles avant le départ qu&#x27;en conduisant : téléchargement de cartes hors ligne, création de listes de lieux, exploration Street View et planification d&#x27;étapes multiples. — Key takeaways: Le téléchargement de cartes hors ligne avant le départ évite les pertes de signal dans les zones de couverture intermittente ; Les listes de lieux sauvegardées permettent d&#x27;organiser étapes et points d&#x27;intérêt à l&#x27;avance plutôt que de les chercher en conduisant ; Street View permet de visualiser le destination et le quartier avant d&#x27;arriver, repérant le stationnement et l&#x27;accessibilité ; L&#x27;ajout d&#x27;étapes multiples à un itinéraire avant de partir évite les manipulations dangereuses pendant la conduite ; L&#x27;auteure recommande d&#x27;inverser sa routine : utiliser d&#x27;abord les fonctionnalités de planification avant le départ, puis seulement la navigation en conduite</description>
-        <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
         <title>Quelle est cette option méconnue de Google Maps qui permet d&#x27;économiser jusqu&#x27;à 30 % de carburant ?</title>
         <link>https://mappingforward.fr/articles/2026-09/20260919-larepubliquedespyrenees-google-maps-fuel-efficient-routing.html</link>
         <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260919-larepubliquedespyrenees-google-maps-fuel-efficient-routing.html</guid>
@@ -85,14 +77,6 @@
         <link>https://mappingforward.fr/articles/2026-09/20260919-speedme-android-auto-gemini-maps-destination-card.html</link>
         <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260919-speedme-android-auto-gemini-maps-destination-card.html</guid>
         <description>Google teste dans Android Auto 17.8 une fiche de destination enrichie intégrant photos, résumés Gemini, informations de stationnement et d&#x27;accessibilité, réduisant le nombre d&#x27;actions à effectuer sur le téléphone avant de prendre la route. — Key takeaways: La fiche de destination affiche des photos issues de Google Maps, une section &quot;Overview&quot; avec résumé IA Gemini et un bloc &quot;Good to know&quot; ; Le bloc &quot;Good to know&quot; contient informations de stationnement, accessibilité et autres données de l&#x27;établissement ; Une galerie séparée permet d&#x27;examiner le lieu directement sur l&#x27;écran de la voiture ; Le temps et la distance sont déplacés dans une barre horizontale en bas, avec informations et options d&#x27;itinéraire dans le panneau déployable ; Plus de 250 millions de voitures sont compatibles avec Android Auto ; des indices suggèrent Gemini en préparation pour CarPlay</description>
-        <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Change This Google Maps Setting To Always See The Fastest Route</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260919-bgr-google-maps-fastest-route-setting.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260919-bgr-google-maps-fastest-route-setting.html</guid>
-        <description>Désactiver l&#x27;option &quot;Privilégier les itinéraires économes en carburant&quot; dans Google Maps permet d&#x27;obtenir systématiquement le trajet le plus rapide, complétée par la vérification des options d&#x27;évitement (autoroutes, péages, ferries). — Key takeaways: L&#x27;option &quot;Prefer fuel-efficient routes&quot; peut ralentir les trajets en privilégiant des alternatives moins rapides mais plus économes ; Désactivation : photo de profil &gt; Settings &gt; Navigation &gt; Route options &gt; décocher &quot;Prefer fuel-efficient routes&quot; ; Google Maps suggère quand même les itinéraires économes quand les temps d&#x27;arrivée sont similaires ; Vérifier aussi les options &quot;Avoid highways&quot;, &quot;Avoid tolls&quot;, &quot;Avoid ferries&quot; qui peuvent allonger les trajets ; L&#x27;option &quot;Prefer HOV&quot; peut réduire le temps de trajet sur certains parcours éligibles</description>
         <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
     </item>
 
@@ -405,6 +389,22 @@
         <link>https://mappingforward.fr/articles/2026-09/20260914-zonacero-barranquilla-tomtom-traffic-index-congestion.html</link>
         <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260914-zonacero-barranquilla-tomtom-traffic-index-congestion.html</guid>
         <description>Barranquilla ranked as one of the world&#x27;s slowest and most congested cities in the TomTom Traffic Index 2025, with a 10km trip taking over 36 minutes on average and 46 minutes during evening rush hour, prompting experts to propose solutions from better public transit to parking pricing. — Key takeaways: Barranquilla ranked #1 as the slowest city and #19 for congestion globally in the TomTom Traffic Index 2025 ; A 10km trip took 36 minutes 35 seconds on average, rising to 46 minutes 9 seconds during evening rush hour ; Congestion increased 1.7 percentage points from 61.1% to 62.8% in 2025 ; Barranquilla ranked as the 4th most congested city in Colombia, after Bogotá, Medellín, and Cali ; Expert Isidro Ruiz disputes the global ranking, calling congestion &quot;localized&quot; rather than city-wide ; Road works, canalization, and intersection improvements contribute to temporary congestion ; Proposed solutions include strengthening public transit, limiting building heights, and implementing parking fees in tourist areas</description>
+        <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>BMW Maps Displays Navigation and Driver Assistance Information in a Single 3D View</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260914-pressbmwgroup-bmw-maps-3d-navigation-driver-assistance.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260914-pressbmwgroup-bmw-maps-3d-navigation-driver-assistance.html</guid>
+        <description>Starting October 2026, BMW Maps will unify route guidance, surrounding perception, and driver assistance information into a single 3D view on the central display, helping drivers understand both navigation and assisted driving functions in complex traffic situations. — Key takeaways: BMW Maps with driver assistance launches in October 2026 for vehicles equipped with BMW Operating System X ; The 3D view combines navigation, vehicle surroundings, and driver assistance information in one display ; The system shows the vehicle precisely within its lane and at the correct road level ; Highway Assistant 2 enables hands-free driving at up to 130 km/h with automated lane changes via glance confirmation ; The technology was developed by BMW Group, combining precise map data, onboard sensors, and AI, with Mapbox mapping technology support ; Starting in 2027, navigation-guided semi-automated driving will roll out in urban areas, initially in Germany ; The feature covers the entire highway network and the city of Paris at launch, with gradual expansion to other cities</description>
+        <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>GPS Navigation and Traffic Concentration: When Everyone Follows the Same Route</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260914-difesapopolo-gps-traffic-concentration-nature-study.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260914-difesapopolo-gps-traffic-concentration-nature-study.html</guid>
+        <description>A study published in Nature Communications by researchers from CNR-Isti and the University of Pisa shows that when too many drivers follow GPS navigation simultaneously, route diversity drops by up to 14%, concentrating traffic on the same roads and potentially reversing environmental benefits. — Key takeaways: A Nature Communications study by CNR-Isti and University of Pisa researchers simulated traffic in Florence, Milan, and Rome ; The study integrated GPS data, road network characteristics, and routes from Google Maps, TomTom, Bing Maps, and Mapbox ; Route diversity can decrease by up to 14% when all drivers follow navigation systems ; A critical threshold exists between 60-80% of drivers using navigation, beyond which environmental benefits diminish ; In some Rome scenarios, CO2 reduction benefits completely reversed at high navigation adoption rates ; The problem is the gap between individual optimization and collective outcomes ; Researchers call for algorithms that consider overall city-level effects, not just individual route optimization</description>
         <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
     </item>
 
