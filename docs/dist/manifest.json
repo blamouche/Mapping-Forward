@@ -1,9 +1,117 @@
 {
   "site": "Mapping Forward",
   "url": "https://mappingforward.fr",
-  "generated": "2026-09-19T06:03:59.178575",
-  "article_count": 959,
+  "generated": "2026-09-21T06:03:38.021046",
+  "article_count": 971,
   "articles": [
+    {
+      "title": "Online map shows how suitable Guernsey homes are for solar panels",
+      "url": "https://mappingforward.fr/articles/2026-09/20260920-bbc-guernsey-solar-panel-suitability-map.html",
+      "date": "2026-09-20",
+      "source": "https://www.bbc.com/news/articles/crwyzxne5k79o",
+      "author": "Cameron Weldon / BBC",
+      "keywords": "Guernsey, cartes solaires, énergie renouvelable, cartographie thématique, toitures, potentiel solaire",
+      "elevator_pitch": "Les États de Guernsey lancent une carte en ligne codée par couleurs indiquant le potentiel solaire de chaque toiture, aidant les habitants à évaluer la pertinence de l'installation de panneaux photovoltaïques."
+    },
+    {
+      "title": "L'Equal Earth ? Une nouvelle carte du monde prônée par l'ONU qui rend sa vraie superficie à l'Afrique",
+      "url": "https://mappingforward.fr/articles/2026-09/20260920-moustique-equal-earth-un-projection-africa.html",
+      "date": "2026-09-20",
+      "source": "https://www.moustique.be/notre-epoque/nos-explications/2026/09/20/quest-ce-lequal-earth-cette-nouvelle-carte-du-monde-pronee-par-lonu-qui-rend-sa-vraie-superficie-a-lafrique-mais-qui-ne-plait-pas-a-tout-le-monde-OJH6CSG6FRGA5IORZEOKST2GR4/",
+      "author": "Moustique",
+      "keywords": "Equal Earth, projection cartographique, ONU, Afrique, Mercator, résolution Correct the Map, cartographie politique",
+      "elevator_pitch": "L'Assemblée générale de l'ONU a voté à 164 voix la résolution \"Correct the Map\" encourageant la projection Equal Earth, qui restitue fidèlement les rapports de superficie entre continents, corrigeant la sous-représentation historique de l'Afrique dans la projection Mercator."
+    },
+    {
+      "title": "I use Google Maps every day, but Apple Maps still does these 4 things better",
+      "url": "https://mappingforward.fr/articles/2026-09/20260920-androidauthority-apple-maps-vs-google-maps-2026.html",
+      "date": "2026-09-20",
+      "source": "https://www.androidauthority.com/google-maps-vs-apple-maps-2026-3708131/",
+      "author": "Dhruv Bhutani / Android Authority",
+      "keywords": "Apple Maps, Google Maps, interface, randonnée, navigation, comparatif, CarPlay",
+      "elevator_pitch": "Apple Maps surpasse Google Maps sur quatre aspects concrets : interface plus épurée, outils de randonnée supérieurs, fonctionnalités de routes personnalisées et meilleure intégration écosystème, comblant l'écart historique avec Google."
+    },
+    {
+      "title": "Pourquoi ce lieu situé dans le département de la Sarthe est volontairement flouté sur Google Maps ?",
+      "url": "https://mappingforward.fr/articles/2026-09/20260920-actu-sarthe-prison-google-maps-blurred.html",
+      "date": "2026-09-20",
+      "source": "https://actu.fr/pays-de-la-loire/le-mans_72181/pourquoi-ce-lieu-situe-dans-le-departement-de-la-sarthe-est-volontairement-floute-sur-google-maps_64813118.html",
+      "author": "Actu.fr",
+      "keywords": "Google Maps, floutage satellite, prison, Sarthe, Coulaines, Zicad, sécurité, imagery satellite",
+      "elevator_pitch": "Le centre pénitentiaire du Mans-Les Croisettes à Coulaines (Sarthe) est volontairement flouté sur la vue satellite de Google Maps, en application d'un arrêté français interdisant la captation aérienne de données sur les sites sensibles."
+    },
+    {
+      "title": "I tried the Google Maps rival nobody talks about, and it's a refreshingly smart alternative",
+      "url": "https://mappingforward.fr/articles/2026-09/20260919-makeuseof-sygic-google-maps-alternative.html",
+      "date": "2026-09-19",
+      "source": "https://www.makeuseof.com/google-maps-rival-nobody-talks-about-refreshingly-smart-alternative/",
+      "author": "MakeUseOf",
+      "keywords": "Sygic, Google Maps, navigation hors ligne, TomTom, dashcam, lane guidance, application de navigation",
+      "elevator_pitch": "Sygic, alternative méconnue à Google Maps, impressionne par ses cartes hors ligne complètes alimentées par TomTom, ses outils de sécurité intégrés (dashcam, alertes de vitesse, lane guidance) et son interface 3D personnalisable, malgré des données de trafic et d'entreprises moins riches."
+    },
+    {
+      "title": "BMW Maps with driver assistance : Mapbox alimente la nouvelle navigation 3D de BMW",
+      "url": "https://mappingforward.fr/articles/2026-09/20260919-mobimaniak-bmw-maps-mapbox-driver-assistance.html",
+      "date": "2026-09-19",
+      "source": "https://www.mobimaniak.pl/435408/bmw-nowa-funkcja-nawigacja-zmiany/",
+      "author": "Piotr Kaniewski / mobiManiaK",
+      "keywords": "BMW Maps, Mapbox, navigation automobile, assistance à la conduite, BMW Operating System X, 3D, Mapbox",
+      "elevator_pitch": "BMW lance en octobre 2026 \"BMW Maps with driver assistance\", une vue 3D unifiée combinant navigation, reconnaissance de l'environnement et état des systèmes d'assistance, développée en partenariat avec Mapbox pour les véhicules sous BMW Operating System X."
+    },
+    {
+      "title": "These 4 Google Maps features matter more before a road trip than while you're driving",
+      "url": "https://mappingforward.fr/articles/2026-09/20260919-makeuseof-google-maps-road-trip-features.html",
+      "date": "2026-09-19",
+      "source": "https://www.makeuseof.com/google-maps-road-trip-feature/",
+      "author": "Judy Sanhz / MakeUseOf",
+      "keywords": "Google Maps, road trip, cartes hors ligne, listes de lieux, Street View, planification d'itinéraire",
+      "elevator_pitch": "Quatre fonctionnalités de Google Maps sont plus utiles avant le départ qu'en conduisant : téléchargement de cartes hors ligne, création de listes de lieux, exploration Street View et planification d'étapes multiples."
+    },
+    {
+      "title": "Quelle est cette option méconnue de Google Maps qui permet d'économiser jusqu'à 30 % de carburant ?",
+      "url": "https://mappingforward.fr/articles/2026-09/20260919-larepubliquedespyrenees-google-maps-fuel-efficient-routing.html",
+      "date": "2026-09-19",
+      "source": "https://www.larepubliquedespyrenees.fr/societe/vie-quotidienne/circulation/quelle-est-cette-option-meconnue-de-google-maps-qui-permet-d_economiser-jusqu-a-30-de-carburant-30685836.php",
+      "author": "Maxime Lacaze / La République des Pyrénées",
+      "keywords": "Google Maps, itinéraire économe en carburant, économie de carburant, émissions CO2, navigation écologique",
+      "elevator_pitch": "L'option \"Privilégiez les itinéraires économes en carburant\" de Google Maps peut réduire la consommation de carburant jusqu'à 30 %, en calculant des trajets qui minimisent la consommation même au prix d'une distance légèrement supérieure."
+    },
+    {
+      "title": "Google Maps is missing 4 simple navigation features that would make everyone's commute better",
+      "url": "https://mappingforward.fr/articles/2026-09/20260919-androidpolice-google-maps-missing-navigation-features.html",
+      "date": "2026-09-19",
+      "source": "https://www.androidpolice.com/google-maps-missing-simple-navigation-features-that-make-commute-better/",
+      "author": "Android Police",
+      "keywords": "Google Maps, navigation, Waze, rapports crowdsourcés, cartes hors ligne, reroutage, planification de trajet",
+      "elevator_pitch": "Google Maps manque quatre fonctionnalités simples qui amélioreraient l'expérience de navigation : transfert des rapports crowdsourcés depuis Waze, simplification des cartes hors ligne, verrouillage d'itinéraire personnalisé et meilleure planification de trajets futurs."
+    },
+    {
+      "title": "Android Auto 17.8 : nouvelle fiche de destination Google Maps avec Gemini",
+      "url": "https://mappingforward.fr/articles/2026-09/20260919-speedme-android-auto-gemini-maps-destination-card.html",
+      "date": "2026-09-19",
+      "source": "https://speedme.ru/fr/posts/id79062-android-auto-17-8-hides-a-richer-google-maps-card-with-gemini-summaries-and-photos",
+      "author": "Nikita Novikov / SpeedMe",
+      "keywords": "Android Auto, Google Maps, Gemini, IA, destination cards, CarPlay, navigation automobile",
+      "elevator_pitch": "Google teste dans Android Auto 17.8 une fiche de destination enrichie intégrant photos, résumés Gemini, informations de stationnement et d'accessibilité, réduisant le nombre d'actions à effectuer sur le téléphone avant de prendre la route."
+    },
+    {
+      "title": "Change This Google Maps Setting To Always See The Fastest Route",
+      "url": "https://mappingforward.fr/articles/2026-09/20260919-bgr-google-maps-fastest-route-setting.html",
+      "date": "2026-09-19",
+      "source": "https://www.bgr.com/2257574/google-maps-setting-to-show-fastest-route/",
+      "author": "BGR",
+      "keywords": "Google Maps, itinéraire le plus rapide, itinéraire économe en carburant, paramètres de navigation, optimisation de trajet",
+      "elevator_pitch": "Désactiver l'option \"Privilégier les itinéraires économes en carburant\" dans Google Maps permet d'obtenir systématiquement le trajet le plus rapide, complétée par la vérification des options d'évitement (autoroutes, péages, ferries)."
+    },
+    {
+      "title": "Carte interactive : quelles villes canadiennes sont les plus touchées par les droits de douane ?",
+      "url": "https://mappingforward.fr/articles/2026-09/20260919-noovo-mapping-tariffs-canada-cities.html",
+      "date": "2026-09-19",
+      "source": "https://www.noovo.info/nouvelles/economie/guerre-commerciale/article/carte-interactive-quelles-villes-canadiennes-sont-les-plus-touchees-par-les-droits-de-douane/",
+      "author": "Alex Arsenych / Noovo (CTV News)",
+      "keywords": "Mapping Tariffs, Université de Toronto, droits de douane, carte interactive, économie urbaine, Canada, guerre commerciale",
+      "elevator_pitch": "Des chercheurs de l'Université de Toronto ont créé \"Mapping Tariffs\", une carte interactive suivie en continu qui visualise l'impact des droits de douane américains sur les entreprises et les travailleurs de chaque ville canadienne."
+    },
     {
       "title": "'A map is never neutral': meet the cartographers who took on centuries of western bias",
       "url": "https://mappingforward.fr/articles/2026-09/20260918-guardian-cartographers-western-bias-mercator-equal-earth.html",

@@ -6,7 +6,103 @@
     <description>Daily synthesis of articles on cartography, mapping, geospatial data, and geographic intelligence</description>
     <language>en</language>
     <atom:link href="https://mappingforward.fr/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 19 Sep 2026 06:03:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 06:03:38 +0000</lastBuildDate>
+
+    <item>
+        <title>Online map shows how suitable Guernsey homes are for solar panels</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260920-bbc-guernsey-solar-panel-suitability-map.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260920-bbc-guernsey-solar-panel-suitability-map.html</guid>
+        <description>Les États de Guernsey lancent une carte en ligne codée par couleurs indiquant le potentiel solaire de chaque toiture, aidant les habitants à évaluer la pertinence de l&#x27;installation de panneaux photovoltaïques. — Key takeaways: La carte est codée par couleurs : rouge foncé pour les toitures à fort potentiel de génération solaire, bleu foncé pour les moins propices ; Le potentiel est calculé sur la quantité de lumière reçue par les toitures sur l&#x27;ensemble d&#x27;une année ; Guernesey reçoit 30 à 35% plus d&#x27;ensoleillement que le Royaume-Uni en moyenne ; L&#x27;outil fournit une vérification indépendante permettant de comparer les devis d&#x27;installateurs ; Initiative portée par le Comité pour l&#x27;environnement et l&#x27;infrastructure en collaboration avec Little Green, fournisseur d&#x27;énergie renouvelable</description>
+        <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>L&#x27;Equal Earth ? Une nouvelle carte du monde prônée par l&#x27;ONU qui rend sa vraie superficie à l&#x27;Afrique</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260920-moustique-equal-earth-un-projection-africa.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260920-moustique-equal-earth-un-projection-africa.html</guid>
+        <description>L&#x27;Assemblée générale de l&#x27;ONU a voté à 164 voix la résolution &quot;Correct the Map&quot; encourageant la projection Equal Earth, qui restitue fidèlement les rapports de superficie entre continents, corrigeant la sous-représentation historique de l&#x27;Afrique dans la projection Mercator. — Key takeaways: La résolution &quot;Correct the Map&quot; a été adoptée par 164 pays, les États-Unis votant contre et six autres s&#x27;abstenant ; La projection Equal Earth, développée en 2018, préserve les rapports de surface : si un territoire est deux fois plus grand qu&#x27;un autre, il occupe deux fois plus de surface sur la carte ; La projection Mercator (1569), adaptée à la navigation, déforme les superficies : le Groenland paraît presque aussi grand que l&#x27;Afrique, alors que l&#x27;Afrique est 14 fois plus vaste ; La résolution n&#x27;interdit pas Mercator ni n&#x27;impose une projection unique, mais vise à rendre visible la réalité des superficies ; L&#x27;initiative est portée par l&#x27;Union Africaine et le ministre togolais des Affaires étrangères Robert Dussey, qui rappelle que &quot;les cartes ne sont jamais neutres&quot;</description>
+        <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>I use Google Maps every day, but Apple Maps still does these 4 things better</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260920-androidauthority-apple-maps-vs-google-maps-2026.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260920-androidauthority-apple-maps-vs-google-maps-2026.html</guid>
+        <description>Apple Maps surpasse Google Maps sur quatre aspects concrets : interface plus épurée, outils de randonnée supérieurs, fonctionnalités de routes personnalisées et meilleure intégration écosystème, comblant l&#x27;écart historique avec Google. — Key takeaways: Interface plus propre et moins encombrée qu&#x27;Apple Maps, sans publicités intrusives ni entreprises promues sur la carte ; Outils de randonnée supérieurs : cartes topographiques avec courbes de niveau, création d&#x27;itinéraires personnalisés, informations d&#x27;élévation ; Création de routes de marche/randonnée personnalisées avec points intermédiaires, boucles et sauvegarde ; Apple Maps commence à déployer des publicités dans certains marchés, mais reste moins saturé que Google Maps ; Google Maps conserve l&#x27;avantage sur la recherche locale et le volume d&#x27;informations disponibles</description>
+        <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Pourquoi ce lieu situé dans le département de la Sarthe est volontairement flouté sur Google Maps ?</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260920-actu-sarthe-prison-google-maps-blurred.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260920-actu-sarthe-prison-google-maps-blurred.html</guid>
+        <description>Le centre pénitentiaire du Mans-Les Croisettes à Coulaines (Sarthe) est volontairement flouté sur la vue satellite de Google Maps, en application d&#x27;un arrêté français interdisant la captation aérienne de données sur les sites sensibles. — Key takeaways: Le centre pénitentiaire du Mans-Les Croisettes à Coulaines est flouté sur Google Maps en mode satellite ; Le floutage relève d&#x27;un arrêté du 22 janvier fixant la liste des zones interdites à la prise de vue aérienne (Zicad) ; Les bâtiments sensibles concernés incluent prisons, sites militaires stratégiques et Zicad ; Le but est d&#x27;empêcher les repérages ou actions malveillantes ; Les particuliers peuvent demander le floutage de leur résidence privée via Google Street View, mais pas via la vue satellite</description>
+        <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>I tried the Google Maps rival nobody talks about, and it&#x27;s a refreshingly smart alternative</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260919-makeuseof-sygic-google-maps-alternative.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260919-makeuseof-sygic-google-maps-alternative.html</guid>
+        <description>Sygic, alternative méconnue à Google Maps, impressionne par ses cartes hors ligne complètes alimentées par TomTom, ses outils de sécurité intégrés (dashcam, alertes de vitesse, lane guidance) et son interface 3D personnalisable, malgré des données de trafic et d&#x27;entreprises moins riches. — Key takeaways: Cartes hors ligne complètes par pays ou région, alimentées par les données TomTom, sans expiration ; Outils de conduite sécurisée : assistant de limitation de vitesse, lane guidance détaillé, mode dashcam intégré, mode HUD pour projection sur pare-brise ; Interface 3D avec landmarks et rendu de terrain, plus personnalisable que Google Maps ; Limites : données de trafic en temps réel payantes et moins précises que Google, listings d&#x27;entreprises incomplets ; La plupart des meilleures fonctionnalités (trafic, navigation vocale, dashcam) nécessitent un abonnement payant</description>
+        <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>BMW Maps with driver assistance : Mapbox alimente la nouvelle navigation 3D de BMW</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260919-mobimaniak-bmw-maps-mapbox-driver-assistance.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260919-mobimaniak-bmw-maps-mapbox-driver-assistance.html</guid>
+        <description>BMW lance en octobre 2026 &quot;BMW Maps with driver assistance&quot;, une vue 3D unifiée combinant navigation, reconnaissance de l&#x27;environnement et état des systèmes d&#x27;assistance, développée en partenariat avec Mapbox pour les véhicules sous BMW Operating System X. — Key takeaways: À partir d&#x27;octobre 2026, BMW Maps combine navigation, informations sur l&#x27;environnement du véhicule et état des systèmes d&#x27;assistance en une vue 3D unifiée ; Le véhicule est affiché sur la bonne voie et au bon niveau de route pour faciliter l&#x27;orientation sur autoroutes, intersections et en ville ; Les conducteurs voient comment la voiture reconnaît son environnement et quels systèmes d&#x27;assistance sont actifs ; Développé en partenariat avec Mapbox pour les données de navigation et la technologie cartographique ; À partir de 2027, BMW introduira progressivement la conduite partiellement automatisée supportée par la navigation, d&#x27;abord en Allemagne</description>
+        <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>These 4 Google Maps features matter more before a road trip than while you&#x27;re driving</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260919-makeuseof-google-maps-road-trip-features.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260919-makeuseof-google-maps-road-trip-features.html</guid>
+        <description>Quatre fonctionnalités de Google Maps sont plus utiles avant le départ qu&#x27;en conduisant : téléchargement de cartes hors ligne, création de listes de lieux, exploration Street View et planification d&#x27;étapes multiples. — Key takeaways: Le téléchargement de cartes hors ligne avant le départ évite les pertes de signal dans les zones de couverture intermittente ; Les listes de lieux sauvegardées permettent d&#x27;organiser étapes et points d&#x27;intérêt à l&#x27;avance plutôt que de les chercher en conduisant ; Street View permet de visualiser le destination et le quartier avant d&#x27;arriver, repérant le stationnement et l&#x27;accessibilité ; L&#x27;ajout d&#x27;étapes multiples à un itinéraire avant de partir évite les manipulations dangereuses pendant la conduite ; L&#x27;auteure recommande d&#x27;inverser sa routine : utiliser d&#x27;abord les fonctionnalités de planification avant le départ, puis seulement la navigation en conduite</description>
+        <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Quelle est cette option méconnue de Google Maps qui permet d&#x27;économiser jusqu&#x27;à 30 % de carburant ?</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260919-larepubliquedespyrenees-google-maps-fuel-efficient-routing.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260919-larepubliquedespyrenees-google-maps-fuel-efficient-routing.html</guid>
+        <description>L&#x27;option &quot;Privilégiez les itinéraires économes en carburant&quot; de Google Maps peut réduire la consommation de carburant jusqu&#x27;à 30 %, en calculant des trajets qui minimisent la consommation même au prix d&#x27;une distance légèrement supérieure. — Key takeaways: Google Maps peut déterminer l&#x27;itinéraire qui économise le plus de carburant et limite les émissions de CO2 ; Jusqu&#x27;à 30 % d&#x27;économie de carburant selon les essais de Google, pour les trajets de plus de 5 km ; L&#x27;option peut allonger la distance par rapport à l&#x27;autoroute traditionnelle, mais génère des économies ; Activation : avatar &gt; Paramètres &gt; Navigation &gt; Options d&#x27;itinéraires &gt; &quot;Privilégiez les itinéraires économes en carburant&quot; ; L&#x27;itinéraire économe est signalé par une feuille verte sur la carte, avec estimation du pourcentage d&#x27;économie</description>
+        <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Google Maps is missing 4 simple navigation features that would make everyone&#x27;s commute better</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260919-androidpolice-google-maps-missing-navigation-features.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260919-androidpolice-google-maps-missing-navigation-features.html</guid>
+        <description>Google Maps manque quatre fonctionnalités simples qui amélioreraient l&#x27;expérience de navigation : transfert des rapports crowdsourcés depuis Waze, simplification des cartes hors ligne, verrouillage d&#x27;itinéraire personnalisé et meilleure planification de trajets futurs. — Key takeaways: Importation des rapports d&#x27;incidents en temps réel crowdsourcés depuis Waze, aujourd&#x27;hui absents de Google Maps ; Les cartes hors ligne sont trop complexes : le téléchargement est caché derrière un bouton &quot;Plus&quot; et nécessite de dessiner un rectangle au lieu de rechercher un lieu ; Pas d&#x27;option pour désactiver le reroutage automatique ou verrouiller un itinéraire personnalisé, frustrant les conducteurs dont le &quot;chemin le plus rapide&quot; les fait arriver en retard ; La planification de trajets futurs reste basique par rapport à Waze : pas de recommandation sur le meilleur moment de départ ; L&#x27;auteur estime peu probable que Google ajoute le verrouillage d&#x27;itinéraire, car cela reviendrait à admettre que le reroutage n&#x27;est pas parfait</description>
+        <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Android Auto 17.8 : nouvelle fiche de destination Google Maps avec Gemini</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260919-speedme-android-auto-gemini-maps-destination-card.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260919-speedme-android-auto-gemini-maps-destination-card.html</guid>
+        <description>Google teste dans Android Auto 17.8 une fiche de destination enrichie intégrant photos, résumés Gemini, informations de stationnement et d&#x27;accessibilité, réduisant le nombre d&#x27;actions à effectuer sur le téléphone avant de prendre la route. — Key takeaways: La fiche de destination affiche des photos issues de Google Maps, une section &quot;Overview&quot; avec résumé IA Gemini et un bloc &quot;Good to know&quot; ; Le bloc &quot;Good to know&quot; contient informations de stationnement, accessibilité et autres données de l&#x27;établissement ; Une galerie séparée permet d&#x27;examiner le lieu directement sur l&#x27;écran de la voiture ; Le temps et la distance sont déplacés dans une barre horizontale en bas, avec informations et options d&#x27;itinéraire dans le panneau déployable ; Plus de 250 millions de voitures sont compatibles avec Android Auto ; des indices suggèrent Gemini en préparation pour CarPlay</description>
+        <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Change This Google Maps Setting To Always See The Fastest Route</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260919-bgr-google-maps-fastest-route-setting.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260919-bgr-google-maps-fastest-route-setting.html</guid>
+        <description>Désactiver l&#x27;option &quot;Privilégier les itinéraires économes en carburant&quot; dans Google Maps permet d&#x27;obtenir systématiquement le trajet le plus rapide, complétée par la vérification des options d&#x27;évitement (autoroutes, péages, ferries). — Key takeaways: L&#x27;option &quot;Prefer fuel-efficient routes&quot; peut ralentir les trajets en privilégiant des alternatives moins rapides mais plus économes ; Désactivation : photo de profil &gt; Settings &gt; Navigation &gt; Route options &gt; décocher &quot;Prefer fuel-efficient routes&quot; ; Google Maps suggère quand même les itinéraires économes quand les temps d&#x27;arrivée sont similaires ; Vérifier aussi les options &quot;Avoid highways&quot;, &quot;Avoid tolls&quot;, &quot;Avoid ferries&quot; qui peuvent allonger les trajets ; L&#x27;option &quot;Prefer HOV&quot; peut réduire le temps de trajet sur certains parcours éligibles</description>
+        <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Carte interactive : quelles villes canadiennes sont les plus touchées par les droits de douane ?</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260919-noovo-mapping-tariffs-canada-cities.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260919-noovo-mapping-tariffs-canada-cities.html</guid>
+        <description>Des chercheurs de l&#x27;Université de Toronto ont créé &quot;Mapping Tariffs&quot;, une carte interactive suivie en continu qui visualise l&#x27;impact des droits de douane américains sur les entreprises et les travailleurs de chaque ville canadienne. — Key takeaways: &quot;Mapping Tariffs&quot; a été lancé après la première série de droits de douane Trump en mars 2025, touchant l&#x27;automobile et l&#x27;acier ; Toronto : environ 66 000 travailleurs (4 %) et 3 000 entreprises (3,2 %) exposés à la dernière série de droits ; Région métropolitaine de Toronto : 7,3 % des entreprises touchées, plus de 200 000 employés (13,5 %) affectés ; Windsor, siège des usines Ford et Stellantis : 4,5 % des entreprises et 11,6 % des employés touchés ; La diversité économique de Toronto agit comme tampon, contrairement aux petites villes très spécialisées plus vulnérables</description>
+        <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
 
     <item>
         <title>&#x27;A map is never neutral&#x27;: meet the cartographers who took on centuries of western bias</title>
@@ -310,102 +406,6 @@
         <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260914-zonacero-barranquilla-tomtom-traffic-index-congestion.html</guid>
         <description>Barranquilla ranked as one of the world&#x27;s slowest and most congested cities in the TomTom Traffic Index 2025, with a 10km trip taking over 36 minutes on average and 46 minutes during evening rush hour, prompting experts to propose solutions from better public transit to parking pricing. — Key takeaways: Barranquilla ranked #1 as the slowest city and #19 for congestion globally in the TomTom Traffic Index 2025 ; A 10km trip took 36 minutes 35 seconds on average, rising to 46 minutes 9 seconds during evening rush hour ; Congestion increased 1.7 percentage points from 61.1% to 62.8% in 2025 ; Barranquilla ranked as the 4th most congested city in Colombia, after Bogotá, Medellín, and Cali ; Expert Isidro Ruiz disputes the global ranking, calling congestion &quot;localized&quot; rather than city-wide ; Road works, canalization, and intersection improvements contribute to temporary congestion ; Proposed solutions include strengthening public transit, limiting building heights, and implementing parking fees in tourist areas</description>
         <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>BMW Maps Displays Navigation and Driver Assistance Information in a Single 3D View</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260914-pressbmwgroup-bmw-maps-3d-navigation-driver-assistance.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260914-pressbmwgroup-bmw-maps-3d-navigation-driver-assistance.html</guid>
-        <description>Starting October 2026, BMW Maps will unify route guidance, surrounding perception, and driver assistance information into a single 3D view on the central display, helping drivers understand both navigation and assisted driving functions in complex traffic situations. — Key takeaways: BMW Maps with driver assistance launches in October 2026 for vehicles equipped with BMW Operating System X ; The 3D view combines navigation, vehicle surroundings, and driver assistance information in one display ; The system shows the vehicle precisely within its lane and at the correct road level ; Highway Assistant 2 enables hands-free driving at up to 130 km/h with automated lane changes via glance confirmation ; The technology was developed by BMW Group, combining precise map data, onboard sensors, and AI, with Mapbox mapping technology support ; Starting in 2027, navigation-guided semi-automated driving will roll out in urban areas, initially in Germany ; The feature covers the entire highway network and the city of Paris at launch, with gradual expansion to other cities</description>
-        <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>GPS Navigation and Traffic Concentration: When Everyone Follows the Same Route</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260914-difesapopolo-gps-traffic-concentration-nature-study.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260914-difesapopolo-gps-traffic-concentration-nature-study.html</guid>
-        <description>A study published in Nature Communications by researchers from CNR-Isti and the University of Pisa shows that when too many drivers follow GPS navigation simultaneously, route diversity drops by up to 14%, concentrating traffic on the same roads and potentially reversing environmental benefits. — Key takeaways: A Nature Communications study by CNR-Isti and University of Pisa researchers simulated traffic in Florence, Milan, and Rome ; The study integrated GPS data, road network characteristics, and routes from Google Maps, TomTom, Bing Maps, and Mapbox ; Route diversity can decrease by up to 14% when all drivers follow navigation systems ; A critical threshold exists between 60-80% of drivers using navigation, beyond which environmental benefits diminish ; In some Rome scenarios, CO2 reduction benefits completely reversed at high navigation adoption rates ; The problem is the gap between individual optimization and collective outcomes ; Researchers call for algorithms that consider overall city-level effects, not just individual route optimization</description>
-        <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>DILRMP 3.0 (2026–2031): Bhu-Aadhaar, GIS Land Records, NAKSHA and Key Features</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260914-studyiq-dilrmp-3-gis-land-records-india.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260914-studyiq-dilrmp-3-gis-land-records-india.html</guid>
-        <description>India&#x27;s Digital India Land Records Modernisation Programme enters its third phase (2026–2031), creating an integrated GIS-enabled land administration system with unique parcel identification numbers, paperless registration, and cadastral mapping. — Key takeaways: DILRMP 3.0 (2026–2031) is the third phase of India&#x27;s land-records modernisation programme ; The programme creates an integrated, GIS-enabled, and interoperable land administration system ; Bhu-Aadhaar (ULPIN) provides every geo-referenced land parcel with a 14-digit Unique Land Parcel Identification Number ; GIS and cadastral maps are central to the programme&#x27;s approach ; NAKSHA scheme supports land survey modernisation ; The programme includes paperless registration and integrated revenue courts ; DILRMP 3.0 shifts from digitising records to creating an integrated digital land-governance ecosystem</description>
-        <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Animated Map Shows Spread of Illegal Israeli Settlements Across Palestine</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260914-aljazeera-animated-map-israeli-settlements-palestine.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260914-aljazeera-animated-map-israeli-settlements-palestine.html</guid>
-        <description>Al Jazeera has published an animated map visualizing the spread of illegal Israeli settlements and outposts across Palestine, showing 163 settlements housing 744,700 settlers alongside more than 400 unauthorized outposts by 2024. — Key takeaways: Al Jazeera created an animated visual map showing the spread of illegal Israeli settlements and outposts ; By 2024, 163 illegal settlements housed 744,700 Israeli settlers: 511,100 in the West Bank and 233,600 in East Jerusalem ; More than 400 illegal outposts exist that are not officially counted but are often absorbed into recognized settlements ; The animated map tracks the geographic expansion of settlements over time ; The visualization also documents settler violence accompanying the settlement expansion ; The map serves as a visual explainer of the territorial changes on the ground</description>
-        <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Africa: &quot;Correct The Map&quot; Initiative Adopted by the UN</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260914-africa24tv-correct-the-map-adopted-un.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260914-africa24tv-correct-the-map-adopted-un.html</guid>
-        <description>The UN General Assembly adopted the &quot;Correct The Map&quot; resolution spearheaded by Togo on behalf of the African Group, a diplomatic milestone that seeks to replace Mercator projection world maps with fairer representations of Africa&#x27;s true size. — Key takeaways: The UN General Assembly adopted the &quot;Correct The Map&quot; resolution on September 4, 2026, in New York ; The initiative was carried by Togo on behalf of the African Group ; The resolution aims to promote more accurate, balanced, and equitable cartographic representations of Africa ; The initiative challenges the Mercator projection, which distorts the true size of African countries ; While non-binding, the resolution could influence international institutions&#x27; map choices ; The Togo and the African Union plan to work together on implementation ; The adoption is seen as a diplomatic victory for Togo and the African Group</description>
-        <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Matrix Geo Solutions Wins Three-Year Adani Infra Contract for Precision Drone Surveying and Geospatial Solutions</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260914-itvoice-matrix-geo-solutions-adani-drone-surveying.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260914-itvoice-matrix-geo-solutions-adani-drone-surveying.html</guid>
-        <description>Matrix Geo Solutions, an NSE-listed geospatial technology company, has secured a three-year Annual Rate Contract from Adani Infra for precision drone surveying, LiDAR, GIS, and mapping services across pan-India project locations. — Key takeaways: Matrix Geo Solutions won a three-year Annual Rate Contract (ARC) from Adani Infra ; The contract covers geospatial, LiDAR, surveying, mapping, and allied technology-enabled services ; Services include GIS, digital terrain and surface modelling, infrastructure mapping, and asset intelligence ; The engagement spans pan-India project locations ; Matrix Geo Solutions is an NSE-listed geospatial technology and engineering consultancy ; The company previously completed a 314 km geospatial survey across five highway sections for RITES-NHAI ; The contract highlights the growing role of drone-based surveying in Indian infrastructure</description>
-        <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Google Maps Rolling Out Always-On Speed Limits and Speedometer on Android Auto</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260914-9to5google-maps-android-auto-speed-limits-speedometer.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260914-9to5google-maps-android-auto-speed-limits-speedometer.html</guid>
-        <description>Google Maps is rolling out speed limits, a live speedometer, and traffic signals/stop signs on Android Auto that display even when no destination is set, while also investigating a recent bug that caused the speedometer to disappear for some users. — Key takeaways: Google Maps is rolling out always-on speed limits and speedometer on Android Auto, even without a destination set ; The feature includes traffic signals and stop signs display without active navigation ; The rollout is gradual and not yet available to all users ; A recent bug caused the speedometer to vanish for some Android Auto users, which is being investigated ; Speed limits in Google Maps originally launched in 2019, with the speedometer appearing later ; The feature was previously only visible during active navigation ; The update makes Google Maps more useful for shorter or familiar trips where setting a destination isn&#x27;t necessary</description>
-        <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>There Is No Such Thing as a &quot;UN Map With Borders&quot;: Guterres</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260913-thehindu-guterres-no-un-map-with-borders.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260913-thehindu-guterres-no-un-map-with-borders.html</guid>
-        <description>UN Secretary-General Antonio Guterres clarified that the UN has never published a map with borders, after India raised &quot;anomalies&quot; about a map used during the &quot;Correct the Map&quot; resolution that omitted Indian and Chinese claim lines in Arunachal Pradesh and Aksai Chin. — Key takeaways: UN Secretary-General Guterres stated categorically: &quot;There is no such thing as a &#x27;UN map with borders&#x27;&quot; and &quot;it&#x27;s not for the UN to define&quot; borders ; The controversial map was created by UN Geospatial during the consultation process for the &quot;Correct the Map&quot; resolution, but Guterres called it &quot;not an official UN map&quot; — &quot;the contribution of an NGO&quot; ; The map depicted Arunachal Pradesh and Aksai Chin without the Indian and Chinese &quot;claim lines&quot; that previous UN maps had used ; India had voted in favor of the &quot;Correct the Map&quot; resolution but raised &quot;anomalies&quot; about the map with the UN ; The map showed the Line of Control in Jammu &amp; Kashmir as a dotted line with an explanatory note, but no similar note for omitted claim lines in Arunachal Pradesh and Aksai Chin ; MEA spokesperson Randhir Jaiswal clarified India&#x27;s vote was in support of &quot;equal area representation&quot; principle ; Guterres emphasized the resolution itself is not a map but a statement that distortions in landmasses &quot;come from power relations of the past&quot;</description>
-        <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Togo&#x27;s Faure Gnassingbé Celebrates the &quot;Correct the Map&quot; Resolution Amid Domestic Criticism</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260913-togoactualite-togo-gnassingbe-correct-the-map.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260913-togoactualite-togo-gnassingbe-correct-the-map.html</guid>
-        <description>Togolese President Faure Gnassingbé has championed the UN&#x27;s &quot;Correct the Map&quot; resolution as a triumph for Africa, but critics at home dismiss the celebration as a distraction from two decades of domestic infrastructure failure and political stagnation. — Key takeaways: Togo&#x27;s President Faure Gnassingbé and Foreign Minister Robert Dussey have positioned themselves as champions of the UN &quot;Correct the Map&quot; resolution ; Critics argue the regime is using the cartographic victory to distract from 20 years of domestic stagnation in infrastructure, healthcare, and development ; The article contrasts Togo&#x27;s lack of modernization with progress in neighboring West African countries like Benin, Senegal, Côte d&#x27;Ivoire, and Ghana ; Togo&#x27;s railway network remains the colonial-era infrastructure, and the promised highway was never built ; The piece highlights the irony of celebrating global cartographic correction while the country&#x27;s own social and physical landscape remains frozen in the 1960s ; The &quot;Correct the Map&quot; movement is framed as a demagogic project by leaders unable to solve concrete citizen problems</description>
-        <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Australia to Look Bigger on New World Map After Historic UN Vote</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260913-newscom-australia-bigger-equal-earth-un-vote.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260913-newscom-australia-bigger-equal-earth-un-vote.html</guid>
-        <description>Australia will appear roughly 10% larger relative to northern landmasses under the UN-endorsed Equal Earth projection, as geographer Greg Lauer explains how the shift changes visual perception of the continent&#x27;s size compared to Greenland and Africa. — Key takeaways: The UN General Assembly voted 164-1 (US opposed) to endorse the Equal Earth projection over the Mercator map ; Australia will appear about 10% larger relative to squeezed northern landmasses — not because Australia grows, but because Greenland shrinks ; Geographer Greg Lauer: &quot;The actual size doesn&#x27;t change, but Greenland is a lot smaller and you can better see how Australia compares to Africa&quot; ; Africa is 14 times the size of Greenland, but the Mercator map makes them look similar ; The Mercator map &quot;was never wrong — it was right for navigation, but wrong for comparison&quot; ; Where the new map is centred matters: Australia/NZ prefer centring over the Pacific; UK-centred maps distort Australia and push NZ to the edge ; Lauer: &quot;Every flat map lies about something. The honest ones tell you what they&#x27;re lying about&quot; ; The UN resolution is symbolic — no enforcement mechanism to replace classroom maps</description>
-        <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>New World Map Makes Africa Look Bigger: What&#x27;s the Fuss About? Cartographers Explain</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260913-conversation-equal-earth-africa-cartographers-explain.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260913-conversation-equal-earth-africa-cartographers-explain.html</guid>
-        <description>Cartographers Jack Swab and Derek Alderman explain the UN&#x27;s endorsement of the Equal Earth projection, why the Mercator map distorts Africa&#x27;s true size, how the new projection works, and why the US was the lone &quot;no&quot; vote against the resolution. — Key takeaways: The UN passed a non-binding resolution endorsing the Equal Earth projection over the Mercator projection, which exaggerates land towards the poles by 2-14x ; The Mercator projection remains useful for navigation (preserving compass bearings), which is why Google Maps and Apple Maps still use it ; The Equal Earth projection minimizes distortions of continental sizes, making it better for educational, public communication, and policy purposes ; Map-making is decentralized — no single authority regulates which projection is used; the UN endorsement is symbolic, not mandatory ; The US was the only &quot;no&quot; vote, calling the resolution a &quot;radical and ideological project&quot; and objecting to language linking Mercator&#x27;s distortions to colonial legacies ; Ukraine raised concerns over the depiction of Crimea, while other nations raised contested territory issues — but these were geopolitical posturing, not map issues ; African nations framed the resolution as &quot;cognitive justice&quot; — correcting the mental map that equates size with power and importance</description>
-        <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>How Do GPS Apps Like Google Maps Know When There&#x27;s Police Ahead?</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260913-slashgear-google-maps-police-crowdsourcing.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260913-slashgear-google-maps-police-crowdsourcing.html</guid>
-        <description>Google Maps and other GPS apps detect police sightings through crowdsourced user reports, not through any official data feed — drivers submit reports that other users confirm or deny, with Waze data also integrated into Google Maps. — Key takeaways: Google Maps relies on crowdsourced user reports for police sightings, not official data feeds ; When a driver reports police, the report appears on the maps of other users on the same road ; Other drivers can confirm whether the police sighting is still valid, keeping reports up to date ; Google Maps also integrates police report data from Waze, which Google owns ; Waze rewards users with points for submitting reports, creating a larger dataset for Google Maps ; Users can submit reports via the &quot;Report&quot; icon in navigation mode on smartphone, Android Auto, or Apple CarPlay ; Reports are temporary and evolve with the situation — they are not permanent markers ; The feature raises concerns about helping drivers evade checkpoints, but also helps with speed awareness and safety</description>
-        <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
     </item>
 
 </channel>
