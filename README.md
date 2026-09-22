@@ -19,12 +19,23 @@ Articles per month:
 2026-05 | ████████████████████████████████ 117<br>
 2026-07 | █████ 10<br>
 2026-08 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 267<br>
-2026-09 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 156<br>
+2026-09 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 167<br>
 ## Articles
 
 ### 2026
 
-#### September (156 articles)
+#### September (167 articles)
+- [Voici pourquoi l'heure d'arrivée estimée est masquée sur Google Maps](src/2026-09/20260921-vietnam-vn-google-maps-eta-masquee.md)
+- [Trump threatened to redraw the map. Greenland deal shows the limits of his disruption](src/2026-09/20260921-theprint-trump-greenland-deal-redraw-the-map.md)
+- [Transgressive dune system of Piscinas, Western Sardinia (Italy)](src/2026-09/20260921-tandfonline-piscinas-dune-system-sardinia.md)
+- [It's official: Mexico City's traffic is the worst in the world](src/2026-09/20260921-mexico-news-daily-tomtom-mexico-city-traffic-worst.md)
+- [HD Maps for Autonomous Vehicles: The Digital Infrastructure Powering Next-Gen Navigation](src/2026-09/20260921-marketsandmarkets-hd-maps-autonomous-vehicles.md)
+- [À Nice, le Meraki mise sur la projection vidéo sur table](src/2026-09/20260921-lhotellerie-meraki-projection-video-sur-table-nice.md)
+- [Millénaire de Walcourt: dix soirs de spectacle, et ensuite?](src/2026-09/20260921-lavenir-millenaire-walcourt-mapping-video.md)
+- [La carte de GTA 6 devient beaucoup plus précise, Leonida serait plus petite que prévu](src/2026-09/20260921-lacremedugaming-gta6-carte-leonida-v16.md)
+- [GTA 6 : véhicules, map, date de sortie, précommande, tout savoir sur le prochain jeu Rockstar Games](src/2026-09/20260921-journaldugeek-gta6-dossier-complet.md)
+- [New World Map: See Beyond The Enlargement](src/2026-09/20260921-cameroon-tribune-new-world-map-see-beyond-the-enlargement.md)
+- [Apple Maps blurs detention facilities in China](src/2026-09/20260921-bbc-apple-maps-blurs-detention-facilities-china.md)
 - [L'Equal Earth ? Une nouvelle carte du monde prônée par l'ONU qui rend sa vraie superficie à l'Afrique](src/2026-09/20260920-moustique-equal-earth-un-projection-africa.md)
 - [I use Google Maps every day, but Apple Maps still does these 4 things better](src/2026-09/20260920-androidauthority-apple-maps-vs-google-maps-2026.md)
 - [Online map shows how suitable Guernsey homes are for solar panels](src/2026-09/20260920-bbc-guernsey-solar-panel-suitability-map.md)
