@@ -1,9 +1,108 @@
 {
   "site": "Mapping Forward",
   "url": "https://mappingforward.fr",
-  "generated": "2026-09-21T06:04:31.745734",
-  "article_count": 969,
+  "generated": "2026-09-22T06:05:09.820624",
+  "article_count": 980,
   "articles": [
+    {
+      "title": "GTA 6 : véhicules, map, date de sortie, précommande, tout savoir sur le prochain jeu Rockstar Games",
+      "url": "https://mappingforward.fr/articles/2026-09/20260921-journaldugeek-gta6-dossier-complet.html",
+      "date": "2026-09-21",
+      "source": "https://www.journaldugeek.com/2026/09/21/gta-6-infos-vehicules-animaux-lieux-date-de-sortie-precommande-tout-savoir-sur-le-prochain-jeu-rockstar-games/",
+      "author": "Journal du Geek",
+      "keywords": "GTA 6, Rockstar Games, carte, map, Vice City, Leonida, date de sortie, précommande",
+      "elevator_pitch": "Le dossier complet du Journal du Geek recense toutes les informations connues sur GTA 6 : la map de l'État de Leonida, les véhicules, la date de sortie, les précommandes et la soundtrack officielle. Le jeu, présenté en avant-première sur Netflix le 27 août 2026, est attendu pour fin 2026 sur PS5 et Xbox Series X/S."
+    },
+    {
+      "title": "À Nice, le Meraki mise sur la projection vidéo sur table",
+      "url": "https://mappingforward.fr/articles/2026-09/20260921-lhotellerie-meraki-projection-video-sur-table-nice.html",
+      "date": "2026-09-21",
+      "source": "https://www.lhotellerie-restauration.fr/actualite/a-nice-le-meraki-mise-sur-la-projection-video-sur-table",
+      "author": "L'Hôtellerie Restauration",
+      "keywords": "vidéo mapping, projection sur table, restaurant immersif, Nice, Digital Essence, innovation",
+      "elevator_pitch": "Le restaurant Meraki à Nice propose une expérience de projection vidéo sur table (\"vidéo mapping\") depuis deux ans, offrant une immersion visuelle 3D pendant les repas. Le projet, réalisé par la société française Digital Essence, a coûté 40 000 euros et équipé trois tables de cette technologie."
+    },
+    {
+      "title": "New World Map: See Beyond The Enlargement",
+      "url": "https://mappingforward.fr/articles/2026-09/20260921-cameroon-tribune-new-world-map-see-beyond-the-enlargement.html",
+      "date": "2026-09-21",
+      "source": "https://www.cameroon-tribune.cm/articles/11857/fr/new-world-map-see-beyond-the",
+      "author": "Cameroon Tribune",
+      "keywords": "Equal Earth, projection cartographique, ONU, Afrique, Mercator, Correct the Map, Union africaine, Togo",
+      "elevator_pitch": "L'Assemblée générale de l'ONU a voté à 164 voix une résolution non contraignante invitant les institutions du monde entier à adopter une carte plus fidèle aux superficies réelles des continents, corrigeant la sous-représentation historique de l'Afrique dans la projection Mercator. L'initiative, portée par le Togo et l'Union africaine, a été soutenue par la France et le Royaume-Uni, les États-Unis étant les seuls à voter contre."
+    },
+    {
+      "title": "Voici pourquoi l'heure d'arrivée estimée est masquée sur Google Maps",
+      "url": "https://mappingforward.fr/articles/2026-09/20260921-vietnam-vn-google-maps-eta-masquee.html",
+      "date": "2026-09-21",
+      "source": "https://www.vietnam.vn/fr/ly-do-thoi-gian-du-kien-den-noi-tren-google-maps-chuyen-mau-den",
+      "author": "Vietnam.vn",
+      "keywords": "Google Maps, ETA, heure d'arrivée estimée, navigation, codes couleurs, interface",
+      "elevator_pitch": "L'heure d'arrivée estimée (ETA) affichée par Google Maps utilise un système de codes couleurs pour indiquer la fiabilité de l'estimation, mais dans certains contextes cette information est masquée, laissant les conducteurs sans repère temporel précis."
+    },
+    {
+      "title": "HD Maps for Autonomous Vehicles: The Digital Infrastructure Powering Next-Gen Navigation",
+      "url": "https://mappingforward.fr/articles/2026-09/20260921-marketsandmarkets-hd-maps-autonomous-vehicles.html",
+      "date": "2026-09-21",
+      "source": "https://www.marketsandmarkets.com/blog/AT/hd-maps-autonomous-vehicles",
+      "author": "MarketsandMarkets",
+      "keywords": "HD maps, véhicules autonomes, cartographie haute définition, LiDAR, ADAS, navigation autonome, cloud",
+      "elevator_pitch": "Le marché mondial des HD maps (cartes haute définition) pour véhicules autonomes devrait passer de 1,34 milliard de dollars en 2026 à 2,43 milliards d'ici 2033, porté par la commercialisation des architectures de conduite de niveaux 2+, 3 et 4 et par la transition vers des infrastructures cartographiques dynamiques rafraîchies en continu dans le cloud."
+    },
+    {
+      "title": "It's official: Mexico City's traffic is the worst in the world",
+      "url": "https://mappingforward.fr/articles/2026-09/20260921-mexico-news-daily-tomtom-mexico-city-traffic-worst.html",
+      "date": "2026-09-21",
+      "source": "https://mexiconewsdaily.com/travel/mexico-city-traffic-worst-in-world-guadalajara-17th/",
+      "author": "Mexico News Daily",
+      "keywords": "TomTom, Traffic Index, Mexico City, congestion, trafic, mobilité urbaine, Guadalajara",
+      "elevator_pitch": "Mexico City a été classée ville la plus congestionnée au monde en 2025 selon le TomTom Traffic Index, avec un niveau de congestion moyen de 75,9 %. Guadalajara se classe 17e au niveau mondial. L'indice TomTom calcule le niveau de congestion en comparant la vitesse du trafic à celle d'un trafic fluide."
+    },
+    {
+      "title": "Apple Maps blurs detention facilities in China",
+      "url": "https://mappingforward.fr/articles/2026-09/20260921-bbc-apple-maps-blurs-detention-facilities-china.html",
+      "date": "2026-09-21",
+      "source": "https://www.bbc.com/news/videos/cm0qx2278exeo",
+      "author": "BBC",
+      "keywords": "Apple Maps, censure cartographique, Chine, installations militaires, satellite, brouillage, censure",
+      "elevator_pitch": "Des chercheurs ont remarqué que l'imagerie satellite de sites militaires et gouvernementaux chinois est volontairement brouillée sur Apple Maps, soulevant des questions sur la censure cartographique appliquée par les grandes plateformes technologiques."
+    },
+    {
+      "title": "Trump threatened to redraw the map. Greenland deal shows the limits of his disruption",
+      "url": "https://mappingforward.fr/articles/2026-09/20260921-theprint-trump-greenland-deal-redraw-the-map.html",
+      "date": "2026-09-21",
+      "source": "https://www.youtube.com/watch?v=Km7FLqMk7XY",
+      "author": "ThePrint (Swasti Rao)",
+      "keywords": "Groenland, Trump, cartographie géopolitique, souveraineté, Danemark, Arctique, OTAN, redécoupage territorial",
+      "elevator_pitch": "L'accord Groenland–Danemark–États-Unis annoncé par Trump en 2026 montre les limites de la rhétorique de redécoupage territorial : malgré les annonces d'\"annexion\", le texte final consacre la souveraineté danoise tout en élargissant l'accès militaire américain, perpétuant un arrangement qui remonte à 1941."
+    },
+    {
+      "title": "Transgressive dune system of Piscinas, Western Sardinia (Italy)",
+      "url": "https://mappingforward.fr/articles/2026-09/20260921-tandfonline-piscinas-dune-system-sardinia.html",
+      "date": "2026-09-21",
+      "source": "https://www.tandfonline.com/doi/abs/10.1080/17445647.2026.2675564",
+      "author": "Taylor & Francis (Journal of Maps)",
+      "keywords": "carte géomorphologique, dunes, Sardaigne, Piscinas, Italie, système dunaire transgressif",
+      "elevator_pitch": "Une nouvelle carte géomorphologique présente un champ de dunes transgressif actif s'étendant sur plus de 2 km² le long de la côte occidentale de la Sardaigne (Italie), à Piscinas. L'étude documente la dynamique de ce système dunaire unique en Méditerranée."
+    },
+    {
+      "title": "La carte de GTA 6 devient beaucoup plus précise, Leonida serait plus petite que prévu",
+      "url": "https://mappingforward.fr/articles/2026-09/20260921-lacremedugaming-gta6-carte-leonida-v16.html",
+      "date": "2026-09-21",
+      "source": "https://www.lacremedugaming.fr/jeux/gta/gta-6/la-carte-de-gta-6-devient-beaucoup-plus-precise-leonida-serait-plus-petite-que-prevu-226026.html",
+      "author": "La Crème Du Gaming (Francis Uliel)",
+      "keywords": "GTA 6, community map, Leonida, Vice City, cartographie jeu vidéo, Rockstar Games, superficie",
+      "elevator_pitch": "La version 16 de la community map de GTA 6, construite à partir d'une carte leakée du 18 août et des séquences du trailer An Extended Look, affine les contours de l'État de Leonida avec un niveau de détail inédit. Résultat : la carte apparaît plus précise mais aussi plus petite que les estimations précédentes, avec une surface terrestre estimée à environ 85,6 km² contre près de 110 km² dans la V15."
+    },
+    {
+      "title": "Millénaire de Walcourt: dix soirs de spectacle, et ensuite?",
+      "url": "https://mappingforward.fr/articles/2026-09/20260921-lavenir-millenaire-walcourt-mapping-video.html",
+      "date": "2026-09-21",
+      "source": "https://www.lavenir.net/regions/sambre-meuse/walcourt/2026/09/21/millenaire-de-walcourt-dix-soirs-de-spectacle-et-ensuite-5SQOHBYOFFAF7HB62HGMK5RGLA/",
+      "author": "L'Avenir (Éric Bossart)",
+      "keywords": "mapping vidéo, Walcourt, millénaire, projection architecturale, tourisme, Horeca, Belgique",
+      "elevator_pitch": "Le mapping vidéo projeté pendant dix soirées sur la basilique de Walcourt à l'occasion du millénaire de la commune a attiré entre 20 000 et 25 000 spectateurs. Les élus et commerçants veulent désormais capitaliser sur ce succès pour développer l'offre touristique et de restauration de l'entité."
+    },
     {
       "title": "Online map shows how suitable Guernsey homes are for solar panels",
       "url": "https://mappingforward.fr/articles/2026-09/20260920-bbc-guernsey-solar-panel-suitability-map.html",
