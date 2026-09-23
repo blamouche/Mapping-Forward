@@ -1,9 +1,90 @@
 {
   "site": "Mapping Forward",
   "url": "https://mappingforward.fr",
-  "generated": "2026-09-22T06:05:09.820624",
-  "article_count": 980,
+  "generated": "2026-09-23T06:06:37.166610",
+  "article_count": 989,
   "articles": [
+    {
+      "title": "Live Map: Track the path of Hurricane Polo",
+      "url": "https://mappingforward.fr/articles/2026-09/20260922-pbs-hurricane-polo-live-map-track-path.html",
+      "date": "2026-09-22",
+      "source": "https://www.pbs.org/newshour/nation/live-map-track-the-path-of-hurricane-polo",
+      "author": "PBS NewsHour / Associated Press",
+      "keywords": "Hurricane Polo, live map, Category 5, Pacific hurricane, Mexico, National Hurricane Center, NOAA, El Niño, storm tracking, interactive map",
+      "elevator_pitch": "PBS NewsHour featured a live interactive map tracking Hurricane Polo, one of the most powerful Pacific cyclones in decades, which reached Category 5 with 180 mph sustained winds and threatened Mexico's southwestern coast."
+    },
+    {
+      "title": "How the World Fights Traffic Jams: From Cable Cars to AI Traffic Lights",
+      "url": "https://mappingforward.fr/articles/2026-09/20260922-24kz-how-world-fights-traffic-jams-tomtom.html",
+      "date": "2026-09-22",
+      "source": "https://24.kz/ru/news/in-the-world/793558-kak-v-mire-boryutsya-s-probkami",
+      "author": "24KZ (Айгерим Ардаккызы)",
+      "keywords": "TomTom, traffic index, Mexico City, congestion, cable cars, AI traffic lights, congestion pricing, New York, China robots, South Korea, urban mobility, traffic management",
+      "elevator_pitch": "Kazakh news outlet 24KZ surveys global approaches to fighting traffic congestion using TomTom data, profiling solutions from Mexico City's cable car network to China's robotic lane dividers, South Korea's AI traffic signals, and New York's congestion pricing."
+    },
+    {
+      "title": "Around the Geospatial, 3D, and AEC Industries: Lidar, Urban Mapping, and Telling Reports",
+      "url": "https://mappingforward.fr/articles/2026-09/20260922-geoweeknews-around-geospatial-3d-aec-lidar-urban-mapping-telling-reports.html",
+      "date": "2026-09-22",
+      "source": "https://www.geoweeknews.com/articles/around-the-geospatial-3d-and-aec-industries-lidar-urban-mapping-and-telling-reports/",
+      "author": "Abigail Hart, Geo Week News",
+      "keywords": "LiDAR, digital construction, mobile scanning, urban digital twin, WGIC, geospatial data trust, AI-generated spatial data, provenance, decision-grade data, Intergeo, Munich",
+      "elevator_pitch": "Geo Week News highlights three geospatial stories: a Utah contractor making mobile LiDAR the connective tissue of its digital construction workflow, a Munich urban digital twin leader arguing that people — not technology — are the real challenge, and a WGIC report warning of the shift from measurement-based to model-based trust in geospatial data."
+    },
+    {
+      "title": "Mapy.com ajoute une fonctionnalité d'économie de batterie pour la navigation",
+      "url": "https://mappingforward.fr/articles/2026-09/20260922-letemsvetemapplem-mapy-com-battery-saving-navigation.html",
+      "date": "2026-09-22",
+      "source": "https://www.letemsvetemapplem.eu/fr/2026/09/22/mapy-com-pridavaji-skvelou-novinku-ktera-vam-pomuze-setrit-baterii/",
+      "author": "Letem světem Applem",
+      "keywords": "Mapy.com, Seznam, navigation, économie de batterie, luminosité automatique, GPS, application de cartographie, République tchèque, application mobile",
+      "elevator_pitch": "L'application de cartographie tchèque Mapy.com, développée par Seznam, a ajouté une fonctionnalité d'économie de batterie qui réduit automatiquement la luminosité de l'écran entre les instructions de navigation, avec des paramètres personnalisables selon le mode de transport."
+    },
+    {
+      "title": "A Map of the Arctic Ocean",
+      "url": "https://mappingforward.fr/articles/2026-09/20260922-arctic-institute-map-arctic-ocean-cryosphere-series.html",
+      "date": "2026-09-22",
+      "source": "https://www.thearcticinstitute.org/map-arctic-ocean/",
+      "author": "The Arctic Institute (Cryosphere Series 2026)",
+      "keywords": "Arctic Ocean, speculative map, ice retreat, territorial claims, shipping lanes, oil and gas exploration, wildlife migration, climate change, cartography, Arctic Institute",
+      "elevator_pitch": "The Arctic Institute's Cryosphere Series 2026 features an artistic-scientific map of the Arctic Ocean that layers ice retreat, territorial claims, shipping routes, resource extraction zones, and wildlife migration into a single image, revealing the entangled forces reshaping the polar region."
+    },
+    {
+      "title": "Casablanca-Settat veut protéger ses terres agricoles : une course pour les cartographier",
+      "url": "https://mappingforward.fr/articles/2026-09/20260922-ledesk-casablanca-settat-cartographier-terres-agricoles.html",
+      "date": "2026-09-22",
+      "source": "https://ledesk.ma/enoff/casablanca-settat-veut-proteger-ses-terres-agricoles-une-course-a-six-pour-les-cartographier/",
+      "author": "Le Desk / Aujourd'hui le Maroc",
+      "keywords": "Casablanca-Settat, terres agricoles, cartographie, SIG, système d'information géographique, urbanisation, foncier agricole, carte agricole, Maroc, aménagement du territoire",
+      "elevator_pitch": "La région de Casablanca-Settat lance un appel d'offres international pour élaborer une carte agricole régionale soutenue par un SIG, afin de classer les terres selon leur potentiel agronomique et protéger les sols fertiles face à l'urbanisation galopante."
+    },
+    {
+      "title": "What Airborne Lidar Actually Sees in Ice",
+      "url": "https://mappingforward.fr/articles/2026-09/20260922-geoweeknews-airborne-lidar-what-it-sees-in-ice.html",
+      "date": "2026-09-22",
+      "source": "https://www.geoweeknews.com/articles/what-airborne-lidar-actually-sees-in-ice/",
+      "author": "Geo Week News",
+      "keywords": "airborne lidar, ice, glaciers, Greenland, Antarctica, sea-level rise, laser scanning, ice penetration, climate science, radar, cryosphere",
+      "elevator_pitch": "Geo Week News explains the surprising complexity of using airborne lidar to map ice: because ice is partly transparent to laser light, a single pulse can produce multiple echoes from different depths, creating both a measurement challenge and an unexpected tool for tracing internal ice layers."
+    },
+    {
+      "title": "Traffic chaos in Perthshire villages after Google Maps glitch",
+      "url": "https://mappingforward.fr/articles/2026-09/20260922-bbc-google-maps-glitch-perthshire-traffic-chaos.html",
+      "date": "2026-09-22",
+      "source": "https://www.bbc.com/news/articles/c933k2y1xk53o",
+      "author": "BBC Scotland (Claire Thomson, Sarah Farron)",
+      "keywords": "Google Maps, glitch, traffic diversion, Perthshire, A9, Dunkeld, Pitlochry, single-track road, navigation error",
+      "elevator_pitch": "A Google Maps glitch falsely reported the A9 trunk road as closed and diverted drivers — including campervans and a coach — onto a narrow single-track road between Dunkeld and Pitlochry, trapping residents and causing chaos in Perthshire villages for three days."
+    },
+    {
+      "title": "Bike vs Car in Rush Hour: How Much Faster Are You Really?",
+      "url": "https://mappingforward.fr/articles/2026-09/20260922-bicycling-nl-bike-vs-car-rush-hour-tomtom-amsterdam.html",
+      "date": "2026-09-22",
+      "source": "https://www.bicycling.nl/nieuws/fiets-of-auto-in-de-spits",
+      "author": "Bicycling.nl",
+      "keywords": "TomTom, Traffic Index, Amsterdam, cycling, e-bike, race bike, car, rush hour, urban mobility, congestion, Netherlands, commuting, speed comparison",
+      "elevator_pitch": "Using TomTom Traffic Index data, Bicycling.nl demonstrates that in Amsterdam's evening rush hour a car travels at the same speed as an e-bike (about 22 km/h), making the bicycle the faster option for urban trips under 10 km — especially once parking time is factored in."
+    },
     {
       "title": "GTA 6 : véhicules, map, date de sortie, précommande, tout savoir sur le prochain jeu Rockstar Games",
       "url": "https://mappingforward.fr/articles/2026-09/20260921-journaldugeek-gta6-dossier-complet.html",

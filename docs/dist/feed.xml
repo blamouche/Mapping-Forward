@@ -6,7 +6,79 @@
     <description>Daily synthesis of articles on cartography, mapping, geospatial data, and geographic intelligence</description>
     <language>en</language>
     <atom:link href="https://mappingforward.fr/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 22 Sep 2026 06:05:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 06:06:37 +0000</lastBuildDate>
+
+    <item>
+        <title>Live Map: Track the path of Hurricane Polo</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260922-pbs-hurricane-polo-live-map-track-path.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260922-pbs-hurricane-polo-live-map-track-path.html</guid>
+        <description>PBS NewsHour featured a live interactive map tracking Hurricane Polo, one of the most powerful Pacific cyclones in decades, which reached Category 5 with 180 mph sustained winds and threatened Mexico&#x27;s southwestern coast. — Key takeaways: Hurricane Polo grew into a Category 5 storm with maximum sustained winds of 180 mph (290 kph), confirmed by a NOAA Hurricane Hunter aircraft ; Polo was the third Category 5 hurricane of the Pacific season, following Genevieve and Lowell ; The storm was centered 210 miles south of Zihuatanejo, Mexico, and was nearly stationary at midday, expected to move west-northwestward ; Polo reached speeds comparable to only a few hurricanes in recent decades, primarily Hurricane Patricia (215 mph in 2015) ; Scientists attributed the rapid intensification to the El Niño weather phenomenon, which has fueled warmer waters and favorable wind patterns in the Pacific ; The U.S. Embassy in Mexico issued a weather alert warning of life-threatening flooding, mudslides, and dangerous rip currents even without direct landfall</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>How the World Fights Traffic Jams: From Cable Cars to AI Traffic Lights</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260922-24kz-how-world-fights-traffic-jams-tomtom.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260922-24kz-how-world-fights-traffic-jams-tomtom.html</guid>
+        <description>Kazakh news outlet 24KZ surveys global approaches to fighting traffic congestion using TomTom data, profiling solutions from Mexico City&#x27;s cable car network to China&#x27;s robotic lane dividers, South Korea&#x27;s AI traffic signals, and New York&#x27;s congestion pricing. — Key takeaways: Mexico City has the world&#x27;s worst traffic at nearly 76% congestion, with drivers losing about 184 hours per year in jams (TomTom data) ; Mexico City is building three new cable car lines totaling nearly 40 km, with one line expected to cut a 70-minute commute nearly in half ; China&#x27;s Zhejiang province uses 18 mobile robotic lane dividers that reconfigure intersections during school rush hours, converting one left-turn lane into two ; Incheon, South Korea uses AI to analyze traffic flow and optimize signal timing on 25 major roads, achieving a 30% speed increase and halving delay times on a key 6-km stretch ; New York&#x27;s congestion pricing (since January 2025, $9 base fare for Manhattan core) reduced traffic by 11% — 27 million fewer cars entering the zone — and generated over $550 million for public transit modernization ; Global congestion increased by an average of 5 percentage points over the past year according to TomTom</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Around the Geospatial, 3D, and AEC Industries: Lidar, Urban Mapping, and Telling Reports</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260922-geoweeknews-around-geospatial-3d-aec-lidar-urban-mapping-telling-reports.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260922-geoweeknews-around-geospatial-3d-aec-lidar-urban-mapping-telling-reports.html</guid>
+        <description>Geo Week News highlights three geospatial stories: a Utah contractor making mobile LiDAR the connective tissue of its digital construction workflow, a Munich urban digital twin leader arguing that people — not technology — are the real challenge, and a WGIC report warning of the shift from measurement-based to model-based trust in geospatial data. — Key takeaways: WW Clyde, a Utah heavy civil contractor, uses mobile LiDAR across highway corridors of 20–40 miles for progress monitoring, as-built documentation, and dispute protection — discovering 148,000 incorrectly installed pilings on a solar project through scanning ; Markus Mohl of Digital Twin Munich argues that the hardest part of building an urban digital twin isn&#x27;t data acquisition but convincing city departments to break down data silos; the profession&#x27;s biggest unsolved problem is communication, not real-time integration or AI ; The World Geospatial Industry Council (WGIC) report warns that as AI increasingly generates spatial data, the sector is moving from measurement-based trust to model-based trust, with risks of silent errors, untraceable lineage, and blurred accountability ; The WGIC report lays out six properties of decision-grade data and a phased action plan: provenance tracking and metadata standards now, cryptographic verification within two years, federated governance within three ; WGIC Executive Director Aaron Addison warns that a vulnerability anywhere along the sensor-to-decision data chain propagates all the way downstream</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Mapy.com ajoute une fonctionnalité d&#x27;économie de batterie pour la navigation</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260922-letemsvetemapplem-mapy-com-battery-saving-navigation.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260922-letemsvetemapplem-mapy-com-battery-saving-navigation.html</guid>
+        <description>L&#x27;application de cartographie tchèque Mapy.com, développée par Seznam, a ajouté une fonctionnalité d&#x27;économie de batterie qui réduit automatiquement la luminosité de l&#x27;écran entre les instructions de navigation, avec des paramètres personnalisables selon le mode de transport. — Key takeaways: Mapy.com a intégré un bouton dans ses paramètres pour réduire la luminosité de l&#x27;écran entre les instructions de navigation ; La fonctionnalité est personnalisable selon le mode de transport : voiture, vélo ou piéton ; L&#x27;activation du GPS ayant un impact considérable sur l&#x27;autonomie, cette fonction vise à atténuer l&#x27;épuisement de la batterie ; Un écran qui s&#x27;assombrit progressivement jusqu&#x27;à un changement d&#x27;itinéraire peut ne pas convenir à tous les utilisateurs ; L&#x27;option se trouve dans le menu Paramètres – Navigation de l&#x27;application Mapy.com</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>A Map of the Arctic Ocean</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260922-arctic-institute-map-arctic-ocean-cryosphere-series.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260922-arctic-institute-map-arctic-ocean-cryosphere-series.html</guid>
+        <description>The Arctic Institute&#x27;s Cryosphere Series 2026 features an artistic-scientific map of the Arctic Ocean that layers ice retreat, territorial claims, shipping routes, resource extraction zones, and wildlife migration into a single image, revealing the entangled forces reshaping the polar region. — Key takeaways: The map is an artistic tool constructed from scientific data, bringing together environmental change, political power, ecological life, human history, language, and territorial questions in one image ; It layers Arctic ice boundaries, territorial claims, existing and proposed shipping lanes, oil and gas prospecting areas, and wildlife migration routes (birds and whales) ; By assigning each trace an equal graphic value, the map proposes an understanding of the Arctic Ocean as an interconnected system rather than a collection of separate domains ; The map includes linguistic regions, connecting human cultural geography to physical and political geography ; Part of The Arctic Institute&#x27;s Cryosphere Series 2026, the map functions as a tool for drawing connections between past and future trajectories of transformation</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Casablanca-Settat veut protéger ses terres agricoles : une course pour les cartographier</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260922-ledesk-casablanca-settat-cartographier-terres-agricoles.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260922-ledesk-casablanca-settat-cartographier-terres-agricoles.html</guid>
+        <description>La région de Casablanca-Settat lance un appel d&#x27;offres international pour élaborer une carte agricole régionale soutenue par un SIG, afin de classer les terres selon leur potentiel agronomique et protéger les sols fertiles face à l&#x27;urbanisation galopante. — Key takeaways: Le ministère de l&#x27;Agriculture a lancé un appel d&#x27;offres international pour l&#x27;élaboration de la carte agricole régionale de Casablanca-Settat ; La carte sera accompagnée d&#x27;un système d&#x27;information géographique (SIG) pour assurer un suivi permanent du foncier agricole ; Trois catégories de terres seront définies : haut potentiel (à protéger), potentiel moyen (zone de sauvegarde), et faible potentiel (orientable vers l&#x27;urbanisation) ; La région compte 2,04 millions d&#x27;hectares dont 1,26 million de superficie agricole utile, avec 186 311 exploitations agricoles ; Casablanca-Settat représente 20,9 % de la population nationale (7,69 millions d&#x27;habitants) et subit une forte pression foncière ; Les provinces de Settat, El Jadida et Sidi Bennour concentrent l&#x27;essentiel du potentiel agricole régional</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>What Airborne Lidar Actually Sees in Ice</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260922-geoweeknews-airborne-lidar-what-it-sees-in-ice.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260922-geoweeknews-airborne-lidar-what-it-sees-in-ice.html</guid>
+        <description>Geo Week News explains the surprising complexity of using airborne lidar to map ice: because ice is partly transparent to laser light, a single pulse can produce multiple echoes from different depths, creating both a measurement challenge and an unexpected tool for tracing internal ice layers. — Key takeaways: Ice is partly see-through to laser light — a single laser pulse can produce multiple echoes from the surface, internal layers, and the bottom of the ice ; This transparency creates a measurement problem: scientists must determine which echo represents the true surface, as subsurface penetration can make the surface appear lower than it really is ; Even a few inches of error per year matters enormously when measuring ice thinning in Greenland and Antarctica, where the difference between &quot;stable&quot; and &quot;melting fast&quot; is only a few inches per year ; The same property that makes lidar tricky on ice also makes it powerful: it can detect internal layers within the ice, including volcanic ash markers, connecting drill sites across large stretches ; Different ice types pose different challenges: snow scatters light, meltwater ponds act like mirrors, and sea ice shifts and piles into ridges ; Radar complements lidar by reaching the bottom of ice sheets a mile or more thick, while lidar needs clear air — clouds, fog, and blowing snow can make a flight useless</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Traffic chaos in Perthshire villages after Google Maps glitch</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260922-bbc-google-maps-glitch-perthshire-traffic-chaos.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260922-bbc-google-maps-glitch-perthshire-traffic-chaos.html</guid>
+        <description>A Google Maps glitch falsely reported the A9 trunk road as closed and diverted drivers — including campervans and a coach — onto a narrow single-track road between Dunkeld and Pitlochry, trapping residents and causing chaos in Perthshire villages for three days. — Key takeaways: Google Maps falsely reported the A9 as closed, redirecting traffic onto the unclassified U163 road through Ballinluig, Tulliemet and Guay ; The glitch began on Friday and persisted through the weekend; residents were unable to leave their homes due to excessive traffic on a road with no passing places ; Campervans, a large coach, and cars with trailers (one towing a boat) were sent down the single-track road, some at speeds up to 40 mph ; Transport Scotland publicly posted on X that Google Maps was falsely reporting the A9 as closed and recommending an &quot;inconvenient alternate route&quot; ; The bug was fixed after the A9 Dual Action campaign group contacted the Google Maps team in London directly ; Laura Hansler of the campaign group noted Google Maps had previously shown incorrect speed limits on the same trunk road</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Bike vs Car in Rush Hour: How Much Faster Are You Really?</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260922-bicycling-nl-bike-vs-car-rush-hour-tomtom-amsterdam.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260922-bicycling-nl-bike-vs-car-rush-hour-tomtom-amsterdam.html</guid>
+        <description>Using TomTom Traffic Index data, Bicycling.nl demonstrates that in Amsterdam&#x27;s evening rush hour a car travels at the same speed as an e-bike (about 22 km/h), making the bicycle the faster option for urban trips under 10 km — especially once parking time is factored in. — Key takeaways: Amsterdam is the slowest car city in the Netherlands: cars average less than 23 km/h, and in the evening rush hour a 10-km trip takes 27 minutes (about 22 km/h) ; An e-bike travels at 20–25 km/h, meaning in Amsterdam&#x27;s evening rush hour a car is no faster than an e-bike ; A race bike at 23–27 km/h in city traffic is faster than a car in rush hour, even before parking time is considered ; On distances under 5 km in the city, the bicycle is virtually always faster than a car once parking is accounted for ; The crossover point depends on the city: in Nijmegen, where cars average over 28 km/h, even an e-bike is slower over 10 km ; Amsterdam car commuters lost 97 hours per year to traffic in 2025 according to TomTom — more than four full days ; A University of Utrecht study found that cycling 75 minutes per week extends life by about half a year</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
 
     <item>
         <title>GTA 6 : véhicules, map, date de sortie, précommande, tout savoir sur le prochain jeu Rockstar Games</title>
@@ -333,78 +405,6 @@
         <link>https://mappingforward.fr/articles/2026-09/20260916-nature-conservancy-clean-energy-maps-community-engagement.html</link>
         <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260916-nature-conservancy-clean-energy-maps-community-engagement.html</guid>
         <description>The Nature Conservancy argues that spatial data mapping tools like its Clean Energy Compass are valuable for early-stage renewable energy siting, but relationship-driven community engagement — not data-driven siting — remains the strongest predictor of project success. — Key takeaways: The Nature Conservancy&#x27;s Clean Energy Compass is an interactive mapping tool for early clean energy planning that incorporates conservation and community considerations ; Mapping tools now include socioeconomic and environmental vulnerability indicators (income, pollution exposure, health burdens, energy affordability) to identify community-level impacts ; Maps can highlight opportunities like brownfields and landfills for renewable energy redevelopment, aligning clean energy goals with land restoration ; Despite their value, maps have limitations: spatial datasets lack local detail, cannot capture community experiences, and may reinforce inequities if used without care ; Early, meaningful community engagement is the strongest predictor of renewable energy project success and long-term acceptance ; Relationship-driven planning, not data-driven siting, is the key to accelerating the clean energy transition</description>
-        <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Google Maps&#x27; Misleading Nine-Hour Detour Spells Plummeting Bookings for West Coast Businesses</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260916-thepress-google-maps-detour-nz-west-coast.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260916-thepress-google-maps-detour-nz-west-coast.html</guid>
-        <description>Tourism operators on New Zealand&#x27;s West Coast report cancellations and plummeting bookings because Google Maps is routing drivers on a misleading nine-hour detour, treating a restricted section of State Highway 6 as fully closed when it remains passable. — Key takeaways: Google Maps is treating a restricted section of New Zealand&#x27;s State Highway 6 as completely closed, routing drivers on a nine-hour detour ; Tourism operators report visitors cancelling bookings due to the misleading routing information ; The restricted SH6 section remains passable, but Google Maps does not reflect this nuance ; The issue highlights the real-world economic impact of mapping errors on local businesses dependent on accurate navigation data ; This is another example of navigation apps causing problems by not accurately reflecting road conditions</description>
-        <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Android Auto: Better Destination Preview Coming to Google Maps with Photos and AI Summaries</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260916-phonandroid-android-auto-google-maps-destination-preview-ai.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260916-phonandroid-android-auto-google-maps-destination-preview-ai.html</guid>
-        <description>Android Auto version 17.8 brings a redesigned Google Maps destination preview with photos, Gemini AI-generated summaries, and a reworked interface that moves trip time and distance to a bottom bar. — Key takeaways: Android Auto 17.8 update adds photos and AI-generated summaries to Google Maps destination previews, a feature previously only available on smartphones ; Google redesigned the entire UI: trip time and distance now display in a bottom horizontal bar that can be expanded for alternate routes and stops ; Destination photos can be viewed in a dedicated gallery, eliminating the need to check the phone ; A Gemini-generated summary helps drivers confirm the correct destination and anticipate what to expect before arriving ; Features are ready but not yet officially deployed by Google; changes may occur before general availability</description>
-        <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Cameroon Wraps Up Population Census After Two Deadline Extensions, Using Satellite Mapping</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260916-cameroon-tribune-census-satellite-mapping.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260916-cameroon-tribune-census-satellite-mapping.html</guid>
-        <description>Cameroon completed its 4th General Population and Housing Census after two deadline extensions, deploying 33,000 enumerators with GPS-enabled tablets and high-resolution satellite mapping to locate unrecorded rural settlements — preliminary results expected in five months. — Key takeaways: Cameroon&#x27;s RGPH-4 census ran from April 24 to September 15, 2026, extended twice by the Prime Minister due to operational hurdles ; Over 33,000 enumerators deployed with encrypted, GPS-enabled mobile tablets for real-time data transmission ; High-resolution satellite mapping was incorporated during the first extension to locate unrecorded rural settlements ; The census was conducted jointly with the General Census of Agriculture and Livestock (RGAE) — a first for Cameroon ; The 2026 census replaces over two decades of projections; the last official census (2005) recorded 17,463,836 inhabitants ; Estimated population prior to census: over 28.8 million; preliminary results expected within five months ; The fully digital CAPI model contrasts sharply with the paper-based 2005 census, whose results took over four years to publish</description>
-        <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Drought in Summer 2026 in 12 Maps and Graphs</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260916-drought-gov-summer-2026-12-maps-graphs.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260916-drought-gov-summer-2026-12-maps-graphs.html</guid>
-        <description>NOAA&#x27;s National Integrated Drought Information System presents 12 maps and graphs showing that the contiguous US experienced its warmest June-August on record in 2026, with drought covering nearly half the country, record-low reservoir levels, and a historically strong El Niño developing. — Key takeaways: The contiguous US experienced its warmest June-August on record in 2026, exceeding previous records from 1936 and 2021 by 0.4°F ; Drought covered nearly half the country, sustained by below-normal precipitation and above-normal temperatures ; Major western reservoirs Lake Mead and Lake Powell hit all-time record lows ; The extreme conditions fueled a destructive wildfire season with unhealthy smoke levels across large parts of the US ; A potentially historically strong El Niño is projected to continue developing through fall and winter ; Flash drought is worsening in the Southern Plains and Lower Mississippi River Basin ; High evaporative demand was observed across almost every CONUS state, especially Colorado</description>
-        <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>High-Resolution European Soil Property Maps Based on LUCAS and AlphaEarth Satellite Embeddings</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260916-nature-scientific-data-european-soil-property-maps.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260916-nature-scientific-data-european-soil-property-maps.html</guid>
-        <description>Researchers produced 10-meter resolution soil property maps for all of Europe (EU-27 + UK) using machine learning trained on LUCAS soil datasets with AlphaEarth Foundations satellite embeddings, covering soil texture, pH, bulk density, and coarse fragments — a significant leap from the previous 30–250m resolution. — Key takeaways: 10 m resolution soil property maps produced for EU-27 + UK, covering clay, silt, sand content, coarse fragments, pH, and bulk density ; Previous European soil maps ranged from 250 m to 30 m resolution depending on the property; this work closes the resolution gap ; Machine learning workflow trained on LUCAS soil datasets using AlphaEarth Foundations satellite embeddings as predictors ; Artificial Neural Networks outperformed Random Forests, with R² values ranging from 0.21 (coarse fragments) to 0.69 (pH) ; Uncertainty estimate maps were produced using Monte Carlo dropout ; Maps support precision agriculture, soil health assessment at field scale, and spatial planning</description>
-        <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Google Maps affiche enfin la vitesse sans itinéraire actif sur l&#x27;écran</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260916-generation-nt-google-maps-vitesse-sans-itineraire-android-auto.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260916-generation-nt-google-maps-vitesse-sans-itineraire-android-auto.html</guid>
-        <description>Google deploys a server-side update enabling permanent display of speedometer, speed limits, and stop signs on Android Auto — even without an active navigation route — closing a long-standing gap with Apple CarPlay. — Key takeaways: Google Maps now displays real-time speed, speed limits, and stop signs permanently on Android Auto screens without requiring an active route ; The update is rolling out progressively via server-side flags; users need the latest app version but no manual action ; A recent display bug temporarily removed the speedometer for some users after cache clearing; Google confirmed it was isolated and a fix is being distributed ; Apple CarPlay already had this persistent speed display, highlighting a feature gap Google has now closed</description>
-        <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>TomTom Clarifies AFM Register Change Relating to Co-Founders&#x27; Shareholding</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260916-tomtom-afm-register-change-cofounders-shareholding.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260916-tomtom-afm-register-change-cofounders-shareholding.html</guid>
-        <description>TomTom confirmed that a change in the Dutch AFM substantial holdings register regarding co-founders Harold Goddijn and Corinne Vigreux is merely an internal restructuring of how their shares are held — their combined 25.6% position remains unchanged. — Key takeaways: TomTom co-founders Harold Goddijn and Corinne Vigreux restructured how their TomTom shares are held, triggering an AFM register update ; Their total combined position remains 31,971,749 shares, representing 25.6% of total shares — no change in actual shareholding ; The restructuring was reported to the Dutch Authority for the Financial Markets (AFM) in accordance with regulations ; Both co-founders reaffirmed their commitment to TomTom&#x27;s strategy, technology, and people</description>
-        <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Google Maps Tests New Approach to Prevent Everyone Taking the Same Route</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260916-menow-google-maps-traffic-concentration-routing.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260916-menow-google-maps-traffic-concentration-routing.html</guid>
-        <description>Google Maps is testing a system that deliberately sends some drivers on different routes to optimize overall network traffic flow rather than individual trip time — early trials show a 2% increase in average speed and 1% reduction in fuel consumption by modifying only 2% of trips. — Key takeaways: Google Maps is experimenting with routing that optimizes global traffic flow rather than each driver&#x27;s individual fastest path ; The system selectively redirects only some drivers to alternate routes, preventing secondary roads from becoming saturated when a main road has an incident ; Trials in major American cities modified only about 2% of trips but achieved ~2% increase in average speed and ~1% reduction in fuel consumption ; Current GPS apps share a weakness: when an accident or congestion blocks a main road, thousands of drivers receive the same detour, simply moving the problem elsewhere ; The approach represents a shift from individual optimization to network-level traffic management</description>
-        <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Aerial Surveys International Awarded GSA Multiple Award Schedule Contract</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260916-geoweeknews-aerial-surveys-gsa-contract.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260916-geoweeknews-aerial-surveys-gsa-contract.html</guid>
-        <description>Aerial Surveys International has been awarded a GSA Multiple Award Schedule contract, enabling federal, state, local, and tribal agencies to directly procure its GIS and Earth observation services — including aerial imagery, LiDAR, and geospatial analytics — as a prime contractor. — Key takeaways: Aerial Surveys International (ASIntl) awarded GSA Multiple Award Schedule (MAS) contract for GIS and Earth observation services ; Contract covers SIN 541370GIS (GIS services) and SIN 541370GEO (Earth observation solutions) — placing ASIntl among select contractors authorized for both under a single GSA vehicle ; Federal agencies including USGS, USDA, NOAA, USFS, FEMA, DHS, NGA, and FAA can now issue task orders directly without separate competitive procurement ; ASIntl maintains teaming agreements with 27 partner organizations representing nearly 4,000 professionals ; The award strengthens the TrinityGEO geospatial intelligence framework developed with Polygon Solutions and Urban Hawk ; State, local, and tribal governments also gain direct access for disaster preparedness and emergency response GIS purchases</description>
         <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     </item>
 
