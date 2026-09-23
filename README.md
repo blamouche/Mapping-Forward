@@ -19,12 +19,21 @@ Articles per month:
 2026-05 | ████████████████████████████████ 117<br>
 2026-07 | █████ 10<br>
 2026-08 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 267<br>
-2026-09 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 167<br>
+2026-09 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 176<br>
 ## Articles
 
 ### 2026
 
-#### September (167 articles)
+#### September (176 articles)
+- [Traffic chaos in Perthshire villages after Google Maps glitch](src/2026-09/20260922-bbc-google-maps-glitch-perthshire-traffic-chaos.md)
+- [Live Map: Track the path of Hurricane Polo](src/2026-09/20260922-pbs-hurricane-polo-live-map-track-path.md)
+- [A Map of the Arctic Ocean](src/2026-09/20260922-arctic-institute-map-arctic-ocean-cryosphere-series.md)
+- [Casablanca-Settat veut protéger ses terres agricoles : une course pour les cartographier](src/2026-09/20260922-ledesk-casablanca-settat-cartographier-terres-agricoles.md)
+- [Mapy.com ajoute une fonctionnalité d'économie de batterie pour la navigation](src/2026-09/20260922-letemsvetemapplem-mapy-com-battery-saving-navigation.md)
+- [Around the Geospatial, 3D, and AEC Industries: Lidar, Urban Mapping, and Telling Reports](src/2026-09/20260922-geoweeknews-around-geospatial-3d-aec-lidar-urban-mapping-telling-reports.md)
+- [What Airborne Lidar Actually Sees in Ice](src/2026-09/20260922-geoweeknews-airborne-lidar-what-it-sees-in-ice.md)
+- [How the World Fights Traffic Jams: From Cable Cars to AI Traffic Lights](src/2026-09/20260922-24kz-how-world-fights-traffic-jams-tomtom.md)
+- [Bike vs Car in Rush Hour: How Much Faster Are You Really?](src/2026-09/20260922-bicycling-nl-bike-vs-car-rush-hour-tomtom-amsterdam.md)
 - [Voici pourquoi l'heure d'arrivée estimée est masquée sur Google Maps](src/2026-09/20260921-vietnam-vn-google-maps-eta-masquee.md)
 - [Trump threatened to redraw the map. Greenland deal shows the limits of his disruption](src/2026-09/20260921-theprint-trump-greenland-deal-redraw-the-map.md)
 - [Transgressive dune system of Piscinas, Western Sardinia (Italy)](src/2026-09/20260921-tandfonline-piscinas-dune-system-sardinia.md)
