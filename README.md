@@ -19,12 +19,20 @@ Articles per month:
 2026-05 | ████████████████████████████████ 117<br>
 2026-07 | █████ 10<br>
 2026-08 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 267<br>
-2026-09 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 176<br>
+2026-09 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 184<br>
 ## Articles
 
 ### 2026
 
-#### September (176 articles)
+#### September (184 articles)
+- [Cloud Geographic Information Systems (GIS) Market Report: Growth from $2.36B to $4.76B by 2030](src/2026-09/20260923-openpr-cloud-gis-market-report-2026-2030.md)
+- [Grid My Business Launches AI Search to Map Local Visibility Across AI Platforms](src/2026-09/20260923-newsfilecorp-grid-my-business-ai-search-local-visibility.md)
+- [MCD commences pilot drone survey to improve property tax assessment in Delhi](src/2026-09/20260923-newindianexpress-mcd-drone-survey-property-tax-gis-lidar.md)
+- [Quand les métadonnées deviennent plus précieuses que les données elles-mêmes](src/2026-09/20260923-journaldunet-metadonnees-plus-precieuses-que-donnees-tomtom.md)
+- [Metro Manila's traffic crisis: Philippines ranked most congested country in Asia](src/2026-09/20260923-inquirer-metro-manila-traffic-crisis-tomtom-index.md)
+- [Cartographic Perspectives for Risk Analysis: Dynamic Movement Data](src/2026-09/20260923-iadb-cartographic-perspectives-risk-analysis-dynamic-movement-data.md)
+- [New Google Maps Speedometer Headache on Android Auto, Users Calling for Another Fix](src/2026-09/20260923-autoevolution-google-maps-speedometer-kph-mph-android-auto.md)
+- [Apple Maps floute des sites sensibles en Chine : zoom sur une controverse cartographique](src/2026-09/20260923-appsystem-apple-maps-floutage-sites-sensibles-chine.md)
 - [Traffic chaos in Perthshire villages after Google Maps glitch](src/2026-09/20260922-bbc-google-maps-glitch-perthshire-traffic-chaos.md)
 - [Live Map: Track the path of Hurricane Polo](src/2026-09/20260922-pbs-hurricane-polo-live-map-track-path.md)
 - [A Map of the Arctic Ocean](src/2026-09/20260922-arctic-institute-map-arctic-ocean-cryosphere-series.md)
