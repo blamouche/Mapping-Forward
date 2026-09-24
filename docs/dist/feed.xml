@@ -6,69 +6,77 @@
     <description>Daily synthesis of articles on cartography, mapping, geospatial data, and geographic intelligence</description>
     <language>en</language>
     <atom:link href="https://mappingforward.fr/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 23 Sep 2026 06:06:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 06:04:45 +0000</lastBuildDate>
+
+    <item>
+        <title>Apple Maps floute des sites sensibles en Chine : zoom sur une controverse cartographique</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260923-appsystem-apple-maps-floutage-sites-sensibles-chine.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260923-appsystem-apple-maps-floutage-sites-sensibles-chine.html</guid>
+        <description>Apple Maps afficherait désormais des zones floutées dans plusieurs villes chinoises, suscitant des questions sur la censure cartographique et la complicité des grandes plateformes avec les exigences du gouvernement chinois concernant des sites sensibles. — Key takeaways: Apple Maps afficherait des zones floutées dans plusieurs villes chinoises, selon un rapport de la BBC ; Ces masques visuels concerneraient des sites sensibles, potentiellement liés à des installations de détention ; Le floutage soulève des questions sur la censure cartographique et le rôle des plateformes occidentales face aux exigences du gouvernement chinois ; Apple n&#x27;est pas le premier acteur confronté à ces questions : Google Maps et d&#x27;autres services de cartographie ont déjà fait face à des critiques similaires ; La pratique met en lumière la tension entre le respect des lois locales et la transparence de l&#x27;information géographique</description>
+        <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>New Google Maps Speedometer Headache on Android Auto, Users Calling for Another Fix</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260923-autoevolution-google-maps-speedometer-kph-mph-android-auto.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260923-autoevolution-google-maps-speedometer-kph-mph-android-auto.html</guid>
+        <description>Google Maps&#x27; speedometer on Android Auto is randomly switching between kilometers per hour and miles per hour mid-drive, ignoring user settings and requiring app restarts to fix, with no official response from Google yet. — Key takeaways: The Google Maps speedometer on Android Auto randomly switches between kph and mph during drives, despite being configured for one unit ; The issue appears to mostly affect users who configured kph rather than mph ; The settings toggle still shows the correct unit after the switch, meaning the app ignores its own configuration ; The only workaround is restarting Google Maps, which is inconvenient on Android Auto as it requires force-closing the app on the phone ; Google has not yet responded to the glitch ; Separately, Google continues rolling out the speedometer without a configured destination, though availability is not yet universal</description>
+        <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Grid My Business Launches AI Search to Map Local Visibility Across AI Platforms</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260923-newsfilecorp-grid-my-business-ai-search-local-visibility.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260923-newsfilecorp-grid-my-business-ai-search-local-visibility.html</guid>
+        <description>Grid My Business has launched AI Search, a feature that measures local business visibility across four AI platforms — ChatGPT, Google Gemini, Google AI Mode, and Google AI Overviews — by scanning locations, mapping mentions, and computing an AI visibility score. — Key takeaways: AI Search scans ChatGPT, Google Gemini, Google AI Mode, and Google AI Overviews to measure where a business is mentioned across its service area ; Users enter a customer question, select AI platforms, and define a geographic area; the tool maps where each platform mentions the business, names a competitor, or returns no mention ; An AI Share of Voice metric shows the percentage of answered locations where the business was mentioned ; The feature tracks cited sources used by AI platforms, competitor comparisons, and actual AI answer history per scanned location ; Recurring monitoring allows rerunning questions daily, weekly, or monthly to track changes over time ; An AI visibility score is computed based on mention frequency, answer position, platform coverage, owned-site citations, and sentiment</description>
+        <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Metro Manila&#x27;s traffic crisis: Philippines ranked most congested country in Asia</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260923-inquirer-metro-manila-traffic-crisis-tomtom-index.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260923-inquirer-metro-manila-traffic-crisis-tomtom-index.html</guid>
+        <description>According to the 2025 TomTom Traffic Index, the Philippines ranked first as the most congested country in Asia, ahead of India and Singapore, highlighting Metro Manila&#x27;s ongoing traffic crisis and the urgent need for comprehensive transport solutions. — Key takeaways: The 2025 TomTom Traffic Index ranked the Philippines as the most congested country in Asia, ahead of India and Singapore ; Metro Manila&#x27;s traffic crisis continues to worsen, with the TomTom data providing quantitative backing for long-standing commuter complaints ; The TomTom Traffic Index measures congestion by comparing travel times during peak hours versus free-flow conditions across major cities worldwide ; The ranking underscores the gap between infrastructure investment and population growth in Metro Manila ; The data adds to growing calls for integrated public transport solutions rather than road expansion alone</description>
+        <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>MCD commences pilot drone survey to improve property tax assessment in Delhi</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260923-newindianexpress-mcd-drone-survey-property-tax-gis-lidar.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260923-newindianexpress-mcd-drone-survey-property-tax-gis-lidar.html</guid>
+        <description>The Municipal Corporation of Delhi has launched a pilot drone-based survey combining GIS, LiDAR mapping, geo-tagging, AI, and 3D digital modelling to build a more accurate property database and identify under-assessed properties for tax collection. — Key takeaways: The MCD launched a pilot drone survey in two wards (Rohini F Ward and Gharoli Ward) to improve property tax assessment ; The survey combines drone imagery with GIS, LiDAR-based mapping, geo-tagging, artificial intelligence, and 3D digital modelling ; The technology will identify incorrectly mapped or duplicate property records and detect additional floors or constructions not in existing records ; The system enables comparison of declared versus actual built-up areas for tax assessment ; Ward- and zone-level dashboards will help monitor discrepancies, issue notices, and track arrears ; The exercise aims to reduce reliance on manual inspections and improve transparency for residents</description>
+        <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Cartographic Perspectives for Risk Analysis: Dynamic Movement Data</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260923-iadb-cartographic-perspectives-risk-analysis-dynamic-movement-data.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260923-iadb-cartographic-perspectives-risk-analysis-dynamic-movement-data.html</guid>
+        <description>The Inter-American Development Bank explores how GPS tracking data and GIS can complement biodiversity information by integrating dynamic movement data with project locations, enabling earlier identification of wildlife-infrastructure interactions and better-informed environmental planning. — Key takeaways: Dynamic movement data adds a temporal dimension to spatial analysis, revealing how people, wildlife, and other moving elements interact with landscapes over time ; Integrating dynamic movement data with project information in GIS platforms like ES GeoHub helps identify potential spatial interactions requiring further review ; GPS tracking of animal movements combined with biodiversity datasets supports more informed risk analysis and project planning ; For road infrastructure projects, understanding wildlife movement patterns can help identify risks before construction, supporting better route alignment and reducing costly design changes ; The IDB is exploring this approach to reduce environmental and operational risks in development projects</description>
+        <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Cloud Geographic Information Systems (GIS) Market Report: Growth from $2.36B to $4.76B by 2030</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260923-openpr-cloud-gis-market-report-2026-2030.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260923-openpr-cloud-gis-market-report-2026-2030.html</guid>
+        <description>The cloud GIS market is projected to grow from $1.97 billion in 2025 to $2.36 billion in 2026 (19.5% CAGR) and reach $4.76 billion by 2030, driven by smart city projects, AI-powered geospatial analytics, and growing cloud infrastructure. — Key takeaways: The cloud GIS market grew from $1.97 billion in 2025 to a projected $2.36 billion in 2026, a CAGR of 19.5% ; By 2030, the market is expected to reach $4.76 billion at a CAGR of 19.2% ; Growth drivers include smart city projects, AI-powered geospatial analytics, climate monitoring programs, and location-based services ; Key market players include Google, Microsoft, Amazon Web Services, Hexagon, Autodesk, Trimble, Maxar, Bentley Systems, Here Technologies, Mapbox, and CartoDB ; Market segments span hardware, software, and services across functions like mapping, surveying, location-based services, and navigation ; Applications range from watershed management and risk management to urban planning, defense management, and building information modeling</description>
+        <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Quand les métadonnées deviennent plus précieuses que les données elles-mêmes</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260923-journaldunet-metadonnees-plus-precieuses-que-donnees-tomtom.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260923-journaldunet-metadonnees-plus-precieuses-que-donnees-tomtom.html</guid>
+        <description>Lors d&#x27;un événement industriel réunissant des leaders de Meta, Uber, Amazon, AWS et TomTom, un constat s&#x27;est imposé : pour alimenter efficacement l&#x27;IA, les métadonnées sont désormais aussi précieuses, voire plus, que les données elles-mêmes, avec 96 % des organisations utilisant la géolocalisation pour des applications critiques. — Key takeaways: Gartner anticipe que 60 % des projets d&#x27;IA seront abandonnés faute de données adaptées et prêtes pour l&#x27;IA ; Les métadonnées fournissent le contexte indispensable (origine, interconnexions, fiabilité) qui rend les données exploitables par l&#x27;IA ; 70 % du temps consacré à un nouvel ensemble de données externe est absorbé par sa préparation ; La géolocalisation est utilisée par 96 % des organisations pour des applications critiques (analyse client, modélisation des risques, planification de réseaux) ; L&#x27;identification unique standardisée permet d&#x27;unifier les sources : une adresse se lie à un bâtiment, puis à un commerce et à des indicateurs démographiques ; Les produits de données pré-intégrés et documentés par des métadonnées riches modifient l&#x27;économie des données</description>
+        <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
 
     <item>
         <title>Live Map: Track the path of Hurricane Polo</title>
         <link>https://mappingforward.fr/articles/2026-09/20260922-pbs-hurricane-polo-live-map-track-path.html</link>
         <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260922-pbs-hurricane-polo-live-map-track-path.html</guid>
         <description>PBS NewsHour featured a live interactive map tracking Hurricane Polo, one of the most powerful Pacific cyclones in decades, which reached Category 5 with 180 mph sustained winds and threatened Mexico&#x27;s southwestern coast. — Key takeaways: Hurricane Polo grew into a Category 5 storm with maximum sustained winds of 180 mph (290 kph), confirmed by a NOAA Hurricane Hunter aircraft ; Polo was the third Category 5 hurricane of the Pacific season, following Genevieve and Lowell ; The storm was centered 210 miles south of Zihuatanejo, Mexico, and was nearly stationary at midday, expected to move west-northwestward ; Polo reached speeds comparable to only a few hurricanes in recent decades, primarily Hurricane Patricia (215 mph in 2015) ; Scientists attributed the rapid intensification to the El Niño weather phenomenon, which has fueled warmer waters and favorable wind patterns in the Pacific ; The U.S. Embassy in Mexico issued a weather alert warning of life-threatening flooding, mudslides, and dangerous rip currents even without direct landfall</description>
-        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>How the World Fights Traffic Jams: From Cable Cars to AI Traffic Lights</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260922-24kz-how-world-fights-traffic-jams-tomtom.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260922-24kz-how-world-fights-traffic-jams-tomtom.html</guid>
-        <description>Kazakh news outlet 24KZ surveys global approaches to fighting traffic congestion using TomTom data, profiling solutions from Mexico City&#x27;s cable car network to China&#x27;s robotic lane dividers, South Korea&#x27;s AI traffic signals, and New York&#x27;s congestion pricing. — Key takeaways: Mexico City has the world&#x27;s worst traffic at nearly 76% congestion, with drivers losing about 184 hours per year in jams (TomTom data) ; Mexico City is building three new cable car lines totaling nearly 40 km, with one line expected to cut a 70-minute commute nearly in half ; China&#x27;s Zhejiang province uses 18 mobile robotic lane dividers that reconfigure intersections during school rush hours, converting one left-turn lane into two ; Incheon, South Korea uses AI to analyze traffic flow and optimize signal timing on 25 major roads, achieving a 30% speed increase and halving delay times on a key 6-km stretch ; New York&#x27;s congestion pricing (since January 2025, $9 base fare for Manhattan core) reduced traffic by 11% — 27 million fewer cars entering the zone — and generated over $550 million for public transit modernization ; Global congestion increased by an average of 5 percentage points over the past year according to TomTom</description>
-        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Around the Geospatial, 3D, and AEC Industries: Lidar, Urban Mapping, and Telling Reports</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260922-geoweeknews-around-geospatial-3d-aec-lidar-urban-mapping-telling-reports.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260922-geoweeknews-around-geospatial-3d-aec-lidar-urban-mapping-telling-reports.html</guid>
-        <description>Geo Week News highlights three geospatial stories: a Utah contractor making mobile LiDAR the connective tissue of its digital construction workflow, a Munich urban digital twin leader arguing that people — not technology — are the real challenge, and a WGIC report warning of the shift from measurement-based to model-based trust in geospatial data. — Key takeaways: WW Clyde, a Utah heavy civil contractor, uses mobile LiDAR across highway corridors of 20–40 miles for progress monitoring, as-built documentation, and dispute protection — discovering 148,000 incorrectly installed pilings on a solar project through scanning ; Markus Mohl of Digital Twin Munich argues that the hardest part of building an urban digital twin isn&#x27;t data acquisition but convincing city departments to break down data silos; the profession&#x27;s biggest unsolved problem is communication, not real-time integration or AI ; The World Geospatial Industry Council (WGIC) report warns that as AI increasingly generates spatial data, the sector is moving from measurement-based trust to model-based trust, with risks of silent errors, untraceable lineage, and blurred accountability ; The WGIC report lays out six properties of decision-grade data and a phased action plan: provenance tracking and metadata standards now, cryptographic verification within two years, federated governance within three ; WGIC Executive Director Aaron Addison warns that a vulnerability anywhere along the sensor-to-decision data chain propagates all the way downstream</description>
-        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Mapy.com ajoute une fonctionnalité d&#x27;économie de batterie pour la navigation</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260922-letemsvetemapplem-mapy-com-battery-saving-navigation.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260922-letemsvetemapplem-mapy-com-battery-saving-navigation.html</guid>
-        <description>L&#x27;application de cartographie tchèque Mapy.com, développée par Seznam, a ajouté une fonctionnalité d&#x27;économie de batterie qui réduit automatiquement la luminosité de l&#x27;écran entre les instructions de navigation, avec des paramètres personnalisables selon le mode de transport. — Key takeaways: Mapy.com a intégré un bouton dans ses paramètres pour réduire la luminosité de l&#x27;écran entre les instructions de navigation ; La fonctionnalité est personnalisable selon le mode de transport : voiture, vélo ou piéton ; L&#x27;activation du GPS ayant un impact considérable sur l&#x27;autonomie, cette fonction vise à atténuer l&#x27;épuisement de la batterie ; Un écran qui s&#x27;assombrit progressivement jusqu&#x27;à un changement d&#x27;itinéraire peut ne pas convenir à tous les utilisateurs ; L&#x27;option se trouve dans le menu Paramètres – Navigation de l&#x27;application Mapy.com</description>
-        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>A Map of the Arctic Ocean</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260922-arctic-institute-map-arctic-ocean-cryosphere-series.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260922-arctic-institute-map-arctic-ocean-cryosphere-series.html</guid>
-        <description>The Arctic Institute&#x27;s Cryosphere Series 2026 features an artistic-scientific map of the Arctic Ocean that layers ice retreat, territorial claims, shipping routes, resource extraction zones, and wildlife migration into a single image, revealing the entangled forces reshaping the polar region. — Key takeaways: The map is an artistic tool constructed from scientific data, bringing together environmental change, political power, ecological life, human history, language, and territorial questions in one image ; It layers Arctic ice boundaries, territorial claims, existing and proposed shipping lanes, oil and gas prospecting areas, and wildlife migration routes (birds and whales) ; By assigning each trace an equal graphic value, the map proposes an understanding of the Arctic Ocean as an interconnected system rather than a collection of separate domains ; The map includes linguistic regions, connecting human cultural geography to physical and political geography ; Part of The Arctic Institute&#x27;s Cryosphere Series 2026, the map functions as a tool for drawing connections between past and future trajectories of transformation</description>
-        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Casablanca-Settat veut protéger ses terres agricoles : une course pour les cartographier</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260922-ledesk-casablanca-settat-cartographier-terres-agricoles.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260922-ledesk-casablanca-settat-cartographier-terres-agricoles.html</guid>
-        <description>La région de Casablanca-Settat lance un appel d&#x27;offres international pour élaborer une carte agricole régionale soutenue par un SIG, afin de classer les terres selon leur potentiel agronomique et protéger les sols fertiles face à l&#x27;urbanisation galopante. — Key takeaways: Le ministère de l&#x27;Agriculture a lancé un appel d&#x27;offres international pour l&#x27;élaboration de la carte agricole régionale de Casablanca-Settat ; La carte sera accompagnée d&#x27;un système d&#x27;information géographique (SIG) pour assurer un suivi permanent du foncier agricole ; Trois catégories de terres seront définies : haut potentiel (à protéger), potentiel moyen (zone de sauvegarde), et faible potentiel (orientable vers l&#x27;urbanisation) ; La région compte 2,04 millions d&#x27;hectares dont 1,26 million de superficie agricole utile, avec 186 311 exploitations agricoles ; Casablanca-Settat représente 20,9 % de la population nationale (7,69 millions d&#x27;habitants) et subit une forte pression foncière ; Les provinces de Settat, El Jadida et Sidi Bennour concentrent l&#x27;essentiel du potentiel agricole régional</description>
-        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>What Airborne Lidar Actually Sees in Ice</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260922-geoweeknews-airborne-lidar-what-it-sees-in-ice.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260922-geoweeknews-airborne-lidar-what-it-sees-in-ice.html</guid>
-        <description>Geo Week News explains the surprising complexity of using airborne lidar to map ice: because ice is partly transparent to laser light, a single pulse can produce multiple echoes from different depths, creating both a measurement challenge and an unexpected tool for tracing internal ice layers. — Key takeaways: Ice is partly see-through to laser light — a single laser pulse can produce multiple echoes from the surface, internal layers, and the bottom of the ice ; This transparency creates a measurement problem: scientists must determine which echo represents the true surface, as subsurface penetration can make the surface appear lower than it really is ; Even a few inches of error per year matters enormously when measuring ice thinning in Greenland and Antarctica, where the difference between &quot;stable&quot; and &quot;melting fast&quot; is only a few inches per year ; The same property that makes lidar tricky on ice also makes it powerful: it can detect internal layers within the ice, including volcanic ash markers, connecting drill sites across large stretches ; Different ice types pose different challenges: snow scatters light, meltwater ponds act like mirrors, and sea ice shifts and piles into ridges ; Radar complements lidar by reaching the bottom of ice sheets a mile or more thick, while lidar needs clear air — clouds, fog, and blowing snow can make a flight useless</description>
-        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Traffic chaos in Perthshire villages after Google Maps glitch</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260922-bbc-google-maps-glitch-perthshire-traffic-chaos.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260922-bbc-google-maps-glitch-perthshire-traffic-chaos.html</guid>
-        <description>A Google Maps glitch falsely reported the A9 trunk road as closed and diverted drivers — including campervans and a coach — onto a narrow single-track road between Dunkeld and Pitlochry, trapping residents and causing chaos in Perthshire villages for three days. — Key takeaways: Google Maps falsely reported the A9 as closed, redirecting traffic onto the unclassified U163 road through Ballinluig, Tulliemet and Guay ; The glitch began on Friday and persisted through the weekend; residents were unable to leave their homes due to excessive traffic on a road with no passing places ; Campervans, a large coach, and cars with trailers (one towing a boat) were sent down the single-track road, some at speeds up to 40 mph ; Transport Scotland publicly posted on X that Google Maps was falsely reporting the A9 as closed and recommending an &quot;inconvenient alternate route&quot; ; The bug was fixed after the A9 Dual Action campaign group contacted the Google Maps team in London directly ; Laura Hansler of the campaign group noted Google Maps had previously shown incorrect speed limits on the same trunk road</description>
         <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
     </item>
 
@@ -81,19 +89,59 @@
     </item>
 
     <item>
-        <title>GTA 6 : véhicules, map, date de sortie, précommande, tout savoir sur le prochain jeu Rockstar Games</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260921-journaldugeek-gta6-dossier-complet.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260921-journaldugeek-gta6-dossier-complet.html</guid>
-        <description>Le dossier complet du Journal du Geek recense toutes les informations connues sur GTA 6 : la map de l&#x27;État de Leonida, les véhicules, la date de sortie, les précommandes et la soundtrack officielle. Le jeu, présenté en avant-première sur Netflix le 27 août 2026, est attendu pour fin 2026 sur PS5 et Xbox Series X/S. — Key takeaways: GTA 6 a été présenté en avant-première mondiale sur Netflix le 27 août 2026, attirant 4 millions de spectateurs en simultané ; La map se situe dans l&#x27;État fictif de Leonida, inspiré de la Floride, avec Vice City comme ville principale ; La soundtrack officielle propose 34 morceaux originaux (Yung Lean, Travis Scott, Fred again.., Keith Richards...) ; Le jeu sera optimisé PS5 Pro avec retours haptiques DualSense, audio 3D Tempest et quasi-zéro temps de chargement ; La carte recensée inclut 59 voitures, 22 SUV/pickup, 19 camions/vans/bus, 15 motos/quads, 19 bateaux, 8 hélicoptères, 4 avions</description>
-        <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+        <title>Casablanca-Settat veut protéger ses terres agricoles : une course pour les cartographier</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260922-ledesk-casablanca-settat-cartographier-terres-agricoles.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260922-ledesk-casablanca-settat-cartographier-terres-agricoles.html</guid>
+        <description>La région de Casablanca-Settat lance un appel d&#x27;offres international pour élaborer une carte agricole régionale soutenue par un SIG, afin de classer les terres selon leur potentiel agronomique et protéger les sols fertiles face à l&#x27;urbanisation galopante. — Key takeaways: Le ministère de l&#x27;Agriculture a lancé un appel d&#x27;offres international pour l&#x27;élaboration de la carte agricole régionale de Casablanca-Settat ; La carte sera accompagnée d&#x27;un système d&#x27;information géographique (SIG) pour assurer un suivi permanent du foncier agricole ; Trois catégories de terres seront définies : haut potentiel (à protéger), potentiel moyen (zone de sauvegarde), et faible potentiel (orientable vers l&#x27;urbanisation) ; La région compte 2,04 millions d&#x27;hectares dont 1,26 million de superficie agricole utile, avec 186 311 exploitations agricoles ; Casablanca-Settat représente 20,9 % de la population nationale (7,69 millions d&#x27;habitants) et subit une forte pression foncière ; Les provinces de Settat, El Jadida et Sidi Bennour concentrent l&#x27;essentiel du potentiel agricole régional</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
     </item>
 
     <item>
-        <title>À Nice, le Meraki mise sur la projection vidéo sur table</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260921-lhotellerie-meraki-projection-video-sur-table-nice.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260921-lhotellerie-meraki-projection-video-sur-table-nice.html</guid>
-        <description>Le restaurant Meraki à Nice propose une expérience de projection vidéo sur table (&quot;vidéo mapping&quot;) depuis deux ans, offrant une immersion visuelle 3D pendant les repas. Le projet, réalisé par la société française Digital Essence, a coûté 40 000 euros et équipé trois tables de cette technologie. — Key takeaways: Le restaurant Meraki à Nice propose une expérience de projection vidéo sur table, concept découvert à Dubaï par la gérante Kalina Stoyanova ; Le projet a coûté 40 000 euros (matériel, création des vidéos, installation) et a duré un an ; Trois tables sont équipées : une de huit personnes et deux de cinq ; La technologie permet de personnaliser les vidéos pour des occasions spéciales (mariage, anniversaire) ; Le restaurant réalise 500 couverts par jour en période haute et 80 en hiver ; L&#x27;entreprise française Digital Essence assure le déploiement et la maintenance technique</description>
-        <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+        <title>A Map of the Arctic Ocean</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260922-arctic-institute-map-arctic-ocean-cryosphere-series.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260922-arctic-institute-map-arctic-ocean-cryosphere-series.html</guid>
+        <description>The Arctic Institute&#x27;s Cryosphere Series 2026 features an artistic-scientific map of the Arctic Ocean that layers ice retreat, territorial claims, shipping routes, resource extraction zones, and wildlife migration into a single image, revealing the entangled forces reshaping the polar region. — Key takeaways: The map is an artistic tool constructed from scientific data, bringing together environmental change, political power, ecological life, human history, language, and territorial questions in one image ; It layers Arctic ice boundaries, territorial claims, existing and proposed shipping lanes, oil and gas prospecting areas, and wildlife migration routes (birds and whales) ; By assigning each trace an equal graphic value, the map proposes an understanding of the Arctic Ocean as an interconnected system rather than a collection of separate domains ; The map includes linguistic regions, connecting human cultural geography to physical and political geography ; Part of The Arctic Institute&#x27;s Cryosphere Series 2026, the map functions as a tool for drawing connections between past and future trajectories of transformation</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>What Airborne Lidar Actually Sees in Ice</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260922-geoweeknews-airborne-lidar-what-it-sees-in-ice.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260922-geoweeknews-airborne-lidar-what-it-sees-in-ice.html</guid>
+        <description>Geo Week News explains the surprising complexity of using airborne lidar to map ice: because ice is partly transparent to laser light, a single pulse can produce multiple echoes from different depths, creating both a measurement challenge and an unexpected tool for tracing internal ice layers. — Key takeaways: Ice is partly see-through to laser light — a single laser pulse can produce multiple echoes from the surface, internal layers, and the bottom of the ice ; This transparency creates a measurement problem: scientists must determine which echo represents the true surface, as subsurface penetration can make the surface appear lower than it really is ; Even a few inches of error per year matters enormously when measuring ice thinning in Greenland and Antarctica, where the difference between &quot;stable&quot; and &quot;melting fast&quot; is only a few inches per year ; The same property that makes lidar tricky on ice also makes it powerful: it can detect internal layers within the ice, including volcanic ash markers, connecting drill sites across large stretches ; Different ice types pose different challenges: snow scatters light, meltwater ponds act like mirrors, and sea ice shifts and piles into ridges ; Radar complements lidar by reaching the bottom of ice sheets a mile or more thick, while lidar needs clear air — clouds, fog, and blowing snow can make a flight useless</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Mapy.com ajoute une fonctionnalité d&#x27;économie de batterie pour la navigation</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260922-letemsvetemapplem-mapy-com-battery-saving-navigation.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260922-letemsvetemapplem-mapy-com-battery-saving-navigation.html</guid>
+        <description>L&#x27;application de cartographie tchèque Mapy.com, développée par Seznam, a ajouté une fonctionnalité d&#x27;économie de batterie qui réduit automatiquement la luminosité de l&#x27;écran entre les instructions de navigation, avec des paramètres personnalisables selon le mode de transport. — Key takeaways: Mapy.com a intégré un bouton dans ses paramètres pour réduire la luminosité de l&#x27;écran entre les instructions de navigation ; La fonctionnalité est personnalisable selon le mode de transport : voiture, vélo ou piéton ; L&#x27;activation du GPS ayant un impact considérable sur l&#x27;autonomie, cette fonction vise à atténuer l&#x27;épuisement de la batterie ; Un écran qui s&#x27;assombrit progressivement jusqu&#x27;à un changement d&#x27;itinéraire peut ne pas convenir à tous les utilisateurs ; L&#x27;option se trouve dans le menu Paramètres – Navigation de l&#x27;application Mapy.com</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>How the World Fights Traffic Jams: From Cable Cars to AI Traffic Lights</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260922-24kz-how-world-fights-traffic-jams-tomtom.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260922-24kz-how-world-fights-traffic-jams-tomtom.html</guid>
+        <description>Kazakh news outlet 24KZ surveys global approaches to fighting traffic congestion using TomTom data, profiling solutions from Mexico City&#x27;s cable car network to China&#x27;s robotic lane dividers, South Korea&#x27;s AI traffic signals, and New York&#x27;s congestion pricing. — Key takeaways: Mexico City has the world&#x27;s worst traffic at nearly 76% congestion, with drivers losing about 184 hours per year in jams (TomTom data) ; Mexico City is building three new cable car lines totaling nearly 40 km, with one line expected to cut a 70-minute commute nearly in half ; China&#x27;s Zhejiang province uses 18 mobile robotic lane dividers that reconfigure intersections during school rush hours, converting one left-turn lane into two ; Incheon, South Korea uses AI to analyze traffic flow and optimize signal timing on 25 major roads, achieving a 30% speed increase and halving delay times on a key 6-km stretch ; New York&#x27;s congestion pricing (since January 2025, $9 base fare for Manhattan core) reduced traffic by 11% — 27 million fewer cars entering the zone — and generated over $550 million for public transit modernization ; Global congestion increased by an average of 5 percentage points over the past year according to TomTom</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Traffic chaos in Perthshire villages after Google Maps glitch</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260922-bbc-google-maps-glitch-perthshire-traffic-chaos.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260922-bbc-google-maps-glitch-perthshire-traffic-chaos.html</guid>
+        <description>A Google Maps glitch falsely reported the A9 trunk road as closed and diverted drivers — including campervans and a coach — onto a narrow single-track road between Dunkeld and Pitlochry, trapping residents and causing chaos in Perthshire villages for three days. — Key takeaways: Google Maps falsely reported the A9 as closed, redirecting traffic onto the unclassified U163 road through Ballinluig, Tulliemet and Guay ; The glitch began on Friday and persisted through the weekend; residents were unable to leave their homes due to excessive traffic on a road with no passing places ; Campervans, a large coach, and cars with trailers (one towing a boat) were sent down the single-track road, some at speeds up to 40 mph ; Transport Scotland publicly posted on X that Google Maps was falsely reporting the A9 as closed and recommending an &quot;inconvenient alternate route&quot; ; The bug was fixed after the A9 Dual Action campaign group contacted the Google Maps team in London directly ; Laura Hansler of the campaign group noted Google Maps had previously shown incorrect speed limits on the same trunk road</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Around the Geospatial, 3D, and AEC Industries: Lidar, Urban Mapping, and Telling Reports</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260922-geoweeknews-around-geospatial-3d-aec-lidar-urban-mapping-telling-reports.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260922-geoweeknews-around-geospatial-3d-aec-lidar-urban-mapping-telling-reports.html</guid>
+        <description>Geo Week News highlights three geospatial stories: a Utah contractor making mobile LiDAR the connective tissue of its digital construction workflow, a Munich urban digital twin leader arguing that people — not technology — are the real challenge, and a WGIC report warning of the shift from measurement-based to model-based trust in geospatial data. — Key takeaways: WW Clyde, a Utah heavy civil contractor, uses mobile LiDAR across highway corridors of 20–40 miles for progress monitoring, as-built documentation, and dispute protection — discovering 148,000 incorrectly installed pilings on a solar project through scanning ; Markus Mohl of Digital Twin Munich argues that the hardest part of building an urban digital twin isn&#x27;t data acquisition but convincing city departments to break down data silos; the profession&#x27;s biggest unsolved problem is communication, not real-time integration or AI ; The World Geospatial Industry Council (WGIC) report warns that as AI increasingly generates spatial data, the sector is moving from measurement-based trust to model-based trust, with risks of silent errors, untraceable lineage, and blurred accountability ; The WGIC report lays out six properties of decision-grade data and a phased action plan: provenance tracking and metadata standards now, cryptographic verification within two years, federated governance within three ; WGIC Executive Director Aaron Addison warns that a vulnerability anywhere along the sensor-to-decision data chain propagates all the way downstream</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
     </item>
 
     <item>
@@ -101,30 +149,6 @@
         <link>https://mappingforward.fr/articles/2026-09/20260921-cameroon-tribune-new-world-map-see-beyond-the-enlargement.html</link>
         <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260921-cameroon-tribune-new-world-map-see-beyond-the-enlargement.html</guid>
         <description>L&#x27;Assemblée générale de l&#x27;ONU a voté à 164 voix une résolution non contraignante invitant les institutions du monde entier à adopter une carte plus fidèle aux superficies réelles des continents, corrigeant la sous-représentation historique de l&#x27;Afrique dans la projection Mercator. L&#x27;initiative, portée par le Togo et l&#x27;Union africaine, a été soutenue par la France et le Royaume-Uni, les États-Unis étant les seuls à voter contre. — Key takeaways: La résolution &quot;Correct the Map&quot; a été adoptée par 164 pays sur 193, les États-Unis votant contre et six s&#x27;abstenant ; Le texte n&#x27;interdit pas la projection Mercator mais encourage l&#x27;usage de cartes plus fidèles aux rapports de superficie ; La projection Mercator (1569) montre l&#x27;Afrique comme étant de taille comparable au Groenland, alors qu&#x27;elle est 14 fois plus vaste ; L&#x27;initiative a été sponsorisée par le Togo et adoptée à l&#x27;unanimité par les 54 États membres de l&#x27;Union africaine en février 2026 ; Le ministre togolais Robert Dussey rappelle qu&#x27;une &quot;carte juste est le point de départ d&#x27;un monde juste&quot; ; La résolution souligne aussi le manque de représentation permanente de l&#x27;Afrique au Conseil de sécurité de l&#x27;ONU</description>
-        <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Voici pourquoi l&#x27;heure d&#x27;arrivée estimée est masquée sur Google Maps</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260921-vietnam-vn-google-maps-eta-masquee.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260921-vietnam-vn-google-maps-eta-masquee.html</guid>
-        <description>L&#x27;heure d&#x27;arrivée estimée (ETA) affichée par Google Maps utilise un système de codes couleurs pour indiquer la fiabilité de l&#x27;estimation, mais dans certains contextes cette information est masquée, laissant les conducteurs sans repère temporel précis. — Key takeaways: L&#x27;interface de navigation de Google Maps affiche l&#x27;heure d&#x27;arrivée estimée (ETA) à l&#x27;aide de codes couleurs ; Dans certaines situations, l&#x27;ETA est masquée, ce qui peut dérouter les utilisateurs ; Le système de codes couleurs fournit une indication sur le niveau de confiance de l&#x27;estimation ; Cette pratique illustre les choix d&#x27;interface de Google Maps entre transparence et simplicité</description>
-        <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>HD Maps for Autonomous Vehicles: The Digital Infrastructure Powering Next-Gen Navigation</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260921-marketsandmarkets-hd-maps-autonomous-vehicles.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260921-marketsandmarkets-hd-maps-autonomous-vehicles.html</guid>
-        <description>Le marché mondial des HD maps (cartes haute définition) pour véhicules autonomes devrait passer de 1,34 milliard de dollars en 2026 à 2,43 milliards d&#x27;ici 2033, porté par la commercialisation des architectures de conduite de niveaux 2+, 3 et 4 et par la transition vers des infrastructures cartographiques dynamiques rafraîchies en continu dans le cloud. — Key takeaways: Le marché des HD maps devrait croître de 1,34 Md$ (2026) à 2,43 Md$ (2033), avec un TCAC de 8,9 % ; Les HD maps fournissent une fidélité spatiale au centimètre près, contre plusieurs mètres pour le GPS standard ; Trois couches structurelles : géométrique (3D/LiDAR), sémantique (lignes, restrictions, panneaux), et localisation (ancres environnementales) ; Une couche de mise à jour dynamique ingère les données crowdsourcées en temps réel (trafic, travaux, dangers) ; Les OEM automobiles passent des bases statiques vers des HD maps dynamiques rafraîchies par OTA ; L&#x27;architecture moderne intègre données cartographiques, positionnement local et unités ADAS dans des couches logicielles partagées</description>
-        <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>It&#x27;s official: Mexico City&#x27;s traffic is the worst in the world</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260921-mexico-news-daily-tomtom-mexico-city-traffic-worst.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260921-mexico-news-daily-tomtom-mexico-city-traffic-worst.html</guid>
-        <description>Mexico City a été classée ville la plus congestionnée au monde en 2025 selon le TomTom Traffic Index, avec un niveau de congestion moyen de 75,9 %. Guadalajara se classe 17e au niveau mondial. L&#x27;indice TomTom calcule le niveau de congestion en comparant la vitesse du trafic à celle d&#x27;un trafic fluide. — Key takeaways: Mexico City occupe la première place mondiale pour la congestion en 2025 avec 75,9 % de niveau de congestion moyen ; Guadalajara se classe 17e au niveau mondial ; TomTom calcule la congestion en comparant le temps de trajet réel à celui d&#x27;un trafic fluide ; L&#x27;indice TomTom Traffic Index est une référence mondiale pour mesurer la congestion urbaine ; L&#x27;étude souligne l&#x27;impact du trafic sur la mobilité urbaine et la qualité de vie</description>
         <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
     </item>
 
@@ -153,10 +177,10 @@
     </item>
 
     <item>
-        <title>La carte de GTA 6 devient beaucoup plus précise, Leonida serait plus petite que prévu</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260921-lacremedugaming-gta6-carte-leonida-v16.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260921-lacremedugaming-gta6-carte-leonida-v16.html</guid>
-        <description>La version 16 de la community map de GTA 6, construite à partir d&#x27;une carte leakée du 18 août et des séquences du trailer An Extended Look, affine les contours de l&#x27;État de Leonida avec un niveau de détail inédit. Résultat : la carte apparaît plus précise mais aussi plus petite que les estimations précédentes, avec une surface terrestre estimée à environ 85,6 km² contre près de 110 km² dans la V15. — Key takeaways: La V16 de la community map de GTA 6 revoit complètement littoraux, plages, zones urbaines et frontières de comtés ; La grille technique est de 1 x 1 km pour un cadre global d&#x27;environ 21 x 20 km (420 km² d&#x27;enveloppe théorique) ; La surface terrestre estimée tombe à environ 85,6 km², contre près de 110 km² dans la V15 ; GTA 5 tourne autour de 48,15 km² hors eau : la carte de GTA 6 serait donc environ 1,7 à 1,8 fois plus vaste ; Vice City serait environ deux fois plus grande que Los Santos, l&#x27;agglomération jusqu&#x27;à onze fois plus étendue ; Rockstar Games vise son &quot;monde le plus vaste et le plus dense&quot; jamais créé</description>
+        <title>GTA 6 : véhicules, map, date de sortie, précommande, tout savoir sur le prochain jeu Rockstar Games</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260921-journaldugeek-gta6-dossier-complet.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260921-journaldugeek-gta6-dossier-complet.html</guid>
+        <description>Le dossier complet du Journal du Geek recense toutes les informations connues sur GTA 6 : la map de l&#x27;État de Leonida, les véhicules, la date de sortie, les précommandes et la soundtrack officielle. Le jeu, présenté en avant-première sur Netflix le 27 août 2026, est attendu pour fin 2026 sur PS5 et Xbox Series X/S. — Key takeaways: GTA 6 a été présenté en avant-première mondiale sur Netflix le 27 août 2026, attirant 4 millions de spectateurs en simultané ; La map se situe dans l&#x27;État fictif de Leonida, inspiré de la Floride, avec Vice City comme ville principale ; La soundtrack officielle propose 34 morceaux originaux (Yung Lean, Travis Scott, Fred again.., Keith Richards...) ; Le jeu sera optimisé PS5 Pro avec retours haptiques DualSense, audio 3D Tempest et quasi-zéro temps de chargement ; La carte recensée inclut 59 voitures, 22 SUV/pickup, 19 camions/vans/bus, 15 motos/quads, 19 bateaux, 8 hélicoptères, 4 avions</description>
         <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
     </item>
 
@@ -169,11 +193,43 @@
     </item>
 
     <item>
-        <title>Online map shows how suitable Guernsey homes are for solar panels</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260920-bbc-guernsey-solar-panel-suitability-map.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260920-bbc-guernsey-solar-panel-suitability-map.html</guid>
-        <description>Les États de Guernsey lancent une carte en ligne codée par couleurs indiquant le potentiel solaire de chaque toiture, aidant les habitants à évaluer la pertinence de l&#x27;installation de panneaux photovoltaïques. — Key takeaways: La carte est codée par couleurs : rouge foncé pour les toitures à fort potentiel de génération solaire, bleu foncé pour les moins propices ; Le potentiel est calculé sur la quantité de lumière reçue par les toitures sur l&#x27;ensemble d&#x27;une année ; Guernesey reçoit 30 à 35% plus d&#x27;ensoleillement que le Royaume-Uni en moyenne ; L&#x27;outil fournit une vérification indépendante permettant de comparer les devis d&#x27;installateurs ; Initiative portée par le Comité pour l&#x27;environnement et l&#x27;infrastructure en collaboration avec Little Green, fournisseur d&#x27;énergie renouvelable</description>
-        <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+        <title>HD Maps for Autonomous Vehicles: The Digital Infrastructure Powering Next-Gen Navigation</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260921-marketsandmarkets-hd-maps-autonomous-vehicles.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260921-marketsandmarkets-hd-maps-autonomous-vehicles.html</guid>
+        <description>Le marché mondial des HD maps (cartes haute définition) pour véhicules autonomes devrait passer de 1,34 milliard de dollars en 2026 à 2,43 milliards d&#x27;ici 2033, porté par la commercialisation des architectures de conduite de niveaux 2+, 3 et 4 et par la transition vers des infrastructures cartographiques dynamiques rafraîchies en continu dans le cloud. — Key takeaways: Le marché des HD maps devrait croître de 1,34 Md$ (2026) à 2,43 Md$ (2033), avec un TCAC de 8,9 % ; Les HD maps fournissent une fidélité spatiale au centimètre près, contre plusieurs mètres pour le GPS standard ; Trois couches structurelles : géométrique (3D/LiDAR), sémantique (lignes, restrictions, panneaux), et localisation (ancres environnementales) ; Une couche de mise à jour dynamique ingère les données crowdsourcées en temps réel (trafic, travaux, dangers) ; Les OEM automobiles passent des bases statiques vers des HD maps dynamiques rafraîchies par OTA ; L&#x27;architecture moderne intègre données cartographiques, positionnement local et unités ADAS dans des couches logicielles partagées</description>
+        <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>À Nice, le Meraki mise sur la projection vidéo sur table</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260921-lhotellerie-meraki-projection-video-sur-table-nice.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260921-lhotellerie-meraki-projection-video-sur-table-nice.html</guid>
+        <description>Le restaurant Meraki à Nice propose une expérience de projection vidéo sur table (&quot;vidéo mapping&quot;) depuis deux ans, offrant une immersion visuelle 3D pendant les repas. Le projet, réalisé par la société française Digital Essence, a coûté 40 000 euros et équipé trois tables de cette technologie. — Key takeaways: Le restaurant Meraki à Nice propose une expérience de projection vidéo sur table, concept découvert à Dubaï par la gérante Kalina Stoyanova ; Le projet a coûté 40 000 euros (matériel, création des vidéos, installation) et a duré un an ; Trois tables sont équipées : une de huit personnes et deux de cinq ; La technologie permet de personnaliser les vidéos pour des occasions spéciales (mariage, anniversaire) ; Le restaurant réalise 500 couverts par jour en période haute et 80 en hiver ; L&#x27;entreprise française Digital Essence assure le déploiement et la maintenance technique</description>
+        <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>It&#x27;s official: Mexico City&#x27;s traffic is the worst in the world</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260921-mexico-news-daily-tomtom-mexico-city-traffic-worst.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260921-mexico-news-daily-tomtom-mexico-city-traffic-worst.html</guid>
+        <description>Mexico City a été classée ville la plus congestionnée au monde en 2025 selon le TomTom Traffic Index, avec un niveau de congestion moyen de 75,9 %. Guadalajara se classe 17e au niveau mondial. L&#x27;indice TomTom calcule le niveau de congestion en comparant la vitesse du trafic à celle d&#x27;un trafic fluide. — Key takeaways: Mexico City occupe la première place mondiale pour la congestion en 2025 avec 75,9 % de niveau de congestion moyen ; Guadalajara se classe 17e au niveau mondial ; TomTom calcule la congestion en comparant le temps de trajet réel à celui d&#x27;un trafic fluide ; L&#x27;indice TomTom Traffic Index est une référence mondiale pour mesurer la congestion urbaine ; L&#x27;étude souligne l&#x27;impact du trafic sur la mobilité urbaine et la qualité de vie</description>
+        <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Voici pourquoi l&#x27;heure d&#x27;arrivée estimée est masquée sur Google Maps</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260921-vietnam-vn-google-maps-eta-masquee.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260921-vietnam-vn-google-maps-eta-masquee.html</guid>
+        <description>L&#x27;heure d&#x27;arrivée estimée (ETA) affichée par Google Maps utilise un système de codes couleurs pour indiquer la fiabilité de l&#x27;estimation, mais dans certains contextes cette information est masquée, laissant les conducteurs sans repère temporel précis. — Key takeaways: L&#x27;interface de navigation de Google Maps affiche l&#x27;heure d&#x27;arrivée estimée (ETA) à l&#x27;aide de codes couleurs ; Dans certaines situations, l&#x27;ETA est masquée, ce qui peut dérouter les utilisateurs ; Le système de codes couleurs fournit une indication sur le niveau de confiance de l&#x27;estimation ; Cette pratique illustre les choix d&#x27;interface de Google Maps entre transparence et simplicité</description>
+        <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>La carte de GTA 6 devient beaucoup plus précise, Leonida serait plus petite que prévu</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260921-lacremedugaming-gta6-carte-leonida-v16.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260921-lacremedugaming-gta6-carte-leonida-v16.html</guid>
+        <description>La version 16 de la community map de GTA 6, construite à partir d&#x27;une carte leakée du 18 août et des séquences du trailer An Extended Look, affine les contours de l&#x27;État de Leonida avec un niveau de détail inédit. Résultat : la carte apparaît plus précise mais aussi plus petite que les estimations précédentes, avec une surface terrestre estimée à environ 85,6 km² contre près de 110 km² dans la V15. — Key takeaways: La V16 de la community map de GTA 6 revoit complètement littoraux, plages, zones urbaines et frontières de comtés ; La grille technique est de 1 x 1 km pour un cadre global d&#x27;environ 21 x 20 km (420 km² d&#x27;enveloppe théorique) ; La surface terrestre estimée tombe à environ 85,6 km², contre près de 110 km² dans la V15 ; GTA 5 tourne autour de 48,15 km² hors eau : la carte de GTA 6 serait donc environ 1,7 à 1,8 fois plus vaste ; Vice City serait environ deux fois plus grande que Los Santos, l&#x27;agglomération jusqu&#x27;à onze fois plus étendue ; Rockstar Games vise son &quot;monde le plus vaste et le plus dense&quot; jamais créé</description>
+        <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
     </item>
 
     <item>
@@ -193,6 +249,14 @@
     </item>
 
     <item>
+        <title>Online map shows how suitable Guernsey homes are for solar panels</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260920-bbc-guernsey-solar-panel-suitability-map.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260920-bbc-guernsey-solar-panel-suitability-map.html</guid>
+        <description>Les États de Guernsey lancent une carte en ligne codée par couleurs indiquant le potentiel solaire de chaque toiture, aidant les habitants à évaluer la pertinence de l&#x27;installation de panneaux photovoltaïques. — Key takeaways: La carte est codée par couleurs : rouge foncé pour les toitures à fort potentiel de génération solaire, bleu foncé pour les moins propices ; Le potentiel est calculé sur la quantité de lumière reçue par les toitures sur l&#x27;ensemble d&#x27;une année ; Guernesey reçoit 30 à 35% plus d&#x27;ensoleillement que le Royaume-Uni en moyenne ; L&#x27;outil fournit une vérification indépendante permettant de comparer les devis d&#x27;installateurs ; Initiative portée par le Comité pour l&#x27;environnement et l&#x27;infrastructure en collaboration avec Little Green, fournisseur d&#x27;énergie renouvelable</description>
+        <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
         <title>Pourquoi ce lieu situé dans le département de la Sarthe est volontairement flouté sur Google Maps ?</title>
         <link>https://mappingforward.fr/articles/2026-09/20260920-actu-sarthe-prison-google-maps-blurred.html</link>
         <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260920-actu-sarthe-prison-google-maps-blurred.html</guid>
@@ -201,26 +265,10 @@
     </item>
 
     <item>
-        <title>I tried the Google Maps rival nobody talks about, and it&#x27;s a refreshingly smart alternative</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260919-makeuseof-sygic-google-maps-alternative.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260919-makeuseof-sygic-google-maps-alternative.html</guid>
-        <description>Sygic, alternative méconnue à Google Maps, impressionne par ses cartes hors ligne complètes alimentées par TomTom, ses outils de sécurité intégrés (dashcam, alertes de vitesse, lane guidance) et son interface 3D personnalisable, malgré des données de trafic et d&#x27;entreprises moins riches. — Key takeaways: Cartes hors ligne complètes par pays ou région, alimentées par les données TomTom, sans expiration ; Outils de conduite sécurisée : assistant de limitation de vitesse, lane guidance détaillé, mode dashcam intégré, mode HUD pour projection sur pare-brise ; Interface 3D avec landmarks et rendu de terrain, plus personnalisable que Google Maps ; Limites : données de trafic en temps réel payantes et moins précises que Google, listings d&#x27;entreprises incomplets ; La plupart des meilleures fonctionnalités (trafic, navigation vocale, dashcam) nécessitent un abonnement payant</description>
-        <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>BMW Maps with driver assistance : Mapbox alimente la nouvelle navigation 3D de BMW</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260919-mobimaniak-bmw-maps-mapbox-driver-assistance.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260919-mobimaniak-bmw-maps-mapbox-driver-assistance.html</guid>
-        <description>BMW lance en octobre 2026 &quot;BMW Maps with driver assistance&quot;, une vue 3D unifiée combinant navigation, reconnaissance de l&#x27;environnement et état des systèmes d&#x27;assistance, développée en partenariat avec Mapbox pour les véhicules sous BMW Operating System X. — Key takeaways: À partir d&#x27;octobre 2026, BMW Maps combine navigation, informations sur l&#x27;environnement du véhicule et état des systèmes d&#x27;assistance en une vue 3D unifiée ; Le véhicule est affiché sur la bonne voie et au bon niveau de route pour faciliter l&#x27;orientation sur autoroutes, intersections et en ville ; Les conducteurs voient comment la voiture reconnaît son environnement et quels systèmes d&#x27;assistance sont actifs ; Développé en partenariat avec Mapbox pour les données de navigation et la technologie cartographique ; À partir de 2027, BMW introduira progressivement la conduite partiellement automatisée supportée par la navigation, d&#x27;abord en Allemagne</description>
-        <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Quelle est cette option méconnue de Google Maps qui permet d&#x27;économiser jusqu&#x27;à 30 % de carburant ?</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260919-larepubliquedespyrenees-google-maps-fuel-efficient-routing.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260919-larepubliquedespyrenees-google-maps-fuel-efficient-routing.html</guid>
-        <description>L&#x27;option &quot;Privilégiez les itinéraires économes en carburant&quot; de Google Maps peut réduire la consommation de carburant jusqu&#x27;à 30 %, en calculant des trajets qui minimisent la consommation même au prix d&#x27;une distance légèrement supérieure. — Key takeaways: Google Maps peut déterminer l&#x27;itinéraire qui économise le plus de carburant et limite les émissions de CO2 ; Jusqu&#x27;à 30 % d&#x27;économie de carburant selon les essais de Google, pour les trajets de plus de 5 km ; L&#x27;option peut allonger la distance par rapport à l&#x27;autoroute traditionnelle, mais génère des économies ; Activation : avatar &gt; Paramètres &gt; Navigation &gt; Options d&#x27;itinéraires &gt; &quot;Privilégiez les itinéraires économes en carburant&quot; ; L&#x27;itinéraire économe est signalé par une feuille verte sur la carte, avec estimation du pourcentage d&#x27;économie</description>
+        <title>Carte interactive : quelles villes canadiennes sont les plus touchées par les droits de douane ?</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260919-noovo-mapping-tariffs-canada-cities.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260919-noovo-mapping-tariffs-canada-cities.html</guid>
+        <description>Des chercheurs de l&#x27;Université de Toronto ont créé &quot;Mapping Tariffs&quot;, une carte interactive suivie en continu qui visualise l&#x27;impact des droits de douane américains sur les entreprises et les travailleurs de chaque ville canadienne. — Key takeaways: &quot;Mapping Tariffs&quot; a été lancé après la première série de droits de douane Trump en mars 2025, touchant l&#x27;automobile et l&#x27;acier ; Toronto : environ 66 000 travailleurs (4 %) et 3 000 entreprises (3,2 %) exposés à la dernière série de droits ; Région métropolitaine de Toronto : 7,3 % des entreprises touchées, plus de 200 000 employés (13,5 %) affectés ; Windsor, siège des usines Ford et Stellantis : 4,5 % des entreprises et 11,6 % des employés touchés ; La diversité économique de Toronto agit comme tampon, contrairement aux petites villes très spécialisées plus vulnérables</description>
         <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
     </item>
 
@@ -233,6 +281,14 @@
     </item>
 
     <item>
+        <title>BMW Maps with driver assistance : Mapbox alimente la nouvelle navigation 3D de BMW</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260919-mobimaniak-bmw-maps-mapbox-driver-assistance.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260919-mobimaniak-bmw-maps-mapbox-driver-assistance.html</guid>
+        <description>BMW lance en octobre 2026 &quot;BMW Maps with driver assistance&quot;, une vue 3D unifiée combinant navigation, reconnaissance de l&#x27;environnement et état des systèmes d&#x27;assistance, développée en partenariat avec Mapbox pour les véhicules sous BMW Operating System X. — Key takeaways: À partir d&#x27;octobre 2026, BMW Maps combine navigation, informations sur l&#x27;environnement du véhicule et état des systèmes d&#x27;assistance en une vue 3D unifiée ; Le véhicule est affiché sur la bonne voie et au bon niveau de route pour faciliter l&#x27;orientation sur autoroutes, intersections et en ville ; Les conducteurs voient comment la voiture reconnaît son environnement et quels systèmes d&#x27;assistance sont actifs ; Développé en partenariat avec Mapbox pour les données de navigation et la technologie cartographique ; À partir de 2027, BMW introduira progressivement la conduite partiellement automatisée supportée par la navigation, d&#x27;abord en Allemagne</description>
+        <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
         <title>Android Auto 17.8 : nouvelle fiche de destination Google Maps avec Gemini</title>
         <link>https://mappingforward.fr/articles/2026-09/20260919-speedme-android-auto-gemini-maps-destination-card.html</link>
         <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260919-speedme-android-auto-gemini-maps-destination-card.html</guid>
@@ -241,35 +297,19 @@
     </item>
 
     <item>
-        <title>Carte interactive : quelles villes canadiennes sont les plus touchées par les droits de douane ?</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260919-noovo-mapping-tariffs-canada-cities.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260919-noovo-mapping-tariffs-canada-cities.html</guid>
-        <description>Des chercheurs de l&#x27;Université de Toronto ont créé &quot;Mapping Tariffs&quot;, une carte interactive suivie en continu qui visualise l&#x27;impact des droits de douane américains sur les entreprises et les travailleurs de chaque ville canadienne. — Key takeaways: &quot;Mapping Tariffs&quot; a été lancé après la première série de droits de douane Trump en mars 2025, touchant l&#x27;automobile et l&#x27;acier ; Toronto : environ 66 000 travailleurs (4 %) et 3 000 entreprises (3,2 %) exposés à la dernière série de droits ; Région métropolitaine de Toronto : 7,3 % des entreprises touchées, plus de 200 000 employés (13,5 %) affectés ; Windsor, siège des usines Ford et Stellantis : 4,5 % des entreprises et 11,6 % des employés touchés ; La diversité économique de Toronto agit comme tampon, contrairement aux petites villes très spécialisées plus vulnérables</description>
+        <title>I tried the Google Maps rival nobody talks about, and it&#x27;s a refreshingly smart alternative</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260919-makeuseof-sygic-google-maps-alternative.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260919-makeuseof-sygic-google-maps-alternative.html</guid>
+        <description>Sygic, alternative méconnue à Google Maps, impressionne par ses cartes hors ligne complètes alimentées par TomTom, ses outils de sécurité intégrés (dashcam, alertes de vitesse, lane guidance) et son interface 3D personnalisable, malgré des données de trafic et d&#x27;entreprises moins riches. — Key takeaways: Cartes hors ligne complètes par pays ou région, alimentées par les données TomTom, sans expiration ; Outils de conduite sécurisée : assistant de limitation de vitesse, lane guidance détaillé, mode dashcam intégré, mode HUD pour projection sur pare-brise ; Interface 3D avec landmarks et rendu de terrain, plus personnalisable que Google Maps ; Limites : données de trafic en temps réel payantes et moins précises que Google, listings d&#x27;entreprises incomplets ; La plupart des meilleures fonctionnalités (trafic, navigation vocale, dashcam) nécessitent un abonnement payant</description>
         <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
     </item>
 
     <item>
-        <title>&#x27;A map is never neutral&#x27;: meet the cartographers who took on centuries of western bias</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260918-guardian-cartographers-western-bias-mercator-equal-earth.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260918-guardian-cartographers-western-bias-mercator-equal-earth.html</guid>
-        <description>The three creators of the Equal Earth projection — Tom Patterson, Bojan Šavrič, and Bernhard Jenny — describe their astonishment at the UN&#x27;s near-universal adoption of their map, which more accurately represents Africa and all continents, and share how diplomatic complaints about borders crept into what was meant as a pure mathematical projection. — Key takeaways: The UN General Assembly voted 164-1 (US voting no, 6 abstentions) to adopt the Equal Earth projection, replacing Mercator on school walls and government websites ; Tom Patterson, a retired US national parks cartographer, has been inundated with questions from governments and diplomats since the vote ; Japan requested a revision because the map made the disputed Kuril Islands appear to belong to Russia; Ukraine abstained because Russian-occupied Crimea was shown in a different colour ; The cartographers clarified the confusion: the UN resolution adopted a mathematical projection without borders — the border disputes arose from Patterson&#x27;s annotated website version ; Equal Earth was developed in 2018 by Patterson, Šavrič (software engineer), and Jenny (Monash University associate professor) as an alternative to both Mercator&#x27;s size distortions and Gall-Peters&#x27; elongated appearance ; Šavrič appreciated that the UN resolution does not ban Mercator or mandate a single replacement, instead promoting map literacy ; Jenny noted the power of the name &quot;Equal Earth&quot; versus a hypothetical &quot;Šavrič-Patterson-Jenny projection&quot;</description>
-        <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>I tested 4 Android Auto navigation apps; one underrated option handles heavy traffic better than Google Maps</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260918-androidpolice-android-auto-navigation-apps-tested.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260918-androidpolice-android-auto-navigation-apps-tested.html</guid>
-        <description>An Android Police writer tested four navigation apps on Android Auto and found TomTom GO delivers more accurate real-time traffic data and better rerouting than Google Maps in heavy congestion, while Google Maps struggles with wrong-direction routing and closed-road suggestions. — Key takeaways: Google Maps frequently routes users miles in the wrong direction before circling back, especially in small towns ; Google Maps suggested routes through roads closed for multi-day construction work, despite its real-time data claims ; TomTom GO provided more accurate real-time traffic data and better alternate routing than Google Maps, HERE WeGo, and OsmAnd in the author&#x27;s testing ; HERE WeGo and OsmAnd had their own issues during testing, making TomTom GO the standout for heavy traffic scenarios ; The author advocates limiting Android Auto apps to essential ones for safety, and using a dedicated traffic-focused app rather than relying solely on Google Maps ; The article notes Google&#x27;s focus on AI features in Maps while basic navigation reliability appears to be declining</description>
-        <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>New Google Maps Feature on Android Auto: Gemini-Powered Destination Information</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260918-autoevolution-google-maps-gemini-destination-card-android-auto.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260918-autoevolution-google-maps-gemini-destination-card-android-auto.html</guid>
-        <description>An APK teardown of Android Auto 17.8 reveals a hidden Gemini-powered destination card in Google Maps that provides AI summaries, photos from reviews, and practical details (parking, accessibility) about destinations — all without touching your phone. — Key takeaways: The new destination card includes a Gemini-powered AI summary based on Google reviews, similar to smartphone summaries ; The card shows address, phone number, and &quot;Good to know&quot; info including parking and accessibility options ; Photos pulled from Google reviews help users explore the destination before driving ; The image gallery UI doesn&#x27;t appear fully optimized for Android Auto yet, suggesting it&#x27;s still a work in progress ; Feature was discovered hidden in Android Auto 17.8 and may not reach production builds ; Google&#x27;s broader Gemini integration on Android Auto has been criticized for instability, inability to make calls, excessive chattiness, and causing app crashes ; Google Assistant is being phased out this month, making Gemini&#x27;s role in Android Auto increasingly central regardless of current user complaints</description>
-        <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+        <title>Quelle est cette option méconnue de Google Maps qui permet d&#x27;économiser jusqu&#x27;à 30 % de carburant ?</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260919-larepubliquedespyrenees-google-maps-fuel-efficient-routing.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260919-larepubliquedespyrenees-google-maps-fuel-efficient-routing.html</guid>
+        <description>L&#x27;option &quot;Privilégiez les itinéraires économes en carburant&quot; de Google Maps peut réduire la consommation de carburant jusqu&#x27;à 30 %, en calculant des trajets qui minimisent la consommation même au prix d&#x27;une distance légèrement supérieure. — Key takeaways: Google Maps peut déterminer l&#x27;itinéraire qui économise le plus de carburant et limite les émissions de CO2 ; Jusqu&#x27;à 30 % d&#x27;économie de carburant selon les essais de Google, pour les trajets de plus de 5 km ; L&#x27;option peut allonger la distance par rapport à l&#x27;autoroute traditionnelle, mais génère des économies ; Activation : avatar &gt; Paramètres &gt; Navigation &gt; Options d&#x27;itinéraires &gt; &quot;Privilégiez les itinéraires économes en carburant&quot; ; L&#x27;itinéraire économe est signalé par une feuille verte sur la carte, avec estimation du pourcentage d&#x27;économie</description>
+        <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
     </item>
 
     <item>
@@ -281,18 +321,10 @@
     </item>
 
     <item>
-        <title>GNOME 51 : les cartes hors ligne débarquent sur le bureau Linux</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260918-goodtech-gnome-51-cartes-hors-ligne-linux.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260918-goodtech-gnome-51-cartes-hors-ligne-linux.html</guid>
-        <description>GNOME 51 (&quot;A Coruña&quot;) brings offline map downloads to GNOME Maps for the first time, allowing Linux users to navigate without internet or ad tracking, alongside real-time transit info, an improved file manager, and the Bazaar app store joining GNOME Circle. — Key takeaways: GNOME Maps now supports downloading entire regions for offline navigation — no cellular connection or location data sent to remote servers ; A storage management interface lets users control disk space used by cached map tiles and purge unused regions ; Transit module adds real-time delay alerts, platform/quai numbers, and walking time between connections ; GNOME Calendar integrates with Maps for one-tap itinerary calculation from event locations ; File manager (Nautilus) gains visual drag-and-drop count badge, smart file selection after duplication, and faster network directory reloading ; Mutter compositor gets frame scheduling rewrite to eliminate micro-stuttering under CPU load; legacy NVIDIA drivers removed in favor of modern standardized graphics interfaces ; SVG vector cursors replace bitmap cursors for sharp rendering on high-DPI displays ; Bazaar Flatpak app store joins GNOME Circle label alongside Bobby (SQLite browser) and Tally (counter manager)</description>
-        <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>68% de los mexicanos busca esquemas laborales híbridos para reducir el tiempo de traslado</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260918-siempre-mexico-tomtom-traffic-index-hybrid-work.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260918-siempre-mexico-tomtom-traffic-index-hybrid-work.html</guid>
-        <description>A study citing the TomTom Traffic Index reveals that 68% of Mexicans seek hybrid work arrangements to reduce commute times, with 67.7% citing reduced travel time as their primary motivator, ahead of World Car-Free Day on September 22. — Key takeaways: 56.93% of Mexican professionals prefer a hybrid work model, compared to 33% currently working under one (WeWork/Michael Page study) ; 67.7% of those preferring hybrid work cite reducing commute times as their primary motivator ; The article references the TomTom Traffic Index 2025 as a key data source on urban mobility and congestion ; Published in the context of World Car-Free Day (September 22), linking traffic reduction to alternative mobility policies ; Hybrid work is framed as a practical solution to recover time lost to daily commutes in congested Mexican cities</description>
+        <title>&#x27;A map is never neutral&#x27;: meet the cartographers who took on centuries of western bias</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260918-guardian-cartographers-western-bias-mercator-equal-earth.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260918-guardian-cartographers-western-bias-mercator-equal-earth.html</guid>
+        <description>The three creators of the Equal Earth projection — Tom Patterson, Bojan Šavrič, and Bernhard Jenny — describe their astonishment at the UN&#x27;s near-universal adoption of their map, which more accurately represents Africa and all continents, and share how diplomatic complaints about borders crept into what was meant as a pure mathematical projection. — Key takeaways: The UN General Assembly voted 164-1 (US voting no, 6 abstentions) to adopt the Equal Earth projection, replacing Mercator on school walls and government websites ; Tom Patterson, a retired US national parks cartographer, has been inundated with questions from governments and diplomats since the vote ; Japan requested a revision because the map made the disputed Kuril Islands appear to belong to Russia; Ukraine abstained because Russian-occupied Crimea was shown in a different colour ; The cartographers clarified the confusion: the UN resolution adopted a mathematical projection without borders — the border disputes arose from Patterson&#x27;s annotated website version ; Equal Earth was developed in 2018 by Patterson, Šavrič (software engineer), and Jenny (Monash University associate professor) as an alternative to both Mercator&#x27;s size distortions and Gall-Peters&#x27; elongated appearance ; Šavrič appreciated that the UN resolution does not ban Mercator or mandate a single replacement, instead promoting map literacy ; Jenny noted the power of the name &quot;Equal Earth&quot; versus a hypothetical &quot;Šavrič-Patterson-Jenny projection&quot;</description>
         <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
     </item>
 
@@ -313,6 +345,46 @@
     </item>
 
     <item>
+        <title>GNOME 51 : les cartes hors ligne débarquent sur le bureau Linux</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260918-goodtech-gnome-51-cartes-hors-ligne-linux.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260918-goodtech-gnome-51-cartes-hors-ligne-linux.html</guid>
+        <description>GNOME 51 (&quot;A Coruña&quot;) brings offline map downloads to GNOME Maps for the first time, allowing Linux users to navigate without internet or ad tracking, alongside real-time transit info, an improved file manager, and the Bazaar app store joining GNOME Circle. — Key takeaways: GNOME Maps now supports downloading entire regions for offline navigation — no cellular connection or location data sent to remote servers ; A storage management interface lets users control disk space used by cached map tiles and purge unused regions ; Transit module adds real-time delay alerts, platform/quai numbers, and walking time between connections ; GNOME Calendar integrates with Maps for one-tap itinerary calculation from event locations ; File manager (Nautilus) gains visual drag-and-drop count badge, smart file selection after duplication, and faster network directory reloading ; Mutter compositor gets frame scheduling rewrite to eliminate micro-stuttering under CPU load; legacy NVIDIA drivers removed in favor of modern standardized graphics interfaces ; SVG vector cursors replace bitmap cursors for sharp rendering on high-DPI displays ; Bazaar Flatpak app store joins GNOME Circle label alongside Bobby (SQLite browser) and Tally (counter manager)</description>
+        <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>68% de los mexicanos busca esquemas laborales híbridos para reducir el tiempo de traslado</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260918-siempre-mexico-tomtom-traffic-index-hybrid-work.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260918-siempre-mexico-tomtom-traffic-index-hybrid-work.html</guid>
+        <description>A study citing the TomTom Traffic Index reveals that 68% of Mexicans seek hybrid work arrangements to reduce commute times, with 67.7% citing reduced travel time as their primary motivator, ahead of World Car-Free Day on September 22. — Key takeaways: 56.93% of Mexican professionals prefer a hybrid work model, compared to 33% currently working under one (WeWork/Michael Page study) ; 67.7% of those preferring hybrid work cite reducing commute times as their primary motivator ; The article references the TomTom Traffic Index 2025 as a key data source on urban mobility and congestion ; Published in the context of World Car-Free Day (September 22), linking traffic reduction to alternative mobility policies ; Hybrid work is framed as a practical solution to recover time lost to daily commutes in congested Mexican cities</description>
+        <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>I tested 4 Android Auto navigation apps; one underrated option handles heavy traffic better than Google Maps</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260918-androidpolice-android-auto-navigation-apps-tested.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260918-androidpolice-android-auto-navigation-apps-tested.html</guid>
+        <description>An Android Police writer tested four navigation apps on Android Auto and found TomTom GO delivers more accurate real-time traffic data and better rerouting than Google Maps in heavy congestion, while Google Maps struggles with wrong-direction routing and closed-road suggestions. — Key takeaways: Google Maps frequently routes users miles in the wrong direction before circling back, especially in small towns ; Google Maps suggested routes through roads closed for multi-day construction work, despite its real-time data claims ; TomTom GO provided more accurate real-time traffic data and better alternate routing than Google Maps, HERE WeGo, and OsmAnd in the author&#x27;s testing ; HERE WeGo and OsmAnd had their own issues during testing, making TomTom GO the standout for heavy traffic scenarios ; The author advocates limiting Android Auto apps to essential ones for safety, and using a dedicated traffic-focused app rather than relying solely on Google Maps ; The article notes Google&#x27;s focus on AI features in Maps while basic navigation reliability appears to be declining</description>
+        <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>New Google Maps Feature on Android Auto: Gemini-Powered Destination Information</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260918-autoevolution-google-maps-gemini-destination-card-android-auto.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260918-autoevolution-google-maps-gemini-destination-card-android-auto.html</guid>
+        <description>An APK teardown of Android Auto 17.8 reveals a hidden Gemini-powered destination card in Google Maps that provides AI summaries, photos from reviews, and practical details (parking, accessibility) about destinations — all without touching your phone. — Key takeaways: The new destination card includes a Gemini-powered AI summary based on Google reviews, similar to smartphone summaries ; The card shows address, phone number, and &quot;Good to know&quot; info including parking and accessibility options ; Photos pulled from Google reviews help users explore the destination before driving ; The image gallery UI doesn&#x27;t appear fully optimized for Android Auto yet, suggesting it&#x27;s still a work in progress ; Feature was discovered hidden in Android Auto 17.8 and may not reach production builds ; Google&#x27;s broader Gemini integration on Android Auto has been criticized for instability, inability to make calls, excessive chattiness, and causing app crashes ; Google Assistant is being phased out this month, making Gemini&#x27;s role in Android Auto increasingly central regardless of current user complaints</description>
+        <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Mapbox Announces Location Infrastructure for AI</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260917-prnewswire-mapbox-location-infrastructure-ai.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260917-prnewswire-mapbox-location-infrastructure-ai.html</guid>
+        <description>Mapbox introduced a comprehensive suite of AI-focused location services at its BUILD conference, including an agentic mapping engine, a new Places API with 250 million POIs, Traffic 2.0 with 98% ETA accuracy, and tools for AI agents to interact with maps programmatically. — Key takeaways: Mapbox&#x27;s agentic mapping engine uses autonomous agents to continuously process live inputs and anonymized movement data from over 45,000 applications to keep map data current in near real time ; The new Mapbox Places API (public preview) provides structured information on over 250 million points of interest globally, including building footprints, operating hours, entrances, and visitation patterns ; Mapbox Traffic 2.0 delivers accurate ETAs for 98% of trips, incorporates congestion at major maneuvers, and forecasts traffic up to 2.5 hours ahead using AI models trained on a closed learning loop ; Natural Language Queries Search enables conversational location queries like &quot;coffee shops near me with fast Wi-Fi and a quiet workspace&quot; ; An Agent Toolkit for Maps and Navigation SDK lets AI agents read and modify over 35 mapping controls, enabling voice-command route modifications and chat agent map interactions ; New integrations include Notion Agents for spatial workflows in documents, a Figma MCP connector for placing real maps in designs, and a Mapbox CLI for terminal-based deployment</description>
+        <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
         <title>Amateur Astronomer Discovers 390-Million-Year-Old Crater on Google Maps</title>
         <link>https://mappingforward.fr/articles/2026-09/20260917-futura-sciences-crater-google-maps-quebec.html</link>
         <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260917-futura-sciences-crater-google-maps-quebec.html</guid>
@@ -329,83 +401,11 @@
     </item>
 
     <item>
-        <title>September 16, 2026 — Kīlauea Summit Eruption Reference Map</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260917-usgs-kilauea-summit-eruption-reference-map.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260917-usgs-kilauea-summit-eruption-reference-map.html</guid>
-        <description>The USGS Hawaiian Volcano Observatory published a reference map of the Kīlauea summit eruption on September 16, 2026, based on helicopter overflight data collected during the eruption&#x27;s early hours. — Key takeaways: The USGS Hawaiian Volcano Observatory released a reference map for the September 16, 2026 Kīlauea summit eruption ; Most data for the map were collected during a USGS Hawaiian Volcano Observatory helicopter overflight on the morning of September 16 ; The map documents new volcanic activity at the Halemaʻumaʻu crater within the Kīlauea summit caldera ; The reference map is part of the observatory&#x27;s ongoing Photo &amp; Video Chronology series tracking eruptive activity at Kīlauea ; Five new eruptive features were documented during the overflight survey</description>
-        <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>How AI Object Detection Is Changing What &quot;Imagery&quot; Means</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260917-geoweeknews-ai-object-detection-imagery.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260917-geoweeknews-ai-object-detection-imagery.html</guid>
-        <description>Geo Week News examines how AI object detection is transforming satellite imagery from pictures that humans look at into queryable spatial databases, drawing an analogy to how full-text search changed our relationship with documents. — Key takeaways: Object detection models can now identify discrete objects (vehicles, aircraft, ships, buildings, bridges, storage tanks) in satellite imagery with precision rivaling human performance ; The overhead top-down perspective of satellite imagery is well-suited for detection architectures: objects don&#x27;t occlude each other as in ground photos, lighting is more uniform, and the nadir view provides a consistent frame of reference ; Each detection outputs a bounding box, class label, and confidence score, turning imagery into a queryable spatial database ; Earth observation foundation models like NASA/IBM&#x27;s Prithvi and Allen Institute&#x27;s SatlasPretrain use pre-training on vast unlabeled archives followed by fine-tuning for specific tasks ; Temporal object detection represents the next frontier: tracking when objects appear, how long they stay, and where they go — converting counts into patterns ; The shift parallels how full-text search transformed documents from things to read into things to query</description>
-        <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Mapbox Announces Location Infrastructure for AI</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260917-prnewswire-mapbox-location-infrastructure-ai.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260917-prnewswire-mapbox-location-infrastructure-ai.html</guid>
-        <description>Mapbox introduced a comprehensive suite of AI-focused location services at its BUILD conference, including an agentic mapping engine, a new Places API with 250 million POIs, Traffic 2.0 with 98% ETA accuracy, and tools for AI agents to interact with maps programmatically. — Key takeaways: Mapbox&#x27;s agentic mapping engine uses autonomous agents to continuously process live inputs and anonymized movement data from over 45,000 applications to keep map data current in near real time ; The new Mapbox Places API (public preview) provides structured information on over 250 million points of interest globally, including building footprints, operating hours, entrances, and visitation patterns ; Mapbox Traffic 2.0 delivers accurate ETAs for 98% of trips, incorporates congestion at major maneuvers, and forecasts traffic up to 2.5 hours ahead using AI models trained on a closed learning loop ; Natural Language Queries Search enables conversational location queries like &quot;coffee shops near me with fast Wi-Fi and a quiet workspace&quot; ; An Agent Toolkit for Maps and Navigation SDK lets AI agents read and modify over 35 mapping controls, enabling voice-command route modifications and chat agent map interactions ; New integrations include Notion Agents for spatial workflows in documents, a Figma MCP connector for placing real maps in designs, and a Mapbox CLI for terminal-based deployment</description>
-        <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
         <title>Ladakh Orders Spatial Mapping of Changthang Wildlife Sanctuary</title>
         <link>https://mappingforward.fr/articles/2026-09/20260917-tribuneindia-changthang-wildlife-sanctuary-spatial-mapping-ladakh.html</link>
         <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260917-tribuneindia-changthang-wildlife-sanctuary-spatial-mapping-ladakh.html</guid>
         <description>The Ladakh administration has ordered spatial mapping and field verification of the Changthang Cold Desert Wildlife Sanctuary using GPS/GIS and satellite imagery, in a process that balances community rights, wildlife conservation, and national security concerns in a strategic border region. — Key takeaways: The Ladakh Lieutenant Governor directed settlement of rights and claims in three protected areas (Hemis National Park, Changthang Wildlife Sanctuary, Karakoram Wildlife Sanctuary) within two months ; Spatial mapping will use GPS/GIS mapping, geo-referencing, and satellite imagery, with wildlife officials scientifically mapping critical habitats and wildlife movement corridors ; The sanctuary&#x27;s strategic border location requires spatial mapping and field surveys of defence installations in coordination with police and defence authorities ; The previous boundary mapping was done through a &quot;table-top&quot; process without proper ground verification or adherence to the Wildlife (Protection) Act, 1972 ; The 1987 preliminary notification defining sanctuary boundaries had never been accurately mapped on the ground ; The sub-committee report was set aside for being inconsistent with legal provisions, inequitable to affected communities, and vulnerable to legal challenges</description>
         <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Tannée du trafic, une étudiante crée une carte interactive des travaux à Montréal</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260917-tvanouvelles-montreal-carte-interactive-travaux.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260917-tvanouvelles-montreal-carte-interactive-travaux.html</guid>
-        <description>A computer engineering student in Montreal built an interactive platform that aggregates road construction data from 20 municipalities in the Greater Montreal area, using AI to fill gaps where official sources and Google Maps fall behind. — Key takeaways: Shelsea Saint-Fleur, a data engineering student, created cestdejalenfer.ca after being stuck in traffic and frustrated by scattered, outdated road work information ; The platform covers Montreal plus 19 other municipalities, consolidating data from Québec 511, municipal interactive maps, and AI-extracted information from public notices ; The site uses AI to read construction notices and automatically extract street names, closures, and work details from sources that lack their own maps ; Users can query works in real time and also search future date ranges to plan trips around upcoming closures ; The platform allows crowdsourced contributions through two forms for citizens to supplement the data ; The creator spent approximately 25 hours building the platform, developed overnight from 10 PM to 4 AM</description>
-        <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>A fairer world map – but old borders creep back in</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260917-lowyinstitute-fairer-world-map-borders.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260917-lowyinstitute-fairer-world-map-borders.html</guid>
-        <description>The Lowy Institute analyzes how the UN&#x27;s &quot;Correct the Map&quot; resolution, intended to replace the Mercator projection with equal-area alternatives, has become entangled in sovereignty disputes as countries object to how the new maps depict contested territories. — Key takeaways: The UN General Assembly voted 164-1 in favor of the &quot;Correct the Map&quot; resolution, with the United States the sole opponent and six abstentions (Ukraine, Moldova, Estonia, Georgia, Lithuania, Serbia) ; The resolution encourages governments, schools, and tech companies to adopt equal-area projections like Equal Earth that show accurate relative sizes of landmasses ; Ukraine abstained because the Equal Earth map depicts Crimea as part of Russian territory; Moldova abstained in solidarity with Ukraine ; India and Japan voted in favor but subsequently raised concerns about how the map depicts Jammu &amp; Kashmir, Ladakh, Arunachal Pradesh, and the Kuril Islands respectively ; The US argued the resolution is part of a &quot;radical ideological project&quot; and questioned why the UN was devoting attention to a 16th-century map ; The resolution is non-binding, and the UN&#x27;s own emblem uses an azimuthal equidistant projection centered on the North Pole, not an equal-area projection</description>
-        <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Google Maps et Waze intègrent un lecteur audio pour les conducteurs sans Android Auto</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260917-phonandroid-google-maps-waze-lecteur-audio-integre.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260917-phonandroid-google-maps-waze-lecteur-audio-integre.html</guid>
-        <description>PhonAndroid reveals a little-known native feature in Google Maps and Waze that lets drivers control music streaming apps directly from the navigation interface — no Android Auto or CarPlay required. — Key takeaways: Google Maps includes a hidden &quot;audio playback controls&quot; feature accessible via Settings &gt; Navigation on both iOS and Android ; The feature supports popular streaming apps like Spotify, allowing play/pause, skip, and playlist access without leaving the navigation screen ; Waze similarly integrates an audio player accessible via a music icon in the top right corner, with support for multiple streaming services ; Users can also connect Google Maps or Waze to Spotify directly from the Spotify app via Settings &gt; Apps and devices ; The feature works while walking as well as driving, and is particularly useful for older vehicles without infotainment systems ; Both apps require a one-time authorization to connect the streaming service to the navigation app</description>
-        <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>D&#x27;après les avis laissés sur Google Maps, la plus belle forêt de France se situe en Provence</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260917-tameteo-google-mavis-foret-france-provence.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260917-tameteo-google-mavis-foret-france-provence.html</guid>
-        <description>A ranking by vacation rental platform Holidu uses Google Maps user reviews to identify France&#x27;s most beautiful forests, with the Sainte-Baume forest in Provence taking first place — though the methodology reveals how review-based rankings can skew toward lesser-known locations. — Key takeaways: The forest of Sainte-Baume in Var, Provence, ranks first with a 4.9/5 score based on 238 Google Maps reviews ; Huelgoat forest in Brittany ranks second with 4.8/5 from 5,534 reviews, while Aïtone forest in Corsica ranks third with 4.8/5 from 116 reviews ; The Bois de Vincennes, despite collecting 41,456 reviews, only ranks 14th with a 4.5/5 score ; The ranking illustrates how Google Maps reviews function as an emergent evaluation system for natural sites, though small sample sizes can inflate scores ; Sainte-Baume is classified as a &quot;forêt d&#x27;exception&quot; by the French National Forestry Office (ONF), featuring an ancient beech forest on a Mediterranean massif ; The forest is also a major pilgrimage site, with the grotto of Sainte-Marie-Madeleine accessible through forest trails</description>
-        <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>BMW Maps Gets 3D Navigation and Driver Assistance Integration via Mapbox</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260916-geekzilla-bmw-maps-3d-navigation-mapbox.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260916-geekzilla-bmw-maps-3d-navigation-mapbox.html</guid>
-        <description>BMW announced a major BMW Maps update arriving October 2026 with OS X, combining 3D navigation with driver assistance systems in a single screen view — developed with Mapbox to show real-time lane position, road level, and surrounding environment. — Key takeaways: BMW Maps update arriving October 2026 for vehicles equipped with BMW Operating System X ; The update combines 3D navigation with driver assistance systems, showing route, environment, and exact vehicle position in a single view ; Developed in collaboration with Mapbox for more precise environmental representation ; Real-time display includes current lane, road level, and nearby environment through 3D graphics ; Highway Assistant system can assist driving on compatible highways at up to 130 km/h with automatic lane changes ; Semi-automated urban driving assistance planned for 2027 in select markets where regulation permits ; Availability depends on vehicle equipment and local regulations; no timeline for Latin American markets yet</description>
-        <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Maps Are a Starting Point for Responsible Clean Energy Development</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260916-nature-conservancy-clean-energy-maps-community-engagement.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260916-nature-conservancy-clean-energy-maps-community-engagement.html</guid>
-        <description>The Nature Conservancy argues that spatial data mapping tools like its Clean Energy Compass are valuable for early-stage renewable energy siting, but relationship-driven community engagement — not data-driven siting — remains the strongest predictor of project success. — Key takeaways: The Nature Conservancy&#x27;s Clean Energy Compass is an interactive mapping tool for early clean energy planning that incorporates conservation and community considerations ; Mapping tools now include socioeconomic and environmental vulnerability indicators (income, pollution exposure, health burdens, energy affordability) to identify community-level impacts ; Maps can highlight opportunities like brownfields and landfills for renewable energy redevelopment, aligning clean energy goals with land restoration ; Despite their value, maps have limitations: spatial datasets lack local detail, cannot capture community experiences, and may reinforce inequities if used without care ; Early, meaningful community engagement is the strongest predictor of renewable energy project success and long-term acceptance ; Relationship-driven planning, not data-driven siting, is the key to accelerating the clean energy transition</description>
-        <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     </item>
 
 </channel>
