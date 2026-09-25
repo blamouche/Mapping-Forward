@@ -1,9 +1,117 @@
 {
   "site": "Mapping Forward",
   "url": "https://mappingforward.fr",
-  "generated": "2026-09-24T06:04:45.553240",
-  "article_count": 997,
+  "generated": "2026-09-25T06:07:53.225184",
+  "article_count": 1009,
   "articles": [
+    {
+      "title": "Google Maps vient de changer sa manière d'afficher les intersections",
+      "url": "https://mappingforward.fr/articles/2026-09/20260924-01net-google-maps-intersections-feux-stops-android-auto.html",
+      "date": "2026-09-24",
+      "source": "https://www.01net.com/actualites/google-maps-vient-changer-maniere-afficher-intersections.html",
+      "author": "Gabriel Manceau (01net.com)",
+      "keywords": "Google Maps, Android Auto, intersections, feux tricolores, stops, navigation, sécurité routière, pop-up, CarPlay",
+      "elevator_pitch": "Google Maps déploie une nouvelle mise à jour qui affiche des pop-ups pour les feux rouges et les stops à l'approche des intersections sur Android Auto, permettant aux conducteurs d'anticiper les intersections délicates sans quitter la route des yeux."
+    },
+    {
+      "title": "Police Scotland modernises search operations with Esri GIS",
+      "url": "https://mappingforward.fr/articles/2026-09/20260924-geoweeknews-police-scotland-esri-gis-search-operations.html",
+      "date": "2026-09-24",
+      "source": "https://www.geoweeknews.com/articles/police-scotland-modernises-search-operations-with-esri-gis/",
+      "author": "Industry Press Release (Geo Week News)",
+      "keywords": "Police Scotland, Esri, GIS, search operations, missing persons, mobile mapping, Esri Award, Commonwealth Games, public safety",
+      "elevator_pitch": "Police Scotland has won an Esri Special Achievement in GIS Award for transforming search operations with mobile mapping apps and interactive dashboards, replacing paper-based processes to find missing people, secure Royal visits, and protect major events like the Glasgow Commonwealth Games."
+    },
+    {
+      "title": "Toyoda, TomTom founders inducted into 2026 Automotive Hall of Fame",
+      "url": "https://mappingforward.fr/articles/2026-09/20260924-autonews-tomtom-founders-automotive-hall-of-fame-2026.html",
+      "date": "2026-09-24",
+      "source": "https://www.autonews.com/executives/an-automotive-hall-of-fame-induction-photos-0924/",
+      "author": "Automotive News",
+      "keywords": "TomTom, Automotive Hall of Fame, Harold Goddijn, Corinne Vigreux, navigation, GPS, automotive industry, Akio Toyoda, Dallara",
+      "elevator_pitch": "TomTom founders Harold Goddijn and Corinne Vigreux have been inducted into the 2026 Automotive Hall of Fame alongside Akio Toyoda and Giampaolo Dallara, recognizing TomTom's pioneering role in bringing GPS navigation to the automotive industry."
+    },
+    {
+      "title": "Behind the paper: South African model maps Ebola spillover risks",
+      "url": "https://mappingforward.fr/articles/2026-09/20260924-nature-south-african-model-maps-ebola-spillover-risks.html",
+      "date": "2026-09-24",
+      "source": "https://www.nature.com/articles/d44148-026-00296-5",
+      "author": "Nature Africa",
+      "keywords": "Ebola, spillover risk, habitat suitability models, ecological modeling, anthropogenic factors, DRC, zoonotic transmission, GIS, spatial epidemiology",
+      "elevator_pitch": "Researchers from South Africa, DRC, UK, and US developed a model that integrates ecological and anthropogenic factors—including mining, forest loss, and human displacement—to better predict where Ebola spillovers from animals to humans may occur, improving on traditional habitat suitability models."
+    },
+    {
+      "title": "Zita Cobb sera conférencière principale à la Conférence des utilisateurs d'Esri Canada 2026",
+      "url": "https://mappingforward.fr/articles/2026-09/20260924-ledevoir-zita-cobb-esri-canada-2026-conference.html",
+      "date": "2026-09-24",
+      "source": "https://www.ledevoir.com/communiques-de-presse/1011224/zita-cobb-sera-conferenciere-principale-conference-utilisateurs-esri-canada-2026",
+      "author": "Esri Canada (via Le Devoir / GlobeNewswire)",
+      "keywords": "Esri Canada, SIG, GIS, conférence, Zita Cobb, Fogo Island, économies ancrées, résilience communautaire, jumeaux numériques, intelligence artificielle, Toronto",
+      "elevator_pitch": "Esri Canada annonce que Zita Cobb, fondatrice du Shorefast Institute for Place-Based Economies, sera conférencière principale à la Conférence des utilisateurs d'Esri Canada 2026 les 21-22 octobre à Toronto, le plus grand rassemblement de professionnels des SIG au Canada, sur le thème « Les SIG au service d'un monde plus intelligent »."
+    },
+    {
+      "title": "C'est vraiment dommage : pourquoi Waze et Google Maps ne donnent plus les trajets les plus rapides en France",
+      "url": "https://mappingforward.fr/articles/2026-09/20260924-presse-citron-waze-google-maps-trajets-rapides-france.html",
+      "date": "2026-09-24",
+      "source": "https://www.presse-citron.net/cest-vraiment-dommage-pourquoi-waze-et-google-maps-ne-donnent-plus-les-trajets-les-plus-rapides-en-france/",
+      "author": "Jean-Yves Alric (Presse-citron)",
+      "keywords": "Google Maps, Waze, France, itinéraires, impact environnemental, décret 2022-1199, émissions CO2, navigation, trajets multimodaux",
+      "elevator_pitch": "Waze et Google Maps appliquent désormais le décret français n° 2022-1199 qui oblige les applications de navigation à mettre en avant les trajets les moins polluants au lieu des trajets les plus rapides, avec obligation de proposer une alternative à vitesse réduite sur les portions à 110 km/h ou plus."
+    },
+    {
+      "title": "Delhi MCD's new property tax drive: Drones to map buildings and spot discrepancies",
+      "url": "https://mappingforward.fr/articles/2026-09/20260924-livemint-delhi-mcd-drone-survey-property-tax-gis-lidar.html",
+      "date": "2026-09-24",
+      "source": "https://www.livemint.com/industry/real-estate/delhi-mcd-s-new-property-tax-drive-drones-to-map-buildings-and-spot-discrepancies-11790148576280.html",
+      "author": "Anjali Thakur (Mint)",
+      "keywords": "Delhi MCD, drone survey, property tax, GIS, LiDAR, 3D modelling, geo-tagging, AI, property assessment, digital mapping",
+      "elevator_pitch": "Delhi's Municipal Corporation has launched a pilot drone survey in two wards using GIS, LiDAR, AI, and 3D modelling to identify unassessed and under-assessed properties, building a more accurate digital property database and reducing reliance on manual inspections."
+    },
+    {
+      "title": "New Google Maps Navigation Update: Traffic Lights and Stop Sign Pop-Ups on Android Auto",
+      "url": "https://mappingforward.fr/articles/2026-09/20260924-autoevolution-google-maps-traffic-lights-stop-sign-popups-android-auto.html",
+      "date": "2026-09-24",
+      "source": "https://www.autoevolution.com/news/new-google-maps-navigation-update-traffic-lights-and-stop-sign-pop-ups-on-android-auto-276038.html",
+      "author": "Bogdan Popa (autoevolution)",
+      "keywords": "Google Maps, Android Auto, traffic lights, stop signs, navigation update, pop-ups, intersection safety, driving assistance",
+      "elevator_pitch": "Google Maps on Android Auto has started showing pop-up indicators for traffic lights and stop signs at the next turn location during navigation, providing drivers with a clearer way to anticipate intersections without distracting alerts."
+    },
+    {
+      "title": "NOAA's flood mapping tool now covers nearly 100% of U.S.",
+      "url": "https://mappingforward.fr/articles/2026-09/20260924-noaa-flood-mapping-tool-covers-nearly-100-percent-us.html",
+      "date": "2026-09-24",
+      "source": "https://www.noaa.gov/news-release/noaa-flood-mapping-tool-now-covers-nearly-100-of-us",
+      "author": "NOAA National Weather Service",
+      "keywords": "NOAA, flood inundation mapping, FIM, river flooding, emergency management, GIS, National Water Model, disaster response",
+      "elevator_pitch": "NOAA's Flood Inundation Mapping (FIM) tool, which predicts river flooding at neighborhood scale, has expanded from 60% to nearly 100% coverage of the U.S. population, providing emergency managers and the public with critical flooding extent visualization along 3.3 million river miles."
+    },
+    {
+      "title": "Mapbox introduces location infrastructure for AI",
+      "url": "https://mappingforward.fr/articles/2026-09/20260924-gpsworld-mapbox-location-infrastructure-for-ai.html",
+      "date": "2026-09-24",
+      "source": "https://www.gpsworld.com/mapbox-introduces-location-infrastructure-for-ai/",
+      "author": "Tracy Cozzens (GPS World)",
+      "keywords": "Mapbox, AI, location infrastructure, agentic mapping engine, Places API, Traffic 2.0, natural language queries, agents, navigation, POI",
+      "elevator_pitch": "Mapbox has launched a new suite of location infrastructure services designed for AI applications, agents, and developer tools, including an agentic mapping engine, a Places API with 250M+ POIs, Traffic 2.0 with 98% ETA accuracy, and agent toolkits for maps and navigation SDKs."
+    },
+    {
+      "title": "« Un tel impact raserait aujourd'hui de grandes villes » : il cherchait où camper sur Google Maps et découvre un cratère géant",
+      "url": "https://mappingforward.fr/articles/2026-09/20260924-futura-sciences-cratere-impact-google-maps-quebec-lac-marsal.html",
+      "date": "2026-09-24",
+      "source": "https://www.futura-sciences.com/planete/actualites/cratere-impact-tel-impact-raserait-aujourdhui-grandes-villes-il-cherchait-camper-google-maps-decouvre-cratere-geant-137970/",
+      "author": "Morgane Gillard (Futura Sciences)",
+      "keywords": "Google Maps, cratère d'impact, météorite, Québec, lac Marsal, Gordon Osinski, CEREGE, géologie, impact Earth, satellite",
+      "elevator_pitch": "En cherchant un emplacement de camping sur Google Maps au Québec, Joël Lapointe a découvert par hasard un cratère d'impact inconnu de 8 km de diamètre autour du lac Marsal, confirmé par une expédition scientifique en octobre 2025 qui a trouvé des preuves irréfutibles d'un impact météoritique."
+    },
+    {
+      "title": "What Earthquake Response Needs From Geospatial Technology",
+      "url": "https://mappingforward.fr/articles/2026-09/20260924-geoweeknews-earthquake-response-geospatial-technology.html",
+      "date": "2026-09-24",
+      "source": "https://www.geoweeknews.com/articles/what-earthquake-response-needs-from-geospatial-technology/",
+      "author": "Abigail Hart (Geo Week News)",
+      "keywords": "earthquake response, geospatial technology, GIS, damage detection, InSAR, GNSS, emergency management, offline mapping, data integration, disaster response",
+      "elevator_pitch": "Five critical gaps stand between geospatial technology and faster earthquake response: automated damage detection, unified data environments, offline-first field tools, dynamic population mapping, and pre-event readiness—addressable with today's technology but requiring better integration, standards, and funding."
+    },
     {
       "title": "Apple Maps floute des sites sensibles en Chine : zoom sur une controverse cartographique",
       "url": "https://mappingforward.fr/articles/2026-09/20260923-appsystem-apple-maps-floutage-sites-sensibles-chine.html",

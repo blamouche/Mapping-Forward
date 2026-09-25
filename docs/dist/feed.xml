@@ -6,7 +6,103 @@
     <description>Daily synthesis of articles on cartography, mapping, geospatial data, and geographic intelligence</description>
     <language>en</language>
     <atom:link href="https://mappingforward.fr/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 24 Sep 2026 06:04:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 06:07:53 +0000</lastBuildDate>
+
+    <item>
+        <title>Google Maps vient de changer sa manière d&#x27;afficher les intersections</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260924-01net-google-maps-intersections-feux-stops-android-auto.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260924-01net-google-maps-intersections-feux-stops-android-auto.html</guid>
+        <description>Google Maps déploie une nouvelle mise à jour qui affiche des pop-ups pour les feux rouges et les stops à l&#x27;approche des intersections sur Android Auto, permettant aux conducteurs d&#x27;anticiper les intersections délicates sans quitter la route des yeux. — Key takeaways: Google Maps déploie un nouveau système de pop-up affichant les feux et stops à côté du nom de la rue lors du prochain changement de direction ; La nouveauté apparaît d&#x27;abord sur Android Auto, puis sur les smartphones, avec une compatibilité CarPlay probable ; Le repère indique précisément si un feu rouge ou un stop attend au bout du virage ; Ce déploiement s&#x27;effectue côté serveur, progressivement sur plusieurs jours à semaines ; Google Maps affichait déjà des icônes de feux et stops sur la carte depuis six ans, mais sans alerte during la navigation</description>
+        <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Police Scotland modernises search operations with Esri GIS</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260924-geoweeknews-police-scotland-esri-gis-search-operations.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260924-geoweeknews-police-scotland-esri-gis-search-operations.html</guid>
+        <description>Police Scotland has won an Esri Special Achievement in GIS Award for transforming search operations with mobile mapping apps and interactive dashboards, replacing paper-based processes to find missing people, secure Royal visits, and protect major events like the Glasgow Commonwealth Games. — Key takeaways: Police Scotland won an Esri Special Achievement in GIS Award for modernising search operations ; The Missing Persons Module helps plan and allocate search resources including dog teams, drones, diving units, and mountain rescue ; Mobile devices give field officers search boundaries and assignments, replacing paper maps and manual notes ; The system was most recently used at the Commonwealth Games in Glasgow in July 2026 ; Training for nearly 300 users has been completed across the 23,000-officer force covering 28,000+ square miles ; Search and seal operations created for COP26 in 2022 completed up to 75% faster with geospatial tools ; Virtual models of regularly searched locations like Holyrood House speed up security checks</description>
+        <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Toyoda, TomTom founders inducted into 2026 Automotive Hall of Fame</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260924-autonews-tomtom-founders-automotive-hall-of-fame-2026.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260924-autonews-tomtom-founders-automotive-hall-of-fame-2026.html</guid>
+        <description>TomTom founders Harold Goddijn and Corinne Vigreux have been inducted into the 2026 Automotive Hall of Fame alongside Akio Toyoda and Giampaolo Dallara, recognizing TomTom&#x27;s pioneering role in bringing GPS navigation to the automotive industry. — Key takeaways: TomTom founders Harold Goddijn and Corinne Vigreux inducted into the 2026 Automotive Hall of Fame ; Other inductees include Toyota Motor Corp. Chairman Akio Toyoda and Dallara Motorsports founder Giampaolo Dallara ; The recognition highlights TomTom&#x27;s foundational role in consumer and automotive GPS navigation ; TomTom has evolved from consumer navigation devices to providing maps and traffic data for automotive and enterprise applications ; The Automotive Hall of Fame honors individuals who have made significant contributions to the automotive industry</description>
+        <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Behind the paper: South African model maps Ebola spillover risks</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260924-nature-south-african-model-maps-ebola-spillover-risks.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260924-nature-south-african-model-maps-ebola-spillover-risks.html</guid>
+        <description>Researchers from South Africa, DRC, UK, and US developed a model that integrates ecological and anthropogenic factors—including mining, forest loss, and human displacement—to better predict where Ebola spillovers from animals to humans may occur, improving on traditional habitat suitability models. — Key takeaways: Traditional habitat suitability models using temperature, rainfall, and land cover fail to capture human activity drivers of Ebola spillover ; The 2026 Bundibugyo virus outbreak in DRC&#x27;s Ituri province emerged in a conflict zone with food insecurity and displacement ; Researchers integrated mining, forest loss, and other human pressures into ecological models to improve spillover predictions ; The preprint &quot;Integrating ecological and anthropogenic risk identifies emerging Ebola spillover hotspots&quot; presents the findings ; Four orthoebolaviruses have caused human illness: Ebola virus, Sudan virus, Taï Forest virus, and Bundibugyo virus ; The international team included researchers from CERI at Stellenbosch University, DRC, UK, and US</description>
+        <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Zita Cobb sera conférencière principale à la Conférence des utilisateurs d&#x27;Esri Canada 2026</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260924-ledevoir-zita-cobb-esri-canada-2026-conference.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260924-ledevoir-zita-cobb-esri-canada-2026-conference.html</guid>
+        <description>Esri Canada annonce que Zita Cobb, fondatrice du Shorefast Institute for Place-Based Economies, sera conférencière principale à la Conférence des utilisateurs d&#x27;Esri Canada 2026 les 21-22 octobre à Toronto, le plus grand rassemblement de professionnels des SIG au Canada, sur le thème « Les SIG au service d&#x27;un monde plus intelligent ». — Key takeaways: Zita Cobb, fondatrice du Shorefast Institute, sera conférencière principale à la Conférence Esri Canada 2026 le 22 octobre ; La conférence se tient les 21 et 22 octobre au Centre des congrès de Toronto, rassemblant les professionnels des SIG canadiens ; Le thème 2026 est « Les SIG : Créer un monde plus intelligent » ; Le programme inclut des séances plénières, démonstrations produits, présentations clients, séances techniques et réseautage ; De nouvelles séances thématiques couvriront les SIG au service du bien commun, les jumeaux numériques et l&#x27;intelligence artificielle ; Mme Cobb partagera les enseignements de l&#x27;île Fogo à Terre-Neuve-et-Labrador sur l&#x27;économie ancrée et la résilience communautaire</description>
+        <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>C&#x27;est vraiment dommage : pourquoi Waze et Google Maps ne donnent plus les trajets les plus rapides en France</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260924-presse-citron-waze-google-maps-trajets-rapides-france.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260924-presse-citron-waze-google-maps-trajets-rapides-france.html</guid>
+        <description>Waze et Google Maps appliquent désormais le décret français n° 2022-1199 qui oblige les applications de navigation à mettre en avant les trajets les moins polluants au lieu des trajets les plus rapides, avec obligation de proposer une alternative à vitesse réduite sur les portions à 110 km/h ou plus. — Key takeaways: Le décret n° 2022-1199 oblige les plateformes numériques à mettre en avant les itinéraires au plus faible impact environnemental ; Les applications doivent proposer une alternative avec une vitesse réduite de 20 km/h sur les portions à 110 km/h ou plus ; Waze et Google Maps appliquent désormais ce décret en France, favorisant les trajets écologiques ; Les utilisateurs peuvent toujours revenir aux trajets les plus rapides via les réglages ; La région Île-de-France avait déjà sollicité Google Maps pour modifier son fonctionnement avant les JO de Paris 2024 ; Le Syndicat des transports d&#x27;Île-de-France menace de faire fermer les applications qui ne fluidifient pas le trafic</description>
+        <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Delhi MCD&#x27;s new property tax drive: Drones to map buildings and spot discrepancies</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260924-livemint-delhi-mcd-drone-survey-property-tax-gis-lidar.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260924-livemint-delhi-mcd-drone-survey-property-tax-gis-lidar.html</guid>
+        <description>Delhi&#x27;s Municipal Corporation has launched a pilot drone survey in two wards using GIS, LiDAR, AI, and 3D modelling to identify unassessed and under-assessed properties, building a more accurate digital property database and reducing reliance on manual inspections. — Key takeaways: MCD launched a pilot drone survey in Rohini F Ward and Gharoli Ward as the first phase of a technology-driven property assessment approach ; The survey combines drone imagery with GIS, LiDAR-based mapping, geo-tagging, AI, and 3D digital modelling ; The system identifies incorrectly mapped records, duplicate entries, and additional floors not in existing records ; Ward- and zone-level dashboards will let officials monitor discrepancies, issue notices, and track property tax arrears ; The GIS-based system supports faster grievance redressal through digital access to property information ; The initiative aims to bring greater transparency while reducing physical interaction with civic officials</description>
+        <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>New Google Maps Navigation Update: Traffic Lights and Stop Sign Pop-Ups on Android Auto</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260924-autoevolution-google-maps-traffic-lights-stop-sign-popups-android-auto.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260924-autoevolution-google-maps-traffic-lights-stop-sign-popups-android-auto.html</guid>
+        <description>Google Maps on Android Auto has started showing pop-up indicators for traffic lights and stop signs at the next turn location during navigation, providing drivers with a clearer way to anticipate intersections without distracting alerts. — Key takeaways: Google Maps on Android Auto now shows pop-ups at the next turn location with traffic light or stop sign indicators ; Unlike traditional alerts (e.g., speed traps), these pop-ups integrate into the navigation interface rather than sending notifications ; Google Maps has shown traffic lights on the map for years, but only as static icons without navigation-time alerts ; The new approach avoids the annoyance of frequent intersection alerts on city roads while still improving awareness ; The rollout appears to be gradual, with the feature being tested before wider deployment</description>
+        <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>NOAA&#x27;s flood mapping tool now covers nearly 100% of U.S.</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260924-noaa-flood-mapping-tool-covers-nearly-100-percent-us.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260924-noaa-flood-mapping-tool-covers-nearly-100-percent-us.html</guid>
+        <description>NOAA&#x27;s Flood Inundation Mapping (FIM) tool, which predicts river flooding at neighborhood scale, has expanded from 60% to nearly 100% coverage of the U.S. population, providing emergency managers and the public with critical flooding extent visualization along 3.3 million river miles. — Key takeaways: FIM now covers nearly 100% of the U.S. population, up from 60% in 2025 and 10% at launch in 2023 ; The tool depicts flooding potential along 3.3 million river miles throughout the continental U.S., territories, and Hawaii ; New coverage areas include the southeastern U.S. coast, Florida, Great Lakes region, New England, Rocky Mountains, the Dakotas, and western Nebraska ; FIM provides four versions: hourly analysis, 5-day inundation forecast, RFC 5-day forecast, and static categorical FIM ; Real-world success stories include evacuations in Tennessee, Arkansas, Texas, Oklahoma, and Michigan that saved lives ; Maps are publicly available on the National Water Prediction Service website in multiple GIS file types</description>
+        <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Mapbox introduces location infrastructure for AI</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260924-gpsworld-mapbox-location-infrastructure-for-ai.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260924-gpsworld-mapbox-location-infrastructure-for-ai.html</guid>
+        <description>Mapbox has launched a new suite of location infrastructure services designed for AI applications, agents, and developer tools, including an agentic mapping engine, a Places API with 250M+ POIs, Traffic 2.0 with 98% ETA accuracy, and agent toolkits for maps and navigation SDKs. — Key takeaways: Mapbox introduced an agentic mapping engine that uses autonomous agents to continuously process live inputs from over 45,000 applications for near real-time map updates ; The new Mapbox Places API provides structured information about 250 million+ points of interest globally, including building footprints, entrances, and visitation patterns ; Mapbox Traffic 2.0 delivers accurate ETAs for 98% of trips, incorporating congestion at major maneuvers and forecasting traffic up to 2.5 hours ahead ; New Natural Language Queries Search interprets conversational queries like &quot;coffee shops near me with fast Wi-Fi and a quiet workspace&quot; ; An Agent Toolkit enables voice-activated route modifications and map control through chat agents ; Mapbox CLI allows developers and AI coding agents to manage services from the terminal ; Integration with Notion Agents enables spatial workflow automation inside workspace documents</description>
+        <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>« Un tel impact raserait aujourd&#x27;hui de grandes villes » : il cherchait où camper sur Google Maps et découvre un cratère géant</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260924-futura-sciences-cratere-impact-google-maps-quebec-lac-marsal.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260924-futura-sciences-cratere-impact-google-maps-quebec-lac-marsal.html</guid>
+        <description>En cherchant un emplacement de camping sur Google Maps au Québec, Joël Lapointe a découvert par hasard un cratère d&#x27;impact inconnu de 8 km de diamètre autour du lac Marsal, confirmé par une expédition scientifique en octobre 2025 qui a trouvé des preuves irréfutibles d&#x27;un impact météoritique. — Key takeaways: Joël Lapointe a découvert une structure circulaire étrange autour du lac Marsal au Québec en cherchant un camping sur Google Maps en 2024 ; Le cratère potentiel de 8 km de diamètre n&#x27;était référencé dans aucune base de données géologique ; Gordon Osinski, géologue à la Western University et directeur d&#x27;Impact Earth, a mené une expédition sur le site en octobre 2025 ; Le site se trouve dans une région très isolée du Québec, sans réseau routier ou accès aménagé ; Des brèches précédemment interprétées comme d&#x27;origine volcano-sédimentaire se sont révélées être des preuves d&#x27;impact météoritique ; Cette découverte illustre comment Google Maps et Google Earth permettent d&#x27;identifier des sites géologiques d&#x27;importance</description>
+        <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>What Earthquake Response Needs From Geospatial Technology</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260924-geoweeknews-earthquake-response-geospatial-technology.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260924-geoweeknews-earthquake-response-geospatial-technology.html</guid>
+        <description>Five critical gaps stand between geospatial technology and faster earthquake response: automated damage detection, unified data environments, offline-first field tools, dynamic population mapping, and pre-event readiness—addressable with today&#x27;s technology but requiring better integration, standards, and funding. — Key takeaways: AI-assisted change detection can flag damaged buildings in minutes, but operates as post-request services rather than always-on pipelines ; The most persistent geospatial failure is fragmentation: building footprints, population data, and road networks in separate, incompatible databases ; Edge-first GIS applications are needed that cache base layers by default and support real-time field collection with sync-on-reconnect ; Dynamic population mapping should combine census data, cell-phone mobility, and building-occupancy estimates rather than relying on static data ; FEMA&#x27;s GeoPlatform and OGC disaster pilots show that pre-built data environments work, but lack sustained investment ; The geospatial industry must shift from delivering products after events to maintaining infrastructure before them</description>
+        <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
 
     <item>
         <title>Apple Maps floute des sites sensibles en Chine : zoom sur une controverse cartographique</title>
@@ -310,102 +406,6 @@
         <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260919-larepubliquedespyrenees-google-maps-fuel-efficient-routing.html</guid>
         <description>L&#x27;option &quot;Privilégiez les itinéraires économes en carburant&quot; de Google Maps peut réduire la consommation de carburant jusqu&#x27;à 30 %, en calculant des trajets qui minimisent la consommation même au prix d&#x27;une distance légèrement supérieure. — Key takeaways: Google Maps peut déterminer l&#x27;itinéraire qui économise le plus de carburant et limite les émissions de CO2 ; Jusqu&#x27;à 30 % d&#x27;économie de carburant selon les essais de Google, pour les trajets de plus de 5 km ; L&#x27;option peut allonger la distance par rapport à l&#x27;autoroute traditionnelle, mais génère des économies ; Activation : avatar &gt; Paramètres &gt; Navigation &gt; Options d&#x27;itinéraires &gt; &quot;Privilégiez les itinéraires économes en carburant&quot; ; L&#x27;itinéraire économe est signalé par une feuille verte sur la carte, avec estimation du pourcentage d&#x27;économie</description>
         <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>How I made OsmAnd Maps look and feel more like Google Maps</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260918-howtogeek-osmand-maps-look-google-maps.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260918-howtogeek-osmand-maps-look-google-maps.html</guid>
-        <description>A How-To Geek writer details how to transform OsmAnd Maps — a powerful but visually unpolished open-source navigation app — into a Google Maps lookalike using custom rendering styles and UI tweaks, making the transition from Google&#x27;s ecosystem more palatable. — Key takeaways: OsmAnd supports custom map rendering styles via OSF files; a GitHub repository by &quot;FilipBB&quot; offers 25+ custom styles including two Google Maps-inspired looks (&quot;Classic Web Map&quot; and &quot;Modern Web Map&quot;) ; Importing styles: Maps &amp; Resources &gt; Local tab &gt; Rendering style &gt; Three-dot menu &gt; Import, then apply via Configure map &gt; Map style ; Different styles can be applied for different navigation modes (driving, walking, cycling) ; UI tweaks include adjusting button placement, map orientation settings, and speed display preferences to match Google Maps conventions ; OsmAnd uses OpenStreetMap data and works fully offline, making it a privacy-focused alternative ; The article acknowledges OsmAnd&#x27;s learning curve but argues that visual customization lowers the barrier to switching</description>
-        <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>&#x27;A map is never neutral&#x27;: meet the cartographers who took on centuries of western bias</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260918-guardian-cartographers-western-bias-mercator-equal-earth.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260918-guardian-cartographers-western-bias-mercator-equal-earth.html</guid>
-        <description>The three creators of the Equal Earth projection — Tom Patterson, Bojan Šavrič, and Bernhard Jenny — describe their astonishment at the UN&#x27;s near-universal adoption of their map, which more accurately represents Africa and all continents, and share how diplomatic complaints about borders crept into what was meant as a pure mathematical projection. — Key takeaways: The UN General Assembly voted 164-1 (US voting no, 6 abstentions) to adopt the Equal Earth projection, replacing Mercator on school walls and government websites ; Tom Patterson, a retired US national parks cartographer, has been inundated with questions from governments and diplomats since the vote ; Japan requested a revision because the map made the disputed Kuril Islands appear to belong to Russia; Ukraine abstained because Russian-occupied Crimea was shown in a different colour ; The cartographers clarified the confusion: the UN resolution adopted a mathematical projection without borders — the border disputes arose from Patterson&#x27;s annotated website version ; Equal Earth was developed in 2018 by Patterson, Šavrič (software engineer), and Jenny (Monash University associate professor) as an alternative to both Mercator&#x27;s size distortions and Gall-Peters&#x27; elongated appearance ; Šavrič appreciated that the UN resolution does not ban Mercator or mandate a single replacement, instead promoting map literacy ; Jenny noted the power of the name &quot;Equal Earth&quot; versus a hypothetical &quot;Šavrič-Patterson-Jenny projection&quot;</description>
-        <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Overture&#x27;s August Release Shows Open Maps Becoming Data Infrastructure</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260918-geoawesome-overture-august-release-data-infrastructure.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260918-geoawesome-overture-august-release-data-infrastructure.html</guid>
-        <description>Overture Maps Foundation&#x27;s August 2026 release (2026-08-19.0) shows open map data evolving into governed, machine-ready infrastructure with 472.8 million address records, schema transitions for AI consumption, and quality controls that prioritize deduplication over raw feature accumulation. — Key takeaways: Release 2026-08-19.0 uses schema version 1.18.0, distributed via GeoParquet, PMTiles, and cloud-hosted registries ; Approximately 472.8 million candidate address records, with new data from Fresno County, Statistics Canada, Land Information New Zealand, and Italy&#x27;s ICAR system ; Base dataset: infrastructure features up 1.8% to ~155.5 million, land features up 1.6% to 75.6 million ; Building count fell 0.6% to ~2.53 billion despite millions of new contributions — illustrating that conflation and deduplication matter more than raw accumulation ; Places dataset declined 0.8%, with quality controls removing duplicate/contradictory features ; Transportation: ~497,000 TomTom road segments and ~1.3 million OpenStreetMap segments added, with improvements to surface, class, and access restriction attributes ; Schema transition: deprecated `categories` field replaced by `basic_category` and `taxonomy`, with one transitional release before removal in September ; Base, buildings, divisions, places, and transportation themes are generally available; addresses remain alpha</description>
-        <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Quand Google Maps répond en phrases : les cinq champs de votre fiche que l&#x27;IA lit en premier</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260918-info-lux-ask-maps-google-maps-fiche-entreprise.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260918-info-lux-ask-maps-google-maps-fiche-entreprise.html</guid>
-        <description>Ask Maps, the Gemini-powered conversational feature in Google Maps, now covers 150+ countries since August 2026. It reads five specific fields on a business listing — category/services, hours, reviews/replies, photos, and Q&amp;A — to compose natural-language answers, making listing completeness critical for visibility. — Key takeaways: Ask Maps was announced March 12, 2026 in the US and India, extended to 150+ countries on August 7, 2026; European availability (Belgium, France, Luxembourg) is not yet confirmed as of September 2026 ; Ask Maps draws from 300+ million places, 500 million contributors&#x27; reviews, Street View, and photos to answer complex natural-language queries ; Only two or three businesses are returned per query — an incomplete listing isn&#x27;t &quot;ranked lower,&quot; it&#x27;s simply not proposed at all ; The five fields Ask Maps reads: (1) category and services/attributes, (2) real hours including exceptions, (3) reviews and owner replies, (4) recent captioned photos, (5) Q&amp;A section ; Owner replies to reviews count as readable text; review content like &quot;pleasant terrace&quot; can substitute for a service attribute ; Gemini also complements listing data with external web content (site, articles, directories), making a detailed web presence beyond the listing itself important</description>
-        <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>GNOME 51 : les cartes hors ligne débarquent sur le bureau Linux</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260918-goodtech-gnome-51-cartes-hors-ligne-linux.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260918-goodtech-gnome-51-cartes-hors-ligne-linux.html</guid>
-        <description>GNOME 51 (&quot;A Coruña&quot;) brings offline map downloads to GNOME Maps for the first time, allowing Linux users to navigate without internet or ad tracking, alongside real-time transit info, an improved file manager, and the Bazaar app store joining GNOME Circle. — Key takeaways: GNOME Maps now supports downloading entire regions for offline navigation — no cellular connection or location data sent to remote servers ; A storage management interface lets users control disk space used by cached map tiles and purge unused regions ; Transit module adds real-time delay alerts, platform/quai numbers, and walking time between connections ; GNOME Calendar integrates with Maps for one-tap itinerary calculation from event locations ; File manager (Nautilus) gains visual drag-and-drop count badge, smart file selection after duplication, and faster network directory reloading ; Mutter compositor gets frame scheduling rewrite to eliminate micro-stuttering under CPU load; legacy NVIDIA drivers removed in favor of modern standardized graphics interfaces ; SVG vector cursors replace bitmap cursors for sharp rendering on high-DPI displays ; Bazaar Flatpak app store joins GNOME Circle label alongside Bobby (SQLite browser) and Tally (counter manager)</description>
-        <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>68% de los mexicanos busca esquemas laborales híbridos para reducir el tiempo de traslado</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260918-siempre-mexico-tomtom-traffic-index-hybrid-work.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260918-siempre-mexico-tomtom-traffic-index-hybrid-work.html</guid>
-        <description>A study citing the TomTom Traffic Index reveals that 68% of Mexicans seek hybrid work arrangements to reduce commute times, with 67.7% citing reduced travel time as their primary motivator, ahead of World Car-Free Day on September 22. — Key takeaways: 56.93% of Mexican professionals prefer a hybrid work model, compared to 33% currently working under one (WeWork/Michael Page study) ; 67.7% of those preferring hybrid work cite reducing commute times as their primary motivator ; The article references the TomTom Traffic Index 2025 as a key data source on urban mobility and congestion ; Published in the context of World Car-Free Day (September 22), linking traffic reduction to alternative mobility policies ; Hybrid work is framed as a practical solution to recover time lost to daily commutes in congested Mexican cities</description>
-        <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>I tested 4 Android Auto navigation apps; one underrated option handles heavy traffic better than Google Maps</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260918-androidpolice-android-auto-navigation-apps-tested.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260918-androidpolice-android-auto-navigation-apps-tested.html</guid>
-        <description>An Android Police writer tested four navigation apps on Android Auto and found TomTom GO delivers more accurate real-time traffic data and better rerouting than Google Maps in heavy congestion, while Google Maps struggles with wrong-direction routing and closed-road suggestions. — Key takeaways: Google Maps frequently routes users miles in the wrong direction before circling back, especially in small towns ; Google Maps suggested routes through roads closed for multi-day construction work, despite its real-time data claims ; TomTom GO provided more accurate real-time traffic data and better alternate routing than Google Maps, HERE WeGo, and OsmAnd in the author&#x27;s testing ; HERE WeGo and OsmAnd had their own issues during testing, making TomTom GO the standout for heavy traffic scenarios ; The author advocates limiting Android Auto apps to essential ones for safety, and using a dedicated traffic-focused app rather than relying solely on Google Maps ; The article notes Google&#x27;s focus on AI features in Maps while basic navigation reliability appears to be declining</description>
-        <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>New Google Maps Feature on Android Auto: Gemini-Powered Destination Information</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260918-autoevolution-google-maps-gemini-destination-card-android-auto.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260918-autoevolution-google-maps-gemini-destination-card-android-auto.html</guid>
-        <description>An APK teardown of Android Auto 17.8 reveals a hidden Gemini-powered destination card in Google Maps that provides AI summaries, photos from reviews, and practical details (parking, accessibility) about destinations — all without touching your phone. — Key takeaways: The new destination card includes a Gemini-powered AI summary based on Google reviews, similar to smartphone summaries ; The card shows address, phone number, and &quot;Good to know&quot; info including parking and accessibility options ; Photos pulled from Google reviews help users explore the destination before driving ; The image gallery UI doesn&#x27;t appear fully optimized for Android Auto yet, suggesting it&#x27;s still a work in progress ; Feature was discovered hidden in Android Auto 17.8 and may not reach production builds ; Google&#x27;s broader Gemini integration on Android Auto has been criticized for instability, inability to make calls, excessive chattiness, and causing app crashes ; Google Assistant is being phased out this month, making Gemini&#x27;s role in Android Auto increasingly central regardless of current user complaints</description>
-        <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Mapbox Announces Location Infrastructure for AI</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260917-prnewswire-mapbox-location-infrastructure-ai.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260917-prnewswire-mapbox-location-infrastructure-ai.html</guid>
-        <description>Mapbox introduced a comprehensive suite of AI-focused location services at its BUILD conference, including an agentic mapping engine, a new Places API with 250 million POIs, Traffic 2.0 with 98% ETA accuracy, and tools for AI agents to interact with maps programmatically. — Key takeaways: Mapbox&#x27;s agentic mapping engine uses autonomous agents to continuously process live inputs and anonymized movement data from over 45,000 applications to keep map data current in near real time ; The new Mapbox Places API (public preview) provides structured information on over 250 million points of interest globally, including building footprints, operating hours, entrances, and visitation patterns ; Mapbox Traffic 2.0 delivers accurate ETAs for 98% of trips, incorporates congestion at major maneuvers, and forecasts traffic up to 2.5 hours ahead using AI models trained on a closed learning loop ; Natural Language Queries Search enables conversational location queries like &quot;coffee shops near me with fast Wi-Fi and a quiet workspace&quot; ; An Agent Toolkit for Maps and Navigation SDK lets AI agents read and modify over 35 mapping controls, enabling voice-command route modifications and chat agent map interactions ; New integrations include Notion Agents for spatial workflows in documents, a Figma MCP connector for placing real maps in designs, and a Mapbox CLI for terminal-based deployment</description>
-        <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Amateur Astronomer Discovers 390-Million-Year-Old Crater on Google Maps</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260917-futura-sciences-crater-google-maps-quebec.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260917-futura-sciences-crater-google-maps-quebec.html</guid>
-        <description>An amateur astronomer planning a camping trip on Google Maps spotted a near-perfect 15-mile ring in Quebec&#x27;s Côte-Nord region that turned out to be a previously unrecorded 390-million-year-old meteorite impact crater — the first confirmed crater discovery by a member of the public. — Key takeaways: Joël Lapointe discovered the ring-shaped feature around Lake Marsal while browsing satellite maps for a camping trip in Quebec&#x27;s Côte-Nord region in 2024 ; The crater, approximately 25 km in diameter, dates to the Devonian period (~390 million years ago) — over 100 million years before the first dinosaurs ; Planetary geologist Gordon Osinski of Western University led a 2025 field expedition that confirmed the impact origin through shatter cones and impact melt rock ; The team named the crater &quot;Uhackatik&quot; in consultation with the Innu Council of Ekuanitshit, on whose traditional land it lies ; This is reportedly the first time a public sighting reported through the Impact Earth database has been confirmed as an impact crater ; NASA&#x27;s Earth Observatory published a Landsat 8 view of the structure, with the circular outline faintly visible around the lake ; Geologists estimate hundreds more impact craters remain unidentified on Earth, many under sediment, ice, or ocean</description>
-        <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Gujarat to Geo-Tag and Map Manufacturing MSMEs on PM Gati Shakti Portal</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260917-deshgujarat-msme-gis-geo-tagging-gati-shakti.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260917-deshgujarat-msme-gis-geo-tagging-gati-shakti.html</guid>
-        <description>The Gujarat government is undertaking a statewide GIS-based geo-tagging and mapping exercise of manufacturing MSMEs, integrating the data with the PM Gati Shakti national infrastructure portal to enable data-driven planning and infrastructure development. — Key takeaways: The Gujarat MSME Commissionerate is leading the GIS-based geo-tagging exercise under the central government&#x27;s RAMP (Raising and Accelerating MSME Performance) scheme ; Gujarat Info Petro Limited (GIPL) has been entrusted with carrying out the geo-tagging and mapping of manufacturing MSMEs registered on the Udyog Portal ; GIPL representatives will physically visit MSME units across the state to geo-tag locations and collect/verify information required for mapping ; The database will be integrated with the PM Gati Shakti Portal, India&#x27;s national infrastructure planning platform ; The GIS-based mapping aims to create an integrated, structured database supporting infrastructure planning, policy formulation, and government scheme implementation ; Industry associations have been asked to facilitate the exercise among their members</description>
-        <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Ladakh Orders Spatial Mapping of Changthang Wildlife Sanctuary</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260917-tribuneindia-changthang-wildlife-sanctuary-spatial-mapping-ladakh.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260917-tribuneindia-changthang-wildlife-sanctuary-spatial-mapping-ladakh.html</guid>
-        <description>The Ladakh administration has ordered spatial mapping and field verification of the Changthang Cold Desert Wildlife Sanctuary using GPS/GIS and satellite imagery, in a process that balances community rights, wildlife conservation, and national security concerns in a strategic border region. — Key takeaways: The Ladakh Lieutenant Governor directed settlement of rights and claims in three protected areas (Hemis National Park, Changthang Wildlife Sanctuary, Karakoram Wildlife Sanctuary) within two months ; Spatial mapping will use GPS/GIS mapping, geo-referencing, and satellite imagery, with wildlife officials scientifically mapping critical habitats and wildlife movement corridors ; The sanctuary&#x27;s strategic border location requires spatial mapping and field surveys of defence installations in coordination with police and defence authorities ; The previous boundary mapping was done through a &quot;table-top&quot; process without proper ground verification or adherence to the Wildlife (Protection) Act, 1972 ; The 1987 preliminary notification defining sanctuary boundaries had never been accurately mapped on the ground ; The sub-committee report was set aside for being inconsistent with legal provisions, inequitable to affected communities, and vulnerable to legal challenges</description>
-        <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
     </item>
 
 </channel>
