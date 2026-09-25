@@ -1,3 +1,6 @@
+## 0.1.805 - 2026-09-25
+- Add substack post: One geography, many instruments
+
 ## 0.1.804 - 2026-09-16
 - Add substack post: From drug dealers to dashboards
 
