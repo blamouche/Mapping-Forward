@@ -19,12 +19,24 @@ Articles per month:
 2026-05 | ████████████████████████████████ 117<br>
 2026-07 | █████ 10<br>
 2026-08 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 267<br>
-2026-09 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 184<br>
+2026-09 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 196<br>
 ## Articles
 
 ### 2026
 
-#### September (184 articles)
+#### September (196 articles)
+- [Mapbox introduces location infrastructure for AI](src/2026-09/20260924-gpsworld-mapbox-location-infrastructure-for-ai.md)
+- [Google Maps vient de changer sa manière d'afficher les intersections](src/2026-09/20260924-01net-google-maps-intersections-feux-stops-android-auto.md)
+- [New Google Maps Navigation Update: Traffic Lights and Stop Sign Pop-Ups on Android Auto](src/2026-09/20260924-autoevolution-google-maps-traffic-lights-stop-sign-popups-android-auto.md)
+- [NOAA's flood mapping tool now covers nearly 100% of U.S.](src/2026-09/20260924-noaa-flood-mapping-tool-covers-nearly-100-percent-us.md)
+- [Behind the paper: South African model maps Ebola spillover risks](src/2026-09/20260924-nature-south-african-model-maps-ebola-spillover-risks.md)
+- [C'est vraiment dommage : pourquoi Waze et Google Maps ne donnent plus les trajets les plus rapides en France](src/2026-09/20260924-presse-citron-waze-google-maps-trajets-rapides-france.md)
+- [What Earthquake Response Needs From Geospatial Technology](src/2026-09/20260924-geoweeknews-earthquake-response-geospatial-technology.md)
+- [Police Scotland modernises search operations with Esri GIS](src/2026-09/20260924-geoweeknews-police-scotland-esri-gis-search-operations.md)
+- [Delhi MCD's new property tax drive: Drones to map buildings and spot discrepancies](src/2026-09/20260924-livemint-delhi-mcd-drone-survey-property-tax-gis-lidar.md)
+- [Zita Cobb sera conférencière principale à la Conférence des utilisateurs d'Esri Canada 2026](src/2026-09/20260924-ledevoir-zita-cobb-esri-canada-2026-conference.md)
+- [Il cherchait où camper sur Google Maps et découvre un cratère géant](src/2026-09/20260924-futura-sciences-cratere-impact-google-maps-quebec-lac-marsal.md)
+- [Toyoda, TomTom founders inducted into 2026 Automotive Hall of Fame](src/2026-09/20260924-autonews-tomtom-founders-automotive-hall-of-fame-2026.md)
 - [Cloud Geographic Information Systems (GIS) Market Report: Growth from $2.36B to $4.76B by 2030](src/2026-09/20260923-openpr-cloud-gis-market-report-2026-2030.md)
 - [Grid My Business Launches AI Search to Map Local Visibility Across AI Platforms](src/2026-09/20260923-newsfilecorp-grid-my-business-ai-search-local-visibility.md)
 - [MCD commences pilot drone survey to improve property tax assessment in Delhi](src/2026-09/20260923-newindianexpress-mcd-drone-survey-property-tax-gis-lidar.md)
