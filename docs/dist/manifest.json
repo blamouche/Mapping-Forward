@@ -1,9 +1,63 @@
 {
   "site": "Mapping Forward",
   "url": "https://mappingforward.fr",
-  "generated": "2026-09-25T06:07:53.225184",
-  "article_count": 1009,
+  "generated": "2026-09-26T06:04:21.781854",
+  "article_count": 1015,
   "articles": [
+    {
+      "title": "Cette application de navigation chinoise fait bien mieux que Google Maps et Waze",
+      "url": "https://mappingforward.fr/articles/2026-09/20260925-autoplus-amap-chinese-navigation-app-better-google-maps-waze.html",
+      "date": "2026-09-25",
+      "source": "https://www.autoplus.fr/actualite/insolite/cette-application-de-navigation-chinoise-fait-bien-mieux-que-google-maps-et-waze-1468204.html",
+      "author": "Etienne Villaret (Auto Plus)",
+      "keywords": "AMap, Alibaba, navigation, Chine, feux tricolores, V2X, Google Maps, Waze, AutoNavi",
+      "elevator_pitch": "AMap, l'application de navigation d'Alibaba, domine le marché chinois avec une fonction de compte à rebours des feux tricolores en temps réel couvrant 500 000 carrefours — une capacité qu'aucune application occidentale ne propose à cette échelle."
+    },
+    {
+      "title": "Google Maps isn't giving everyone the same route, and these 3 settings are why",
+      "url": "https://mappingforward.fr/articles/2026-09/20260925-makeuseof-google-maps-route-settings-not-same.html",
+      "date": "2026-09-25",
+      "source": "https://www.makeuseof.com/google-maps-route-settings/",
+      "author": "MakeUseOf",
+      "keywords": "Google Maps, route settings, fuel-efficient routes, navigation, personalization, algorithm",
+      "elevator_pitch": "MakeUseOf explains how three Google Maps settings — fuel-efficient routes, eco-friendly routing, and personalized route preferences — cause different users to receive different directions for the same destination."
+    },
+    {
+      "title": "New map projections don't make the Mercator wrong",
+      "url": "https://mappingforward.fr/articles/2026-09/20260925-guardian-new-map-projections-mercator-not-wrong.html",
+      "date": "2026-09-25",
+      "source": "https://www.theguardian.com/travel/2026/sep/25/new-map-projections-dont-make-the-mercator-wrong",
+      "author": "Paul Harwood (The Guardian)",
+      "keywords": "map projections, Mercator, Equal Earth, cartography, bias, UTM, Ordnance Survey",
+      "elevator_pitch": "A letter to The Guardian defends the Mercator projection against charges of inherent bias, arguing it was fit for its original purpose and that its misuse reflects user laziness rather than cartographic prejudice."
+    },
+    {
+      "title": "Apple Maps just added two new features in iOS 27",
+      "url": "https://mappingforward.fr/articles/2026-09/20260925-9to5mac-apple-maps-ios-27-flyover-local-lists.html",
+      "date": "2026-09-25",
+      "source": "https://9to5mac.com/2026/09/24/heres-everything-new-for-apple-maps-in-ios-27/",
+      "author": "Ryan Christoffel (9to5Mac)",
+      "keywords": "Apple Maps, iOS 27, Flyover, Local Lists, navigation, AI, offline maps",
+      "elevator_pitch": "iOS 27 brings two flagship Apple Maps features — an AI-enhanced Flyover experience and privacy-first Local Lists — alongside incremental improvements to suggested places, natural language routing, and offline maps."
+    },
+    {
+      "title": "Entraves des Mondiaux de cyclisme: évitez Google Maps et fiez-vous à Waze, recommande la Ville de Montréal",
+      "url": "https://mappingforward.fr/articles/2026-09/20260925-tvanouvelles-mondiaux-cyclisme-google-maps-waze-montreal.html",
+      "date": "2026-09-25",
+      "source": "https://www.tvanouvelles.ca/2026/09/25/entraves-des-mondiaux-de-cyclisme-evitez-google-maps-et-fiez-vous-a-waze-recommande-la-ville-de-montreal",
+      "author": "Olivier Boivin (TVA Nouvelles)",
+      "keywords": "Google Maps, Waze, Montréal, Mondiaux cyclisme, entraves, partage de données, navigation, itinéraires",
+      "elevator_pitch": "La Ville de Montréal recommande officiellement Waze plutôt que Google Maps pour naviguer les entraves des Championnats mondiaux de cyclisme, en raison d'erreurs d'itinéraires dans Google Maps liées à des enjeux de partage de données."
+    },
+    {
+      "title": "Google Maps : la fonction méconnue qui change vraiment la donne pour anticiper les trajets",
+      "url": "https://mappingforward.fr/articles/2026-09/20260925-androidmt-google-maps-planification-horaire-anticiper-trajets.html",
+      "date": "2026-09-25",
+      "source": "https://android-mt.ouest-france.fr/news/google-maps-la-fonction-meconnue-qui-change-vraiment-la-donne-pour-anticiper-les-trajets/223224/",
+      "author": "Android MT (Ouest-France)",
+      "keywords": "Google Maps, planification, trafic, horaire de départ, navigation, bouchons, itinéraires",
+      "elevator_pitch": "Google Maps possède une fonction de planification par créneau horaire largement ignorée qui permet d'anticiper les bouchons en simulant des trajets à différentes heures, transformant l'application d'outil de secours en véritable assistant de planification."
+    },
     {
       "title": "Google Maps vient de changer sa manière d'afficher les intersections",
       "url": "https://mappingforward.fr/articles/2026-09/20260924-01net-google-maps-intersections-feux-stops-android-auto.html",
