@@ -19,12 +19,18 @@ Articles per month:
 2026-05 | ████████████████████████████████ 117<br>
 2026-07 | █████ 10<br>
 2026-08 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 267<br>
-2026-09 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 196<br>
+2026-09 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 202<br>
 ## Articles
 
 ### 2026
 
-#### September (196 articles)
+#### September (202 articles)
+- [New map projections don't make the Mercator wrong](src/2026-09/20260925-guardian-new-map-projections-mercator-not-wrong.md)
+- [Apple Maps just added two new features in iOS 27](src/2026-09/20260925-9to5mac-apple-maps-ios-27-flyover-local-lists.md)
+- [Cette application de navigation chinoise fait bien mieux que Google Maps et Waze](src/2026-09/20260925-autoplus-amap-chinese-navigation-app-better-google-maps-waze.md)
+- [Entraves des Mondiaux de cyclisme: évitez Google Maps et fiez-vous à Waze, recommande la Ville de Montréal](src/2026-09/20260925-tvanouvelles-mondiaux-cyclisme-google-maps-waze-montreal.md)
+- [Google Maps : la fonction méconnue qui change vraiment la donne pour anticiper les trajets](src/2026-09/20260925-androidmt-google-maps-planification-horaire-anticiper-trajets.md)
+- [Google Maps isn't giving everyone the same route, and these 3 settings are why](src/2026-09/20260925-makeuseof-google-maps-route-settings-not-same.md)
 - [Mapbox introduces location infrastructure for AI](src/2026-09/20260924-gpsworld-mapbox-location-infrastructure-for-ai.md)
 - [Google Maps vient de changer sa manière d'afficher les intersections](src/2026-09/20260924-01net-google-maps-intersections-feux-stops-android-auto.md)
 - [New Google Maps Navigation Update: Traffic Lights and Stop Sign Pop-Ups on Android Auto](src/2026-09/20260924-autoevolution-google-maps-traffic-lights-stop-sign-popups-android-auto.md)
