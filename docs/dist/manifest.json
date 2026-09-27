@@ -1,9 +1,54 @@
 {
   "site": "Mapping Forward",
   "url": "https://mappingforward.fr",
-  "generated": "2026-09-26T06:04:21.781854",
-  "article_count": 1015,
+  "generated": "2026-09-27T06:04:40.952187",
+  "article_count": 1020,
   "articles": [
+    {
+      "title": "Halifax's traffic problem is growing alongside South Dartmouth's neighbourhoods",
+      "url": "https://mappingforward.fr/articles/2026-09/20260926-narcity-halifax-tomtom-traffic-index-canada-congestion.html",
+      "date": "2026-09-26",
+      "source": "https://www.narcity.com/halifax/halifax-s-traffic-problem-is-growing-alongside-south-dartmouth-s-neighbourhoods",
+      "author": "The Canadian Press (via Narcity)",
+      "keywords": "TomTom Traffic Index, Halifax, traffic congestion, Canada, Dartmouth, transit, GIS, open data, urban planning, commute",
+      "elevator_pitch": "Halifax ranked third worst in Canada for traffic congestion in 2025 according to the TomTom Traffic Index, with drivers losing 111 hours to rush hour — more than Toronto commuters — as fast-tracked housing development in South Dartmouth outpaces transportation infrastructure."
+    },
+    {
+      "title": "Chhattisgarh achieves 99.34% geo-tagging success under Bhu-Gram GIS initiative",
+      "url": "https://mappingforward.fr/articles/2026-09/20260926-thehitavada-chhattisgarh-gis-geo-tagging-bhu-gram.html",
+      "date": "2026-09-26",
+      "source": "https://www.thehitavada.com/Encyc/2026/9/25/cg-performs-well-under-vb-g-ram-g-geo-tagging.html",
+      "author": "The Hitavada",
+      "keywords": "Chhattisgarh, geo-tagging, GIS mapping, Bhu-Gram, rural infrastructure, India, panchayat, transparency, field survey, Bastar, Surguja",
+      "elevator_pitch": "Chhattisgarh has achieved 99.34% geo-tagging of its assets under the Bhu-Gram GIS initiative, overcoming challenges in remote forest tracts and hilly regions with poor network connectivity through coordination of field staff, panchayat representatives, and technical personnel."
+    },
+    {
+      "title": "Why Place Matters in Digital Health Communication",
+      "url": "https://mappingforward.fr/articles/2026-09/20260926-gisuser-place-matters-digital-health-communication.html",
+      "date": "2026-09-26",
+      "source": "https://gisuser.com/2026/09/why-place-matters-in-digital-health-communication/amp/",
+      "author": "GISuser",
+      "keywords": "GIS, digital health, health communication, location intelligence, spatial patterns, mapping, public health, data visualization, place-based targeting",
+      "elevator_pitch": "Geographic information systems help health organizations see and explain spatial patterns in public health, but maps and data alone do not reach people — effective digital health communication requires combining GIS analysis with place-based content strategies and production workflows."
+    },
+    {
+      "title": "Mobile GIS Market Analysis: Growth Forecast 2026-2033",
+      "url": "https://mappingforward.fr/articles/2026-09/20260926-openpr-mobile-gis-market-analysis-2026-2033.html",
+      "date": "2026-09-26",
+      "source": "https://www.openpr.com/news/4643973/mobile-gis-market-analysis-by-application-type-technology",
+      "author": "Market Research Intellect (via openPR)",
+      "keywords": "mobile GIS, market report, geospatial, field data collection, cloud GIS, location-based services, market growth, forecast, technology",
+      "elevator_pitch": "The mobile GIS market is analyzed across application, type, technology, and geography with a global industry outlook and forecast covering 2026-2033, highlighting growth driven by field data collection demand, cloud integration, and location-based services expansion."
+    },
+    {
+      "title": "Road Noise Immissions Now Available in the GIS Browser of the Canton of Zurich",
+      "url": "https://mappingforward.fr/articles/2026-09/20260926-zhch-strassenlaerm-immissionen-gis-browser-zuerich.html",
+      "date": "2026-09-26",
+      "source": "https://www.zh.ch/de/news-uebersicht/mitteilungen/2026/planen-bauen/geoinformation/strassenlaerm-immissionen-neu-im-gis-browser.html",
+      "author": "Amt für Raumentwicklung, Kanton Zürich (BD ARE GEO GIS)",
+      "keywords": "GIS, noise mapping, road noise, immissions, Canton Zurich, Switzerland, GIS-Browser, Lärmschutzverordnung, LSV, urban planning, environmental data, transparent geodata",
+      "elevator_pitch": "The Canton of Zurich has published two new road noise immission maps in its GIS-Browser, showing per-building noise exposure data for both the current state and planning horizon, providing transparent access to calculated road noise levels for property owners, planning offices, and authorities."
+    },
     {
       "title": "Cette application de navigation chinoise fait bien mieux que Google Maps et Waze",
       "url": "https://mappingforward.fr/articles/2026-09/20260925-autoplus-amap-chinese-navigation-app-better-google-maps-waze.html",

@@ -6,7 +6,47 @@
     <description>Daily synthesis of articles on cartography, mapping, geospatial data, and geographic intelligence</description>
     <language>en</language>
     <atom:link href="https://mappingforward.fr/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 26 Sep 2026 06:04:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 06:04:40 +0000</lastBuildDate>
+
+    <item>
+        <title>Halifax&#x27;s traffic problem is growing alongside South Dartmouth&#x27;s neighbourhoods</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260926-narcity-halifax-tomtom-traffic-index-canada-congestion.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260926-narcity-halifax-tomtom-traffic-index-canada-congestion.html</guid>
+        <description>Halifax ranked third worst in Canada for traffic congestion in 2025 according to the TomTom Traffic Index, with drivers losing 111 hours to rush hour — more than Toronto commuters — as fast-tracked housing development in South Dartmouth outpaces transportation infrastructure. — Key takeaways: Halifax city centre ranked third worst in Canada for traffic congestion in 2025 per the TomTom Traffic Index, behind Vancouver and Toronto ; Drivers in Halifax Regional Municipality lost 111 hours to rush hour, more than Toronto&#x27;s 100 hours despite Toronto being 14× larger ; Average daily traffic on Pleasant Street climbed 8% between December 2021 and May 2025 (10,987 to 11,828 vehicles/day) ; Traffic counts on Mount Hope Avenue rose nearly 5% in one year (15,392 to 16,139 vehicles/day) ; Nearly 1,800 residential units approved through Special Planning Areas (SPA) in Mount Hope Village and Opal Ridge ; 518 collisions on Pleasant Street between 2018 and 2026 resulted in three fatalities, per HRM open data portal ; Route 5 transit passenger overload incidents tripled from 17 in 2022 to 57 in 2024 ; HRM proposed a $70-million Halifax Transit Core Service Plan changing 37% of bus routes</description>
+        <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Chhattisgarh achieves 99.34% geo-tagging success under Bhu-Gram GIS initiative</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260926-thehitavada-chhattisgarh-gis-geo-tagging-bhu-gram.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260926-thehitavada-chhattisgarh-gis-geo-tagging-bhu-gram.html</guid>
+        <description>Chhattisgarh has achieved 99.34% geo-tagging of its assets under the Bhu-Gram GIS initiative, overcoming challenges in remote forest tracts and hilly regions with poor network connectivity through coordination of field staff, panchayat representatives, and technical personnel. — Key takeaways: Chhattisgarh achieved 99.34% geo-tagging of its assets, ranking among the top-performing states in India ; GIS mapping conducted under the &#x27;Bhu-Gram&#x27; initiative is bolstering transparency in rural asset management ; The task was particularly complex in remote forest tracts, hilly regions, and areas with poor network connectivity ; Bastar and Surguja divisions presented the greatest challenges due to their remote and difficult terrain ; Success was achieved through coordination of field staff, Panchayat representatives, and technical personnel ; The geo-tagging program covers rural infrastructure assets across the state&#x27;s panchayat system</description>
+        <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Why Place Matters in Digital Health Communication</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260926-gisuser-place-matters-digital-health-communication.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260926-gisuser-place-matters-digital-health-communication.html</guid>
+        <description>Geographic information systems help health organizations see and explain spatial patterns in public health, but maps and data alone do not reach people — effective digital health communication requires combining GIS analysis with place-based content strategies and production workflows. — Key takeaways: GIS helps health organizations identify and visualize spatial patterns in disease prevalence, access to care, and health outcomes ; Maps and data alone are insufficient — they must be translated into accessible digital health content for target audiences ; Effective digital health communication requires understanding the &quot;place&quot; dimension: where audiences live, work, and seek care ; Production workflows for health content may involve analysts, writers, designers, developers, and video editors ; Smaller teams may need to bring in outside specialists for tasks such as cleaning datasets or designing accessible maps ; The integration of GIS with health communication supports targeted interventions and place-based public health messaging</description>
+        <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Mobile GIS Market Analysis: Growth Forecast 2026-2033</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260926-openpr-mobile-gis-market-analysis-2026-2033.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260926-openpr-mobile-gis-market-analysis-2026-2033.html</guid>
+        <description>The mobile GIS market is analyzed across application, type, technology, and geography with a global industry outlook and forecast covering 2026-2033, highlighting growth driven by field data collection demand, cloud integration, and location-based services expansion. — Key takeaways: Mobile GIS market report covers analysis by application, type, technology, and geography ; Global industry outlook and forecast period spans 2026-2033 ; Growth drivers include increasing demand for real-time field data collection and cloud-based GIS integration ; Mobile GIS enables field workers to capture, edit, and share geospatial data on portable devices ; Key technology segments include GPS/GNSS positioning, mobile sensors, and cloud synchronization ; Application areas span utilities, agriculture, disaster management, environmental monitoring, and urban planning ; The report examines market dynamics across North America, Europe, Asia-Pacific, and other regions</description>
+        <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Road Noise Immissions Now Available in the GIS Browser of the Canton of Zurich</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260926-zhch-strassenlaerm-immissionen-gis-browser-zuerich.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260926-zhch-strassenlaerm-immissionen-gis-browser-zuerich.html</guid>
+        <description>The Canton of Zurich has published two new road noise immission maps in its GIS-Browser, showing per-building noise exposure data for both the current state and planning horizon, providing transparent access to calculated road noise levels for property owners, planning offices, and authorities. — Key takeaways: Two new maps published in the Canton of Zurich&#x27;s GIS-Browser cover road noise immissions across the entire canton (excluding Zurich city) ; Maps show the current state (Istzustand) and planning horizon (Planungshorizont) noise exposure per building ; Each building displays the maximum calculated assessment level (Beurteilungspegel) ; Data includes immissions per measurement location at each building, information on relevant land use, and classification per LSV threshold system ; Information covers planning value (Planungswert), immission limit value (Immissionsgrenzwert), and alarm value (Alarmwert) ; Most existing noise barriers in the canton are also documented in the maps ; The data serves as a basis for planning remediation measures by road owners and responsible authorities</description>
+        <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
 
     <item>
         <title>Cette application de navigation chinoise fait bien mieux que Google Maps et Waze</title>
@@ -366,46 +406,6 @@
         <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260921-vietnam-vn-google-maps-eta-masquee.html</guid>
         <description>L&#x27;heure d&#x27;arrivée estimée (ETA) affichée par Google Maps utilise un système de codes couleurs pour indiquer la fiabilité de l&#x27;estimation, mais dans certains contextes cette information est masquée, laissant les conducteurs sans repère temporel précis. — Key takeaways: L&#x27;interface de navigation de Google Maps affiche l&#x27;heure d&#x27;arrivée estimée (ETA) à l&#x27;aide de codes couleurs ; Dans certaines situations, l&#x27;ETA est masquée, ce qui peut dérouter les utilisateurs ; Le système de codes couleurs fournit une indication sur le niveau de confiance de l&#x27;estimation ; Cette pratique illustre les choix d&#x27;interface de Google Maps entre transparence et simplicité</description>
         <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>La carte de GTA 6 devient beaucoup plus précise, Leonida serait plus petite que prévu</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260921-lacremedugaming-gta6-carte-leonida-v16.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260921-lacremedugaming-gta6-carte-leonida-v16.html</guid>
-        <description>La version 16 de la community map de GTA 6, construite à partir d&#x27;une carte leakée du 18 août et des séquences du trailer An Extended Look, affine les contours de l&#x27;État de Leonida avec un niveau de détail inédit. Résultat : la carte apparaît plus précise mais aussi plus petite que les estimations précédentes, avec une surface terrestre estimée à environ 85,6 km² contre près de 110 km² dans la V15. — Key takeaways: La V16 de la community map de GTA 6 revoit complètement littoraux, plages, zones urbaines et frontières de comtés ; La grille technique est de 1 x 1 km pour un cadre global d&#x27;environ 21 x 20 km (420 km² d&#x27;enveloppe théorique) ; La surface terrestre estimée tombe à environ 85,6 km², contre près de 110 km² dans la V15 ; GTA 5 tourne autour de 48,15 km² hors eau : la carte de GTA 6 serait donc environ 1,7 à 1,8 fois plus vaste ; Vice City serait environ deux fois plus grande que Los Santos, l&#x27;agglomération jusqu&#x27;à onze fois plus étendue ; Rockstar Games vise son &quot;monde le plus vaste et le plus dense&quot; jamais créé</description>
-        <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>L&#x27;Equal Earth ? Une nouvelle carte du monde prônée par l&#x27;ONU qui rend sa vraie superficie à l&#x27;Afrique</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260920-moustique-equal-earth-un-projection-africa.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260920-moustique-equal-earth-un-projection-africa.html</guid>
-        <description>L&#x27;Assemblée générale de l&#x27;ONU a voté à 164 voix la résolution &quot;Correct the Map&quot; encourageant la projection Equal Earth, qui restitue fidèlement les rapports de superficie entre continents, corrigeant la sous-représentation historique de l&#x27;Afrique dans la projection Mercator. — Key takeaways: La résolution &quot;Correct the Map&quot; a été adoptée par 164 pays, les États-Unis votant contre et six autres s&#x27;abstenant ; La projection Equal Earth, développée en 2018, préserve les rapports de surface : si un territoire est deux fois plus grand qu&#x27;un autre, il occupe deux fois plus de surface sur la carte ; La projection Mercator (1569), adaptée à la navigation, déforme les superficies : le Groenland paraît presque aussi grand que l&#x27;Afrique, alors que l&#x27;Afrique est 14 fois plus vaste ; La résolution n&#x27;interdit pas Mercator ni n&#x27;impose une projection unique, mais vise à rendre visible la réalité des superficies ; L&#x27;initiative est portée par l&#x27;Union Africaine et le ministre togolais des Affaires étrangères Robert Dussey, qui rappelle que &quot;les cartes ne sont jamais neutres&quot;</description>
-        <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>I use Google Maps every day, but Apple Maps still does these 4 things better</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260920-androidauthority-apple-maps-vs-google-maps-2026.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260920-androidauthority-apple-maps-vs-google-maps-2026.html</guid>
-        <description>Apple Maps surpasse Google Maps sur quatre aspects concrets : interface plus épurée, outils de randonnée supérieurs, fonctionnalités de routes personnalisées et meilleure intégration écosystème, comblant l&#x27;écart historique avec Google. — Key takeaways: Interface plus propre et moins encombrée qu&#x27;Apple Maps, sans publicités intrusives ni entreprises promues sur la carte ; Outils de randonnée supérieurs : cartes topographiques avec courbes de niveau, création d&#x27;itinéraires personnalisés, informations d&#x27;élévation ; Création de routes de marche/randonnée personnalisées avec points intermédiaires, boucles et sauvegarde ; Apple Maps commence à déployer des publicités dans certains marchés, mais reste moins saturé que Google Maps ; Google Maps conserve l&#x27;avantage sur la recherche locale et le volume d&#x27;informations disponibles</description>
-        <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Online map shows how suitable Guernsey homes are for solar panels</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260920-bbc-guernsey-solar-panel-suitability-map.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260920-bbc-guernsey-solar-panel-suitability-map.html</guid>
-        <description>Les États de Guernsey lancent une carte en ligne codée par couleurs indiquant le potentiel solaire de chaque toiture, aidant les habitants à évaluer la pertinence de l&#x27;installation de panneaux photovoltaïques. — Key takeaways: La carte est codée par couleurs : rouge foncé pour les toitures à fort potentiel de génération solaire, bleu foncé pour les moins propices ; Le potentiel est calculé sur la quantité de lumière reçue par les toitures sur l&#x27;ensemble d&#x27;une année ; Guernesey reçoit 30 à 35% plus d&#x27;ensoleillement que le Royaume-Uni en moyenne ; L&#x27;outil fournit une vérification indépendante permettant de comparer les devis d&#x27;installateurs ; Initiative portée par le Comité pour l&#x27;environnement et l&#x27;infrastructure en collaboration avec Little Green, fournisseur d&#x27;énergie renouvelable</description>
-        <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Pourquoi ce lieu situé dans le département de la Sarthe est volontairement flouté sur Google Maps ?</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260920-actu-sarthe-prison-google-maps-blurred.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260920-actu-sarthe-prison-google-maps-blurred.html</guid>
-        <description>Le centre pénitentiaire du Mans-Les Croisettes à Coulaines (Sarthe) est volontairement flouté sur la vue satellite de Google Maps, en application d&#x27;un arrêté français interdisant la captation aérienne de données sur les sites sensibles. — Key takeaways: Le centre pénitentiaire du Mans-Les Croisettes à Coulaines est flouté sur Google Maps en mode satellite ; Le floutage relève d&#x27;un arrêté du 22 janvier fixant la liste des zones interdites à la prise de vue aérienne (Zicad) ; Les bâtiments sensibles concernés incluent prisons, sites militaires stratégiques et Zicad ; Le but est d&#x27;empêcher les repérages ou actions malveillantes ; Les particuliers peuvent demander le floutage de leur résidence privée via Google Street View, mais pas via la vue satellite</description>
-        <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
     </item>
 
 </channel>
