@@ -19,12 +19,17 @@ Articles per month:
 2026-05 | ████████████████████████████████ 117<br>
 2026-07 | █████ 10<br>
 2026-08 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 267<br>
-2026-09 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 202<br>
+2026-09 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 207<br>
 ## Articles
 
 ### 2026
 
-#### September (202 articles)
+#### September (207 articles)
+- [Halifax's traffic problem is growing alongside South Dartmouth's neighbourhoods](src/2026-09/20260926-narcity-halifax-tomtom-traffic-index-canada-congestion.md)
+- [Mobile GIS Market Analysis: Growth Forecast 2026-2033](src/2026-09/20260926-openpr-mobile-gis-market-analysis-2026-2033.md)
+- [Chhattisgarh achieves 99.34% geo-tagging success under Bhu-Gram GIS initiative](src/2026-09/20260926-thehitavada-chhattisgarh-gis-geo-tagging-bhu-gram.md)
+- [Why Place Matters in Digital Health Communication](src/2026-09/20260926-gisuser-place-matters-digital-health-communication.md)
+- [Road Noise Immissions Now Available in the GIS Browser of the Canton of Zurich](src/2026-09/20260926-zhch-strassenlaerm-immissionen-gis-browser-zuerich.md)
 - [New map projections don't make the Mercator wrong](src/2026-09/20260925-guardian-new-map-projections-mercator-not-wrong.md)
 - [Apple Maps just added two new features in iOS 27](src/2026-09/20260925-9to5mac-apple-maps-ios-27-flyover-local-lists.md)
 - [Cette application de navigation chinoise fait bien mieux que Google Maps et Waze](src/2026-09/20260925-autoplus-amap-chinese-navigation-app-better-google-maps-waze.md)
