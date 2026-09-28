@@ -1,9 +1,54 @@
 {
   "site": "Mapping Forward",
   "url": "https://mappingforward.fr",
-  "generated": "2026-09-27T06:04:40.952187",
-  "article_count": 1020,
+  "generated": "2026-09-28T06:02:52.641955",
+  "article_count": 1025,
   "articles": [
+    {
+      "title": "Outcome of Digital Agriculture Initiatives: India Leverages GIS and AgriStack",
+      "url": "https://mappingforward.fr/articles/2026-09/20260927-pib-india-digital-agriculture-gis-agristack.html",
+      "date": "2026-09-27",
+      "source": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2225978",
+      "author": "Press Information Bureau, Government of India",
+      "keywords": "AgriStack, GIS, digital agriculture, Farmer ID, Digital Crop Survey, Krishi Decision Support System, geo-referenced village maps, India, drone, geospatial",
+      "elevator_pitch": "India's Ministry of Agriculture reports that its AgriStack digital public infrastructure — combining geo-referenced village maps, farmer registries, and crop sown registries — has generated over 8.48 crore Farmer IDs and surveyed 28.5 crore plots, while the Krishi Decision Support System uses GIS to integrate satellite imagery, weather, soil, and crop data for agricultural planning."
+    },
+    {
+      "title": "Uttarakhand CS Orders GIS Geo-Referencing of Water Supply Schemes After Jeolikote Contamination",
+      "url": "https://mappingforward.fr/articles/2026-09/20260927-garhwalpost-gis-water-supply-uttarakhand-jeolikote.html",
+      "date": "2026-09-27",
+      "source": "https://garhwalpost.in/cs-reviews-jeolikote-contaminated-water-supply-case-orders-system-overhaul/",
+      "author": "Garhwal Post Bureau",
+      "keywords": "GIS, geo-referencing, water supply, Uttarakhand, Jeolikote, mapping, Nainital, drinking water, infrastructure mapping",
+      "elevator_pitch": "Following a contaminated drinking water incident in Jeolikote, Nainital, Uttarakhand's Chief Secretary ordered GIS geo-referencing and geo mapping of all major water supply schemes across the state, including sources, storage, pipelines, sewer lines, and crossing points."
+    },
+    {
+      "title": "Google Maps' Ask Maps feature completely changed how I plan my road trips",
+      "url": "https://mappingforward.fr/articles/2026-09/20260927-androidpolice-ask-maps-road-trip-planning-gemini.html",
+      "date": "2026-09-27",
+      "source": "https://www.androidpolice.com/goolge-ask-maps-road-trip/",
+      "author": "Akshay Bhalla (Android Police)",
+      "keywords": "Google Maps, Ask Maps, Gemini, AI, road trip planning, navigation, conversational AI, Google Workspace",
+      "elevator_pitch": "Android Police's Akshay Bhalla reports that Google Maps' Gemini-powered Ask Maps feature transforms road trip planning from a multi-app, spreadsheet-heavy weekend task into a conversational experience that generates custom itineraries with scenic routes, food stops, and rest breaks based on personal preferences."
+    },
+    {
+      "title": "L'Uit et l'Artci renforcent les capacités en SIG et gestion des données en Côte d'Ivoire",
+      "url": "https://mappingforward.fr/articles/2026-09/20260927-fratmat-gis-training-uit-artci-cote-ivoire.html",
+      "date": "2026-09-27",
+      "source": "https://www.fratmat.info/article/2644800/economie/systemes-dinformation-geographique-et-la-gestion-des-donnees-luit-et-lartci-renforcent-leurs-capacites",
+      "author": "Patrick N'Guessan (FratMat)",
+      "keywords": "GIS, SIG, QGIS, PostgreSQL-PostGIS, GeoServer, UIT, ARTCI, Côte d'Ivoire, Africa-BB-Maps, broadband mapping, geospatial training, Abidjan",
+      "elevator_pitch": "The International Telecommunication Union (UIT) and Côte d'Ivoire's telecommunications regulator ARTCI organized a sub-regional GIS training in Abidjan (September 21-25, 2026) as part of the Africa-BB-Maps initiative, teaching experts from three countries to use QGIS, PostgreSQL-PostGIS, and GeoServer for broadband infrastructure mapping."
+    },
+    {
+      "title": "Accès à l'A8 depuis la promenade des Anglais à Nice : ce que révèlent les chiffres de TomTom",
+      "url": "https://mappingforward.fr/articles/2026-09/20260927-nicematin-tomtom-a8-congestion-nice-promenade-anglais.html",
+      "date": "2026-09-27",
+      "source": "https://www.nicematin.com/societe/vie-locale/acces-a-l-a8-depuis-la-promenade-des-anglais-a-nice-ce-que-revelent-les-chiffres-de-tomtom-10730460",
+      "author": "Nice-Matin",
+      "keywords": "TomTom, traffic congestion, Nice, A8, promenade des Anglais, Mercantour, Valéry-Giscard-d'Estaing, urban mobility, real-time traffic data",
+      "elevator_pitch": "TomTom traffic data reveals that the reopening of the A8 motorway entrance from Nice's promenade des Anglais via boulevard du Mercantour has worsened congestion by 20 percentage points compared to 2025, with peak congestion exceeding 200% in 2026 versus 165% the previous year."
+    },
     {
       "title": "Halifax's traffic problem is growing alongside South Dartmouth's neighbourhoods",
       "url": "https://mappingforward.fr/articles/2026-09/20260926-narcity-halifax-tomtom-traffic-index-canada-congestion.html",

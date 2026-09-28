@@ -6,7 +6,47 @@
     <description>Daily synthesis of articles on cartography, mapping, geospatial data, and geographic intelligence</description>
     <language>en</language>
     <atom:link href="https://mappingforward.fr/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 27 Sep 2026 06:04:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 06:02:52 +0000</lastBuildDate>
+
+    <item>
+        <title>Outcome of Digital Agriculture Initiatives: India Leverages GIS and AgriStack</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260927-pib-india-digital-agriculture-gis-agristack.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260927-pib-india-digital-agriculture-gis-agristack.html</guid>
+        <description>India&#x27;s Ministry of Agriculture reports that its AgriStack digital public infrastructure — combining geo-referenced village maps, farmer registries, and crop sown registries — has generated over 8.48 crore Farmer IDs and surveyed 28.5 crore plots, while the Krishi Decision Support System uses GIS to integrate satellite imagery, weather, soil, and crop data for agricultural planning. — Key takeaways: AgriStack consists of three foundational registries: Farmers Registry, Geo-Referenced Village Maps, and Crop Sown Registry, maintained by state governments ; Over 8.48 crore (84.8 million) Farmer IDs generated as of February 2026, enabling Direct Benefit Transfer integration ; Digital Crop Survey conducted in 604 districts covering 28.5 crore plots during Kharif 2025 ; Krishi Decision Support System is a geo-spatial platform using GIS to integrate satellite imagery, weather, soil, and crop data ; Maharashtra leveraged AgriStack to transfer over ₹14,000 crore to 89 lakh farmers for Kharif 2025 crop losses ; Chhattisgarh institutionalized Farmer ID and Digital Crop Survey for MSP-based paddy procurement covering 32 lakh farmers ; Namo Drone Didi scheme distributed 500 drones to women&#x27;s self-help groups, with study showing diversified agricultural practices</description>
+        <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Uttarakhand CS Orders GIS Geo-Referencing of Water Supply Schemes After Jeolikote Contamination</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260927-garhwalpost-gis-water-supply-uttarakhand-jeolikote.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260927-garhwalpost-gis-water-supply-uttarakhand-jeolikote.html</guid>
+        <description>Following a contaminated drinking water incident in Jeolikote, Nainital, Uttarakhand&#x27;s Chief Secretary ordered GIS geo-referencing and geo mapping of all major water supply schemes across the state, including sources, storage, pipelines, sewer lines, and crossing points. — Key takeaways: Chief Secretary Anand Bardhan directed geo mapping and GIS geo-referencing of all major water supply schemes across Uttarakhand ; The mapping must cover the entire network from source to consumer, including storage, pipeline, sewer line, and crossing points ; Physical verification of major water supply schemes must be completed within 15 days ; The order follows a contaminated drinking water incident in Jeolikote, Nainital ; CS expressed strong displeasure that despite a strong field network, information about contamination didn&#x27;t reach state level in time ; An effective information and feedback mechanism using field staff (teachers, patwaris, gram panchayat officials, tubewell operators) must be developed ; SOP for checking drinking water and sewerage lines to be prepared and strictly enforced</description>
+        <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Google Maps&#x27; Ask Maps feature completely changed how I plan my road trips</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260927-androidpolice-ask-maps-road-trip-planning-gemini.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260927-androidpolice-ask-maps-road-trip-planning-gemini.html</guid>
+        <description>Android Police&#x27;s Akshay Bhalla reports that Google Maps&#x27; Gemini-powered Ask Maps feature transforms road trip planning from a multi-app, spreadsheet-heavy weekend task into a conversational experience that generates custom itineraries with scenic routes, food stops, and rest breaks based on personal preferences. — Key takeaways: Ask Maps is a Gemini-powered conversational feature in Google Maps accessible below the search bar, using live data from 300+ million places, reviews, and photos ; The feature leverages users&#x27; saved places, food preferences, and past searches to generate personalized road trip itineraries ; Ask Maps can pull from Google Calendar and Gmail when Gemini is connected to Google Workspace via Personal Intelligence settings ; Responses include visual customized maps with photos, summaries of places with reviews, hours, and other details ; The chat can be shared with travel companions for real-time trip tracking, and adapts on the fly to weather changes or route preferences ; Conversation memory carries over like Gemini, so users don&#x27;t need to restart chats to modify itineraries</description>
+        <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>L&#x27;Uit et l&#x27;Artci renforcent les capacités en SIG et gestion des données en Côte d&#x27;Ivoire</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260927-fratmat-gis-training-uit-artci-cote-ivoire.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260927-fratmat-gis-training-uit-artci-cote-ivoire.html</guid>
+        <description>The International Telecommunication Union (UIT) and Côte d&#x27;Ivoire&#x27;s telecommunications regulator ARTCI organized a sub-regional GIS training in Abidjan (September 21-25, 2026) as part of the Africa-BB-Maps initiative, teaching experts from three countries to use QGIS, PostgreSQL-PostGIS, and GeoServer for broadband infrastructure mapping. — Key takeaways: UIT and ARTCI organized a sub-regional GIS training at Capitol Hôtel, Abidjan, September 21-25, 2026 ; The training is part of the Africa-BB-Maps initiative, co-piloted by UIT and funded by the EU through the &quot;Global Gateway&quot; strategy ; Participants came from Côte d&#x27;Ivoire, Benin, and Burundi, plus representatives from ARTAO (Association of West African Telecommunications Regulators) ; Technical tools covered include QGIS, PostgreSQL-PostGIS databases, and GeoServer platform ; The training followed a foundational session held in Cotonou, Benin, in June 2026 ; Objective: enable participants to map existing internet infrastructure locations and identify areas needing network improvements ; ARTCI has several years of expertise with its online cartography tool &quot;cartodonnees.artci.ci&quot;</description>
+        <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Accès à l&#x27;A8 depuis la promenade des Anglais à Nice : ce que révèlent les chiffres de TomTom</title>
+        <link>https://mappingforward.fr/articles/2026-09/20260927-nicematin-tomtom-a8-congestion-nice-promenade-anglais.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260927-nicematin-tomtom-a8-congestion-nice-promenade-anglais.html</guid>
+        <description>TomTom traffic data reveals that the reopening of the A8 motorway entrance from Nice&#x27;s promenade des Anglais via boulevard du Mercantour has worsened congestion by 20 percentage points compared to 2025, with peak congestion exceeding 200% in 2026 versus 165% the previous year. — Key takeaways: Since August 20, 2026, the Métropole Nice Côte d&#x27;Azur reopened the A8 entrance from the promenade des Anglais via boulevard du Mercantour, reversing Christian Estrosi&#x27;s 2025 closure ; TomTom data shows average congestion in the zone rose from 33.7% (2025) to 54.6% (2026) between August 20 and September 10 ; Peak congestion record in 2025 was 165%, while 2026 already exceeds 200% ; The busiest days remain Wednesdays, Thursdays, and Fridays, with the most congested hours between 16:00 and 19:00 ; Two-thirds of Nice-Matin readers favor making the access permanent, though many report worse traffic on avenue Valéry-Giscard-d&#x27;Estaing ; The experimental reopening runs until October 30, 2026, with the prefecture evaluating effects on traffic flow</description>
+        <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
 
     <item>
         <title>Halifax&#x27;s traffic problem is growing alongside South Dartmouth&#x27;s neighbourhoods</title>
@@ -365,46 +405,6 @@
         <link>https://mappingforward.fr/articles/2026-09/20260921-journaldugeek-gta6-dossier-complet.html</link>
         <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260921-journaldugeek-gta6-dossier-complet.html</guid>
         <description>Le dossier complet du Journal du Geek recense toutes les informations connues sur GTA 6 : la map de l&#x27;État de Leonida, les véhicules, la date de sortie, les précommandes et la soundtrack officielle. Le jeu, présenté en avant-première sur Netflix le 27 août 2026, est attendu pour fin 2026 sur PS5 et Xbox Series X/S. — Key takeaways: GTA 6 a été présenté en avant-première mondiale sur Netflix le 27 août 2026, attirant 4 millions de spectateurs en simultané ; La map se situe dans l&#x27;État fictif de Leonida, inspiré de la Floride, avec Vice City comme ville principale ; La soundtrack officielle propose 34 morceaux originaux (Yung Lean, Travis Scott, Fred again.., Keith Richards...) ; Le jeu sera optimisé PS5 Pro avec retours haptiques DualSense, audio 3D Tempest et quasi-zéro temps de chargement ; La carte recensée inclut 59 voitures, 22 SUV/pickup, 19 camions/vans/bus, 15 motos/quads, 19 bateaux, 8 hélicoptères, 4 avions</description>
-        <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Millénaire de Walcourt: dix soirs de spectacle, et ensuite?</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260921-lavenir-millenaire-walcourt-mapping-video.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260921-lavenir-millenaire-walcourt-mapping-video.html</guid>
-        <description>Le mapping vidéo projeté pendant dix soirées sur la basilique de Walcourt à l&#x27;occasion du millénaire de la commune a attiré entre 20 000 et 25 000 spectateurs. Les élus et commerçants veulent désormais capitaliser sur ce succès pour développer l&#x27;offre touristique et de restauration de l&#x27;entité. — Key takeaways: Le mapping projeté sur la place de la basilique de Walcourt a attiré 20 000 à 25 000 spectateurs en dix soirées ; Les qualificatifs étaient unanimes : &quot;merveilleux, splendide, émouvant, rassembleur&quot; ; Les commerçants locaux ont constaté une affluence importante et de nouveaux visiteurs découvrant la région ; L&#x27;office du tourisme souligne l&#x27;effet de notoriété : &quot;beaucoup ignoraient à quoi ressemblait Walcourt&quot; ; L&#x27;échevin Nicolas Preyat veut &quot;continuer à surfer sur la vague&quot; et augmenter l&#x27;offre Horeca ; La bourgmestre Christine Poulin insiste sur l&#x27;identité commune des seize villages de l&#x27;entité</description>
-        <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>HD Maps for Autonomous Vehicles: The Digital Infrastructure Powering Next-Gen Navigation</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260921-marketsandmarkets-hd-maps-autonomous-vehicles.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260921-marketsandmarkets-hd-maps-autonomous-vehicles.html</guid>
-        <description>Le marché mondial des HD maps (cartes haute définition) pour véhicules autonomes devrait passer de 1,34 milliard de dollars en 2026 à 2,43 milliards d&#x27;ici 2033, porté par la commercialisation des architectures de conduite de niveaux 2+, 3 et 4 et par la transition vers des infrastructures cartographiques dynamiques rafraîchies en continu dans le cloud. — Key takeaways: Le marché des HD maps devrait croître de 1,34 Md$ (2026) à 2,43 Md$ (2033), avec un TCAC de 8,9 % ; Les HD maps fournissent une fidélité spatiale au centimètre près, contre plusieurs mètres pour le GPS standard ; Trois couches structurelles : géométrique (3D/LiDAR), sémantique (lignes, restrictions, panneaux), et localisation (ancres environnementales) ; Une couche de mise à jour dynamique ingère les données crowdsourcées en temps réel (trafic, travaux, dangers) ; Les OEM automobiles passent des bases statiques vers des HD maps dynamiques rafraîchies par OTA ; L&#x27;architecture moderne intègre données cartographiques, positionnement local et unités ADAS dans des couches logicielles partagées</description>
-        <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>À Nice, le Meraki mise sur la projection vidéo sur table</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260921-lhotellerie-meraki-projection-video-sur-table-nice.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260921-lhotellerie-meraki-projection-video-sur-table-nice.html</guid>
-        <description>Le restaurant Meraki à Nice propose une expérience de projection vidéo sur table (&quot;vidéo mapping&quot;) depuis deux ans, offrant une immersion visuelle 3D pendant les repas. Le projet, réalisé par la société française Digital Essence, a coûté 40 000 euros et équipé trois tables de cette technologie. — Key takeaways: Le restaurant Meraki à Nice propose une expérience de projection vidéo sur table, concept découvert à Dubaï par la gérante Kalina Stoyanova ; Le projet a coûté 40 000 euros (matériel, création des vidéos, installation) et a duré un an ; Trois tables sont équipées : une de huit personnes et deux de cinq ; La technologie permet de personnaliser les vidéos pour des occasions spéciales (mariage, anniversaire) ; Le restaurant réalise 500 couverts par jour en période haute et 80 en hiver ; L&#x27;entreprise française Digital Essence assure le déploiement et la maintenance technique</description>
-        <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>It&#x27;s official: Mexico City&#x27;s traffic is the worst in the world</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260921-mexico-news-daily-tomtom-mexico-city-traffic-worst.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260921-mexico-news-daily-tomtom-mexico-city-traffic-worst.html</guid>
-        <description>Mexico City a été classée ville la plus congestionnée au monde en 2025 selon le TomTom Traffic Index, avec un niveau de congestion moyen de 75,9 %. Guadalajara se classe 17e au niveau mondial. L&#x27;indice TomTom calcule le niveau de congestion en comparant la vitesse du trafic à celle d&#x27;un trafic fluide. — Key takeaways: Mexico City occupe la première place mondiale pour la congestion en 2025 avec 75,9 % de niveau de congestion moyen ; Guadalajara se classe 17e au niveau mondial ; TomTom calcule la congestion en comparant le temps de trajet réel à celui d&#x27;un trafic fluide ; L&#x27;indice TomTom Traffic Index est une référence mondiale pour mesurer la congestion urbaine ; L&#x27;étude souligne l&#x27;impact du trafic sur la mobilité urbaine et la qualité de vie</description>
-        <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Voici pourquoi l&#x27;heure d&#x27;arrivée estimée est masquée sur Google Maps</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260921-vietnam-vn-google-maps-eta-masquee.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260921-vietnam-vn-google-maps-eta-masquee.html</guid>
-        <description>L&#x27;heure d&#x27;arrivée estimée (ETA) affichée par Google Maps utilise un système de codes couleurs pour indiquer la fiabilité de l&#x27;estimation, mais dans certains contextes cette information est masquée, laissant les conducteurs sans repère temporel précis. — Key takeaways: L&#x27;interface de navigation de Google Maps affiche l&#x27;heure d&#x27;arrivée estimée (ETA) à l&#x27;aide de codes couleurs ; Dans certaines situations, l&#x27;ETA est masquée, ce qui peut dérouter les utilisateurs ; Le système de codes couleurs fournit une indication sur le niveau de confiance de l&#x27;estimation ; Cette pratique illustre les choix d&#x27;interface de Google Maps entre transparence et simplicité</description>
         <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
     </item>
 
