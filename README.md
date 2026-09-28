@@ -19,12 +19,17 @@ Articles per month:
 2026-05 | ████████████████████████████████ 117<br>
 2026-07 | █████ 10<br>
 2026-08 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 267<br>
-2026-09 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 207<br>
+2026-09 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 212<br>
 ## Articles
 
 ### 2026
 
-#### September (207 articles)
+#### September (212 articles)
+- [L'Uit et l'Artci renforcent les capacités en SIG et gestion des données en Côte d'Ivoire](src/2026-09/20260927-fratmat-gis-training-uit-artci-cote-ivoire.md)
+- [Uttarakhand CS Orders GIS Geo-Referencing of Water Supply Schemes After Jeolikote Contamination](src/2026-09/20260927-garhwalpost-gis-water-supply-uttarakhand-jeolikote.md)
+- [Outcome of Digital Agriculture Initiatives: India Leverages GIS and AgriStack](src/2026-09/20260927-pib-india-digital-agriculture-gis-agristack.md)
+- [Accès à l'A8 depuis la promenade des Anglais à Nice : ce que révèlent les chiffres de TomTom](src/2026-09/20260927-nicematin-tomtom-a8-congestion-nice-promenade-anglais.md)
+- [Google Maps' Ask Maps feature completely changed how I plan my road trips](src/2026-09/20260927-androidpolice-ask-maps-road-trip-planning-gemini.md)
 - [Halifax's traffic problem is growing alongside South Dartmouth's neighbourhoods](src/2026-09/20260926-narcity-halifax-tomtom-traffic-index-canada-congestion.md)
 - [Mobile GIS Market Analysis: Growth Forecast 2026-2033](src/2026-09/20260926-openpr-mobile-gis-market-analysis-2026-2033.md)
 - [Chhattisgarh achieves 99.34% geo-tagging success under Bhu-Gram GIS initiative](src/2026-09/20260926-thehitavada-chhattisgarh-gis-geo-tagging-bhu-gram.md)
