@@ -19,12 +19,19 @@ Articles per month:
 2026-05 | ████████████████████████████████ 117<br>
 2026-07 | █████ 10<br>
 2026-08 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 267<br>
-2026-09 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 212<br>
+2026-09 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 219<br>
 ## Articles
 
 ### 2026
 
-#### September (212 articles)
+#### September (219 articles)
+- [Nizozemska navigacija: The TomTom Story from Palmtop to Global Mapping Giant](src/2026-09/20260928-monitor-tomtom-history-nizozemska-navigacija.md)
+- [People in Malta Lost Over Four Days in Traffic Last Year, TomTom Traffic Index Reveals](src/2026-09/20260928-lovinmalta-tomtom-traffic-index-malta-congestion.md)
+- [How to Improve CarPlay Navigation If You Use Google Maps Over Apple Maps](src/2026-09/20260928-engadget-carplay-google-maps-navigation-tips.md)
+- [Updated Google Maps Satellite Images Reveal Gaza's Destruction](src/2026-09/20260928-ndtv-google-maps-satellite-gaza-destruction.md)
+- [ChatGPT Maps arrive en France pour concurrencer Google Maps](src/2026-09/20260928-frandroid-chatgpt-maps-france-google-maps-openai.md)
+- [Bientôt, vous ne voudrez plus utiliser Waze ou Google Maps dans votre BMW](src/2026-09/20260928-autofans-bmw-maps-waze-google-maps-navigation-integree.md)
+- [Le «Google Maps» antique qui montre que tous les chemins ne menaient pas à Rome](src/2026-09/20260928-lefigaro-google-maps-antique-voies-romaines-empire-romain.md)
 - [L'Uit et l'Artci renforcent les capacités en SIG et gestion des données en Côte d'Ivoire](src/2026-09/20260927-fratmat-gis-training-uit-artci-cote-ivoire.md)
 - [Uttarakhand CS Orders GIS Geo-Referencing of Water Supply Schemes After Jeolikote Contamination](src/2026-09/20260927-garhwalpost-gis-water-supply-uttarakhand-jeolikote.md)
 - [Outcome of Digital Agriculture Initiatives: India Leverages GIS and AgriStack](src/2026-09/20260927-pib-india-digital-agriculture-gis-agristack.md)
