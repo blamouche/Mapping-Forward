@@ -1,9 +1,72 @@
 {
   "site": "Mapping Forward",
   "url": "https://mappingforward.fr",
-  "generated": "2026-09-28T06:02:52.641955",
-  "article_count": 1025,
+  "generated": "2026-09-29T06:06:52.563229",
+  "article_count": 1032,
   "articles": [
+    {
+      "title": "Nizozemska navigacija: The TomTom Story from Palmtop to Global Mapping Giant",
+      "url": "https://mappingforward.fr/articles/2026-09/20260928-monitor-tomtom-history-nizozemska-navigacija.html",
+      "date": "2026-09-28",
+      "source": "https://www.monitor.si/clanek/nizozemska-navigacija-tom-tom/251593/",
+      "author": "Monitor (Slovenia)",
+      "keywords": "TomTom, navigation, history, Palmtop Software, Harold Goddijn, Corinne Vigreux, GPS, TomTom GO, TomTom Traffic, digital cartography, autonomous driving, Uber",
+      "elevator_pitch": "Le magazine slovène Monitor retrace l'histoire complète de TomTom, depuis ses origines comme Palmtop Software dans les années 1990 jusqu'à sa transformation en fournisseur mondial de données de localisation, en passant par l'icône TomTom GO qui a créé la catégorie des navigateurs portables et la transition difficile vers l'ère des smartphones."
+    },
+    {
+      "title": "Bientôt, vous ne voudrez plus utiliser Waze ou Google Maps dans votre BMW",
+      "url": "https://mappingforward.fr/articles/2026-09/20260928-autofans-bmw-maps-waze-google-maps-navigation-integree.html",
+      "date": "2026-09-28",
+      "source": "https://autofans.be/fr/actualites/technologie/61554-bientot-vous-ne-voudrez-plus-utiliser-waze-ou-google-maps-dans-votre-bmw",
+      "author": "Joram Van Acker (Autofans)",
+      "keywords": "BMW Maps, navigation automobile, Waze, Google Maps, infodivertissement, conduite autonome, Mapbox, aide à la conduite, BMW Operating System X",
+      "elevator_pitch": "BMW Maps reçoit en octobre 2026 une mise à jour majeure qui intègre navigation, reconnaissance de l'environnement et état des systèmes d'assistance dans une vue 3D unifiée, offrant un niveau d'information que ni Waze ni Google Maps ne peuvent égaler sur l'écran d'infodivertissement."
+    },
+    {
+      "title": "People in Malta Lost Over Four Days in Traffic Last Year, TomTom Traffic Index Reveals",
+      "url": "https://mappingforward.fr/articles/2026-09/20260928-lovinmalta-tomtom-traffic-index-malta-congestion.html",
+      "date": "2026-09-28",
+      "source": "https://lovinmalta.com/news/local/people-in-malta-lost-over-four-days-in-traffic-last-year-and-this-was-the-absolute-worst-day-to-be-on-the-roads/",
+      "author": "Lovin Malta",
+      "keywords": "TomTom, Traffic Index, Malta, Valletta, congestion, Floating Car Data, GPS, traffic, rush hour",
+      "elevator_pitch": "Le TomTom Traffic Index 2025 révèle que les automobilistes maltais ont perdu plus de quatre jours en embouteillages sur l'année, avec un pic de congestion à 98% le lundi 13 octobre 2025, marquant une détérioration de plus de quatre heures par rapport à 2024."
+    },
+    {
+      "title": "Updated Google Maps Satellite Images Reveal Gaza's Destruction",
+      "url": "https://mappingforward.fr/articles/2026-09/20260928-ndtv-google-maps-satellite-gaza-destruction.html",
+      "date": "2026-09-28",
+      "source": "https://www.ndtv.com/world-news/hard-to-look-at-updated-google-maps-images-reveal-gazas-destruction-12107497",
+      "author": "NDTV",
+      "keywords": "Google Maps, satellite imagery, Gaza, destruction, conflict mapping, Khan Younis, Rafah, UN report, humanitarian crisis",
+      "elevator_pitch": "Google Maps a mis à jour ses images satellites de Gaza fin septembre 2026, révélant l'ampleur des destructions avec des quartiers entiers aplatis et recouverts de gravats, tandis que les marqueurs de lieux (écoles, mosquées, restaurants) persistent sur des bâtiments qui n'existent plus."
+    },
+    {
+      "title": "How to Improve CarPlay Navigation If You Use Google Maps Over Apple Maps",
+      "url": "https://mappingforward.fr/articles/2026-09/20260928-engadget-carplay-google-maps-navigation-tips.html",
+      "date": "2026-09-28",
+      "source": "https://www.engadget.com/2267714/how-to-improve-carplay-navigation-use-google-maps-not-apple-maps/",
+      "author": "Engadget",
+      "keywords": "CarPlay, Google Maps, Apple Maps, navigation, iPhone, Siri, default apps, EU, Japan, offline maps, widgets",
+      "elevator_pitch": "Engadget détaille plusieurs astuces pour optimiser l'expérience Google Maps sur Apple CarPlay, du réglage de l'application de navigation par défaut disponible dans l'UE et au Japon à l'ajout de widgets et de favoris, comblant les limitations imposées par Apple."
+    },
+    {
+      "title": "Le «Google Maps» antique qui montre que tous les chemins ne menaient pas à Rome",
+      "url": "https://mappingforward.fr/articles/2026-09/20260928-lefigaro-google-maps-antique-voies-romaines-empire-romain.html",
+      "date": "2026-09-28",
+      "source": "https://www.lefigaro.fr/sciences/le-google-maps-antique-qui-montre-que-tous-les-chemins-ne-menaient-pas-a-rome-20260928",
+      "author": "Vincent Bordenave (Le Figaro)",
+      "keywords": "Roman Empire, road network, digital mapping, Table de Peutinger, archaeology, cartography, Nature Communications, Scientific Data, historical GIS",
+      "elevator_pitch": "Une équipe scientifique publie dans Nature Communications une analyse approfondie de la structure du réseau routier de l'Empire romain à son apogée, fruit d'un travail colossal croisant sources écrites — dont la table de Peutinger — et données archéologiques, révélant une organisation plus complexe qu'attendu entre planification impériale et héritages locaux."
+    },
+    {
+      "title": "ChatGPT Maps arrive en France pour concurrencer Google Maps",
+      "url": "https://mappingforward.fr/articles/2026-09/20260928-frandroid-chatgpt-maps-france-google-maps-openai.html",
+      "date": "2026-09-28",
+      "source": "https://www.frandroid.com/marques/openai/3262407_chatgpt-maps-une-nouvelle-facon-de-chercher-un-lieu-en-france-face-a-google-maps-et-apple-plans",
+      "author": "Ulrich Rozier (Frandroid), Maurine Briantais (CommentCaMarche), Amani Belkahla (CNET France)",
+      "keywords": "ChatGPT Maps, OpenAI, Google Maps, Mapbox, OpenStreetMap, recherche locale, RGPD, publicité, France, Union européenne",
+      "elevator_pitch": "OpenAI a déployé ChatGPT Maps en France et dans l'Union européenne durant l'été 2026, permettant aux utilisateurs de rechercher restaurants, musées et commerces sur une carte interactive directement dans la conversation, mais sans navigation temps réel ni trafic — des fonctionnalités que Google Maps conserve en exclusivité."
+    },
     {
       "title": "Outcome of Digital Agriculture Initiatives: India Leverages GIS and AgriStack",
       "url": "https://mappingforward.fr/articles/2026-09/20260927-pib-india-digital-agriculture-gis-agristack.html",
