@@ -19,12 +19,19 @@ Articles per month:
 2026-05 | ████████████████████████████████ 117<br>
 2026-07 | █████ 10<br>
 2026-08 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 267<br>
-2026-09 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 219<br>
+2026-09 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 226<br>
 ## Articles
 
 ### 2026
 
-#### September (219 articles)
+#### September (226 articles)
+- [La CHD Map est en ligne ! Une carte interactive de l'action humanitaire française](src/2026-09/20260929-coordinationsud-chd-map-humanitaire-interactive.md)
+- [What Major Events Reveal About a City's Mobility System](src/2026-09/20260929-tomtom-major-events-city-mobility-system.md)
+- [TomTom's Poomalai: Geospatial Data Can Help P&C Carriers Sharpen Risk Selection and Cut Loss Ratios](src/2026-09/20260929-theinsurer-tomtom-poomalai-geospatial-insurance.md)
+- [Tankrabatt 2026: Wer wirklich profitiert — und warum die Kritik falsch ist](src/2026-09/20260929-freitag-tankrabatt-2026-tomtom-verkehrsdaten.md)
+- [I Tested Google Maps Immersive Navigation for 2 Weeks — and It Makes Seeing Tricky Exits a Breeze](src/2026-09/20260929-tomsguide-google-maps-immersive-navigation-carplay-android-auto.md)
+- [Gaza Before and After: New Google Maps Imagery Shows Destruction of the Strip](src/2026-09/20260929-elpais-gaza-before-after-google-maps-satellite-imagery.md)
+- [How Does Toyota's Navigation App Compare to Google Maps?](src/2026-09/20260929-bgr-toyota-drive-connect-vs-google-maps-navigation.md)
 - [Nizozemska navigacija: The TomTom Story from Palmtop to Global Mapping Giant](src/2026-09/20260928-monitor-tomtom-history-nizozemska-navigacija.md)
 - [People in Malta Lost Over Four Days in Traffic Last Year, TomTom Traffic Index Reveals](src/2026-09/20260928-lovinmalta-tomtom-traffic-index-malta-congestion.md)
 - [How to Improve CarPlay Navigation If You Use Google Maps Over Apple Maps](src/2026-09/20260928-engadget-carplay-google-maps-navigation-tips.md)
