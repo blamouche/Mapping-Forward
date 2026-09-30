@@ -1,9 +1,72 @@
 {
   "site": "Mapping Forward",
   "url": "https://mappingforward.fr",
-  "generated": "2026-09-29T06:06:52.563229",
-  "article_count": 1032,
+  "generated": "2026-09-30T06:07:58.421412",
+  "article_count": 1039,
   "articles": [
+    {
+      "title": "TomTom's Poomalai: Geospatial Data Can Help P&C Carriers Sharpen Risk Selection and Cut Loss Ratios",
+      "url": "https://mappingforward.fr/articles/2026-09/20260929-theinsurer-tomtom-poomalai-geospatial-insurance.html",
+      "date": "2026-09-29",
+      "source": "https://www.theinsurer.com/tv/close-quarter/tomtoms-poomalai-geospatial-data-can-help-pc-carriers-sharpen-risk-selection-cut-2026-09-29/",
+      "author": "The Insurer",
+      "keywords": "TomTom, geospatial data, insurance, P&C carriers, risk modeling, loss ratios, claims validation, AI agents, auto insurance, commercial fleet, Vinod Poomalai, telematics, real-time traffic data",
+      "elevator_pitch": "Dans une interview accordée à The Insurer TV, Vinod Poomalai, head of insurtech product marketing chez TomTom, explique comment les données géospatiales de TomTom aident les assureurs non-vie à affiner leur modélisation des risques, valider les sinistres et réduire les ratios de perte. L'article couvre les cas d'usage en assurance automobile et habitation, l'utilisation d'agents IA pour la validation des sinistres, et le passage de modèles statiques territoriaux à des données dynamiques en temps réel."
+    },
+    {
+      "title": "La CHD Map est en ligne ! Une carte interactive de l'action humanitaire française",
+      "url": "https://mappingforward.fr/articles/2026-09/20260929-coordinationsud-chd-map-humanitaire-interactive.html",
+      "date": "2026-09-29",
+      "source": "https://www.coordinationsud.org/actualite/la-chd-map-est-en-ligne/",
+      "author": "Coordination SUD",
+      "keywords": "CHD Map, Coordination SUD, carte interactive, humanitaire, développement, CartONG, NGOs, transparence, coordination, 93 pays, 61 organisations",
+      "elevator_pitch": "La Coordination Humanitaire et Développement (CHD), collectif de Coordination SUD, lance la CHD Map, une carte interactive en accès libre qui recense les pays d'intervention de ses 61 organisations membres — 93 pays et 783 actions au total. Développée avec l'expertise de CartONG, la carte offre deux modes d'exploration (par organisation ou par pays) et vise à faciliter la transparence et les synergies entre acteurs de la solidarité internationale."
+    },
+    {
+      "title": "Tankrabatt 2026: Wer wirklich profitiert — und warum die Kritik falsch ist",
+      "url": "https://mappingforward.fr/articles/2026-09/20260929-freitag-tankrabatt-2026-tomtom-verkehrsdaten.html",
+      "date": "2026-09-29",
+      "source": "https://www.freitag.de/autoren/maurice-hoefgen/tankrabatt-2026-wer-wirklich-profitiert-und-warum-die-kritik-falsch-ist",
+      "author": "Maurice Hoefgen, der Freitag",
+      "keywords": "Tankrabatt, Germany, fuel subsidy, TomTom traffic data, Verkehrdaten, mobility policy, climate, RWTH Aachen, Ifo-Institut, ZEW, Bundeskartellamt",
+      "elevator_pitch": "Le magazine allemand der Freitag publie une analyse défendant le bien-fondé du « Tankrabatt 2026 » (rabais sur les carburants) contre ses critiques. L'auteur s'appuie notamment sur des études du Ifo-Institut, du ZEW et du Bundeskartellamt, ainsi que sur des données de trafic anonymisées de TomTom, pour démontrer que le rabais a été effectivement transmis aux consommateurs, n'est pas nuisible au climat, et réduit même — marginalement — les inégalités de revenus."
+    },
+    {
+      "title": "What Major Events Reveal About a City's Mobility System",
+      "url": "https://mappingforward.fr/articles/2026-09/20260929-tomtom-major-events-city-mobility-system.html",
+      "date": "2026-09-29",
+      "source": "https://www.tomtom.com/newsroom/explainers-and-insights/what-major-events-reveal-about-a-city-s-mobility-system",
+      "author": "Snigdha Bansal, TomTom Newsroom",
+      "keywords": "TomTom, mobility, major events, World Cup, traffic congestion, city planning, AECOM, Paris Olympics 2024, traffic index, real-time data, multi-modal transport, event traffic management",
+      "elevator_pitch": "TomTom publie une analyse approfondie sur la manière dont les grands événements (Coupe du Monde, Jeux Olympiques, festivals) servent de test de résistance pour les systèmes de mobilité urbaine. L'article s'appuie sur des données de trafic réelles — notamment une prédiction de congestion validée lors de la finale de la Coupe du Monde 2026 — pour montrer comment ces événements révèlent les failles du réseau et créent des opportunités d'amélioration durable, avec des leçons tirées de Paris 2024 et de la gestion du trafic à Miami."
+    },
+    {
+      "title": "Gaza Before and After: New Google Maps Imagery Shows Destruction of the Strip",
+      "url": "https://mappingforward.fr/articles/2026-09/20260929-elpais-gaza-before-after-google-maps-satellite-imagery.html",
+      "date": "2026-09-29",
+      "source": "https://english.elpais.com/international/2026-09-29/gaza-before-and-after-new-google-maps-imagery-shows-destruction-of-the-strip.html",
+      "author": "José A. Álvarez and Laura Navarro, EL PAÍS",
+      "keywords": "Google Maps, Gaza, satellite imagery, destruction, UNOSAT, Tel al-Sultan, Gaza City, Al-Shifa Hospital, Rimal, Apple Maps, displacement, infrastructure damage",
+      "elevator_pitch": "EL PAÍS publie une analyse détaillée quartier par quartier des nouvelles images satellites de Google Maps sur la bande de Gaza, mises à jour avec des photos de février 2026. L'article contraste les images précédentes (2024, 2025) avec les plus récentes pour documenter l'ampleur des destructions — du village suédois disparu près de la frontière égyptienne aux ruines de l'hôpital Al-Shifa et du quartier de Rimal à Gaza City — et souligne que Google Maps a franchi un pas qu'Apple Maps n'a pas encore fait."
+    },
+    {
+      "title": "How Does Toyota's Navigation App Compare to Google Maps?",
+      "url": "https://mappingforward.fr/articles/2026-09/20260929-bgr-toyota-drive-connect-vs-google-maps-navigation.html",
+      "date": "2026-09-29",
+      "source": "https://www.bgr.com/2267326/how-does-toyota-navigation-app-compare-to-google-maps/",
+      "author": "Talia Roepel, BGR (with Vietnam.vn / DTTC)",
+      "keywords": "Toyota, Drive Connect, Google Maps, navigation, Connected Services, CarPlay, Android Auto, Gemini, AI assistant, subscription, embedded navigation, multimodal transport",
+      "elevator_pitch": "BGR et Vietnam.vn comparent Toyota Drive Connect, le système de navigation embarqué de Toyota, à Google Maps. Drive Connect offre une intégration profonde avec le véhicule, un assistant IA et un agent humain en direct, mais coûte environ 15$/mois et est limité à l'écosystème Toyota/Lexus. Google Maps reste gratuit, multimodal et universel, avec l'IA Gemini intégrée. Les deux plateformes répondent à des besoins différents plutôt qu'à une concurrence directe."
+    },
+    {
+      "title": "I Tested Google Maps Immersive Navigation for 2 Weeks — and It Makes Seeing Tricky Exits a Breeze",
+      "url": "https://mappingforward.fr/articles/2026-09/20260929-tomsguide-google-maps-immersive-navigation-carplay-android-auto.html",
+      "date": "2026-09-29",
+      "source": "https://www.tomsguide.com/vehicle-tech/i-tested-google-maps-immersive-navigation-for-2-weeks-and-it-makes-seeing-tricky-exits-a-breeze-on-apple-carplay-and-android-auto",
+      "author": "John Velasco, Tom's Guide",
+      "keywords": "Google Maps, Immersive Navigation, 3D maps, Apple CarPlay, Android Auto, smart zoom, depth rendering, navigation, highway exits, lane guidance, real-time traffic",
+      "elevator_pitch": "Un rédacteur de Tom's Guide a testé la nouvelle navigation immersive de Google Maps pendant deux semaines sur Apple CarPlay et Android Auto. Le résultat : le rendu 3D avec profondeur réelle et le zoom intelligent dynamique transforment l'expérience de navigation, rendant les sorties d'autoroute complexes et les échangeurs multicouches beaucoup plus intuitifs, au point de devenir un « game-changer » impossible à abandonner."
+    },
     {
       "title": "Nizozemska navigacija: The TomTom Story from Palmtop to Global Mapping Giant",
       "url": "https://mappingforward.fr/articles/2026-09/20260928-monitor-tomtom-history-nizozemska-navigacija.html",
