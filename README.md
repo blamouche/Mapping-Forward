@@ -20,9 +20,18 @@ Articles per month:
 2026-07 | █████ 10<br>
 2026-08 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 267<br>
 2026-09 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 226<br>
+2026-10 | ▌ 6<br>
 ## Articles
 
 ### 2026
+
+#### October (6 articles)
+- [TomTom Brings Location Intelligence to Microsoft Fabric](src/2026-10/20261001-tomtom-location-intelligence-microsoft-fabric.md)
+- [Here's What Stops Working When You Use Google Maps Offline](src/2026-10/20261001-bgr-google-maps-offline-what-works-without-internet.md)
+- [« Map patou » : l'outil pour repérer les chiens de protection intègre les Hautes-Alpes](src/2026-10/20261001-ledauphine-map-patou-chiens-protection-hautes-alpes.md)
+- [Navigation App Poll 2026: HERE Maps Overtakes Google Maps in Romanian Survey](src/2026-10/20261001-arenait-navigation-app-poll-2026-here-maps-overtakes-google.md)
+- [Learn About Geographic Information Systems (GIS) From a Panel of Experts](src/2026-10/20261001-jonpeddie-gis-panel-experts-siggraph.md)
+- [Geographic Information System Market to Reach USD 31.8 Billion by 2031](src/2026-10/20261001-einnews-gis-market-31-8-billion-2031-mordor.md)
 
 #### September (226 articles)
 - [La CHD Map est en ligne ! Une carte interactive de l'action humanitaire française](src/2026-09/20260929-coordinationsud-chd-map-humanitaire-interactive.md)
