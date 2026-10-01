@@ -1,9 +1,63 @@
 {
   "site": "Mapping Forward",
   "url": "https://mappingforward.fr",
-  "generated": "2026-09-30T06:07:58.421412",
-  "article_count": 1039,
+  "generated": "2026-10-01T06:09:00.239747",
+  "article_count": 1045,
   "articles": [
+    {
+      "title": "Learn About Geographic Information Systems (GIS) From a Panel of Experts",
+      "url": "https://mappingforward.fr/articles/2026-10/20261001-jonpeddie-gis-panel-experts-siggraph.html",
+      "date": "2026-09-30",
+      "source": "https://www.jonpeddie.com/news/learn-about-geographic-information-systems-gis-from-a-panel-of-experts/",
+      "author": "Jon Peddie Research",
+      "keywords": "GIS, geographic information systems, ACM, Siggraph, panel discussion, 3D visualization, spatial data, cartography",
+      "elevator_pitch": "L'ACM/Siggraph Pioneers organise un panel de discussion en ligne sur les systèmes d'information géographique (SIG), prévu le 14 octobre. Le panel explorera comment le GIS combine géographie, données, calcul et visualisation pour permettre de poser des questions sur le monde et d'en voir les réponses spatialement, y compris des représentations 3D de villes, de terrains et d'océans entiers."
+    },
+    {
+      "title": "Here's What Stops Working When You Use Google Maps Offline",
+      "url": "https://mappingforward.fr/articles/2026-10/20261001-bgr-google-maps-offline-what-works-without-internet.html",
+      "date": "2026-09-30",
+      "source": "https://www.bgr.com/2268815/google-maps-offline-what-works-without-internet/",
+      "author": "Jules Wang, BGR",
+      "keywords": "Google Maps, offline maps, navigation, Android Auto, CarPlay, transit, cycling, walking, traffic data, POI",
+      "elevator_pitch": "BGR publie un guide détaillé sur les fonctionnalités de Google Maps qui cessent de fonctionner hors ligne. Si les cartes téléchargées permettent la navigation turn-by-turn en voiture dans une zone sauvegardée, plusieurs fonctions essentielles disparaissent : données de trafic en temps réel, déviations proactives, indicateurs d'affluence des commerces, navigation à pied/à vélo/en transports en commun, et accès aux photos et avis des points d'intérêt."
+    },
+    {
+      "title": "TomTom Brings Location Intelligence to Microsoft Fabric",
+      "url": "https://mappingforward.fr/articles/2026-10/20261001-tomtom-location-intelligence-microsoft-fabric.html",
+      "date": "2026-09-30",
+      "source": "https://www.tomtom.com/newsroom/press-releases/general/224935140570399/tomtom-brings-location-intelligence-to-microsoft-fabric/",
+      "author": "TomTom Newsroom",
+      "keywords": "TomTom, Microsoft Fabric, Microsoft Foundry, IQ Sharing, location intelligence, AI agents, Overture Maps, geospatial data, interoperability, open standards",
+      "elevator_pitch": "TomTom élargit sa collaboration avec Microsoft en apportant son intelligence de localisation aux agents IA construits sur Microsoft Fabric et Microsoft Foundry, grâce à la fonctionnalité IQ Sharing de Microsoft actuellement en préversion. Cette intégration permet aux agents IA d'accéder au contexte géospatial de TomTom, construit sur Overture Maps et des standards ouverts, pour répondre à des questions sur les flux de marchandises, la pression sur les infrastructures ou la concentration des risques."
+    },
+    {
+      "title": "Geographic Information System Market to Reach USD 31.8 Billion by 2031",
+      "url": "https://mappingforward.fr/articles/2026-10/20261001-einnews-gis-market-31-8-billion-2031-mordor.html",
+      "date": "2026-09-30",
+      "source": "https://tech.einnews.com/pr_news/946063758/geographic-information-system-market-to-reach-usd-31-8-billion-by-2031-reports-mordor-intelligence",
+      "author": "EIN News / Mordor Intelligence",
+      "keywords": "GIS market, market forecast, CAGR, smart cities, cloud GIS, mobile data collection, geospatial industry, market analysis",
+      "elevator_pitch": "Le marché des systèmes d'information géographique (SIG) devrait atteindre 31,8 milliards de dollars d'ici 2031, avec un taux de croissance annuel composé (TCAC) de 13,94%. Cette croissance est stimulée par le déploiement de villes intelligentes, le GIS cloud, la collecte de données mobiles et l'intégration croissante des technologies géospatiales dans les processus décisionnels publics et privés."
+    },
+    {
+      "title": "Navigation App Poll 2026: HERE Maps Overtakes Google Maps in Romanian Survey",
+      "url": "https://mappingforward.fr/articles/2026-10/20261001-arenait-navigation-app-poll-2026-here-maps-overtakes-google.html",
+      "date": "2026-09-30",
+      "source": "https://arenait.ro/rezultate-sondaj-program-navigatie-folositi-2026/",
+      "author": "Cristian Răducă, Arena IT",
+      "keywords": "HERE Maps, Google Maps, Waze, navigation apps, survey, navigation preferences, offline navigation, Sygic",
+      "elevator_pitch": "Le sondage annuel d'Arena IT sur les préférences en matière d'applications de navigation révèle une surprise en 2026 : HERE Maps a dépassé Google Maps avec 29% des voix contre 26%. Waze reste en tête avec environ 35%. Aucune autre solution ne dépasse le seuil de 5%. Le sondage souligne la pertinence européenne de HERE Maps, notamment dans le secteur automobile."
+    },
+    {
+      "title": "« Map patou » : l'outil pour repérer les chiens de protection intègre les Hautes-Alpes",
+      "url": "https://mappingforward.fr/articles/2026-10/20261001-ledauphine-map-patou-chiens-protection-hautes-alpes.html",
+      "date": "2026-09-30",
+      "source": "https://www.ledauphine.com/economie/2026/09/30/map-patou-l-outil-pour-reperer-les-chiens-de-protection-integre-les-hautes-alpes",
+      "author": "Le Dauphiné Libéré",
+      "keywords": "Map patou, chiens de protection, pastoralisme, Hautes-Alpes, Buëch-Dévoluy, carte interactive, GIS, pastoralisme de montagne, prédation",
+      "elevator_pitch": "La carte interactive « Map patou », qui recense les alpages où des chiens de protection de troupeaux sont potentiellement présents, s'étend aux Hautes-Alpes. La communauté de communes Buëch-Dévoluy a intégré l'outil à la fin de l'été 2026, et une action collective se met en place pour recenser les chiens et informer les usagers de la montagne."
+    },
     {
       "title": "TomTom's Poomalai: Geospatial Data Can Help P&C Carriers Sharpen Risk Selection and Cut Loss Ratios",
       "url": "https://mappingforward.fr/articles/2026-09/20260929-theinsurer-tomtom-poomalai-geospatial-insurance.html",

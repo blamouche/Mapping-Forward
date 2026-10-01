@@ -6,7 +6,55 @@
     <description>Daily synthesis of articles on cartography, mapping, geospatial data, and geographic intelligence</description>
     <language>en</language>
     <atom:link href="https://mappingforward.fr/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 30 Sep 2026 06:07:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 06:09:00 +0000</lastBuildDate>
+
+    <item>
+        <title>Learn About Geographic Information Systems (GIS) From a Panel of Experts</title>
+        <link>https://mappingforward.fr/articles/2026-10/20261001-jonpeddie-gis-panel-experts-siggraph.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261001-jonpeddie-gis-panel-experts-siggraph.html</guid>
+        <description>L&#x27;ACM/Siggraph Pioneers organise un panel de discussion en ligne sur les systèmes d&#x27;information géographique (SIG), prévu le 14 octobre. Le panel explorera comment le GIS combine géographie, données, calcul et visualisation pour permettre de poser des questions sur le monde et d&#x27;en voir les réponses spatialement, y compris des représentations 3D de villes, de terrains et d&#x27;océans entiers. — Key takeaways: L&#x27;ACM/Siggraph Pioneers organise un panel web sur les SIG le 14 octobre à 13h00 ; Le GIS est défini comme une information informatique ayant une localisation spécifique sur Terre — une carte qui « sait des choses » ; Contrairement à une carte traditionnelle, un SIG connecte des localisations à de grandes quantités d&#x27;informations supplémentaires, combinant géographie + données + calcul + visualisation ; Les systèmes modernes peuvent construire des représentations tridimensionnelles de villes, de terrains, de bâtiments, d&#x27;océans et de régions entières ; L&#x27;événement s&#x27;adresse à ceux qui souhaitent comprendre les fondements et les applications du GIS</description>
+        <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Here&#x27;s What Stops Working When You Use Google Maps Offline</title>
+        <link>https://mappingforward.fr/articles/2026-10/20261001-bgr-google-maps-offline-what-works-without-internet.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261001-bgr-google-maps-offline-what-works-without-internet.html</guid>
+        <description>BGR publie un guide détaillé sur les fonctionnalités de Google Maps qui cessent de fonctionner hors ligne. Si les cartes téléchargées permettent la navigation turn-by-turn en voiture dans une zone sauvegardée, plusieurs fonctions essentielles disparaissent : données de trafic en temps réel, déviations proactives, indicateurs d&#x27;affluence des commerces, navigation à pied/à vélo/en transports en commun, et accès aux photos et avis des points d&#x27;intérêt. — Key takeaways: Les cartes hors ligne de Google Maps permettent la navigation turn-by-turn en voiture dans la zone sauvegardée, mais pas pour les transports en commun, le vélo ou la marche ; Les données de trafic en temps réel, les déviations proactives et les indicateurs d&#x27;affluence des commerces ne sont pas disponibles hors ligne ; Les intégrations avec les applications de vélo en libre-service et de VTC ne fonctionnent pas non plus ; Les points d&#x27;intérêt restent visibles mais sans avis, photos ni Google Street View ; Les cartes hors ligne peuvent couvrir jusqu&#x27;à 150 miles de latitude sur 300 miles de longitude, suffisamment pour plusieurs excursions ; Le filtrage des itinéraires sans péage, sans autoroute et avec priorité HOV reste disponible hors ligne ; Les temps de trajet affichés sont des estimations basées sur des conditions de trafic fluide</description>
+        <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>TomTom Brings Location Intelligence to Microsoft Fabric</title>
+        <link>https://mappingforward.fr/articles/2026-10/20261001-tomtom-location-intelligence-microsoft-fabric.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261001-tomtom-location-intelligence-microsoft-fabric.html</guid>
+        <description>TomTom élargit sa collaboration avec Microsoft en apportant son intelligence de localisation aux agents IA construits sur Microsoft Fabric et Microsoft Foundry, grâce à la fonctionnalité IQ Sharing de Microsoft actuellement en préversion. Cette intégration permet aux agents IA d&#x27;accéder au contexte géospatial de TomTom, construit sur Overture Maps et des standards ouverts, pour répondre à des questions sur les flux de marchandises, la pression sur les infrastructures ou la concentration des risques. — Key takeaways: TomTom élargit sa collaboration avec Microsoft en intégrant son intelligence de localisation aux agents IA construits sur Microsoft Fabric et Microsoft Foundry ; L&#x27;intégration utilise la fonctionnalité IQ Sharing de Microsoft, actuellement en préversion, qui donne aux agents IA un contexte partagé sur l&#x27;écosystème Microsoft ; Les agents IA traitant des questions liées à la localisation ont besoin de comprendre ce qu&#x27;un lieu représente, comment les routes, les réglementations et les risques sont liés, et comment les conditions évoluent dans le temps ; L&#x27;intelligence de localisation de TomTom est construite sur Overture Maps et des standards ouverts, garantissant l&#x27;interopérabilité avec des jeux de données ouverts compatibles ; Cette évolution stratégique positionne TomTom au-delà de la navigation : les données cartographiques deviennent un contexte de raisonnement pour les agents IA</description>
+        <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Geographic Information System Market to Reach USD 31.8 Billion by 2031</title>
+        <link>https://mappingforward.fr/articles/2026-10/20261001-einnews-gis-market-31-8-billion-2031-mordor.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261001-einnews-gis-market-31-8-billion-2031-mordor.html</guid>
+        <description>Le marché des systèmes d&#x27;information géographique (SIG) devrait atteindre 31,8 milliards de dollars d&#x27;ici 2031, avec un taux de croissance annuel composé (TCAC) de 13,94%. Cette croissance est stimulée par le déploiement de villes intelligentes, le GIS cloud, la collecte de données mobiles et l&#x27;intégration croissante des technologies géospatiales dans les processus décisionnels publics et privés. — Key takeaways: Le marché mondial des SIG devrait atteindre 31,8 milliards de dollars d&#x27;ici 2031 ; Le taux de croissance annuel composé (TCAC) est de 13,94% ; Les principaux moteurs de croissance sont les déploiements de villes intelligentes, le GIS cloud et la collecte de données mobiles ; L&#x27;intégration croissante des technologies géospatiales dans les processus décisionnels publics et privés accélère l&#x27;adoption ; Le rapport est produit par Mordor Intelligence et diffusé par EIN News</description>
+        <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Navigation App Poll 2026: HERE Maps Overtakes Google Maps in Romanian Survey</title>
+        <link>https://mappingforward.fr/articles/2026-10/20261001-arenait-navigation-app-poll-2026-here-maps-overtakes-google.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261001-arenait-navigation-app-poll-2026-here-maps-overtakes-google.html</guid>
+        <description>Le sondage annuel d&#x27;Arena IT sur les préférences en matière d&#x27;applications de navigation révèle une surprise en 2026 : HERE Maps a dépassé Google Maps avec 29% des voix contre 26%. Waze reste en tête avec environ 35%. Aucune autre solution ne dépasse le seuil de 5%. Le sondage souligne la pertinence européenne de HERE Maps, notamment dans le secteur automobile. — Key takeaways: Waze obtient environ 35% des voix, HERE Maps 29%, Google Maps 26% — aucune autre solution ne dépasse 5% ; HERE Maps surprend en dépassant Google Maps pour la première fois dans ce sondage annuel ; En 2024 et 2025, Waze et Google Maps occupaient les deux premières places dans cet ordre ; HERE Maps conserve une présence solide dans le secteur automobile à l&#x27;échelle européenne ; Google Maps et Waze appartiennent toutes deux à Google, totalisant ensemble environ 60% des préférences ; Sygic maintient une niche importante parmi les utilisateurs qui apprécient la navigation offline et l&#x27;indépendance vis-à-vis des services Google</description>
+        <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>« Map patou » : l&#x27;outil pour repérer les chiens de protection intègre les Hautes-Alpes</title>
+        <link>https://mappingforward.fr/articles/2026-10/20261001-ledauphine-map-patou-chiens-protection-hautes-alpes.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261001-ledauphine-map-patou-chiens-protection-hautes-alpes.html</guid>
+        <description>La carte interactive « Map patou », qui recense les alpages où des chiens de protection de troupeaux sont potentiellement présents, s&#x27;étend aux Hautes-Alpes. La communauté de communes Buëch-Dévoluy a intégré l&#x27;outil à la fin de l&#x27;été 2026, et une action collective se met en place pour recenser les chiens et informer les usagers de la montagne. — Key takeaways: « Map patou » est une carte interactive qui recense les alpages où des chiens de protection de troupeaux sont potentiellement présents ; L&#x27;outil s&#x27;étend aux Hautes-Alpes : la communauté de communes Buëch-Dévoluy l&#x27;a intégré à la fin de l&#x27;été 2026 ; Une action collective se met en place pour recenser les chiens de protection et informer les usagers de la montagne ; La carte couvre une partie des Alpes et du Massif Central ; L&#x27;outil vise à réduire les conflits entre randonneurs et chiens de protection en informant sur leur présence</description>
+        <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
 
     <item>
         <title>TomTom&#x27;s Poomalai: Geospatial Data Can Help P&amp;C Carriers Sharpen Risk Selection and Cut Loss Ratios</title>
@@ -357,54 +405,6 @@
         <link>https://mappingforward.fr/articles/2026-09/20260923-autoevolution-google-maps-speedometer-kph-mph-android-auto.html</link>
         <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260923-autoevolution-google-maps-speedometer-kph-mph-android-auto.html</guid>
         <description>Google Maps&#x27; speedometer on Android Auto is randomly switching between kilometers per hour and miles per hour mid-drive, ignoring user settings and requiring app restarts to fix, with no official response from Google yet. — Key takeaways: The Google Maps speedometer on Android Auto randomly switches between kph and mph during drives, despite being configured for one unit ; The issue appears to mostly affect users who configured kph rather than mph ; The settings toggle still shows the correct unit after the switch, meaning the app ignores its own configuration ; The only workaround is restarting Google Maps, which is inconvenient on Android Auto as it requires force-closing the app on the phone ; Google has not yet responded to the glitch ; Separately, Google continues rolling out the speedometer without a configured destination, though availability is not yet universal</description>
-        <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Grid My Business Launches AI Search to Map Local Visibility Across AI Platforms</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260923-newsfilecorp-grid-my-business-ai-search-local-visibility.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260923-newsfilecorp-grid-my-business-ai-search-local-visibility.html</guid>
-        <description>Grid My Business has launched AI Search, a feature that measures local business visibility across four AI platforms — ChatGPT, Google Gemini, Google AI Mode, and Google AI Overviews — by scanning locations, mapping mentions, and computing an AI visibility score. — Key takeaways: AI Search scans ChatGPT, Google Gemini, Google AI Mode, and Google AI Overviews to measure where a business is mentioned across its service area ; Users enter a customer question, select AI platforms, and define a geographic area; the tool maps where each platform mentions the business, names a competitor, or returns no mention ; An AI Share of Voice metric shows the percentage of answered locations where the business was mentioned ; The feature tracks cited sources used by AI platforms, competitor comparisons, and actual AI answer history per scanned location ; Recurring monitoring allows rerunning questions daily, weekly, or monthly to track changes over time ; An AI visibility score is computed based on mention frequency, answer position, platform coverage, owned-site citations, and sentiment</description>
-        <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Metro Manila&#x27;s traffic crisis: Philippines ranked most congested country in Asia</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260923-inquirer-metro-manila-traffic-crisis-tomtom-index.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260923-inquirer-metro-manila-traffic-crisis-tomtom-index.html</guid>
-        <description>According to the 2025 TomTom Traffic Index, the Philippines ranked first as the most congested country in Asia, ahead of India and Singapore, highlighting Metro Manila&#x27;s ongoing traffic crisis and the urgent need for comprehensive transport solutions. — Key takeaways: The 2025 TomTom Traffic Index ranked the Philippines as the most congested country in Asia, ahead of India and Singapore ; Metro Manila&#x27;s traffic crisis continues to worsen, with the TomTom data providing quantitative backing for long-standing commuter complaints ; The TomTom Traffic Index measures congestion by comparing travel times during peak hours versus free-flow conditions across major cities worldwide ; The ranking underscores the gap between infrastructure investment and population growth in Metro Manila ; The data adds to growing calls for integrated public transport solutions rather than road expansion alone</description>
-        <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>MCD commences pilot drone survey to improve property tax assessment in Delhi</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260923-newindianexpress-mcd-drone-survey-property-tax-gis-lidar.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260923-newindianexpress-mcd-drone-survey-property-tax-gis-lidar.html</guid>
-        <description>The Municipal Corporation of Delhi has launched a pilot drone-based survey combining GIS, LiDAR mapping, geo-tagging, AI, and 3D digital modelling to build a more accurate property database and identify under-assessed properties for tax collection. — Key takeaways: The MCD launched a pilot drone survey in two wards (Rohini F Ward and Gharoli Ward) to improve property tax assessment ; The survey combines drone imagery with GIS, LiDAR-based mapping, geo-tagging, artificial intelligence, and 3D digital modelling ; The technology will identify incorrectly mapped or duplicate property records and detect additional floors or constructions not in existing records ; The system enables comparison of declared versus actual built-up areas for tax assessment ; Ward- and zone-level dashboards will help monitor discrepancies, issue notices, and track arrears ; The exercise aims to reduce reliance on manual inspections and improve transparency for residents</description>
-        <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Cartographic Perspectives for Risk Analysis: Dynamic Movement Data</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260923-iadb-cartographic-perspectives-risk-analysis-dynamic-movement-data.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260923-iadb-cartographic-perspectives-risk-analysis-dynamic-movement-data.html</guid>
-        <description>The Inter-American Development Bank explores how GPS tracking data and GIS can complement biodiversity information by integrating dynamic movement data with project locations, enabling earlier identification of wildlife-infrastructure interactions and better-informed environmental planning. — Key takeaways: Dynamic movement data adds a temporal dimension to spatial analysis, revealing how people, wildlife, and other moving elements interact with landscapes over time ; Integrating dynamic movement data with project information in GIS platforms like ES GeoHub helps identify potential spatial interactions requiring further review ; GPS tracking of animal movements combined with biodiversity datasets supports more informed risk analysis and project planning ; For road infrastructure projects, understanding wildlife movement patterns can help identify risks before construction, supporting better route alignment and reducing costly design changes ; The IDB is exploring this approach to reduce environmental and operational risks in development projects</description>
-        <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Cloud Geographic Information Systems (GIS) Market Report: Growth from $2.36B to $4.76B by 2030</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260923-openpr-cloud-gis-market-report-2026-2030.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260923-openpr-cloud-gis-market-report-2026-2030.html</guid>
-        <description>The cloud GIS market is projected to grow from $1.97 billion in 2025 to $2.36 billion in 2026 (19.5% CAGR) and reach $4.76 billion by 2030, driven by smart city projects, AI-powered geospatial analytics, and growing cloud infrastructure. — Key takeaways: The cloud GIS market grew from $1.97 billion in 2025 to a projected $2.36 billion in 2026, a CAGR of 19.5% ; By 2030, the market is expected to reach $4.76 billion at a CAGR of 19.2% ; Growth drivers include smart city projects, AI-powered geospatial analytics, climate monitoring programs, and location-based services ; Key market players include Google, Microsoft, Amazon Web Services, Hexagon, Autodesk, Trimble, Maxar, Bentley Systems, Here Technologies, Mapbox, and CartoDB ; Market segments span hardware, software, and services across functions like mapping, surveying, location-based services, and navigation ; Applications range from watershed management and risk management to urban planning, defense management, and building information modeling</description>
-        <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Quand les métadonnées deviennent plus précieuses que les données elles-mêmes</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260923-journaldunet-metadonnees-plus-precieuses-que-donnees-tomtom.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260923-journaldunet-metadonnees-plus-precieuses-que-donnees-tomtom.html</guid>
-        <description>Lors d&#x27;un événement industriel réunissant des leaders de Meta, Uber, Amazon, AWS et TomTom, un constat s&#x27;est imposé : pour alimenter efficacement l&#x27;IA, les métadonnées sont désormais aussi précieuses, voire plus, que les données elles-mêmes, avec 96 % des organisations utilisant la géolocalisation pour des applications critiques. — Key takeaways: Gartner anticipe que 60 % des projets d&#x27;IA seront abandonnés faute de données adaptées et prêtes pour l&#x27;IA ; Les métadonnées fournissent le contexte indispensable (origine, interconnexions, fiabilité) qui rend les données exploitables par l&#x27;IA ; 70 % du temps consacré à un nouvel ensemble de données externe est absorbé par sa préparation ; La géolocalisation est utilisée par 96 % des organisations pour des applications critiques (analyse client, modélisation des risques, planification de réseaux) ; L&#x27;identification unique standardisée permet d&#x27;unifier les sources : une adresse se lie à un bâtiment, puis à un commerce et à des indicateurs démographiques ; Les produits de données pré-intégrés et documentés par des métadonnées riches modifient l&#x27;économie des données</description>
         <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
     </item>
 
