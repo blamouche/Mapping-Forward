@@ -1,9 +1,63 @@
 {
   "site": "Mapping Forward",
   "url": "https://mappingforward.fr",
-  "generated": "2026-10-01T06:09:00.239747",
-  "article_count": 1045,
+  "generated": "2026-10-02T06:03:25.337843",
+  "article_count": 1051,
   "articles": [
+    {
+      "title": "Gov't using Geographic Information Systems (G.I.S.) to expand the country's irrigation programme",
+      "url": "https://mappingforward.fr/articles/2026-10/20261002-iriefm-jamaica-gis-irrigation-programme.html",
+      "date": "2026-09-30",
+      "source": "https://iriefm.net/govt-using-geographic-information-systems-g-i-s-to-expand-the-countrys-irrigation-programme/",
+      "author": "Sugar Ray Thomas",
+      "keywords": "GIS, Geographic Information Systems, irrigation, Jamaica, agriculture, Pedro Plains, geospatial infrastructure, data-driven decision-making, Andrew Holness, ArcGIS",
+      "elevator_pitch": "Le gouvernement jamaïcain utilise les SIG pour étendre son programme d'irrigation national, afin d'assurer que les agriculteurs locaux aient accès à des sources d'eau fiables. La technologie SIG assiste le développement du projet d'irrigation de Pedro Plains à St Elizabeth, dans le cadre d'une infrastructure géospatiale nationale intégrée."
+    },
+    {
+      "title": "GIS Strengthening Intelligence-Led Crime Fighting",
+      "url": "https://mappingforward.fr/articles/2026-10/20261002-jis-gis-strengthening-intelligence-led-crime-fighting-jamaica.html",
+      "date": "2026-09-30",
+      "source": "https://jis.gov.jm/gis-strengthening-intelligence-led-crime-fighting/",
+      "author": "Britney Stevens",
+      "keywords": "GIS, Geographic Information Systems, crime fighting, Jamaica, ArcGIS, crime hotspots, ZOSO, spatial analysis, law enforcement, geospatial intelligence",
+      "elevator_pitch": "Le Premier ministre jamaïcain Andrew Holness a déclaré que les SIG renforcent les stratégies de lutte contre le crime en aidant les forces de sécurité à identifier les zones criminelles, déployer des ressources et suivre les mouvements des gangs. La Jamaïque utilise les données géographiques depuis 2017 pour cibler les Zones of Special Operations."
+    },
+    {
+      "title": "New Google Maps images reveal massive scale of devastation in Gaza",
+      "url": "https://mappingforward.fr/articles/2026-10/20261002-guardian-google-maps-satellite-gaza-devastation.html",
+      "date": "2026-10-01",
+      "source": "https://www.theguardian.com/world/2026/oct/01/new-google-maps-images-reveal-massive-scale-of-devastation-in-gaza",
+      "author": "Jason Burke, Eithne Staunton",
+      "keywords": "Google Maps, satellite imagery, Gaza, humanitarian crisis, destruction, UNRWA, rubble, satellite update, remote sensing",
+      "elevator_pitch": "Une mise à jour de Google Maps avec des images satellite de juin 2026 révèle l'ampleur de la dévastation à Gaza après trois ans de guerre. Les images montrent des camps de tentes sur la côte, des quartiers entiers réduits en ruines et une bande de terre nivelée le long de la frontière égyptienne, illustrant une crise humanitaire persistante."
+    },
+    {
+      "title": "Viral Google Maps Images Shared Widely This Week Show Gaza Ruins. We Obtained More Recent Satellite Imagery",
+      "url": "https://mappingforward.fr/articles/2026-10/20261002-bellingcat-google-maps-gaza-satellite-imagery-analysis.html",
+      "date": "2026-10-01",
+      "source": "https://www.bellingcat.com/news/middle-east/2026/10/01/viral-google-maps-images-shared-widely-this-week-show-gaza-ruins-we-obtained-more-recent-satellite-imagery/",
+      "author": "Jake Godin",
+      "keywords": "Google Maps, Google Earth, satellite imagery, Gaza, Rafah, Planet Labs, Airbus, Bellingcat, OSINT, remote sensing, destruction monitoring",
+      "elevator_pitch": "Bellingcat analyse les images satellite de Gaza qui sont devenues virales sur les réseaux sociaux cette semaine. L'organisation OSINT a obtenu des images plus récentes de Planet Labs montrant que les destructions se poursuivent au-delà de la dernière mise à jour Google Maps de juin 2026, qui datait en réalité de février 2026."
+    },
+    {
+      "title": "Google Maps, cette amélioration va faire du bien aux usagers d'Android Auto",
+      "url": "https://mappingforward.fr/articles/2026-10/20261002-automoto-google-maps-feux-stops-android-auto.html",
+      "date": "2026-10-01",
+      "source": "https://www.auto-moto.com/en-bref/google-maps-android-auto-82205",
+      "author": "Sylvain Gauthier",
+      "keywords": "Google Maps, Android Auto, feux, stops, navigation, intersections, indications flottantes, sécurité routière",
+      "elevator_pitch": "Google Maps intègre désormais l'affichage des feux et stops directement dans l'indication flottante associée à la prochaine rue lors d'un guidage sur Android Auto. Cette nouveauté, en déploiement progressif, facilite l'identification du type d'intersection à l'approche d'un virage, particulièrement utile en ville inconnue."
+    },
+    {
+      "title": "TomTom z bezpłatną nawigacją. Producent rzuca wyzwanie Google Maps i Yanosikowi",
+      "url": "https://mappingforward.fr/articles/2026-10/20261002-wprost-tomtom-free-navigation-replaces-amigo.html",
+      "date": "2026-10-01",
+      "source": "https://auto.wprost.pl/aktualnosci/12458463/bezplatna-aplikacja-tomtom-zamiast-amigo-funkcje-i-ostrzegacz.html",
+      "author": "Auto / Moto - Wprost",
+      "keywords": "TomTom, AmiGO, free navigation app, Google Maps, Waze, Yanosik, Android, iOS, road warner, navigation, Poland",
+      "elevator_pitch": "TomTom déploie une application de navigation gratuite sur Android et iOS qui remplace l'ancienne application AmiGO. Positionnée comme alternative à Google Maps, Waze ou Yanosik sur le marché polonais, elle propose un avertisseur de radars en option et des fonctionnalités de navigation complètes."
+    },
     {
       "title": "Learn About Geographic Information Systems (GIS) From a Panel of Experts",
       "url": "https://mappingforward.fr/articles/2026-10/20261001-jonpeddie-gis-panel-experts-siggraph.html",
