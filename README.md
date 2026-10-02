@@ -20,12 +20,18 @@ Articles per month:
 2026-07 | █████ 10<br>
 2026-08 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 267<br>
 2026-09 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 226<br>
-2026-10 | ▌ 6<br>
+2026-10 | ████████ 12<br>
 ## Articles
 
 ### 2026
 
-#### October (6 articles)
+#### October (12 articles)
+- [Google Maps, cette amélioration va faire du bien aux usagers d'Android Auto](src/2026-10/20261002-automoto-google-maps-feux-stops-android-auto.md)
+- [New Google Maps images reveal massive scale of devastation in Gaza](src/2026-10/20261002-guardian-google-maps-satellite-gaza-devastation.md)
+- [Viral Google Maps Images Shared Widely This Week Show Gaza Ruins. We Obtained More Recent Satellite Imagery](src/2026-10/20261002-bellingcat-google-maps-gaza-satellite-imagery-analysis.md)
+- [TomTom z bezpłatną nawigacją. Producent rzuca wyzwanie Google Maps i Yanosikowi](src/2026-10/20261002-wprost-tomtom-free-navigation-replaces-amigo.md)
+- [GIS Strengthening Intelligence-Led Crime Fighting](src/2026-10/20261002-jis-gis-strengthening-intelligence-led-crime-fighting-jamaica.md)
+- [Gov't using Geographic Information Systems (G.I.S.) to expand the country's irrigation programme](src/2026-10/20261002-iriefm-jamaica-gis-irrigation-programme.md)
 - [TomTom Brings Location Intelligence to Microsoft Fabric](src/2026-10/20261001-tomtom-location-intelligence-microsoft-fabric.md)
 - [Here's What Stops Working When You Use Google Maps Offline](src/2026-10/20261001-bgr-google-maps-offline-what-works-without-internet.md)
 - [« Map patou » : l'outil pour repérer les chiens de protection intègre les Hautes-Alpes](src/2026-10/20261001-ledauphine-map-patou-chiens-protection-hautes-alpes.md)
