@@ -1,9 +1,90 @@
 {
   "site": "Mapping Forward",
   "url": "https://mappingforward.fr",
-  "generated": "2026-10-02T06:03:25.337843",
-  "article_count": 1051,
+  "generated": "2026-10-03T06:07:00.781517",
+  "article_count": 1060,
   "articles": [
+    {
+      "title": "Google Maps, « pass toilettes » : la Wallonie veut faciliter l'accès aux toilettes",
+      "url": "https://mappingforward.fr/articles/2026-10/20261003-21news-wallonie-toilettes-publiques-google-maps.html",
+      "date": "2026-10-02",
+      "source": "https://www.21news.be/google-maps-pass-toilettes-batiments-publics-la-wallonie-veut-faciliter-lacces-aux-toilettes/",
+      "author": "21 News (Demetrio Scagliola)",
+      "keywords": "Google Maps, toilettes publiques, Wallonie, pass toilettes, accessibilité, cartographie des sanitaires, Sophie Fafchamps, Parlement wallon, bâtiments publics, maladies chroniques",
+      "elevator_pitch": "Le Parlement wallon a adopté une résolution pour améliorer l'accès aux toilettes publiques, incluant leur référencement sur Google Maps et la création d'un « pass toilettes » pour les personnes souffrant de maladies chroniques."
+    },
+    {
+      "title": "Hyundai launches Pleos Connect in the US: HERE Maps meets Google Places",
+      "url": "https://mappingforward.fr/articles/2026-10/20261003-tarantas-hyundai-pleos-connect-here-maps-google-places.html",
+      "date": "2026-10-02",
+      "source": "https://tarantas.news/posts/id71646-hyundai-raskryla-pleos-connect-dlja-sssa-qhd-2560ch1440-wi-fi-6-i-gleo-ai",
+      "author": "Vlad Komarov (Tarantas News)",
+      "keywords": "Hyundai, Pleos Connect, HERE Maps, Google Places, Gleo AI, Android Automotive OS, navigation, Tucson 2027, infotainment, connected car, Wi-Fi 6, QHD display",
+      "elevator_pitch": "Hyundai unveiled the US-spec Pleos Connect infotainment platform for the 2027 Tucson, combining HERE Maps navigation with Google Places search, alongside a Gleo AI voice assistant, QHD displays, and Wi-Fi 6."
+    },
+    {
+      "title": "When Athens Paralysed: How the Year's Biggest Traffic Jam Was Created",
+      "url": "https://mappingforward.fr/articles/2026-10/20261003-4troxoi-athens-tomtom-traffic-index-biggest-jam.html",
+      "date": "2026-10-02",
+      "source": "https://www.4troxoi.gr/epikairotita/ellada/i-athina-parelyse-to-megalytero-mpotiliarisma/",
+      "author": "Kostas Papadimitriou (4troxoi.gr)",
+      "keywords": "TomTom Traffic Index, Athens, traffic congestion, Robbie Williams, Kallimarmaro, concert, demonstration, flooding, Greece, congestion data, urban mobility",
+      "elevator_pitch": "Greek automotive outlet 4troxoi analyses how Athens experienced its worst traffic jam of the year on October 2, 2025, using TomTom Traffic Index data showing congestion levels reaching 149%, driven by a Robbie Williams concert, a protest march, and heavy rainfall."
+    },
+    {
+      "title": "Live Map: Track the path of Hurricane Rachel",
+      "url": "https://mappingforward.fr/articles/2026-10/20261003-pbs-hurricane-rachel-live-map-track-path.html",
+      "date": "2026-10-02",
+      "source": "https://www.pbs.org/newshour/nation/live-map-track-the-path-of-hurricane-rachel",
+      "author": "Fabiola Sanchez, Jonathan Castellón, Sarah Raza (Associated Press / PBS NewsHour)",
+      "keywords": "Hurricane Rachel, live map, Category 3, Pacific hurricane, Mexico, National Hurricane Center, NOAA, El Niño, storm tracking, Hurricane Polo, interactive map",
+      "elevator_pitch": "PBS NewsHour featured a live interactive map tracking Hurricane Rachel, upgraded to a Category 3 storm off Mexico's Pacific coast, as northern Mexico was still reeling from flooding and destruction caused by the remnants of Hurricane Polo earlier in the week."
+    },
+    {
+      "title": "Cal Fire launches AwareCA emergency alerts app with interactive maps",
+      "url": "https://mappingforward.fr/articles/2026-10/20261003-pressdemocrat-awareca-cal-fire-emergency-map-app.html",
+      "date": "2026-10-02",
+      "source": "https://www.pressdemocrat.com/2026/10/02/awareca-app-cal-fire-emergency-alerts",
+      "author": "Martin Espinoza (The Press Democrat), Nathan Chiochios (Chico Enterprise-Record)",
+      "keywords": "AwareCA, Cal Fire, emergency mapping, Mapbox, wildfire, interactive maps, Intterra, Watch Duty, evacuation zones, push notifications, location-aware alerts, California",
+      "elevator_pitch": "Cal Fire, in partnership with software company Intterra, launched AwareCA, a free mobile app providing real-time emergency information with interactive maps built on Mapbox, directly challenging the popular Watch Duty wildfire alert platform."
+    },
+    {
+      "title": "Tech for Earth: Methane, Penguins, and a Volcano Nobody Was Watching",
+      "url": "https://mappingforward.fr/articles/2026-10/20261003-geoawesome-tech-for-earth-methane-penguins-volcano-overture.html",
+      "date": "2026-09-30",
+      "source": "https://geoawesome.com/tech-for-earth-methane-penguins-and-a-volcano-nobody-was-watching/",
+      "author": "Sebastian Walczak (Geoawesome)",
+      "keywords": "MAPL-EMIT, methane plumes, Google Research, NASA, PNAS, WeatherNext 3, Sentinel-1, emperor penguins, NISAR, volcano monitoring, Overture Maps, satellite imagery, remote sensing, Earth observation, Vega-C, FLEX, Sentinel-3C",
+      "elevator_pitch": "Geoawesome's monthly Earth observation roundup covers Google and NASA's AI model that found 23,000 methane plumes from space, Sentinel-1 radar tracking of emperor penguin colonies in Antarctic darkness, NISAR's nine-month volcano time-lapse, and the latest Overture Maps data release."
+    },
+    {
+      "title": "StreetComplete : l'outil pour enrichir les cartes OpenStreetMap",
+      "url": "https://mappingforward.fr/articles/2026-10/20261003-frandroid-streetcomplete-openstreetmap-contributor-app.html",
+      "date": "2026-10-02",
+      "source": "https://www.frandroid.com/android/applications/3270009_marre-de-google-maps-vous-pouvez-aider-a-construire-une-carte-reellement-souveraine-et-privee-avec-streetcomplete",
+      "author": "Corentin Béchade (Frandroid)",
+      "keywords": "StreetComplete, OpenStreetMap, cartographie collaborative, Google Maps, souveraineté numérique, CoMaps, Cartes.app, contributeur, qutes cartographiques, Android, open source",
+      "elevator_pitch": "Frandroid présente StreetComplete, une application Android gratuite qui transforme la contribution à OpenStreetMap en un jeu de \"quêtes\" géolocalisées, permettant à chacun d'enrichir la carte libre et souveraine sans connaissances techniques en cartographie."
+    },
+    {
+      "title": "How the fighting in Ethiopia spread beyond Tigray, in maps and charts",
+      "url": "https://mappingforward.fr/articles/2026-10/20261003-aljazeera-ethiopia-conflict-maps-charts-tigray.html",
+      "date": "2026-10-02",
+      "source": "https://www.aljazeera.com/news/2026/10/2/how-the-fighting-in-ethiopia-spread-beyond-tigray-in-maps-and-charts",
+      "author": "Marium Ali (Al Jazeera)",
+      "keywords": "Ethiopia, Tigray, conflict mapping, interactive maps, Amhara, Afar, TPLF, civil war, ACLED, cartographie conflictuelle, cartes interactives",
+      "elevator_pitch": "Al Jazeera published a detailed visual explainer using interactive maps and charts to show how fighting has intensified across northern Ethiopia, spreading from Tigray into Amhara and Afar regions, nearly four years after a peace deal ended the devastating 2020-2022 Tigray war."
+    },
+    {
+      "title": "Mapping a Greener Future for Louisville: Geography Alumna Leads Brightside, Inc.",
+      "url": "https://mappingforward.fr/articles/2026-10/20261003-uofl-gis-alumna-leads-brightside-louisville.html",
+      "date": "2026-10-02",
+      "source": "https://news.louisville.edu/news/mapping-greener-future-louisville-geography-alumna-leads-brightside-inc",
+      "author": "Stephanie Godward (UofL News)",
+      "keywords": "GIS, geography, University of Louisville, Brightside, Angela Richardson, Louisville Metro Government, data analysis, spatial data, community cleanup, sustainability, GIS concentration, career",
+      "elevator_pitch": "A University of Louisville geography alumna with a GIS concentration has been named interim director of Brightside, Inc., applying spatial data analysis and mapping technology to lead community cleanup and beautification programs across Louisville."
+    },
     {
       "title": "Gov't using Geographic Information Systems (G.I.S.) to expand the country's irrigation programme",
       "url": "https://mappingforward.fr/articles/2026-10/20261002-iriefm-jamaica-gis-irrigation-programme.html",

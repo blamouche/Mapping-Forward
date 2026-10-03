@@ -6,7 +6,79 @@
     <description>Daily synthesis of articles on cartography, mapping, geospatial data, and geographic intelligence</description>
     <language>en</language>
     <atom:link href="https://mappingforward.fr/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 02 Oct 2026 06:03:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 06:07:00 +0000</lastBuildDate>
+
+    <item>
+        <title>Google Maps, « pass toilettes » : la Wallonie veut faciliter l&#x27;accès aux toilettes</title>
+        <link>https://mappingforward.fr/articles/2026-10/20261003-21news-wallonie-toilettes-publiques-google-maps.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261003-21news-wallonie-toilettes-publiques-google-maps.html</guid>
+        <description>Le Parlement wallon a adopté une résolution pour améliorer l&#x27;accès aux toilettes publiques, incluant leur référencement sur Google Maps et la création d&#x27;un « pass toilettes » pour les personnes souffrant de maladies chroniques. — Key takeaways: Le Parlement wallon a adopté à l&#x27;unanimité une résolution pour améliorer l&#x27;accès aux toilettes publiques en Wallonie ; Les sanitaires pourraient être mieux signalés, notamment sur Google Maps, avec un autocollant wallon pour identifier les établissements donnant accès à leurs toilettes ; Un « pass toilettes » destiné aux personnes souffrant de maladies chroniques doit être étudié avec l&#x27;AViQ (Agence pour une Vie de Qualité) ; Davantage de bâtiments publics pourraient ouvrir leurs toilettes au public ; La résolution a été portée par la députée Sophie Fafchamps (Les Engagés) et adoptée en commission le 15 septembre avant le vote en séance plénière ; Cette initiative illustre comment Google Maps devient un outil de politique publique pour l&#x27;accessibilité des services essentiels</description>
+        <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Hyundai launches Pleos Connect in the US: HERE Maps meets Google Places</title>
+        <link>https://mappingforward.fr/articles/2026-10/20261003-tarantas-hyundai-pleos-connect-here-maps-google-places.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261003-tarantas-hyundai-pleos-connect-here-maps-google-places.html</guid>
+        <description>Hyundai unveiled the US-spec Pleos Connect infotainment platform for the 2027 Tucson, combining HERE Maps navigation with Google Places search, alongside a Gleo AI voice assistant, QHD displays, and Wi-Fi 6. — Key takeaways: Hyundai&#x27;s Pleos Connect platform debuts in the US market with the 2027 Tucson, featuring 12.9-inch and 17-inch QHD (2560x1440) displays plus a 9.9-inch Slim Information Display ; American navigation combines HERE Maps with Google Places for point-of-interest search, merging automotive-grade map data with Google&#x27;s business listing ecosystem ; The platform runs on Android Automotive OS with a dedicated Pleos App Market, supporting apps that work independently of smartphone mirroring, though wireless Apple CarPlay and Android Auto are retained ; Gleo AI, a large language model-based assistant, understands conversational context and multiple linked commands, activated by &quot;Hey Gleo&quot; or &quot;Hey Hyundai&quot; ; Connectivity includes Bluetooth 5.4 and Wi-Fi 6, with over-the-air software updates ; Hyundai retains physical buttons and dials for core functions rather than moving all controls to the touchscreen</description>
+        <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>When Athens Paralysed: How the Year&#x27;s Biggest Traffic Jam Was Created</title>
+        <link>https://mappingforward.fr/articles/2026-10/20261003-4troxoi-athens-tomtom-traffic-index-biggest-jam.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261003-4troxoi-athens-tomtom-traffic-index-biggest-jam.html</guid>
+        <description>Greek automotive outlet 4troxoi analyses how Athens experienced its worst traffic jam of the year on October 2, 2025, using TomTom Traffic Index data showing congestion levels reaching 149%, driven by a Robbie Williams concert, a protest march, and heavy rainfall. — Key takeaways: TomTom Traffic Index recorded congestion levels at 149% in Athens on October 2, 2025, the highest of the year, surpassing all previous records ; During peak hours, drivers needed at least 15 minutes to travel just 2.8 kilometres ; Three factors converged: a Robbie Williams concert at Kallimarmaro stadium drawing tens of thousands of fans, a pro-Palestine protest march blocking central avenues, and sudden heavy rainfall causing localised flooding ; Greek police closed major arteries including Vasilissis Sofias Avenue, Panepistimiou, Stadiou, and Vasilissis Amalias for the protest ; Traffic was displaced to Alexandra Avenue, Michalakopoulou, and Kallirois, which could not handle the overflow volume ; The article uses TomTom Traffic Index data to quantify the cumulative impact of simultaneous events on urban road networks</description>
+        <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Live Map: Track the path of Hurricane Rachel</title>
+        <link>https://mappingforward.fr/articles/2026-10/20261003-pbs-hurricane-rachel-live-map-track-path.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261003-pbs-hurricane-rachel-live-map-track-path.html</guid>
+        <description>PBS NewsHour featured a live interactive map tracking Hurricane Rachel, upgraded to a Category 3 storm off Mexico&#x27;s Pacific coast, as northern Mexico was still reeling from flooding and destruction caused by the remnants of Hurricane Polo earlier in the week. — Key takeaways: Hurricane Rachel was upgraded to a Category 3 storm with maximum sustained winds of 120 mph (193 kph), located about 235 miles south of the southern tip of Baja California ; The storm was moving west-northwest at 3 mph and expected to strengthen before weakening over the weekend, according to the National Hurricane Center ; Rachel&#x27;s swells were expected to generate life-threatening surf and rip-current conditions off Mexico&#x27;s coast ; Mexican authorities remained on alert for very heavy rain in Baja California Sur, Sinaloa, and Jalisco, with risks of landslides, rising river levels, and flooding ; The Pacific has seen an unusually busy hurricane season attributed to El Niño, which has fueled warmer waters and favorable wind patterns ; Parts of northern Mexico were still recovering from Hurricane Polo, with at least 13 municipalities remaining flooded and hundreds displaced</description>
+        <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Cal Fire launches AwareCA emergency alerts app with interactive maps</title>
+        <link>https://mappingforward.fr/articles/2026-10/20261003-pressdemocrat-awareca-cal-fire-emergency-map-app.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261003-pressdemocrat-awareca-cal-fire-emergency-map-app.html</guid>
+        <description>Cal Fire, in partnership with software company Intterra, launched AwareCA, a free mobile app providing real-time emergency information with interactive maps built on Mapbox, directly challenging the popular Watch Duty wildfire alert platform. — Key takeaways: Cal Fire partnered with Intterra to launch AwareCA, a free mobile app available on Apple App Store and Google Play, providing real-time emergency information directly from public safety agencies ; The app features near real-time incident updates, interactive emergency maps, warning and order evacuation zones, shelter and assistance locations, hazard information, road closures, and push notifications with location-aware alerts ; AwareCA covers wildfires, floods, earthquakes, severe weather, hazardous materials incidents, and other large-scale emergencies ; A distinctive feature allows users to track emergency response aircraft and their flight paths in 3D, and access Caltrans traffic cameras and ALERTCalifornia wildfire cameras ; The app competes with Watch Duty, a Bay Area nonprofit that has reached 30 million users and operates in all 50 US states ; Agencies already using AwareCA include Los Angeles City Fire Department, U.S. Forest Service, Ventura County Fire, and San Diego Fire and Rescue</description>
+        <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Tech for Earth: Methane, Penguins, and a Volcano Nobody Was Watching</title>
+        <link>https://mappingforward.fr/articles/2026-10/20261003-geoawesome-tech-for-earth-methane-penguins-volcano-overture.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261003-geoawesome-tech-for-earth-methane-penguins-volcano-overture.html</guid>
+        <description>Geoawesome&#x27;s monthly Earth observation roundup covers Google and NASA&#x27;s AI model that found 23,000 methane plumes from space, Sentinel-1 radar tracking of emperor penguin colonies in Antarctic darkness, NISAR&#x27;s nine-month volcano time-lapse, and the latest Overture Maps data release. — Key takeaways: Google Research and NASA JPL published MAPL-EMIT in PNAS, a vision transformer model that identified approximately 23,000 methane plumes from EMIT hyperspectral data on the ISS, including plumes at 24 of the 25 worst-emitting landfills globally ; The model combines spectral and spatial information in a single vision transformer (trained on 3.6 million synthetic plumes), recovering 84% of hand-annotated NASA plume complexes and flagging ~1.5x more plausible plumes than human analysts ; Google DeepMind released WeatherNext 3 with 5km grid resolution (down from 25km) and hourly refresh, layering live geostationary satellite mosaics to cut forecast lag from ~7 hours to 3-4 hours ; Durham University researchers tracked emperor penguin colonies in Antarctic winter using Sentinel-1 SAR imagery, detecting bright clusters of pixels (1.2m-tall birds in dense huddles) against smooth fast ice, across eight breeding seasons ; NASA&#x27;s NISAR satellite captured 17 frames of Krasheninnikov volcano on Kamchatka erupting for the first time since ~1550, assembling a time-lapse showing lava filling and overflowing the caldera ; Vega-C flight VV30 launched both FLEX and Copernicus Sentinel-3C on September 15, ESA&#x27;s first dual Earth observation satellite launch ; Overture Maps shipped its September data release with addresses, buildings, places, transportation, and divisions data free to download</description>
+        <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>StreetComplete : l&#x27;outil pour enrichir les cartes OpenStreetMap</title>
+        <link>https://mappingforward.fr/articles/2026-10/20261003-frandroid-streetcomplete-openstreetmap-contributor-app.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261003-frandroid-streetcomplete-openstreetmap-contributor-app.html</guid>
+        <description>Frandroid présente StreetComplete, une application Android gratuite qui transforme la contribution à OpenStreetMap en un jeu de &quot;quêtes&quot; géolocalisées, permettant à chacun d&#x27;enrichir la carte libre et souveraine sans connaissances techniques en cartographie. — Key takeaways: StreetComplete est une application Android gratuite (disponible sur Play Store et F-Droid) qui recense les informations incomplètes d&#x27;OpenStreetMap autour de l&#x27;utilisateur et les affiche sous forme de quêtes à résoudre sur place ; L&#x27;application demande des détails pointus : numéros d&#x27;identification des bornes incendie, revêtement des routes, largeur des pistes cyclables, horaires d&#x27;ouverture des commerces ; Les informations saisies sont directement ajoutées à OpenStreetMap via le compte utilisateur, sans nécessiter d&#x27;éditeur de carte externe ; Le projet est open source (disponible sur GitHub avec 277 versions depuis 2017) et représente une alternative à la domination de Google Maps ; Des applications exploitent les données OSM pour proposer des fonctionnalités similaires à Google Maps : CoMaps (iOS/Android) et Cartes.app (solution française, accessible sur le web) ; OpenStreetMap manque parfois d&#x27;informations sur l&#x27;ouverture des commerces ou la nature de certains aménagements, faute de moyens comparables à Google Maps</description>
+        <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>How the fighting in Ethiopia spread beyond Tigray, in maps and charts</title>
+        <link>https://mappingforward.fr/articles/2026-10/20261003-aljazeera-ethiopia-conflict-maps-charts-tigray.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261003-aljazeera-ethiopia-conflict-maps-charts-tigray.html</guid>
+        <description>Al Jazeera published a detailed visual explainer using interactive maps and charts to show how fighting has intensified across northern Ethiopia, spreading from Tigray into Amhara and Afar regions, nearly four years after a peace deal ended the devastating 2020-2022 Tigray war. — Key takeaways: Fighting is concentrated in three regions of northern Ethiopia: Tigray, Amhara, and Afar, with multiple active fronts rather than a single battlefield ; Government-aligned forces captured the strategic town of Alamata in southern Tigray on September 28, while Tigrayan forces pushed into Afar, threatening the Semera-Djibouti import corridor ; Seven Ethiopian armed and political groups announced the &quot;Ethiopian Peoples&#x27; Forces Alliance for Survival&quot; on September 20, aiming to overthrow Prime Minister Abiy Ahmed&#x27;s government ; The TPLF, Amhara Fano National Movement, and Ugugumo (Afar armed group) are the three alliance members actively fighting federal forces as of September 26, according to ACLED ; Ethiopia&#x27;s army chief accused Eritrea, Sudan&#x27;s army, and Egypt of backing the armed groups, raising fears of a wider regional war ; The interactive maps detail Ethiopia&#x27;s 12 regional states and ethnic composition (Oromo 35%, Amhara 24%, Tigrayan 6%), providing geographic context for the federal system introduced in 1992</description>
+        <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Mapping a Greener Future for Louisville: Geography Alumna Leads Brightside, Inc.</title>
+        <link>https://mappingforward.fr/articles/2026-10/20261003-uofl-gis-alumna-leads-brightside-louisville.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261003-uofl-gis-alumna-leads-brightside-louisville.html</guid>
+        <description>A University of Louisville geography alumna with a GIS concentration has been named interim director of Brightside, Inc., applying spatial data analysis and mapping technology to lead community cleanup and beautification programs across Louisville. — Key takeaways: Angela Richardson, a UofL Geography BS graduate with a GIS concentration, was appointed interim director of Brightside, Inc., a public-private partnership for community cleanup and beautification in Louisville ; During her 14 years with Louisville Metro Government, Richardson held leadership roles in GIS analysis, emergency response, performance improvement, and business intelligence ; Brightside community cleanups have mobilized thousands of volunteers, removing more than 300 tons of garbage from Louisville&#x27;s streets and parks in the past five years ; Richardson credits UofL&#x27;s Geographic and Environmental Sciences Department for providing the foundation for data-driven decision making, particularly through her undergraduate thesis ; She emphasizes the value of GIS skills in government, noting that few colleagues are familiar with using spatial data to draw conclusions and solve problems ; Richardson advises students to combine GIS skills with their passions and to continuously learn new systems as technology evolves</description>
+        <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
 
     <item>
         <title>Gov&#x27;t using Geographic Information Systems (G.I.S.) to expand the country&#x27;s irrigation programme</title>
@@ -334,78 +406,6 @@
         <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260925-tvanouvelles-mondiaux-cyclisme-google-maps-waze-montreal.html</guid>
         <description>La Ville de Montréal recommande officiellement Waze plutôt que Google Maps pour naviguer les entraves des Championnats mondiaux de cyclisme, en raison d&#x27;erreurs d&#x27;itinéraires dans Google Maps liées à des enjeux de partage de données. — Key takeaways: La Ville de Montréal recommande Waze plutôt que Google Maps pour les déplacements pendant les Mondiaux de cyclisme (jusqu&#x27;au dimanche 27 septembre) ; Des « enjeux de partage de données » font que Google Maps propose des trajets contenant des « erreurs d&#x27;itinéraires » ; Waze est considéré comme « l&#x27;application la plus fiable à ce jour » avec des données à jour en temps réel, selon la Ville ; Les équipes municipales sont en contact avec Google pour corriger les erreurs, mais la correction n&#x27;est pas immédiate ; La carte interactive de la Ville affiche un message recommandant spécifiquement Waze à l&#x27;ouverture</description>
         <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Google Maps : la fonction méconnue qui change vraiment la donne pour anticiper les trajets</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260925-androidmt-google-maps-planification-horaire-anticiper-trajets.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260925-androidmt-google-maps-planification-horaire-anticiper-trajets.html</guid>
-        <description>Google Maps possède une fonction de planification par créneau horaire largement ignorée qui permet d&#x27;anticiper les bouchons en simulant des trajets à différentes heures, transformant l&#x27;application d&#x27;outil de secours en véritable assistant de planification. — Key takeaways: La plupart des automobilistes ouvrent Google Maps au dernier moment, quand il est trop tard pour éviter les bouchons — l&#x27;application devient un outil de secours plutôt qu&#x27;un assistant de planification ; Google Maps permet de simuler un trajet à différentes heures via le menu à trois points dans les options d&#x27;itinéraire, puis en réglant l&#x27;heure de départ ou d&#x27;arrivée ; Comparer trois créneaux proches (ex: 8h30, 9h00, 9h30) révèle souvent une fenêtre nettement plus fluide ; L&#x27;option « heure d&#x27;arrivée » calcule automatiquement l&#x27;heure de départ recommandée en fonction du trafic prévu ; Les prévisions reposent sur des tendances statistiques ; un dernier contrôle du trafic en direct reste indispensable avant de partir</description>
-        <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Google Maps vient de changer sa manière d&#x27;afficher les intersections</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260924-01net-google-maps-intersections-feux-stops-android-auto.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260924-01net-google-maps-intersections-feux-stops-android-auto.html</guid>
-        <description>Google Maps déploie une nouvelle mise à jour qui affiche des pop-ups pour les feux rouges et les stops à l&#x27;approche des intersections sur Android Auto, permettant aux conducteurs d&#x27;anticiper les intersections délicates sans quitter la route des yeux. — Key takeaways: Google Maps déploie un nouveau système de pop-up affichant les feux et stops à côté du nom de la rue lors du prochain changement de direction ; La nouveauté apparaît d&#x27;abord sur Android Auto, puis sur les smartphones, avec une compatibilité CarPlay probable ; Le repère indique précisément si un feu rouge ou un stop attend au bout du virage ; Ce déploiement s&#x27;effectue côté serveur, progressivement sur plusieurs jours à semaines ; Google Maps affichait déjà des icônes de feux et stops sur la carte depuis six ans, mais sans alerte during la navigation</description>
-        <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Police Scotland modernises search operations with Esri GIS</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260924-geoweeknews-police-scotland-esri-gis-search-operations.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260924-geoweeknews-police-scotland-esri-gis-search-operations.html</guid>
-        <description>Police Scotland has won an Esri Special Achievement in GIS Award for transforming search operations with mobile mapping apps and interactive dashboards, replacing paper-based processes to find missing people, secure Royal visits, and protect major events like the Glasgow Commonwealth Games. — Key takeaways: Police Scotland won an Esri Special Achievement in GIS Award for modernising search operations ; The Missing Persons Module helps plan and allocate search resources including dog teams, drones, diving units, and mountain rescue ; Mobile devices give field officers search boundaries and assignments, replacing paper maps and manual notes ; The system was most recently used at the Commonwealth Games in Glasgow in July 2026 ; Training for nearly 300 users has been completed across the 23,000-officer force covering 28,000+ square miles ; Search and seal operations created for COP26 in 2022 completed up to 75% faster with geospatial tools ; Virtual models of regularly searched locations like Holyrood House speed up security checks</description>
-        <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Toyoda, TomTom founders inducted into 2026 Automotive Hall of Fame</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260924-autonews-tomtom-founders-automotive-hall-of-fame-2026.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260924-autonews-tomtom-founders-automotive-hall-of-fame-2026.html</guid>
-        <description>TomTom founders Harold Goddijn and Corinne Vigreux have been inducted into the 2026 Automotive Hall of Fame alongside Akio Toyoda and Giampaolo Dallara, recognizing TomTom&#x27;s pioneering role in bringing GPS navigation to the automotive industry. — Key takeaways: TomTom founders Harold Goddijn and Corinne Vigreux inducted into the 2026 Automotive Hall of Fame ; Other inductees include Toyota Motor Corp. Chairman Akio Toyoda and Dallara Motorsports founder Giampaolo Dallara ; The recognition highlights TomTom&#x27;s foundational role in consumer and automotive GPS navigation ; TomTom has evolved from consumer navigation devices to providing maps and traffic data for automotive and enterprise applications ; The Automotive Hall of Fame honors individuals who have made significant contributions to the automotive industry</description>
-        <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Behind the paper: South African model maps Ebola spillover risks</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260924-nature-south-african-model-maps-ebola-spillover-risks.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260924-nature-south-african-model-maps-ebola-spillover-risks.html</guid>
-        <description>Researchers from South Africa, DRC, UK, and US developed a model that integrates ecological and anthropogenic factors—including mining, forest loss, and human displacement—to better predict where Ebola spillovers from animals to humans may occur, improving on traditional habitat suitability models. — Key takeaways: Traditional habitat suitability models using temperature, rainfall, and land cover fail to capture human activity drivers of Ebola spillover ; The 2026 Bundibugyo virus outbreak in DRC&#x27;s Ituri province emerged in a conflict zone with food insecurity and displacement ; Researchers integrated mining, forest loss, and other human pressures into ecological models to improve spillover predictions ; The preprint &quot;Integrating ecological and anthropogenic risk identifies emerging Ebola spillover hotspots&quot; presents the findings ; Four orthoebolaviruses have caused human illness: Ebola virus, Sudan virus, Taï Forest virus, and Bundibugyo virus ; The international team included researchers from CERI at Stellenbosch University, DRC, UK, and US</description>
-        <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Zita Cobb sera conférencière principale à la Conférence des utilisateurs d&#x27;Esri Canada 2026</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260924-ledevoir-zita-cobb-esri-canada-2026-conference.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260924-ledevoir-zita-cobb-esri-canada-2026-conference.html</guid>
-        <description>Esri Canada annonce que Zita Cobb, fondatrice du Shorefast Institute for Place-Based Economies, sera conférencière principale à la Conférence des utilisateurs d&#x27;Esri Canada 2026 les 21-22 octobre à Toronto, le plus grand rassemblement de professionnels des SIG au Canada, sur le thème « Les SIG au service d&#x27;un monde plus intelligent ». — Key takeaways: Zita Cobb, fondatrice du Shorefast Institute, sera conférencière principale à la Conférence Esri Canada 2026 le 22 octobre ; La conférence se tient les 21 et 22 octobre au Centre des congrès de Toronto, rassemblant les professionnels des SIG canadiens ; Le thème 2026 est « Les SIG : Créer un monde plus intelligent » ; Le programme inclut des séances plénières, démonstrations produits, présentations clients, séances techniques et réseautage ; De nouvelles séances thématiques couvriront les SIG au service du bien commun, les jumeaux numériques et l&#x27;intelligence artificielle ; Mme Cobb partagera les enseignements de l&#x27;île Fogo à Terre-Neuve-et-Labrador sur l&#x27;économie ancrée et la résilience communautaire</description>
-        <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>C&#x27;est vraiment dommage : pourquoi Waze et Google Maps ne donnent plus les trajets les plus rapides en France</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260924-presse-citron-waze-google-maps-trajets-rapides-france.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260924-presse-citron-waze-google-maps-trajets-rapides-france.html</guid>
-        <description>Waze et Google Maps appliquent désormais le décret français n° 2022-1199 qui oblige les applications de navigation à mettre en avant les trajets les moins polluants au lieu des trajets les plus rapides, avec obligation de proposer une alternative à vitesse réduite sur les portions à 110 km/h ou plus. — Key takeaways: Le décret n° 2022-1199 oblige les plateformes numériques à mettre en avant les itinéraires au plus faible impact environnemental ; Les applications doivent proposer une alternative avec une vitesse réduite de 20 km/h sur les portions à 110 km/h ou plus ; Waze et Google Maps appliquent désormais ce décret en France, favorisant les trajets écologiques ; Les utilisateurs peuvent toujours revenir aux trajets les plus rapides via les réglages ; La région Île-de-France avait déjà sollicité Google Maps pour modifier son fonctionnement avant les JO de Paris 2024 ; Le Syndicat des transports d&#x27;Île-de-France menace de faire fermer les applications qui ne fluidifient pas le trafic</description>
-        <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Delhi MCD&#x27;s new property tax drive: Drones to map buildings and spot discrepancies</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260924-livemint-delhi-mcd-drone-survey-property-tax-gis-lidar.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260924-livemint-delhi-mcd-drone-survey-property-tax-gis-lidar.html</guid>
-        <description>Delhi&#x27;s Municipal Corporation has launched a pilot drone survey in two wards using GIS, LiDAR, AI, and 3D modelling to identify unassessed and under-assessed properties, building a more accurate digital property database and reducing reliance on manual inspections. — Key takeaways: MCD launched a pilot drone survey in Rohini F Ward and Gharoli Ward as the first phase of a technology-driven property assessment approach ; The survey combines drone imagery with GIS, LiDAR-based mapping, geo-tagging, AI, and 3D digital modelling ; The system identifies incorrectly mapped records, duplicate entries, and additional floors not in existing records ; Ward- and zone-level dashboards will let officials monitor discrepancies, issue notices, and track property tax arrears ; The GIS-based system supports faster grievance redressal through digital access to property information ; The initiative aims to bring greater transparency while reducing physical interaction with civic officials</description>
-        <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>New Google Maps Navigation Update: Traffic Lights and Stop Sign Pop-Ups on Android Auto</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260924-autoevolution-google-maps-traffic-lights-stop-sign-popups-android-auto.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260924-autoevolution-google-maps-traffic-lights-stop-sign-popups-android-auto.html</guid>
-        <description>Google Maps on Android Auto has started showing pop-up indicators for traffic lights and stop signs at the next turn location during navigation, providing drivers with a clearer way to anticipate intersections without distracting alerts. — Key takeaways: Google Maps on Android Auto now shows pop-ups at the next turn location with traffic light or stop sign indicators ; Unlike traditional alerts (e.g., speed traps), these pop-ups integrate into the navigation interface rather than sending notifications ; Google Maps has shown traffic lights on the map for years, but only as static icons without navigation-time alerts ; The new approach avoids the annoyance of frequent intersection alerts on city roads while still improving awareness ; The rollout appears to be gradual, with the feature being tested before wider deployment</description>
-        <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
     </item>
 
 </channel>
