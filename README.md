@@ -20,12 +20,21 @@ Articles per month:
 2026-07 | █████ 10<br>
 2026-08 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 267<br>
 2026-09 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 226<br>
-2026-10 | ████████ 12<br>
+2026-10 | ██████████████ 21<br>
 ## Articles
 
 ### 2026
 
-#### October (12 articles)
+#### October (21 articles)
+- [How the fighting in Ethiopia spread beyond Tigray, in maps and charts](src/2026-10/20261003-aljazeera-ethiopia-conflict-maps-charts-tigray.md)
+- [Live Map: Track the path of Hurricane Rachel](src/2026-10/20261003-pbs-hurricane-rachel-live-map-track-path.md)
+- [Cal Fire launches AwareCA emergency alerts app with interactive maps](src/2026-10/20261003-pressdemocrat-awareca-cal-fire-emergency-map-app.md)
+- [StreetComplete : l'outil pour enrichir les cartes OpenStreetMap](src/2026-10/20261003-frandroid-streetcomplete-openstreetmap-contributor-app.md)
+- [Google Maps, « pass toilettes » : la Wallonie veut faciliter l'accès aux toilettes](src/2026-10/20261003-21news-wallonie-toilettes-publiques-google-maps.md)
+- [Hyundai launches Pleos Connect in the US: HERE Maps meets Google Places](src/2026-10/20261003-tarantas-hyundai-pleos-connect-here-maps-google-places.md)
+- [Tech for Earth: Methane, Penguins, and a Volcano Nobody Was Watching](src/2026-10/20261003-geoawesome-tech-for-earth-methane-penguins-volcano-overture.md)
+- [Mapping a Greener Future for Louisville: Geography Alumna Leads Brightside, Inc.](src/2026-10/20261003-uofl-gis-alumna-leads-brightside-louisville.md)
+- [When Athens Paralysed: How the Year's Biggest Traffic Jam Was Created](src/2026-10/20261003-4troxoi-athens-tomtom-traffic-index-biggest-jam.md)
 - [Google Maps, cette amélioration va faire du bien aux usagers d'Android Auto](src/2026-10/20261002-automoto-google-maps-feux-stops-android-auto.md)
 - [New Google Maps images reveal massive scale of devastation in Gaza](src/2026-10/20261002-guardian-google-maps-satellite-gaza-devastation.md)
 - [Viral Google Maps Images Shared Widely This Week Show Gaza Ruins. We Obtained More Recent Satellite Imagery](src/2026-10/20261002-bellingcat-google-maps-gaza-satellite-imagery-analysis.md)
