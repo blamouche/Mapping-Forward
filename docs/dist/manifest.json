@@ -1,8 +1,8 @@
 {
   "site": "Mapping Forward",
   "url": "https://mappingforward.fr",
-  "generated": "2026-10-03T06:07:00.781517",
-  "article_count": 1060,
+  "generated": "2026-10-04T06:03:06.471463",
+  "article_count": 1065,
   "articles": [
     {
       "title": "Google Maps, « pass toilettes » : la Wallonie veut faciliter l'accès aux toilettes",
@@ -50,6 +50,15 @@
       "elevator_pitch": "Cal Fire, in partnership with software company Intterra, launched AwareCA, a free mobile app providing real-time emergency information with interactive maps built on Mapbox, directly challenging the popular Watch Duty wildfire alert platform."
     },
     {
+      "title": "Drivers Single Out Birmingham Road Over Traffic Frustration",
+      "url": "https://mappingforward.fr/articles/2026-10/20261003-birminghammail-hagley-road-tomtom-traffic-index.html",
+      "date": "2026-10-03",
+      "source": "https://www.birminghammail.co.uk/news/midlands-news/drivers-single-out-birmingham-road-34706671",
+      "author": "Birmingham Live",
+      "keywords": "TomTom Traffic Index, Birmingham, Hagley Road, traffic congestion, urban mobility, London Northwestern Railway, evening rush hour, UK, speed data",
+      "elevator_pitch": "Birmingham Live reports that drivers surveyed by London Northwestern Railway repeatedly named Hagley Road as Birmingham's least favourite road, while the TomTom Traffic Index 2025 recorded an average evening rush-hour speed of just 13mph across the city, illustrating the scale of Birmingham's congestion problem."
+    },
+    {
       "title": "Tech for Earth: Methane, Penguins, and a Volcano Nobody Was Watching",
       "url": "https://mappingforward.fr/articles/2026-10/20261003-geoawesome-tech-for-earth-methane-penguins-volcano-overture.html",
       "date": "2026-09-30",
@@ -57,6 +66,24 @@
       "author": "Sebastian Walczak (Geoawesome)",
       "keywords": "MAPL-EMIT, methane plumes, Google Research, NASA, PNAS, WeatherNext 3, Sentinel-1, emperor penguins, NISAR, volcano monitoring, Overture Maps, satellite imagery, remote sensing, Earth observation, Vega-C, FLEX, Sentinel-3C",
       "elevator_pitch": "Geoawesome's monthly Earth observation roundup covers Google and NASA's AI model that found 23,000 methane plumes from space, Sentinel-1 radar tracking of emperor penguin colonies in Antarctic darkness, NISAR's nine-month volcano time-lapse, and the latest Overture Maps data release."
+    },
+    {
+      "title": "Android Auto vs CarPlay: Five Reasons Why Google Keeps the Advantage",
+      "url": "https://mappingforward.fr/articles/2026-10/20261003-androidmt-android-auto-vs-carplay-google-advantage.html",
+      "date": "2026-10-03",
+      "source": "https://android-mt.ouest-france.fr/news/android-auto-contre-carplay-cinq-raisons-pour-lesquelles-google-garde-lavantage/224142/",
+      "author": "Android MT - Ouest-France",
+      "keywords": "Android Auto, CarPlay, Google Maps, Apple Maps, Gemini, Siri, navigation, infotainment, connected car, Google, Apple",
+      "elevator_pitch": "French tech outlet Android MT (Ouest-France) compares Android Auto and Apple CarPlay across five key dimensions, arguing that Google retains the advantage thanks to Google Maps' data depth, Gemini's superior voice assistance, richer notification handling, broader third-party app support, and proactive speed alerts."
+    },
+    {
+      "title": "Best Radar Detector for Cars: Comparative Review",
+      "url": "https://mappingforward.fr/articles/2026-10/20261003-motor16-mejor-avisador-radares-tomtom-comparativa.html",
+      "date": "2026-10-03",
+      "source": "https://www.motor16.com/las-ultimas-noticias/mejor-avisador-de-radares-para-coche-comparativa/",
+      "author": "Motor16",
+      "keywords": "TomTom, radar detector, speed camera alerts, CarPlay, Android Auto, OOONO, Technaxx, Blitzer.de, driving safety, road alerts, traffic enforcement",
+      "elevator_pitch": "Spanish automotive site Motor16 publishes a comparative review of radar detector devices for cars, with the TomTom Avisador de Radar Coche standing out for its integrated audio and visual speed camera alerts, CarPlay and Android Auto compatibility, and no declared subscription requirement."
     },
     {
       "title": "StreetComplete : l'outil pour enrichir les cartes OpenStreetMap",
@@ -75,6 +102,24 @@
       "author": "Marium Ali (Al Jazeera)",
       "keywords": "Ethiopia, Tigray, conflict mapping, interactive maps, Amhara, Afar, TPLF, civil war, ACLED, cartographie conflictuelle, cartes interactives",
       "elevator_pitch": "Al Jazeera published a detailed visual explainer using interactive maps and charts to show how fighting has intensified across northern Ethiopia, spreading from Tigray into Amhara and Afar regions, nearly four years after a peace deal ended the devastating 2020-2022 Tigray war."
+    },
+    {
+      "title": "Two Ferrari F40 \"Abandoned\" on Google Maps: A YouTuber's Disillusioning Hunt",
+      "url": "https://mappingforward.fr/articles/2026-10/20261003-autoplus-ferrari-f40-google-maps-replica-hunt.html",
+      "date": "2026-10-03",
+      "source": "https://www.autoplus.fr/actualite/insolite/il-repere-deux-ferrari-f40-abandonnees-sur-google-maps-et-decide-de-partir-a-leur-recherche-1460482.html",
+      "author": "Auto Plus",
+      "keywords": "Google Maps, Ferrari F40, Pontiac Fiero, replica, kit car, satellite imagery, YouTuber, Spain, supercar, automotive discovery",
+      "elevator_pitch": "French automotive outlet Auto Plus recounts how a Spanish YouTuber spotted what appeared to be two abandoned Ferrari F40s on Google Maps in rural Spain, only to discover on-site that both were cheap replicas built on Pontiac Fiero chassis — illustrating how satellite imagery can deceive."
+    },
+    {
+      "title": "Google Maps' Indoor Maps: The Overlooked Feature for Navigating Buildings",
+      "url": "https://mappingforward.fr/articles/2026-10/20261003-howtogeek-google-maps-indoor-maps-overlooked-feature.html",
+      "date": "2026-10-03",
+      "source": "https://www.howtogeek.com/this-might-be-one-of-google-maps-most-overlooked-features/",
+      "author": "How-To Geek",
+      "keywords": "Google Maps, Indoor Maps, floor plans, airports, shopping malls, navigation, mobile features, 360-degree photos, travel",
+      "elevator_pitch": "How-To Geek highlights Google Maps' Indoor Maps feature, which displays floor plans and points of interest inside supported buildings like airports and shopping malls, arguing it is one of the app's most underappreciated tools for travelers navigating unfamiliar indoor spaces."
     },
     {
       "title": "Mapping a Greener Future for Louisville: Geography Alumna Leads Brightside, Inc.",
