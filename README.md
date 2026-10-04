@@ -20,12 +20,17 @@ Articles per month:
 2026-07 | █████ 10<br>
 2026-08 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 267<br>
 2026-09 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 226<br>
-2026-10 | ██████████████ 21<br>
+2026-10 | ██████████████████ 26<br>
 ## Articles
 
 ### 2026
 
-#### October (21 articles)
+#### October (26 articles)
+- [Android Auto vs CarPlay: Five Reasons Why Google Keeps the Advantage](src/2026-10/20261003-androidmt-android-auto-vs-carplay-google-advantage.md)
+- [Two Ferrari F40 "Abandoned" on Google Maps: A YouTuber's Disillusioning Hunt](src/2026-10/20261003-autoplus-ferrari-f40-google-maps-replica-hunt.md)
+- [Google Maps' Indoor Maps: The Overlooked Feature for Navigating Buildings](src/2026-10/20261003-howtogeek-google-maps-indoor-maps-overlooked-feature.md)
+- [Drivers Single Out Birmingham Road Over Traffic Frustration](src/2026-10/20261003-birminghammail-hagley-road-tomtom-traffic-index.md)
+- [Best Radar Detector for Cars: Comparative Review](src/2026-10/20261003-motor16-mejor-avisador-radares-tomtom-comparativa.md)
 - [How the fighting in Ethiopia spread beyond Tigray, in maps and charts](src/2026-10/20261003-aljazeera-ethiopia-conflict-maps-charts-tigray.md)
 - [Live Map: Track the path of Hurricane Rachel](src/2026-10/20261003-pbs-hurricane-rachel-live-map-track-path.md)
 - [Cal Fire launches AwareCA emergency alerts app with interactive maps](src/2026-10/20261003-pressdemocrat-awareca-cal-fire-emergency-map-app.md)
