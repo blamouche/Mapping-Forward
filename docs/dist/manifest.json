@@ -1,9 +1,90 @@
 {
   "site": "Mapping Forward",
   "url": "https://mappingforward.fr",
-  "generated": "2026-10-04T06:03:06.471463",
-  "article_count": 1065,
+  "generated": "2026-10-05T06:05:05.277433",
+  "article_count": 1074,
   "articles": [
+    {
+      "title": "Bhilai Municipal Corporation to Map Drainage Network with GIS and Drone Surveys",
+      "url": "https://mappingforward.fr/articles/2026-10/20261004-timesofindia-bhilai-gis-drone-drainage-mapping.html",
+      "date": "2026-10-04",
+      "source": "https://timesofindia.indiatimes.com/city/raipur/bhilai-municipal-corporation-to-map-drainage-network-with-gis-drone-surveys/amp_articleshow/134662514.cms",
+      "author": "Partha Behera, The Times of India",
+      "keywords": "GIS, drone surveys, drainage mapping, Bhilai, digital twin, urban water management, geo-tagging, groundwater, Chhattisgarh, JAL-RAKSHA",
+      "elevator_pitch": "La municipalité de Bhilai lance un plan intégré de gestion de l'eau urbaine utilisant la cartographie SIG et les relevés par drone pour modéliser 350 km de réseaux routiers et de drainage et créer un jumeau numérique de l'infrastructure hydrique de la ville."
+    },
+    {
+      "title": "National Webinar Highlights Critical Role of GIS in Disaster Risk Reduction in Assam",
+      "url": "https://mappingforward.fr/articles/2026-10/20261004-sentinelassam-gis-disaster-risk-reduction-webinar-biswanath.html",
+      "date": "2026-10-04",
+      "source": "https://www.sentinelassam.com/north-east-india-news/assam-news/assam-national-webinar-highlights-critical-role-of-gis-in-disaster-risk-reduction-in-biswanath",
+      "author": "Sentinel Digital Desk, The Sentinel",
+      "keywords": "GIS, remote sensing, disaster management, Assam, Biswanath College, webinar, geospatial technology, hazard mitigation, India",
+      "elevator_pitch": "Un webinaire national au Biswanath College en Assam a réuni plus de 300 participants pour explorer le rôle critique du SIG et de la télédétection dans la surveillance, l'atténuation et la réponse aux catastrophes naturelles."
+    },
+    {
+      "title": "Wildfire Map Spotlight: Bouquet Fire, California",
+      "url": "https://mappingforward.fr/articles/2026-10/20261004-iqair-wildfire-map-bouquet-fire-california.html",
+      "date": "2026-10-04",
+      "source": "https://www.iqair.com/ca-fr/newsroom/wildfire-map-spotlight-bouquet-fire-california",
+      "author": "IQAir Staff Writers",
+      "keywords": "wildfire, Bouquet Fire, California, Santa Clarita, evacuation, smoke advisory, air quality, Angeles National Forest, fire containment map",
+      "elevator_pitch": "Le Bouquet Fire, qui brûle dans l'Angeles National Forest au nord-est de Santa Clarita en Californie, a consumé 1 048 acres et est contenu à 40% au 4 octobre 2026, avec des ordres d'évacuation en vigueur pour plusieurs zones."
+    },
+    {
+      "title": "Google Maps Leads British Tourist Into Vietnam Jungle: Police Rescue Earns Praise",
+      "url": "https://mappingforward.fr/articles/2026-10/20261004-vietnam-google-maps-british-tourist-jungle-vietnam.html",
+      "date": "2026-10-04",
+      "source": "https://www.vietnam.vn/fr/google-maps-dan-du-khach-anh-lac-giua-rung-di-qua-34-quoc-gia-canh-sat-viet-nam-tuyet-voi-nhat",
+      "author": "Tuổi Trẻ / Vietnam.vn",
+      "keywords": "Google Maps, Vietnam, tourism, navigation error, jungle, police rescue, Quang Ngai, motorcycle travel, road safety",
+      "elevator_pitch": "Un touriste britannique de 63 ans, suivant les indications de Google Maps pour aller de Quy Nhon à Da Nang, s'est perdu sur une piste forestière dangereuse au Vietnam, où sa moto a crevé — secouru par deux policiers vietnamiens qu'il qualifie de meilleure police rencontrée en 34 pays."
+    },
+    {
+      "title": "'Little Blue Dot' Review: Maps and Satellites — The GPS Story from Cold War to Civilian Life and Back to War",
+      "url": "https://mappingforward.fr/articles/2026-10/20261004-wsj-little-blue-dot-review-maps-satellites.html",
+      "date": "2026-10-04",
+      "source": "https://www.wsj.com/arts-culture/books/little-blue-dot-review-maps-and-satellites-f299d7c8",
+      "author": "Feyi Fawehinmi, Wall Street Journal",
+      "keywords": "GPS, Global Positioning System, satellites, military technology, civilian navigation, Katherine Dunn, book review, Strava, Cold War, Sputnik",
+      "elevator_pitch": "Le livre 'Little Blue Dot' de Katherine Dunn raconte comment le GPS, conçu par l'armée américaine pendant la Guerre froide, est devenu un élément banal de la vie civile avant d'être rappelé à la guerre — avec des implications surprenantes pour la vie privée et la sécurité."
+    },
+    {
+      "title": "Hidden Google Maps Settings That Make Android Auto Navigation Miles Better",
+      "url": "https://mappingforward.fr/articles/2026-10/20261004-androidpolice-google-maps-android-auto-settings.html",
+      "date": "2026-10-04",
+      "source": "https://www.androidpolice.com/changed-these-google-maps-settings-android-auto-became-much-easier-to-use/",
+      "author": "Parth Shah, Android Police",
+      "keywords": "Google Maps, Android Auto, navigation settings, Gemini Actions, driving avatar, fuel-efficient routing, media playback, customization",
+      "elevator_pitch": "Cinq réglages cachés de Google Maps — raccourcis de destinations, actions Gemini, avatar de conduite, type de moteur et contrôles média — transforment l'expérience Android Auto en rendant la navigation plus rapide, propre et moins distrayante."
+    },
+    {
+      "title": "Jamaica Launches MapMakers Programme to Modernise Geography Education with GIS",
+      "url": "https://mappingforward.fr/articles/2026-10/20261004-jis-jamaica-mapmakers-geography-education-gis.html",
+      "date": "2026-10-04",
+      "source": "https://jis.gov.jm/new-initiative-launched-to-modernise-teaching-of-geography-in-schools/",
+      "author": "Jamaica Information Service",
+      "keywords": "GIS, Jamaica, MapMakers, Esri, National Geographic Society, geography education, ArcGIS, Spatial Innovation, Andrew Holness, digital mapping",
+      "elevator_pitch": "Le premier ministre jamaïcain Andrew Holness a lancé le programme MapMakers, une collaboration entre Esri et la National Geographic Society, pour moderniser l'enseignement de la géographie dans huit écoles secondaires grâce aux SIG."
+    },
+    {
+      "title": "Victorian Watercolour Found on Back of Geological Map After 150 Years",
+      "url": "https://mappingforward.fr/articles/2026-10/20261004-bbc-dryburgh-bridge-painting-back-of-map.html",
+      "date": "2026-10-04",
+      "source": "https://www.bbc.com/news/articles/cmp8d622dxe2o",
+      "author": "BBC News",
+      "keywords": "geological map, watercolour, Dryburgh Bridge, Benjamin Peach, British Geological Survey, Victorian, field mapping, Scottish Borders, archives",
+      "elevator_pitch": "Une aquarelle du pont suspendu de Dryburgh dans les Scottish Borders, peinte par le géologue Benjamin Peach dans les années 1870, a été découverte par hasard au dos d'une carte géologique restée 150 ans dans les archives du British Geological Survey."
+    },
+    {
+      "title": "Google Maps Error Sends Dozens of Families Into the Mojave Desert and Leaves Them Stranded",
+      "url": "https://mappingforward.fr/articles/2026-10/20261004-lacremedugaming-google-maps-mojave-desert-error.html",
+      "date": "2026-10-04",
+      "source": "https://www.lacremedugaming.fr/high-tech/une-erreur-de-google-maps-envoie-des-dizaines-de-familles-en-plein-desert-et-les-laisse-completement-bloquees-227266.html",
+      "author": "Valentin Grégoire, La Crème Du Gaming",
+      "keywords": "Google Maps, navigation error, Mojave Desert, Las Vegas, Android Auto, route planning, GPS failure, road safety",
+      "elevator_pitch": "Un détour proposé par Google Maps à des familles rentrant du Grand Prix de Las Vegas a envoyé près de cent véhicules sur une piste impraticable au milieu du désert de Mojave, causant dégâts matériels et une odyssée de 14 heures."
+    },
     {
       "title": "Google Maps, « pass toilettes » : la Wallonie veut faciliter l'accès aux toilettes",
       "url": "https://mappingforward.fr/articles/2026-10/20261003-21news-wallonie-toilettes-publiques-google-maps.html",

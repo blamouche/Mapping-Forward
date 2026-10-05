@@ -6,7 +6,79 @@
     <description>Daily synthesis of articles on cartography, mapping, geospatial data, and geographic intelligence</description>
     <language>en</language>
     <atom:link href="https://mappingforward.fr/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 04 Oct 2026 06:03:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 06:05:05 +0000</lastBuildDate>
+
+    <item>
+        <title>Bhilai Municipal Corporation to Map Drainage Network with GIS and Drone Surveys</title>
+        <link>https://mappingforward.fr/articles/2026-10/20261004-timesofindia-bhilai-gis-drone-drainage-mapping.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261004-timesofindia-bhilai-gis-drone-drainage-mapping.html</guid>
+        <description>La municipalité de Bhilai lance un plan intégré de gestion de l&#x27;eau urbaine utilisant la cartographie SIG et les relevés par drone pour modéliser 350 km de réseaux routiers et de drainage et créer un jumeau numérique de l&#x27;infrastructure hydrique de la ville. — Key takeaways: Bhilai Municipal Corporation (BMC) initie un plan intégré de gestion de l&#x27;eau urbaine avec cartographie SIG et relevés par drone ; Le projet couvre environ 75-80 km² et près de 350 km de corridors routiers et de drainage ; Les points chroniques d&#x27;inondation seront géo-tagués pour identifier les goulots d&#x27;étranglement et les empiétements ; Un « JAL-RAKSHA Digital Twin » — modèle 3D de l&#x27;infrastructure hydrique — permettra le suivi en temps réel et la planification prédictive ; 24 forages municipaux seront testés pour la qualité de l&#x27;eau et l&#x27;évaluation des risques</description>
+        <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>National Webinar Highlights Critical Role of GIS in Disaster Risk Reduction in Assam</title>
+        <link>https://mappingforward.fr/articles/2026-10/20261004-sentinelassam-gis-disaster-risk-reduction-webinar-biswanath.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261004-sentinelassam-gis-disaster-risk-reduction-webinar-biswanath.html</guid>
+        <description>Un webinaire national au Biswanath College en Assam a réuni plus de 300 participants pour explorer le rôle critique du SIG et de la télédétection dans la surveillance, l&#x27;atténuation et la réponse aux catastrophes naturelles. — Key takeaways: Un webinaire national sur « l&#x27;usage du SIG et de la télédétection dans la gestion des catastrophes » s&#x27;est tenu le 1er octobre 2026 au Biswanath College (Assam) ; Plus de 300 participants — universitaires, professeurs assistants et officiels administratifs — y ont assisté ; Le Dr Abhishek Ghosh (NEHU) a présenté l&#x27;intégration pratique des technologies géospatiales pour surveiller et répondre aux risques naturels ; Le webinaire a été organisé par le Département de Géographie du Biswanath College ; L&#x27;événement souligne l&#x27;importance croissante du SIG dans la réduction des risques de catastrophe en Inde du Nord-Est</description>
+        <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Wildfire Map Spotlight: Bouquet Fire, California</title>
+        <link>https://mappingforward.fr/articles/2026-10/20261004-iqair-wildfire-map-bouquet-fire-california.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261004-iqair-wildfire-map-bouquet-fire-california.html</guid>
+        <description>Le Bouquet Fire, qui brûle dans l&#x27;Angeles National Forest au nord-est de Santa Clarita en Californie, a consumé 1 048 acres et est contenu à 40% au 4 octobre 2026, avec des ordres d&#x27;évacuation en vigueur pour plusieurs zones. — Key takeaways: Le Bouquet Fire brûle près de Bouquet Canyon Road et Quarry Road dans l&#x27;Angeles National Forest, au nord-est de Santa Clarita ; 1 048,5 acres brûlés, 40% de containment au 4 octobre 2026 ; Ordres d&#x27;évacuation pour les zones LAC-E018, LAC-E030-B et LAC-E031-A ; alertes pour LAC-E016 à LAC-E031-B ; Un avis de fumée est en vigueur pour la Santa Clarita Valley, le corridor de l&#x27;Interstate 5 et l&#x27;Angeles National Forest ; Bouquet Canyon Road est fermée au niveau de Vasquez Canyon Road ; un abri est ouvert au Castaic Sports Complex</description>
+        <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Google Maps Leads British Tourist Into Vietnam Jungle: Police Rescue Earns Praise</title>
+        <link>https://mappingforward.fr/articles/2026-10/20261004-vietnam-google-maps-british-tourist-jungle-vietnam.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261004-vietnam-google-maps-british-tourist-jungle-vietnam.html</guid>
+        <description>Un touriste britannique de 63 ans, suivant les indications de Google Maps pour aller de Quy Nhon à Da Nang, s&#x27;est perdu sur une piste forestière dangereuse au Vietnam, où sa moto a crevé — secouru par deux policiers vietnamiens qu&#x27;il qualifie de meilleure police rencontrée en 34 pays. — Key takeaways: Barry, un Britannique de 63 ans, suivait Google Maps de Quy Nhon à Da Nang en moto Kawasaki W650 (210 kg) ; L&#x27;itinéraire l&#x27;a conduit sur un chemin de terre à travers les montagnes de la commune de Dang Thuy Tram (province de Quang Ngai) ; Sa moto a crevé sur une section rocailleuse, le laissant bloqué plus de trois heures à pousser sa moto dans la montagne ; Deux policiers vietnamiens (lieutenant-colonel Dung et capitaine Tien) l&#x27;ont secouru, réparé sa moto et refusé tout paiement ; Au moins quatre cas similaires de touristes étrangers égarés par Google Maps sur cet itinéraire ont été recensés</description>
+        <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>&#x27;Little Blue Dot&#x27; Review: Maps and Satellites — The GPS Story from Cold War to Civilian Life and Back to War</title>
+        <link>https://mappingforward.fr/articles/2026-10/20261004-wsj-little-blue-dot-review-maps-satellites.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261004-wsj-little-blue-dot-review-maps-satellites.html</guid>
+        <description>Le livre &#x27;Little Blue Dot&#x27; de Katherine Dunn raconte comment le GPS, conçu par l&#x27;armée américaine pendant la Guerre froide, est devenu un élément banal de la vie civile avant d&#x27;être rappelé à la guerre — avec des implications surprenantes pour la vie privée et la sécurité. — Key takeaways: Le GPS a été conçu par l&#x27;armée américaine, inspiré par le lancement de Spoutnik par les Soviétiques en octobre 1957 ; La technologie est passée d&#x27;un outil militaire secret à un utilitaire civil omniprésent (navigation, livraison, fitness) ; Un officier naval français a révélé par inadvertance la position du porte-avions Charles de Gaulle en publiant sa course Strava ; Le livre explore la dualité du GPS : outil civil banal et instrument de puissance militaire ; Le GPS repose sur des horloges atomiques en orbite — « la carte dans votre poche repose sur des horloges atomiques dans le ciel »</description>
+        <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Hidden Google Maps Settings That Make Android Auto Navigation Miles Better</title>
+        <link>https://mappingforward.fr/articles/2026-10/20261004-androidpolice-google-maps-android-auto-settings.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261004-androidpolice-google-maps-android-auto-settings.html</guid>
+        <description>Cinq réglages cachés de Google Maps — raccourcis de destinations, actions Gemini, avatar de conduite, type de moteur et contrôles média — transforment l&#x27;expérience Android Auto en rendant la navigation plus rapide, propre et moins distrayante. — Key takeaways: Créer des raccourcis pour les destinations fréquentes (domicile, travail, médecin) évite de taper des adresses depuis l&#x27;auto ; Les Gemini Actions épinglées au tableau de bord permettent d&#x27;exécuter des commandes courantes en un seul tap (restaurants, stations, ETA WhatsApp) ; Changer l&#x27;avatar de navigation (style et couleur du véhicule) personnalise l&#x27;affichage carte ; Sélectionner le type de moteur (essence, diesel, hybride, électrique) améliore le calcul des itinéraires économes en carburant ; Activer les contrôles de lecture média dans Maps évite de basculer entre applications pendant la conduite</description>
+        <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Jamaica Launches MapMakers Programme to Modernise Geography Education with GIS</title>
+        <link>https://mappingforward.fr/articles/2026-10/20261004-jis-jamaica-mapmakers-geography-education-gis.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261004-jis-jamaica-mapmakers-geography-education-gis.html</guid>
+        <description>Le premier ministre jamaïcain Andrew Holness a lancé le programme MapMakers, une collaboration entre Esri et la National Geographic Society, pour moderniser l&#x27;enseignement de la géographie dans huit écoles secondaires grâce aux SIG. — Key takeaways: Le programme MapMakers est une collaboration mondiale entre Esri et la National Geographic Society ; Le pilote débutera dans huit écoles secondaires jamaïcaines et équipera les enseignants de géographie d&#x27;outils modernes ; L&#x27;initiative est pilotée régionalement par Spatial Innovation et livrée localement via le programme GIS in Schools Education ; Le lancement a eu lieu à la conférence Spatial ArcGIS User à Kingston le 29 septembre 2026 ; Le Dr Silburn Clarke souligne que l&#x27;IA, le temps réel et l&#x27;analyse prédictive façonneront l&#x27;avenir du SIG</description>
+        <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Victorian Watercolour Found on Back of Geological Map After 150 Years</title>
+        <link>https://mappingforward.fr/articles/2026-10/20261004-bbc-dryburgh-bridge-painting-back-of-map.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261004-bbc-dryburgh-bridge-painting-back-of-map.html</guid>
+        <description>Une aquarelle du pont suspendu de Dryburgh dans les Scottish Borders, peinte par le géologue Benjamin Peach dans les années 1870, a été découverte par hasard au dos d&#x27;une carte géologique restée 150 ans dans les archives du British Geological Survey. — Key takeaways: Une aquarelle du Dryburgh Suspension Bridge a été trouvée au dos de notes de terrain géologiques datant des années 1870 ; L&#x27;œuvre est attribuée à Benjamin Peach, géologue du British Geological Survey (BGS), qui travaillait sur le terrain à cette époque ; La peinture offre un « instantané du passage emblématique » probablement réalisé un an après l&#x27;ouverture du pont en 1872 ; Luis Albornoz-Parra (BGS) a découvert l&#x27;œuvre par hasard en consultant des field slips pour Historic Environment Scotland ; Peach a joué un rôle clé dans la résolution de la Highlands Controversy, l&#x27;un des plus grands débats géologiques du XIXe siècle</description>
+        <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Google Maps Error Sends Dozens of Families Into the Mojave Desert and Leaves Them Stranded</title>
+        <link>https://mappingforward.fr/articles/2026-10/20261004-lacremedugaming-google-maps-mojave-desert-error.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261004-lacremedugaming-google-maps-mojave-desert-error.html</guid>
+        <description>Un détour proposé par Google Maps à des familles rentrant du Grand Prix de Las Vegas a envoyé près de cent véhicules sur une piste impraticable au milieu du désert de Mojave, causant dégâts matériels et une odyssée de 14 heures. — Key takeaways: Pres de 100 voitures ont suivi un itinéraire alternatif Google Maps censé faire gagner 50 minutes entre Las Vegas et Los Angeles ; La route goudronnée s&#x27;est transformée en piste de gravier puis en chemin de terre impraticable dans le désert de Mojave pendant une tempête de sable ; Un véhicule a subi environ 5 000 $ de dégâts (pneu, géométrie), et la famille a dû faire remorquer, prendre un Uber puis un avion ; Google Maps a présenté ses excuses et supprimé l&#x27;itinéraire piégeux de ses propositions ; L&#x27;affaire rappelle le cas de Philip Paxson, mort en 2022 après avoir suivi un pont effondré signalé trop tard dans l&#x27;application</description>
+        <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
 
     <item>
         <title>Google Maps, « pass toilettes » : la Wallonie veut faciliter l&#x27;accès aux toilettes</title>
@@ -334,78 +406,6 @@
         <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260927-pib-india-digital-agriculture-gis-agristack.html</guid>
         <description>India&#x27;s Ministry of Agriculture reports that its AgriStack digital public infrastructure — combining geo-referenced village maps, farmer registries, and crop sown registries — has generated over 8.48 crore Farmer IDs and surveyed 28.5 crore plots, while the Krishi Decision Support System uses GIS to integrate satellite imagery, weather, soil, and crop data for agricultural planning. — Key takeaways: AgriStack consists of three foundational registries: Farmers Registry, Geo-Referenced Village Maps, and Crop Sown Registry, maintained by state governments ; Over 8.48 crore (84.8 million) Farmer IDs generated as of February 2026, enabling Direct Benefit Transfer integration ; Digital Crop Survey conducted in 604 districts covering 28.5 crore plots during Kharif 2025 ; Krishi Decision Support System is a geo-spatial platform using GIS to integrate satellite imagery, weather, soil, and crop data ; Maharashtra leveraged AgriStack to transfer over ₹14,000 crore to 89 lakh farmers for Kharif 2025 crop losses ; Chhattisgarh institutionalized Farmer ID and Digital Crop Survey for MSP-based paddy procurement covering 32 lakh farmers ; Namo Drone Didi scheme distributed 500 drones to women&#x27;s self-help groups, with study showing diversified agricultural practices</description>
         <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Uttarakhand CS Orders GIS Geo-Referencing of Water Supply Schemes After Jeolikote Contamination</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260927-garhwalpost-gis-water-supply-uttarakhand-jeolikote.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260927-garhwalpost-gis-water-supply-uttarakhand-jeolikote.html</guid>
-        <description>Following a contaminated drinking water incident in Jeolikote, Nainital, Uttarakhand&#x27;s Chief Secretary ordered GIS geo-referencing and geo mapping of all major water supply schemes across the state, including sources, storage, pipelines, sewer lines, and crossing points. — Key takeaways: Chief Secretary Anand Bardhan directed geo mapping and GIS geo-referencing of all major water supply schemes across Uttarakhand ; The mapping must cover the entire network from source to consumer, including storage, pipeline, sewer line, and crossing points ; Physical verification of major water supply schemes must be completed within 15 days ; The order follows a contaminated drinking water incident in Jeolikote, Nainital ; CS expressed strong displeasure that despite a strong field network, information about contamination didn&#x27;t reach state level in time ; An effective information and feedback mechanism using field staff (teachers, patwaris, gram panchayat officials, tubewell operators) must be developed ; SOP for checking drinking water and sewerage lines to be prepared and strictly enforced</description>
-        <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Google Maps&#x27; Ask Maps feature completely changed how I plan my road trips</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260927-androidpolice-ask-maps-road-trip-planning-gemini.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260927-androidpolice-ask-maps-road-trip-planning-gemini.html</guid>
-        <description>Android Police&#x27;s Akshay Bhalla reports that Google Maps&#x27; Gemini-powered Ask Maps feature transforms road trip planning from a multi-app, spreadsheet-heavy weekend task into a conversational experience that generates custom itineraries with scenic routes, food stops, and rest breaks based on personal preferences. — Key takeaways: Ask Maps is a Gemini-powered conversational feature in Google Maps accessible below the search bar, using live data from 300+ million places, reviews, and photos ; The feature leverages users&#x27; saved places, food preferences, and past searches to generate personalized road trip itineraries ; Ask Maps can pull from Google Calendar and Gmail when Gemini is connected to Google Workspace via Personal Intelligence settings ; Responses include visual customized maps with photos, summaries of places with reviews, hours, and other details ; The chat can be shared with travel companions for real-time trip tracking, and adapts on the fly to weather changes or route preferences ; Conversation memory carries over like Gemini, so users don&#x27;t need to restart chats to modify itineraries</description>
-        <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>L&#x27;Uit et l&#x27;Artci renforcent les capacités en SIG et gestion des données en Côte d&#x27;Ivoire</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260927-fratmat-gis-training-uit-artci-cote-ivoire.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260927-fratmat-gis-training-uit-artci-cote-ivoire.html</guid>
-        <description>The International Telecommunication Union (UIT) and Côte d&#x27;Ivoire&#x27;s telecommunications regulator ARTCI organized a sub-regional GIS training in Abidjan (September 21-25, 2026) as part of the Africa-BB-Maps initiative, teaching experts from three countries to use QGIS, PostgreSQL-PostGIS, and GeoServer for broadband infrastructure mapping. — Key takeaways: UIT and ARTCI organized a sub-regional GIS training at Capitol Hôtel, Abidjan, September 21-25, 2026 ; The training is part of the Africa-BB-Maps initiative, co-piloted by UIT and funded by the EU through the &quot;Global Gateway&quot; strategy ; Participants came from Côte d&#x27;Ivoire, Benin, and Burundi, plus representatives from ARTAO (Association of West African Telecommunications Regulators) ; Technical tools covered include QGIS, PostgreSQL-PostGIS databases, and GeoServer platform ; The training followed a foundational session held in Cotonou, Benin, in June 2026 ; Objective: enable participants to map existing internet infrastructure locations and identify areas needing network improvements ; ARTCI has several years of expertise with its online cartography tool &quot;cartodonnees.artci.ci&quot;</description>
-        <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Accès à l&#x27;A8 depuis la promenade des Anglais à Nice : ce que révèlent les chiffres de TomTom</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260927-nicematin-tomtom-a8-congestion-nice-promenade-anglais.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260927-nicematin-tomtom-a8-congestion-nice-promenade-anglais.html</guid>
-        <description>TomTom traffic data reveals that the reopening of the A8 motorway entrance from Nice&#x27;s promenade des Anglais via boulevard du Mercantour has worsened congestion by 20 percentage points compared to 2025, with peak congestion exceeding 200% in 2026 versus 165% the previous year. — Key takeaways: Since August 20, 2026, the Métropole Nice Côte d&#x27;Azur reopened the A8 entrance from the promenade des Anglais via boulevard du Mercantour, reversing Christian Estrosi&#x27;s 2025 closure ; TomTom data shows average congestion in the zone rose from 33.7% (2025) to 54.6% (2026) between August 20 and September 10 ; Peak congestion record in 2025 was 165%, while 2026 already exceeds 200% ; The busiest days remain Wednesdays, Thursdays, and Fridays, with the most congested hours between 16:00 and 19:00 ; Two-thirds of Nice-Matin readers favor making the access permanent, though many report worse traffic on avenue Valéry-Giscard-d&#x27;Estaing ; The experimental reopening runs until October 30, 2026, with the prefecture evaluating effects on traffic flow</description>
-        <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Halifax&#x27;s traffic problem is growing alongside South Dartmouth&#x27;s neighbourhoods</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260926-narcity-halifax-tomtom-traffic-index-canada-congestion.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260926-narcity-halifax-tomtom-traffic-index-canada-congestion.html</guid>
-        <description>Halifax ranked third worst in Canada for traffic congestion in 2025 according to the TomTom Traffic Index, with drivers losing 111 hours to rush hour — more than Toronto commuters — as fast-tracked housing development in South Dartmouth outpaces transportation infrastructure. — Key takeaways: Halifax city centre ranked third worst in Canada for traffic congestion in 2025 per the TomTom Traffic Index, behind Vancouver and Toronto ; Drivers in Halifax Regional Municipality lost 111 hours to rush hour, more than Toronto&#x27;s 100 hours despite Toronto being 14× larger ; Average daily traffic on Pleasant Street climbed 8% between December 2021 and May 2025 (10,987 to 11,828 vehicles/day) ; Traffic counts on Mount Hope Avenue rose nearly 5% in one year (15,392 to 16,139 vehicles/day) ; Nearly 1,800 residential units approved through Special Planning Areas (SPA) in Mount Hope Village and Opal Ridge ; 518 collisions on Pleasant Street between 2018 and 2026 resulted in three fatalities, per HRM open data portal ; Route 5 transit passenger overload incidents tripled from 17 in 2022 to 57 in 2024 ; HRM proposed a $70-million Halifax Transit Core Service Plan changing 37% of bus routes</description>
-        <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Chhattisgarh achieves 99.34% geo-tagging success under Bhu-Gram GIS initiative</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260926-thehitavada-chhattisgarh-gis-geo-tagging-bhu-gram.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260926-thehitavada-chhattisgarh-gis-geo-tagging-bhu-gram.html</guid>
-        <description>Chhattisgarh has achieved 99.34% geo-tagging of its assets under the Bhu-Gram GIS initiative, overcoming challenges in remote forest tracts and hilly regions with poor network connectivity through coordination of field staff, panchayat representatives, and technical personnel. — Key takeaways: Chhattisgarh achieved 99.34% geo-tagging of its assets, ranking among the top-performing states in India ; GIS mapping conducted under the &#x27;Bhu-Gram&#x27; initiative is bolstering transparency in rural asset management ; The task was particularly complex in remote forest tracts, hilly regions, and areas with poor network connectivity ; Bastar and Surguja divisions presented the greatest challenges due to their remote and difficult terrain ; Success was achieved through coordination of field staff, Panchayat representatives, and technical personnel ; The geo-tagging program covers rural infrastructure assets across the state&#x27;s panchayat system</description>
-        <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Why Place Matters in Digital Health Communication</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260926-gisuser-place-matters-digital-health-communication.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260926-gisuser-place-matters-digital-health-communication.html</guid>
-        <description>Geographic information systems help health organizations see and explain spatial patterns in public health, but maps and data alone do not reach people — effective digital health communication requires combining GIS analysis with place-based content strategies and production workflows. — Key takeaways: GIS helps health organizations identify and visualize spatial patterns in disease prevalence, access to care, and health outcomes ; Maps and data alone are insufficient — they must be translated into accessible digital health content for target audiences ; Effective digital health communication requires understanding the &quot;place&quot; dimension: where audiences live, work, and seek care ; Production workflows for health content may involve analysts, writers, designers, developers, and video editors ; Smaller teams may need to bring in outside specialists for tasks such as cleaning datasets or designing accessible maps ; The integration of GIS with health communication supports targeted interventions and place-based public health messaging</description>
-        <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Mobile GIS Market Analysis: Growth Forecast 2026-2033</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260926-openpr-mobile-gis-market-analysis-2026-2033.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260926-openpr-mobile-gis-market-analysis-2026-2033.html</guid>
-        <description>The mobile GIS market is analyzed across application, type, technology, and geography with a global industry outlook and forecast covering 2026-2033, highlighting growth driven by field data collection demand, cloud integration, and location-based services expansion. — Key takeaways: Mobile GIS market report covers analysis by application, type, technology, and geography ; Global industry outlook and forecast period spans 2026-2033 ; Growth drivers include increasing demand for real-time field data collection and cloud-based GIS integration ; Mobile GIS enables field workers to capture, edit, and share geospatial data on portable devices ; Key technology segments include GPS/GNSS positioning, mobile sensors, and cloud synchronization ; Application areas span utilities, agriculture, disaster management, environmental monitoring, and urban planning ; The report examines market dynamics across North America, Europe, Asia-Pacific, and other regions</description>
-        <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Road Noise Immissions Now Available in the GIS Browser of the Canton of Zurich</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260926-zhch-strassenlaerm-immissionen-gis-browser-zuerich.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260926-zhch-strassenlaerm-immissionen-gis-browser-zuerich.html</guid>
-        <description>The Canton of Zurich has published two new road noise immission maps in its GIS-Browser, showing per-building noise exposure data for both the current state and planning horizon, providing transparent access to calculated road noise levels for property owners, planning offices, and authorities. — Key takeaways: Two new maps published in the Canton of Zurich&#x27;s GIS-Browser cover road noise immissions across the entire canton (excluding Zurich city) ; Maps show the current state (Istzustand) and planning horizon (Planungshorizont) noise exposure per building ; Each building displays the maximum calculated assessment level (Beurteilungspegel) ; Data includes immissions per measurement location at each building, information on relevant land use, and classification per LSV threshold system ; Information covers planning value (Planungswert), immission limit value (Immissionsgrenzwert), and alarm value (Alarmwert) ; Most existing noise barriers in the canton are also documented in the maps ; The data serves as a basis for planning remediation measures by road owners and responsible authorities</description>
-        <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
     </item>
 
 </channel>
