@@ -20,12 +20,21 @@ Articles per month:
 2026-07 | █████ 10<br>
 2026-08 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 267<br>
 2026-09 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 226<br>
-2026-10 | ██████████████████ 26<br>
+2026-10 | █████████████████████████████ 35<br>
 ## Articles
 
 ### 2026
 
-#### October (26 articles)
+#### October (35 articles)
+- [Bhilai Municipal Corporation to Map Drainage Network with GIS and Drone Surveys](src/2026-10/20261004-timesofindia-bhilai-gis-drone-drainage-mapping.md)
+- [National Webinar Highlights Critical Role of GIS in Disaster Risk Reduction in Assam](src/2026-10/20261004-sentinelassam-gis-disaster-risk-reduction-webinar-biswanath.md)
+- [Jamaica Launches MapMakers Programme to Modernise Geography Education with GIS](src/2026-10/20261004-jis-jamaica-mapmakers-geography-education-gis.md)
+- ['Little Blue Dot' Review: Maps and Satellites — The GPS Story from Cold War to Civilian Life and Back to War](src/2026-10/20261004-wsj-little-blue-dot-review-maps-satellites.md)
+- [Victorian Watercolour Found on Back of Geological Map After 150 Years](src/2026-10/20261004-bbc-dryburgh-bridge-painting-back-of-map.md)
+- [Hidden Google Maps Settings That Make Android Auto Navigation Miles Better](src/2026-10/20261004-androidpolice-google-maps-android-auto-settings.md)
+- [Wildfire Map Spotlight: Bouquet Fire, California](src/2026-10/20261004-iqair-wildfire-map-bouquet-fire-california.md)
+- [Google Maps Leads British Tourist Into Vietnam Jungle: Police Rescue Earns Praise](src/2026-10/20261004-vietnam-google-maps-british-tourist-jungle-vietnam.md)
+- [Google Maps Error Sends Dozens of Families Into the Mojave Desert and Leaves Them Stranded](src/2026-10/20261004-lacremedugaming-google-maps-mojave-desert-error.md)
 - [Android Auto vs CarPlay: Five Reasons Why Google Keeps the Advantage](src/2026-10/20261003-androidmt-android-auto-vs-carplay-google-advantage.md)
 - [Two Ferrari F40 "Abandoned" on Google Maps: A YouTuber's Disillusioning Hunt](src/2026-10/20261003-autoplus-ferrari-f40-google-maps-replica-hunt.md)
 - [Google Maps' Indoor Maps: The Overlooked Feature for Navigating Buildings](src/2026-10/20261003-howtogeek-google-maps-indoor-maps-overlooked-feature.md)
