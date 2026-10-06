@@ -6,7 +6,87 @@
     <description>Daily synthesis of articles on cartography, mapping, geospatial data, and geographic intelligence</description>
     <language>en</language>
     <atom:link href="https://mappingforward.fr/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 05 Oct 2026 06:05:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 06:06:23 +0000</lastBuildDate>
+
+    <item>
+        <title>Les raccourcis de Waze et Google Maps provoquent des bouchons cauchemar — une commune catalane réagit</title>
+        <link>https://mappingforward.fr/articles/2026-10/20261005-lindependant-waze-google-maps-raccourcis-bouchons-catalane.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261005-lindependant-waze-google-maps-raccourcis-bouchons-catalane.html</guid>
+        <description>La commune catalane de Maureillas-Las Illas saisit Waze et Google Maps après que leurs raccourcis ont envoyé des centaines de véhicules sur une route de montagne inadaptée, créant des situations dangereuses et insupportables pour les riverains. — Key takeaways: Waze et Google Maps ont dévié massivement le trafic vers la D13 entre Las Illas et Maureillas lors des bouchons estivaux à la frontière franco-espagnole ; La route de montagne, dont un tronçon est une simple piste, ne permet pas le croisement de deux véhicules ; La commune a saisi Waze et Google Maps et s&#x27;est inscrite à « Waze for Cities » pour partager les restrictions en temps réel ; Les secours seraient bloqués en cas de surcharge, avec un risque incendie élevé dans ce secteur boisé ; L&#x27;objectif est d&#x27;établir un protocole de fermeture ou de restriction automatique des itinéraires en cas de surcharge</description>
+        <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Google Maps : pourquoi 4,9 est mieux qu&#x27;une note de 5,0</title>
+        <link>https://mappingforward.fr/articles/2026-10/20261005-presseagence-google-maps-49-mieux-que-50-etoiles.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261005-presseagence-google-maps-49-mieux-que-50-etoiles.html</guid>
+        <description>Une analyse de Localo portant sur 16 098 profils Google Business révèle qu&#x27;une note de 4,9 permet un meilleur classement local sur Google Maps qu&#x27;une note parfaite de 5,0, grâce au volume d&#x27;avis. — Key takeaways: Les entreprises notées 4,9 apparaissent dans les trois premiers résultats locaux dans 69,1 % des cas, contre 53,6 % pour les 5,0 ; La différence de 15,5 points s&#x27;explique par le volume d&#x27;avis : les notes parfaites reposent souvent sur peu d&#x27;avis ; Les entreprises notées 5,0 avec plus de 200 avis atteignent un taux de 76,8 % dans les trois premiers ; Le nombre d&#x27;avis est crucial : 39,3 % de présence dans le top 3 avec 1-5 avis, contre 73,0 % avec 201-500 avis ; L&#x27;étude est observationnelle et ne prouve pas de causalité directe</description>
+        <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>South Korea Lightning Mapping Array (SKLMA) Version 1 Datasets Released</title>
+        <link>https://mappingforward.fr/articles/2026-10/20261005-nasa-south-korea-lightning-mapping-array-sklma.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261005-nasa-south-korea-lightning-mapping-array-sklma.html</guid>
+        <description>La NASA Earthdata publie les jeux de données Version 1 du South Korea Lightning Mapping Array (SKLMA), fournissant des observations de l&#x27;activité foudre totale sur la Corée du Sud. — Key takeaways: Les datasets SKLMA Version 1 sont désormais disponibles via NASA Earthdata ; Les données fournissent des observations de l&#x27;activité foudre totale (total lightning activity) ; Le dataset SKLMAGRIDDED offre des données maillées (gridded) pour l&#x27;analyse spatiale ; Les données supportent la recherche météorologique et la surveillance des phénomènes orageux ; Cette publication s&#x27;inscrit dans le cadre des observations atmosphériques continues de la NASA</description>
+        <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Google Maps les envoie en plein désert, 5 000 dollars de dégâts : pourquoi il ne faut pas toujours suivre l&#x27;application</title>
+        <link>https://mappingforward.fr/articles/2026-10/20261005-journaldugeek-google-maps-desert-shortcut-5000-dollars-damage.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261005-journaldugeek-google-maps-desert-shortcut-5000-dollars-damage.html</guid>
+        <description>Google Maps a proposé un raccourci à des automobilistes rentrant de Las Vegas qui s&#x27;est avéré être une piste de terre dans le désert, causant 5 000 dollars de dégâts et illustrant les dangers de la confiance aveugle dans la navigation GPS. — Key takeaways: Le 19 novembre 2023, Google Maps a proposé un raccourci à des automobilistes rentrant de Las Vegas ; Le raccourci était en réalité une piste de terre non goudronnée traversant le désert ; Les véhicules ont subi environ 5 000 dollars de dégâts ; L&#x27;incident illustre les risques de suivre aveuglément les itinéraires proposés par les applications de navigation ; Google Maps n&#x27;est pas le seul concerné : Waze et autres applications similaires ont déjà provoqué des situations similaires</description>
+        <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Ce smartphone récent fait buguer Google Maps dans Android Auto, la carte se fige et les utilisateurs n&#x27;ont aucune solution</title>
+        <link>https://mappingforward.fr/articles/2026-10/20261005-buzzarena-pixel-11-bug-google-maps-android-auto.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261005-buzzarena-pixel-11-bug-google-maps-android-auto.html</guid>
+        <description>Le Pixel 11, pourtant lancé en août dernier, provoque des bugs d&#x27;affichage de Google Maps dans Android Auto — cartes figées, position en retard, parasites à l&#x27;écran — sans aucune solution ni communication de Google. — Key takeaways: Le Pixel 11 provoque des bugs d&#x27;affichage de Google Maps dans Android Auto : cartes saccadées, position en retard, écran figé ; Le bug touche aussi bien les connexions sans fil qu&#x27;en USB ; Les solutions habituelles (vider le cache, réinstaller, changer de câble) ne corrigent pas le problème ; La situation est ironique : le Pixel 11, Android Auto et Google Maps sont tous trois conçus par Google ; Aucune communication officielle de Google sur ce bug qui touche aussi certains Pixel 9 Pro</description>
+        <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>The first glimpse of a water ice absorption map in the Milky Way</title>
+        <link>https://mappingforward.fr/articles/2026-10/20261005-aanda-water-ice-absorption-map-milky-way.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261005-aanda-water-ice-absorption-map-milky-way.html</guid>
+        <description>Des astronomes publient la première carte préliminaire à l&#x27;échelle de la Voie lactée de la distribution de glace d&#x27;eau, ouvrant une nouvelle fenêtre sur la chimie interstellaire et la formation stellaire. — Key takeaways: Première carte préliminaire à l&#x27;échelle de la Voie lactée de la distribution de glace d&#x27;eau ; La carte révèle la répartition de la glace d&#x27;eau dans le milieu interstellaire ; Les mots-clés ISM incluent abondances, nuages, poussière, extinction ; La publication combine observations spectroscopiques et modélisation de l&#x27;extinction ; Les données ouvrent de nouvelles pistes pour comprendre la chimie interstellaire et la formation d&#x27;étoiles</description>
+        <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Google Maps : comment remplacer votre icône de navigation par une Formule 1 McLaren</title>
+        <link>https://mappingforward.fr/articles/2026-10/20261005-frandroid-google-maps-mclaren-f1-navigation-icon.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261005-frandroid-google-maps-mclaren-f1-navigation-icon.html</guid>
+        <description>Jusqu&#x27;au 23 novembre 2026, Google Maps permet de remplacer l&#x27;icône de navigation par une monoplace McLaren de Formule 1, une activation à distance pour célébrer le Grand Prix des États-Unis à Austin. — Key takeaways: Google Maps permet temporairement de remplacer l&#x27;icône de navigation par une McLaren F1 ; L&#x27;option est disponible jusqu&#x27;au 23 novembre 2026, pour le Grand Prix des États-Unis du 25 octobre à Austin ; L&#x27;activation se fait à distance depuis les serveurs de Google, sans mise à jour d&#x27;application ; Le déploiement est progressif et peut ne pas être disponible sur tous les appareils immédiatement ; Google joue avec la personnalisation de l&#x27;icône depuis 2017, avec déjà huit modèles de véhicules disponibles</description>
+        <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Avis Google Maps, Gemini, anti-spam : 5 infos de la semaine</title>
+        <link>https://mappingforward.fr/articles/2026-10/20261005-infolux-avis-google-maps-connexion-gemini-utm-antispam.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261005-infolux-avis-google-maps-connexion-gemini-utm-antispam.html</guid>
+        <description>Cinq faits marquants de la semaine du 28 septembre au 4 octobre 2026 : les avis Google Maps exigent désormais un compte connecté, Gemini ajoute des paramètres UTM traçables, et la mise à jour anti-spam de Google est toujours en cours. — Key takeaways: Depuis le 30 septembre 2026, Google Maps exige d&#x27;être connecté à un compte Google pour lire tous les avis d&#x27;une fiche, les trier ou en publier un ; Un bogue place l&#x27;épingle Google Maps de certaines entreprises à zone de service en pleine mer ; Google Business Profile ajoute à ses règles l&#x27;abus des canaux d&#x27;assistance : les signalements infondés répétés peuvent faire rejeter toutes les plaintes suivantes ; Gemini ajoute des paramètres UTM à certains liens vers les sites, ce qui aide à compter ces visites dans GA4 ; La mise à jour anti-spam de septembre est toujours en cours le 5 octobre, avec une seconde vague observée le 30 septembre</description>
+        <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Des archéologues créent un « Google Maps des voies romaines », et le résultat est bluffant</title>
+        <link>https://mappingforward.fr/articles/2026-10/20261005-ouestfrance-archeologues-google-maps-voies-romaines.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261005-ouestfrance-archeologues-google-maps-voies-romaines.html</guid>
+        <description>Une équipe d&#x27;archéologues de l&#x27;université d&#x27;Aarhus a créé la carte la plus détaillée à ce jour du réseau routier de l&#x27;Empire romain (vers 150 apr. J.-C.), recensant près de 300 000 km de voies, disponible en ligne sur Itiner-e. — Key takeaways: Le projet Itiner-e (itiner-e.org) recense environ 299 171 km de voies romaines vers l&#x27;an 150 apr. J.-C. ; Cette carte augmente de près de 60 % la superficie connue du réseau de transport terrestre de l&#x27;Empire ; Seulement 2,8 % du réseau peut être localisé avec précision (à 50 m près en montagne, 200 m en plaine) ; Le projet combine cartographie topographique, imagerie satellite et siècles d&#x27;archives historiques ; Les données sont disponibles en libre accès dans la revue Scientific Data (Nature)</description>
+        <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Gemini intègre enfin Google Maps avec un nouvel outil dédié sur mobile</title>
+        <link>https://mappingforward.fr/articles/2026-10/20261005-blognt-gemini-integre-google-maps-outil-mobile.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261005-blognt-gemini-integre-google-maps-outil-mobile.html</guid>
+        <description>Google ajoute un nouvel outil Maps à Gemini sur Android et iOS, permettant à l&#x27;IA d&#x27;utiliser une zone géographique pour répondre aux recherches locales, transformant progressivement l&#x27;assistant en agent intelligent du quotidien. — Key takeaways: Google Maps est désormais directement intégré à Gemini via un nouvel outil dédié dans le carrousel des fonctionnalités ; La fonction « Map Area » permet de cibler une zone géographique précise et de lancer des recherches locales contextuelles ; Le déploiement est réservé aux applications Android et iOS, logique pour un usage en déplacement ; L&#x27;outil apparaît aux côtés de Photos, Appareil photo, Avatar, Fichiers, Drive et Notebooks ; L&#x27;intégration permet à Gemini de mieux comprendre le contexte géographique d&#x27;une demande plutôt que d&#x27;interpréter une adresse texte</description>
+        <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
 
     <item>
         <title>Bhilai Municipal Corporation to Map Drainage Network with GIS and Drone Surveys</title>
@@ -326,86 +406,6 @@
         <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260929-elpais-gaza-before-after-google-maps-satellite-imagery.html</guid>
         <description>EL PAÍS publie une analyse détaillée quartier par quartier des nouvelles images satellites de Google Maps sur la bande de Gaza, mises à jour avec des photos de février 2026. L&#x27;article contraste les images précédentes (2024, 2025) avec les plus récentes pour documenter l&#x27;ampleur des destructions — du village suédois disparu près de la frontière égyptienne aux ruines de l&#x27;hôpital Al-Shifa et du quartier de Rimal à Gaza City — et souligne que Google Maps a franchi un pas qu&#x27;Apple Maps n&#x27;a pas encore fait. — Key takeaways: Google Maps a mis à jour ses images satellites de la bande de Gaza avec des photos de février 2026, une première depuis plus d&#x27;un an, rendant visibles les destructions à l&#x27;échelle du territoire ; Google a mis à jour ses images en 2024, 2025 et 2026, un pas qu&#x27;Apple Maps n&#x27;a pas encore franchi ; À Tel al-Sultan (sud de la bande), à peine 10 bâtiments subsistent ; le « village suédois » près de la frontière égyptienne a entièrement disparu ; À Gaza City, 83% des bâtiments étaient endommagés dès octobre 2025 selon UNOSAT ; l&#x27;hôpital Al-Shifa, le plus grand complexe médical, est pratiquement détruit après deux sièges ; Le quartier de Rimal, autrefois le plus prospère, est en grande partie en ruines ; la tour Mushtaha (14 étages), le plus haut immeuble de Gaza, a été détruite en septembre 2025 ; L&#x27;ONU estime 1,9 million de personnes déplacées, 371 888 maisons détruites ou endommagées (plus de 60% de la population a perdu son logement), plus de la moitié des hôpitaux hors service ; L&#x27;économie de Gaza s&#x27;est contractée de 84% et le développement a été ramené en arrière de 77 ans selon l&#x27;ONU</description>
         <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>How Does Toyota&#x27;s Navigation App Compare to Google Maps?</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260929-bgr-toyota-drive-connect-vs-google-maps-navigation.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260929-bgr-toyota-drive-connect-vs-google-maps-navigation.html</guid>
-        <description>BGR et Vietnam.vn comparent Toyota Drive Connect, le système de navigation embarqué de Toyota, à Google Maps. Drive Connect offre une intégration profonde avec le véhicule, un assistant IA et un agent humain en direct, mais coûte environ 15$/mois et est limité à l&#x27;écosystème Toyota/Lexus. Google Maps reste gratuit, multimodal et universel, avec l&#x27;IA Gemini intégrée. Les deux plateformes répondent à des besoins différents plutôt qu&#x27;à une concurrence directe. — Key takeaways: Toyota Drive Connect est un système de navigation embarqué intégré à l&#x27;écran du véhicule, incluant cartes temps réel, assistant virtuel et agent humain en direct ; Drive Connect fait partie du pack Toyota Connected Services (démarrage à distance, assistance, gestion du véhicule) et coûte environ 15$/mois ; L&#x27;assistant intelligent de Drive Connect utilise le machine learning cloud pour la communication vocale : navigation, appels, musique, et accès à l&#x27;agent humain ; Google Maps reste gratuit, compatible multiplateforme (smartphones, Android Auto, Apple CarPlay, navigateur) et multimodal (marche, vélo, transports en commun) ; Google Maps intègre désormais l&#x27;IA Gemini pour une assistance conversationnelle (« Ask Maps »), bien que sans agent humain en direct ; Les deux plateformes ne sont pas en concurrence directe : Drive Connect cible l&#x27;intégration embarquée premium, Google Maps la polyvalence et la gratuité</description>
-        <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>I Tested Google Maps Immersive Navigation for 2 Weeks — and It Makes Seeing Tricky Exits a Breeze</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260929-tomsguide-google-maps-immersive-navigation-carplay-android-auto.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260929-tomsguide-google-maps-immersive-navigation-carplay-android-auto.html</guid>
-        <description>Un rédacteur de Tom&#x27;s Guide a testé la nouvelle navigation immersive de Google Maps pendant deux semaines sur Apple CarPlay et Android Auto. Le résultat : le rendu 3D avec profondeur réelle et le zoom intelligent dynamique transforment l&#x27;expérience de navigation, rendant les sorties d&#x27;autoroute complexes et les échangeurs multicouches beaucoup plus intuitifs, au point de devenir un « game-changer » impossible à abandonner. — Key takeaways: Google Maps Immersive Navigation est désormais disponible sur Android Auto et Apple CarPlay, avec un rendu 3D affichant une véritable profondeur et élévation ; La fonctionnalité rend les autoroutes multicouches beaucoup plus lisibles : les ponts surélevés et les bretelles de liaison sont clairement distingués des voies inférieures ; Le « smart zoom » ajuste dynamiquement la vue : recule pour révéler l&#x27;autoroute au loin sur les longs tronçons, se rapproche pour la précision lors des fusions multivoies et des sorties complexes ; Les bâtiments et arbres bordant la route sont également rendus en 3D, ajoutant du contexte spatial ; Le moteur de trafic en temps réel continue de prouver sa valeur en détectant les embouteillages tôt et en recalculant l&#x27;itinéraire à la volée ; L&#x27;auteur, qui teste environ 300 miles par semaine avec différents véhicules, considère la navigation immersive comme un argument décisif pour rester sur Google Maps</description>
-        <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Nizozemska navigacija: The TomTom Story from Palmtop to Global Mapping Giant</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260928-monitor-tomtom-history-nizozemska-navigacija.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260928-monitor-tomtom-history-nizozemska-navigacija.html</guid>
-        <description>Le magazine slovène Monitor retrace l&#x27;histoire complète de TomTom, depuis ses origines comme Palmtop Software dans les années 1990 jusqu&#x27;à sa transformation en fournisseur mondial de données de localisation, en passant par l&#x27;icône TomTom GO qui a créé la catégorie des navigateurs portables et la transition difficile vers l&#x27;ère des smartphones. — Key takeaways: TomTom a été fondé à Amsterdam par quatre amis : Harold Goddijn, Corinne Vigreux, Peter-Frans Pauwels et Pieter Geelen, initialement sous le nom de Palmtop Software ; À l&#x27;origine, l&#x27;entreprise développait des applications pour assistants personnels (Psion, Palm, Windows CE) : dictionnaires, outils financiers, listes de tâches ; Le virage vers la navigation s&#x27;est fait avec l&#x27;arrivée des premiers récepteurs GPS commerciaux et des dlančniki (PDA) plus puissants ; En 2002, TomTom lance son premier produit de navigation : TomTom Navigator, un package logiciel pour PDA avec récepteur GPS externe ; En 2004, le TomTom GO révolutionne le marché : un navigateur autonome tout-en-un (écran tactile, GPS intégré, batterie) qui devient un des produits d&#x27;électronique grand public les plus vendus de l&#x27;histoire ; Avec l&#x27;arrivée des smartphones, TomTom pivote vers la fourniture de données de localisation et de plateformes pour la conduite autonome ; TomTom Traffic exploite les données anonymisées de millions d&#x27;appareils connectés, flottes automobiles et applications mobiles ; Uber utilise les cartes TomTom ; la technologie TomTom est présente dans des centaines de millions de véhicules, smartphones et applications professionnelles dans le monde</description>
-        <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Bientôt, vous ne voudrez plus utiliser Waze ou Google Maps dans votre BMW</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260928-autofans-bmw-maps-waze-google-maps-navigation-integree.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260928-autofans-bmw-maps-waze-google-maps-navigation-integree.html</guid>
-        <description>BMW Maps reçoit en octobre 2026 une mise à jour majeure qui intègre navigation, reconnaissance de l&#x27;environnement et état des systèmes d&#x27;assistance dans une vue 3D unifiée, offrant un niveau d&#x27;information que ni Waze ni Google Maps ne peuvent égaler sur l&#x27;écran d&#x27;infodivertissement. — Key takeaways: À partir d&#x27;octobre 2026, BMW Maps combine navigation 3D, données d&#x27;aide à la conduite et environnement du véhicule en une vue unifiée sur l&#x27;écran d&#x27;infodivertissement ; Le système affiche directement dans la navigation pourquoi la voiture réagit à certains facteurs extérieurs, une transparence inédite pour le conducteur ; BMW y voit une étape cruciale vers la conduite autonome : le passager peut suivre exactement ce que la voiture détecte et pourquoi elle effectue certaines manœuvres ; Les BMW iX3 et Série 7 peuvent déjà rouler de manière partiellement autonome sur autoroute ; les environnements urbains suivront en Allemagne en 2027 ; Les BMW belges équipées du système d&#x27;infodivertissement le plus récent profiteront de ces infos supplémentaires même sans conduite autonome</description>
-        <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>People in Malta Lost Over Four Days in Traffic Last Year, TomTom Traffic Index Reveals</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260928-lovinmalta-tomtom-traffic-index-malta-congestion.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260928-lovinmalta-tomtom-traffic-index-malta-congestion.html</guid>
-        <description>Le TomTom Traffic Index 2025 révèle que les automobilistes maltais ont perdu plus de quatre jours en embouteillages sur l&#x27;année, avec un pic de congestion à 98% le lundi 13 octobre 2025, marquant une détérioration de plus de quatre heures par rapport à 2024. — Key takeaways: Les automobilistes maltais ont perdu 4 jours et 8 heures en embouteillages sur l&#x27;année 2025, pour des trajets de 11 km en heure de pointe ; Cela représente une augmentation de 4 heures et 13 minutes par rapport à 2024 ; Le pire jour de 2025 était le lundi 13 octobre, avec un niveau de congestion moyen de 98% autour de Valletta ; Les données de TomTom proviennent du Floating Car Data (FCD) : mesures GPS anonymes en temps réel envoyées par des appareils connectés, systèmes embarqués et applications smartphone ; Les données couvrent techniquement Valletta mais englobent sa zone métropolitaine, qui représente plus de la moitié de la population de l&#x27;île</description>
-        <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Updated Google Maps Satellite Images Reveal Gaza&#x27;s Destruction</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260928-ndtv-google-maps-satellite-gaza-destruction.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260928-ndtv-google-maps-satellite-gaza-destruction.html</guid>
-        <description>Google Maps a mis à jour ses images satellites de Gaza fin septembre 2026, révélant l&#x27;ampleur des destructions avec des quartiers entiers aplatis et recouverts de gravats, tandis que les marqueurs de lieux (écoles, mosquées, restaurants) persistent sur des bâtiments qui n&#x27;existent plus. — Key takeaways: Les nouvelles images satellites de Google Maps montrent des quartiers entiers de Gaza aplatis, avec des routes traversant des zones où se dressaient autrefois des bâtiments ; Les marqueurs pour écoles, mosquées, parcs et restaurants restent visibles mais ne confirment pas si les bâtiments existent encore ; À Khan Younis et Rafah, les rues et quartiers apparaissent recouverts de gravats ; Un rapport de l&#x27;ONU publié le 24 septembre 2026 estime qu&#x27;environ 1,9 million de personnes ont été déplacées à Gaza, plus de 60% de la population ayant perdu son logement ; Les images ont été largement partagées sur les réseaux sociaux fin septembre 2026</description>
-        <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>How to Improve CarPlay Navigation If You Use Google Maps Over Apple Maps</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260928-engadget-carplay-google-maps-navigation-tips.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260928-engadget-carplay-google-maps-navigation-tips.html</guid>
-        <description>Engadget détaille plusieurs astuces pour optimiser l&#x27;expérience Google Maps sur Apple CarPlay, du réglage de l&#x27;application de navigation par défaut disponible dans l&#x27;UE et au Japon à l&#x27;ajout de widgets et de favoris, comblant les limitations imposées par Apple. — Key takeaways: Dans l&#x27;UE et au Japon, les régulations locales permettent de définir Google Maps comme application de navigation par défaut via Réglages &gt; Apps &gt; Apps par défaut, ce qui active Google Maps pour les requêtes Siri ; Hors UE et Japon, ajouter « on Google Maps » aux requêtes Siri évite qu&#x27;Apple Maps s&#x27;ouvre par défaut ; Google Maps peut être placé en première page de l&#x27;écran d&#x27;accueil CarPlay via Réglages &gt; Général &gt; CarPlay &gt; Apps ; Un widget Google Maps peut être ajouté au tableau de bord CarPlay via Réglages &gt; CarPlay &gt; Widgets ; Les voitures avec tableau de bord CarPlay split-screen affichent une mini-carte après avoir lancé un itinéraire dans Google Maps ; Configurer les adresses domicile et travail dans Google Maps permet de démarrer les trajets fréquents en un seul tap depuis CarPlay ; Le téléchargement de cartes hors ligne est recommandé pour les longs trajets afin d&#x27;éviter les pertes de connexion</description>
-        <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Le «Google Maps» antique qui montre que tous les chemins ne menaient pas à Rome</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260928-lefigaro-google-maps-antique-voies-romaines-empire-romain.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260928-lefigaro-google-maps-antique-voies-romaines-empire-romain.html</guid>
-        <description>Une équipe scientifique publie dans Nature Communications une analyse approfondie de la structure du réseau routier de l&#x27;Empire romain à son apogée, fruit d&#x27;un travail colossal croisant sources écrites — dont la table de Peutinger — et données archéologiques, révélant une organisation plus complexe qu&#x27;attendu entre planification impériale et héritages locaux. — Key takeaways: Le réseau routier de l&#x27;Empire romain comptait plus de 300 000 km à son apogée, quadrillant l&#x27;ensemble du bassin méditerranéen ; En novembre 2025, la même équipe avait publié dans Scientific Data (Nature) un outil de navigation sur les routes romaines, surnommé « Google Maps antique », capable de calculer les temps de trajet entre villes antiques ; Le nouvel article dans Nature Communications analyse en profondeur la structure de ce vaste réseau, croisant la table de Peutinger et des données de fouilles archéologiques ; L&#x27;étude révèle que le réseau routier n&#x27;était pas uniformément planifié depuis Rome mais résultait d&#x27;un mélange entre planification impériale et héritages locaux ; L&#x27;article est paru le 28 septembre 2026 dans la revue Nature Communications</description>
-        <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>ChatGPT Maps arrive en France pour concurrencer Google Maps</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260928-frandroid-chatgpt-maps-france-google-maps-openai.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260928-frandroid-chatgpt-maps-france-google-maps-openai.html</guid>
-        <description>OpenAI a déployé ChatGPT Maps en France et dans l&#x27;Union européenne durant l&#x27;été 2026, permettant aux utilisateurs de rechercher restaurants, musées et commerces sur une carte interactive directement dans la conversation, mais sans navigation temps réel ni trafic — des fonctionnalités que Google Maps conserve en exclusivité. — Key takeaways: ChatGPT Maps, jusque-là réservé aux États-Unis et au Canada, a été déployé dans l&#x27;UE à l&#x27;été 2026 et est actif en France depuis fin septembre 2026 ; L&#x27;outil fonctionne uniquement sur la version web de ChatGPT (chatgpt.com/maps), pas encore sur les applications iOS et Android ; Les cartes proviennent de Mapbox et d&#x27;OpenStreetMap ; chaque lieu dispose d&#x27;une fiche avec horaires, adresse, photos, description et avis compilés ; ChatGPT Maps ne propose ni navigation temps réel, ni informations de trafic, ni publication d&#x27;avis par les utilisateurs — quatre lacunes majeures face à Google Maps ; Des publicités liées aux recherches s&#x27;affichent sous les résultats pour les utilisateurs des offres gratuite et Go ; les abonnés Plus, Pro et Enterprise en sont dispensés ; OpenAI a lancé la publicité dans 31 pays européens le 24 août 2026 ; le RGPD impose un consentement explicite pour les annonces personnalisées</description>
-        <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Outcome of Digital Agriculture Initiatives: India Leverages GIS and AgriStack</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260927-pib-india-digital-agriculture-gis-agristack.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260927-pib-india-digital-agriculture-gis-agristack.html</guid>
-        <description>India&#x27;s Ministry of Agriculture reports that its AgriStack digital public infrastructure — combining geo-referenced village maps, farmer registries, and crop sown registries — has generated over 8.48 crore Farmer IDs and surveyed 28.5 crore plots, while the Krishi Decision Support System uses GIS to integrate satellite imagery, weather, soil, and crop data for agricultural planning. — Key takeaways: AgriStack consists of three foundational registries: Farmers Registry, Geo-Referenced Village Maps, and Crop Sown Registry, maintained by state governments ; Over 8.48 crore (84.8 million) Farmer IDs generated as of February 2026, enabling Direct Benefit Transfer integration ; Digital Crop Survey conducted in 604 districts covering 28.5 crore plots during Kharif 2025 ; Krishi Decision Support System is a geo-spatial platform using GIS to integrate satellite imagery, weather, soil, and crop data ; Maharashtra leveraged AgriStack to transfer over ₹14,000 crore to 89 lakh farmers for Kharif 2025 crop losses ; Chhattisgarh institutionalized Farmer ID and Digital Crop Survey for MSP-based paddy procurement covering 32 lakh farmers ; Namo Drone Didi scheme distributed 500 drones to women&#x27;s self-help groups, with study showing diversified agricultural practices</description>
-        <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
     </item>
 
 </channel>

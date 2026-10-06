@@ -1,9 +1,99 @@
 {
   "site": "Mapping Forward",
   "url": "https://mappingforward.fr",
-  "generated": "2026-10-05T06:05:05.277433",
-  "article_count": 1074,
+  "generated": "2026-10-06T06:06:23.150109",
+  "article_count": 1084,
   "articles": [
+    {
+      "title": "Les raccourcis de Waze et Google Maps provoquent des bouchons cauchemar — une commune catalane réagit",
+      "url": "https://mappingforward.fr/articles/2026-10/20261005-lindependant-waze-google-maps-raccourcis-bouchons-catalane.html",
+      "date": "2026-10-05",
+      "source": "https://www.lindependant.fr/2026/10/05/les-raccourcis-de-waze-et-google-maps-provoquent-des-bouchons-cauchemar-cette-commune-catalane-prend-le-taureau-par-les-cornes-13584666.php",
+      "author": "L'Indépendant",
+      "keywords": "Waze, Google Maps, navigation shortcuts, traffic congestion, Maureillas-Las Illas, Catalonia, Waze for Cities, road safety, GPS rerouting",
+      "elevator_pitch": "La commune catalane de Maureillas-Las Illas saisit Waze et Google Maps après que leurs raccourcis ont envoyé des centaines de véhicules sur une route de montagne inadaptée, créant des situations dangereuses et insupportables pour les riverains."
+    },
+    {
+      "title": "Google Maps : pourquoi 4,9 est mieux qu'une note de 5,0",
+      "url": "https://mappingforward.fr/articles/2026-10/20261005-presseagence-google-maps-49-mieux-que-50-etoiles.html",
+      "date": "2026-10-05",
+      "source": "https://presseagence.fr/paris-google-maps-pourquoi-cinq-etoiles-ne-suffisent-pas-a-faire-passer-une-entreprise-en-premier/",
+      "author": "Rédaction Générale, Presse Agence",
+      "keywords": "Google Maps, reviews, rating, Localo, local SEO, Google Business Profile, star rating, local search ranking",
+      "elevator_pitch": "Une analyse de Localo portant sur 16 098 profils Google Business révèle qu'une note de 4,9 permet un meilleur classement local sur Google Maps qu'une note parfaite de 5,0, grâce au volume d'avis."
+    },
+    {
+      "title": "South Korea Lightning Mapping Array (SKLMA) Version 1 Datasets Released",
+      "url": "https://mappingforward.fr/articles/2026-10/20261005-nasa-south-korea-lightning-mapping-array-sklma.html",
+      "date": "2026-10-05",
+      "source": "https://www.earthdata.nasa.gov/data/alerts-outages/south-korea-lightning-mapping-array-sklma-version-1-datasets-released",
+      "author": "NASA Earthdata",
+      "keywords": "lightning mapping array, SKLMA, South Korea, NASA Earthdata, gridded data, total lightning, weather observation, atmospheric mapping",
+      "elevator_pitch": "La NASA Earthdata publie les jeux de données Version 1 du South Korea Lightning Mapping Array (SKLMA), fournissant des observations de l'activité foudre totale sur la Corée du Sud."
+    },
+    {
+      "title": "Google Maps les envoie en plein désert, 5 000 dollars de dégâts : pourquoi il ne faut pas toujours suivre l'application",
+      "url": "https://mappingforward.fr/articles/2026-10/20261005-journaldugeek-google-maps-desert-shortcut-5000-dollars-damage.html",
+      "date": "2026-10-05",
+      "source": "https://www.journaldugeek.com/2026/10/05/google-maps-les-envoie-en-plein-desert-5000-dollars-de-degats-pourquoi-il-ne-faut-pas-toujours-suivre-lapplication/",
+      "author": "Journal du Geek",
+      "keywords": "Google Maps, navigation error, desert, shortcut, Las Vegas, road safety, GPS misdirection",
+      "elevator_pitch": "Google Maps a proposé un raccourci à des automobilistes rentrant de Las Vegas qui s'est avéré être une piste de terre dans le désert, causant 5 000 dollars de dégâts et illustrant les dangers de la confiance aveugle dans la navigation GPS."
+    },
+    {
+      "title": "Ce smartphone récent fait buguer Google Maps dans Android Auto, la carte se fige et les utilisateurs n'ont aucune solution",
+      "url": "https://mappingforward.fr/articles/2026-10/20261005-buzzarena-pixel-11-bug-google-maps-android-auto.html",
+      "date": "2026-10-05",
+      "source": "https://www.buzzarena.com/ce-smartphone-recente-fait-buguer-google-maps-dans-android-auto-la-carte-se-fige-et-les-utilisateurs-nont-aucune-solution-pour-corriger-le-probleme-4564375",
+      "author": "BuzzArena",
+      "keywords": "Google Maps, Android Auto, Pixel 11, bug, smartphone, display freeze, navigation glitch, Google",
+      "elevator_pitch": "Le Pixel 11, pourtant lancé en août dernier, provoque des bugs d'affichage de Google Maps dans Android Auto — cartes figées, position en retard, parasites à l'écran — sans aucune solution ni communication de Google."
+    },
+    {
+      "title": "The first glimpse of a water ice absorption map in the Milky Way",
+      "url": "https://mappingforward.fr/articles/2026-10/20261005-aanda-water-ice-absorption-map-milky-way.html",
+      "date": "2026-10-05",
+      "source": "https://www.aanda.org/articles/aa/full_html/2026/10/aa58381-25/aa58381-25.html",
+      "author": "Astronomy & Astrophysics",
+      "keywords": "water ice, absorption map, Milky Way, ISM, interstellar medium, dust, extinction, astronomical mapping, star formation",
+      "elevator_pitch": "Des astronomes publient la première carte préliminaire à l'échelle de la Voie lactée de la distribution de glace d'eau, ouvrant une nouvelle fenêtre sur la chimie interstellaire et la formation stellaire."
+    },
+    {
+      "title": "Google Maps : comment remplacer votre icône de navigation par une Formule 1 McLaren",
+      "url": "https://mappingforward.fr/articles/2026-10/20261005-frandroid-google-maps-mclaren-f1-navigation-icon.html",
+      "date": "2026-10-05",
+      "source": "https://www.frandroid.com/marques/3272581_prendre-le-volant-dune-mclaren-dans-google-maps-cest-possible-mais-pour-une-duree-limitee",
+      "author": "Frandroid",
+      "keywords": "Google Maps, McLaren, Formula 1, navigation icon, customization, Grand Prix, United States, Android Auto, vehicle avatar",
+      "elevator_pitch": "Jusqu'au 23 novembre 2026, Google Maps permet de remplacer l'icône de navigation par une monoplace McLaren de Formule 1, une activation à distance pour célébrer le Grand Prix des États-Unis à Austin."
+    },
+    {
+      "title": "Avis Google Maps, Gemini, anti-spam : 5 infos de la semaine",
+      "url": "https://mappingforward.fr/articles/2026-10/20261005-infolux-avis-google-maps-connexion-gemini-utm-antispam.html",
+      "date": "2026-10-05",
+      "source": "https://www.info-lux.com/avis-google-maps-connexion-gemini-utm-recap-semaine/intelligence-artificielle/",
+      "author": "Vincent Gallez, Info-lux.com",
+      "keywords": "Google Maps, reviews, account login, Gemini, UTM links, anti-spam, Google Business Profile, local SEO, Wallonia, Luxembourg",
+      "elevator_pitch": "Cinq faits marquants de la semaine du 28 septembre au 4 octobre 2026 : les avis Google Maps exigent désormais un compte connecté, Gemini ajoute des paramètres UTM traçables, et la mise à jour anti-spam de Google est toujours en cours."
+    },
+    {
+      "title": "Des archéologues créent un « Google Maps des voies romaines », et le résultat est bluffant",
+      "url": "https://mappingforward.fr/articles/2026-10/20261005-ouestfrance-archeologues-google-maps-voies-romaines.html",
+      "date": "2026-10-05",
+      "source": "https://www.ouest-france.fr/leditiondusoir/2026-10-05/des-archeologues-creent-un-google-maps-des-voies-romaines-et-le-resultat-est-bluffant-925a96e4-eb72-460d-a5c8-c5fa45d9ac0a",
+      "author": "Ouest-France",
+      "keywords": "Roman roads, archaeological mapping, Itiner-e, Tom Brughmans, Aarhus University, Empire roman, cartography, satellite imagery, historical GIS, mobility",
+      "elevator_pitch": "Une équipe d'archéologues de l'université d'Aarhus a créé la carte la plus détaillée à ce jour du réseau routier de l'Empire romain (vers 150 apr. J.-C.), recensant près de 300 000 km de voies, disponible en ligne sur Itiner-e."
+    },
+    {
+      "title": "Gemini intègre enfin Google Maps avec un nouvel outil dédié sur mobile",
+      "url": "https://mappingforward.fr/articles/2026-10/20261005-blognt-gemini-integre-google-maps-outil-mobile.html",
+      "date": "2026-10-05",
+      "source": "https://www.blog-nouvelles-technologies.fr/386192/gemini-google-maps-outil-mobile/",
+      "author": "Yohann Poiron, BlogNT",
+      "keywords": "Gemini, Google Maps, AI assistant, Map Area, mobile, Android, iOS, local search, geographic context, Google",
+      "elevator_pitch": "Google ajoute un nouvel outil Maps à Gemini sur Android et iOS, permettant à l'IA d'utiliser une zone géographique pour répondre aux recherches locales, transformant progressivement l'assistant en agent intelligent du quotidien."
+    },
     {
       "title": "Bhilai Municipal Corporation to Map Drainage Network with GIS and Drone Surveys",
       "url": "https://mappingforward.fr/articles/2026-10/20261004-timesofindia-bhilai-gis-drone-drainage-mapping.html",
