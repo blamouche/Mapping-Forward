@@ -20,12 +20,22 @@ Articles per month:
 2026-07 | █████ 10<br>
 2026-08 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 267<br>
 2026-09 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 226<br>
-2026-10 | █████████████████████████████ 35<br>
+2026-10 | ██████████████████████████████████████████████ 45<br>
 ## Articles
 
 ### 2026
 
-#### October (35 articles)
+#### October (45 articles)
+- [Google Maps les envoie en plein désert, 5 000 dollars de dégâts : pourquoi il ne faut pas toujours suivre l'application](src/2026-10/20261005-journaldugeek-google-maps-desert-shortcut-5000-dollars-damage.md)
+- [Google Maps : comment remplacer votre icône de navigation par une Formule 1 McLaren](src/2026-10/20261005-frandroid-google-maps-mclaren-f1-navigation-icon.md)
+- [Des archéologues créent un « Google Maps des voies romaines », et le résultat est bluffant](src/2026-10/20261005-ouestfrance-archeologues-google-maps-voies-romaines.md)
+- [Les raccourcis de Waze et Google Maps provoquent des bouchons cauchemar — une commune catalane réagit](src/2026-10/20261005-lindependant-waze-google-maps-raccourcis-bouchons-catalane.md)
+- [Ce smartphone récent fait buguer Google Maps dans Android Auto, la carte se fige et les utilisateurs n'ont aucune solution](src/2026-10/20261005-buzzarena-pixel-11-bug-google-maps-android-auto.md)
+- [Gemini intègre enfin Google Maps avec un nouvel outil dédié sur mobile](src/2026-10/20261005-blognt-gemini-integre-google-maps-outil-mobile.md)
+- [Avis Google Maps, Gemini, anti-spam : 5 infos de la semaine](src/2026-10/20261005-infolux-avis-google-maps-connexion-gemini-utm-antispam.md)
+- [Google Maps : pourquoi 4,9 est mieux qu'une note de 5,0](src/2026-10/20261005-presseagence-google-maps-49-mieux-que-50-etoiles.md)
+- [The first glimpse of a water ice absorption map in the Milky Way](src/2026-10/20261005-aanda-water-ice-absorption-map-milky-way.md)
+- [South Korea Lightning Mapping Array (SKLMA) Version 1 Datasets Released](src/2026-10/20261005-nasa-south-korea-lightning-mapping-array-sklma.md)
 - [Bhilai Municipal Corporation to Map Drainage Network with GIS and Drone Surveys](src/2026-10/20261004-timesofindia-bhilai-gis-drone-drainage-mapping.md)
 - [National Webinar Highlights Critical Role of GIS in Disaster Risk Reduction in Assam](src/2026-10/20261004-sentinelassam-gis-disaster-risk-reduction-webinar-biswanath.md)
 - [Jamaica Launches MapMakers Programme to Modernise Geography Education with GIS](src/2026-10/20261004-jis-jamaica-mapmakers-geography-education-gis.md)
