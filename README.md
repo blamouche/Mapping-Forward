@@ -20,12 +20,19 @@ Articles per month:
 2026-07 | █████ 10<br>
 2026-08 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 267<br>
 2026-09 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 226<br>
-2026-10 | ██████████████████████████████████████████████ 45<br>
+2026-10 | █████████████████████████████████████████████████████████ 52<br>
 ## Articles
 
 ### 2026
 
-#### October (45 articles)
+#### October (52 articles)
+- [Grounding AI with Location Intelligence: The Ground for AI to Stand On](src/2026-10/20261006-tomtom-location-intelligence-ground-for-ai.md)
+- [Microsoft Signs Long-Term Xbox Deal and Expands AI Partner Ties with TomTom, ClickHouse, Atlan](src/2026-10/20261006-simplywall-microsoft-tomtom-ai-partner-fabric.md)
+- [How Melting Glaciers Are Redrawing Switzerland's Maps](src/2026-10/20261006-swissinfo-melting-glaciers-redrawing-switzerland-maps.md)
+- [Correcting the World Map: Harvard Examines the Shift from Mercator to Equal Earth](src/2026-10/20261006-harvard-gazette-correcting-the-world-map.md)
+- [DJI's New GEO Training Programme Reaches the Benelux with First Certified Training Dealer](src/2026-10/20261006-suasnews-dji-geo-training-benelux.md)
+- [From Geospatial Data to Action: Geo Sessions 2026 Puts GeoAI to the Operational Test](src/2026-10/20261005-rivistageomedia-geo-sessions-2026-geoai-operational-test.md)
+- [A Google Maps Shortcut from Hidden GPS Photo Data Saved Me Hours of Frustration](src/2026-10/20261005-androidpolice-google-maps-tasker-gps-photo-automation.md)
 - [Google Maps les envoie en plein désert, 5 000 dollars de dégâts : pourquoi il ne faut pas toujours suivre l'application](src/2026-10/20261005-journaldugeek-google-maps-desert-shortcut-5000-dollars-damage.md)
 - [Google Maps : comment remplacer votre icône de navigation par une Formule 1 McLaren](src/2026-10/20261005-frandroid-google-maps-mclaren-f1-navigation-icon.md)
 - [Des archéologues créent un « Google Maps des voies romaines », et le résultat est bluffant](src/2026-10/20261005-ouestfrance-archeologues-google-maps-voies-romaines.md)
