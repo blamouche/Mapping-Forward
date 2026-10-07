@@ -6,7 +6,47 @@
     <description>Daily synthesis of articles on cartography, mapping, geospatial data, and geographic intelligence</description>
     <language>en</language>
     <atom:link href="https://mappingforward.fr/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 06 Oct 2026 06:06:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 06:09:59 +0000</lastBuildDate>
+
+    <item>
+        <title>How Melting Glaciers Are Redrawing Switzerland&#x27;s Maps</title>
+        <link>https://mappingforward.fr/articles/2026-10/20261006-swissinfo-melting-glaciers-redrawing-switzerland-maps.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261006-swissinfo-melting-glaciers-redrawing-switzerland-maps.html</guid>
+        <description>Switzerland&#x27;s glaciers lost 2.5 to 4 metres of average ice thickness between 2025 and 2026, forcing cartographers to redraw the country&#x27;s topographic maps as glacier boundaries shift, lakes appear, and &quot;dead ice&quot; zones form. — Key takeaways: Swiss glaciers lost 2.5 to 4 metres of average ice thickness between 2025 and 2026, according to GLAMOS ; The changes are increasingly visible on Switzerland&#x27;s official topographic maps ; &quot;Dead ice&quot; zones are forming in places where little ice will remain ; Map updates are required as glacier boundaries shift and new glacial lakes appear ; The Swiss Glacier Monitoring Network (GLAMOS) tracks these changes systematically ; The phenomenon illustrates how climate change is directly impacting cartographic representation</description>
+        <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Microsoft Signs Long-Term Xbox Deal and Expands AI Partner Ties with TomTom, ClickHouse, Atlan</title>
+        <link>https://mappingforward.fr/articles/2026-10/20261006-simplywall-microsoft-tomtom-ai-partner-fabric.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261006-simplywall-microsoft-tomtom-ai-partner-fabric.html</guid>
+        <description>Microsoft deepened enterprise and AI partnerships with TomTom, ClickHouse, Atlan, and DrugBank across Microsoft Fabric, Foundry, and Copilot, integrating location intelligence and specialized data into its AI infrastructure platform. — Key takeaways: Microsoft signed a new long-term Xbox Publisher License Agreement with Take Two Interactive ; Enterprise AI partnerships expanded with TomTom, ClickHouse, Atlan, and DrugBank across Fabric, Foundry, and Copilot ; TomTom integration plugs location intelligence directly into Microsoft&#x27;s data and AI platforms ; The partnerships support the narrative that AI workloads, subscriptions and usage-based services should run on shared Microsoft infrastructure ; Investors should watch for Fabric, Foundry, and Copilot usage metrics tied to these partners in upcoming quarterly updates</description>
+        <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>DJI&#x27;s New GEO Training Programme Reaches the Benelux with First Certified Training Dealer</title>
+        <link>https://mappingforward.fr/articles/2026-10/20261006-suasnews-dji-geo-training-benelux.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261006-suasnews-dji-geo-training-benelux.html</guid>
+        <description>DJI Enterprise launched an official GEO training programme for its mapping drones and sensors, with Drone Parts Center in Nivelles, Belgium becoming the first certified training dealer in the Benelux, offering Matrice 4E and Zenmuse L3 courses for professional mapping and GIS analysis. — Key takeaways: DJI Enterprise launched an official training programme for mapping drones and sensors, available in Europe only ; Drone Parts Center in Nivelles, Belgium is the first certified GEO training dealer in the Benelux ; Two courses available: Matrice 4E (RTK photogrammetry, centimetre-level accuracy, up to 2 km² per flight) and Zenmuse L3 (long-range LiDAR, up to 10 km² per flight) ; The Matrice 4E course covers advanced photogrammetry, Smart 3D Capture, D-RTK 3 base station deployment, modelling in DJI Terra, and GIS analysis ; The Zenmuse L3 course covers LiDAR principles, acquisition design, RTK/PPK operations, point cloud classification and reconstruction ; Training includes online self-study, 1-2 days of in-person training, and official DJI certification ; No prior surveying background required; course does not replace remote pilot licence ; A French version of the online portal is announced for January 2027</description>
+        <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Correcting the World Map: Harvard Examines the Shift from Mercator to Equal Earth</title>
+        <link>https://mappingforward.fr/articles/2026-10/20261006-harvard-gazette-correcting-the-world-map.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261006-harvard-gazette-correcting-the-world-map.html</guid>
+        <description>Harvard Gazette examines the ongoing effort to correct centuries of cartographic bias, as the Equal Earth projection — developed in 2018 — shows Africa at its actual size, challenging the Mercator projection that has distorted global perceptions of continent sizes for over 400 years. — Key takeaways: The Mercator projection, created in 1569, distorts the relative size of continents, making Africa appear much smaller than it actually is ; The Equal Earth projection, developed in 2018 by Tom Patterson, Bojan Šavrič, and Bernhard Jenny, shows Africa at its true size of 30.4 million square kilometers ; Africa could contain the U.S., China, India, and most of Western Europe within its borders ; The Mercator projection was originally intended for navigation, preserving accurate angles and directions for charting paths ; Google Maps uses a modified version called the Web Mercator Projection ; The UN General Assembly has endorsed the shift toward more accurate world map projections ; Harvard&#x27;s Pusey Library houses historic Mercator globes that illustrate the cartographic tradition being challenged</description>
+        <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>Grounding AI with Location Intelligence: The Ground for AI to Stand On</title>
+        <link>https://mappingforward.fr/articles/2026-10/20261006-tomtom-location-intelligence-ground-for-ai.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261006-tomtom-location-intelligence-ground-for-ai.html</guid>
+        <description>TomTom positions itself not as a mapping company but as a location intelligence provider, offering a trusted data foundation with 30+ years of mapping expertise, 235+ countries covered, and billions of validated data points to ground AI systems in real-world context. — Key takeaways: TomTom redefines its core mission as making the world understandable and data usable, with location intelligence as the newest expression ; The company provides &quot;ground truth&quot; data: 30+ years mapping, 235+ countries, billions of data points, 15+ years of proprietary on-road historic data ; Live traffic information is updated every 30 seconds ; Orbis Maps and Overture partnership ensure open, interoperable industry standards for the data foundation ; 77+ car brands use TomTom tech; global partners include Cariad, Microsoft, Meta, AWS ; TomTom is embedded in ecosystems across Microsoft, ESRI and other big tech platforms ; The Agent Toolkit is now available through the TomTom Maps SDK for agentic workflows</description>
+        <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
 
     <item>
         <title>Les raccourcis de Waze et Google Maps provoquent des bouchons cauchemar — une commune catalane réagit</title>
@@ -57,6 +97,14 @@
     </item>
 
     <item>
+        <title>From Geospatial Data to Action: Geo Sessions 2026 Puts GeoAI to the Operational Test</title>
+        <link>https://mappingforward.fr/articles/2026-10/20261005-rivistageomedia-geo-sessions-2026-geoai-operational-test.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261005-rivistageomedia-geo-sessions-2026-geoai-operational-test.html</guid>
+        <description>Geo Sessions 2026, organized by NV5 Geospatial Software on October 14-15, explores how GeoAI, SAR, LiDAR and spectral technologies are moving from research to operational use across BIM, CAD, GIS, Earth Observation and infrastructure monitoring. — Key takeaways: Geo Sessions 2026 takes place October 14-15, 2026, online with free registration ; The event focuses on putting GeoAI to the &quot;operational test&quot; — moving from research to real-world applications ; Technologies covered include SAR (Synthetic Aperture Radar), LiDAR, and spectral analysis ; Application domains span BIM, CAD, GIS, Earth Observation, Earth Sciences, and infrastructure monitoring ; The event is organized by NV5 Geospatial Software ; The focus is on the full pipeline from geospatial data collection to actionable intelligence</description>
+        <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
         <title>Google Maps : comment remplacer votre icône de navigation par une Formule 1 McLaren</title>
         <link>https://mappingforward.fr/articles/2026-10/20261005-frandroid-google-maps-mclaren-f1-navigation-icon.html</link>
         <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261005-frandroid-google-maps-mclaren-f1-navigation-icon.html</guid>
@@ -77,6 +125,14 @@
         <link>https://mappingforward.fr/articles/2026-10/20261005-ouestfrance-archeologues-google-maps-voies-romaines.html</link>
         <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261005-ouestfrance-archeologues-google-maps-voies-romaines.html</guid>
         <description>Une équipe d&#x27;archéologues de l&#x27;université d&#x27;Aarhus a créé la carte la plus détaillée à ce jour du réseau routier de l&#x27;Empire romain (vers 150 apr. J.-C.), recensant près de 300 000 km de voies, disponible en ligne sur Itiner-e. — Key takeaways: Le projet Itiner-e (itiner-e.org) recense environ 299 171 km de voies romaines vers l&#x27;an 150 apr. J.-C. ; Cette carte augmente de près de 60 % la superficie connue du réseau de transport terrestre de l&#x27;Empire ; Seulement 2,8 % du réseau peut être localisé avec précision (à 50 m près en montagne, 200 m en plaine) ; Le projet combine cartographie topographique, imagerie satellite et siècles d&#x27;archives historiques ; Les données sont disponibles en libre accès dans la revue Scientific Data (Nature)</description>
+        <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+        <title>A Google Maps Shortcut from Hidden GPS Photo Data Saved Me Hours of Frustration</title>
+        <link>https://mappingforward.fr/articles/2026-10/20261005-androidpolice-google-maps-tasker-gps-photo-automation.html</link>
+        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261005-androidpolice-google-maps-tasker-gps-photo-automation.html</guid>
+        <description>An Android Police writer discovered a Google Maps shortcut that uses hidden GPS data from photos to instantly navigate to the location where a photo was taken, saving hours of manual address entry through Tasker automation. — Key takeaways: GPS coordinates are embedded in photo EXIF metadata by default on most smartphones ; Tasker automation can extract this GPS data and create a Google Maps shortcut to navigate directly to the photo&#x27;s location ; The shortcut eliminates the need to manually search for and type addresses ; The technique is particularly useful for finding locations from photos taken at unfamiliar places ; The workflow demonstrates how photo metadata can bridge the gap between personal photo libraries and navigation apps</description>
         <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
     </item>
 
@@ -350,62 +406,6 @@
         <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261001-einnews-gis-market-31-8-billion-2031-mordor.html</guid>
         <description>Le marché des systèmes d&#x27;information géographique (SIG) devrait atteindre 31,8 milliards de dollars d&#x27;ici 2031, avec un taux de croissance annuel composé (TCAC) de 13,94%. Cette croissance est stimulée par le déploiement de villes intelligentes, le GIS cloud, la collecte de données mobiles et l&#x27;intégration croissante des technologies géospatiales dans les processus décisionnels publics et privés. — Key takeaways: Le marché mondial des SIG devrait atteindre 31,8 milliards de dollars d&#x27;ici 2031 ; Le taux de croissance annuel composé (TCAC) est de 13,94% ; Les principaux moteurs de croissance sont les déploiements de villes intelligentes, le GIS cloud et la collecte de données mobiles ; L&#x27;intégration croissante des technologies géospatiales dans les processus décisionnels publics et privés accélère l&#x27;adoption ; Le rapport est produit par Mordor Intelligence et diffusé par EIN News</description>
         <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Navigation App Poll 2026: HERE Maps Overtakes Google Maps in Romanian Survey</title>
-        <link>https://mappingforward.fr/articles/2026-10/20261001-arenait-navigation-app-poll-2026-here-maps-overtakes-google.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261001-arenait-navigation-app-poll-2026-here-maps-overtakes-google.html</guid>
-        <description>Le sondage annuel d&#x27;Arena IT sur les préférences en matière d&#x27;applications de navigation révèle une surprise en 2026 : HERE Maps a dépassé Google Maps avec 29% des voix contre 26%. Waze reste en tête avec environ 35%. Aucune autre solution ne dépasse le seuil de 5%. Le sondage souligne la pertinence européenne de HERE Maps, notamment dans le secteur automobile. — Key takeaways: Waze obtient environ 35% des voix, HERE Maps 29%, Google Maps 26% — aucune autre solution ne dépasse 5% ; HERE Maps surprend en dépassant Google Maps pour la première fois dans ce sondage annuel ; En 2024 et 2025, Waze et Google Maps occupaient les deux premières places dans cet ordre ; HERE Maps conserve une présence solide dans le secteur automobile à l&#x27;échelle européenne ; Google Maps et Waze appartiennent toutes deux à Google, totalisant ensemble environ 60% des préférences ; Sygic maintient une niche importante parmi les utilisateurs qui apprécient la navigation offline et l&#x27;indépendance vis-à-vis des services Google</description>
-        <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>« Map patou » : l&#x27;outil pour repérer les chiens de protection intègre les Hautes-Alpes</title>
-        <link>https://mappingforward.fr/articles/2026-10/20261001-ledauphine-map-patou-chiens-protection-hautes-alpes.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-10/20261001-ledauphine-map-patou-chiens-protection-hautes-alpes.html</guid>
-        <description>La carte interactive « Map patou », qui recense les alpages où des chiens de protection de troupeaux sont potentiellement présents, s&#x27;étend aux Hautes-Alpes. La communauté de communes Buëch-Dévoluy a intégré l&#x27;outil à la fin de l&#x27;été 2026, et une action collective se met en place pour recenser les chiens et informer les usagers de la montagne. — Key takeaways: « Map patou » est une carte interactive qui recense les alpages où des chiens de protection de troupeaux sont potentiellement présents ; L&#x27;outil s&#x27;étend aux Hautes-Alpes : la communauté de communes Buëch-Dévoluy l&#x27;a intégré à la fin de l&#x27;été 2026 ; Une action collective se met en place pour recenser les chiens de protection et informer les usagers de la montagne ; La carte couvre une partie des Alpes et du Massif Central ; L&#x27;outil vise à réduire les conflits entre randonneurs et chiens de protection en informant sur leur présence</description>
-        <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>TomTom&#x27;s Poomalai: Geospatial Data Can Help P&amp;C Carriers Sharpen Risk Selection and Cut Loss Ratios</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260929-theinsurer-tomtom-poomalai-geospatial-insurance.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260929-theinsurer-tomtom-poomalai-geospatial-insurance.html</guid>
-        <description>Dans une interview accordée à The Insurer TV, Vinod Poomalai, head of insurtech product marketing chez TomTom, explique comment les données géospatiales de TomTom aident les assureurs non-vie à affiner leur modélisation des risques, valider les sinistres et réduire les ratios de perte. L&#x27;article couvre les cas d&#x27;usage en assurance automobile et habitation, l&#x27;utilisation d&#x27;agents IA pour la validation des sinistres, et le passage de modèles statiques territoriaux à des données dynamiques en temps réel. — Key takeaways: TomTom aide les assureurs P&amp;C à « apporter le monde réel dans leur modélisation des risques » via des données de carte, de trafic et de mobilité ; Pour l&#x27;assurance automobile, les données TomTom permettent d&#x27;évaluer non seulement le conducteur mais aussi le risque associé à l&#x27;environnement routier où il évolue ; Pour l&#x27;assurance habitation, les données aident à évaluer les expositions aux feux de forêt, inondations, séismes et autres périls ; La validation des sinistres est un cas d&#x27;usage en croissance, avec des « agents IA assez avancés » déployés pour valider les sinistres plus rapidement et identifier les activités suspectes ; Les données TomTom sont mises à jour quotidiennement et stockées chaque jour, permettant une granularité et une dynamique accrues par rapport aux modèles statiques territoriaux traditionnels ; L&#x27;assurance automobile commerciale est une opportunité clé : la combinaison des données de comportement du conducteur avec le risque au niveau routier et de l&#x27;environnement d&#x27;exploitation « change les ratios de perte pour les flottes commerciales » ; TomTom développe des agents IA et de nouvelles couches de données pour la validation des sinistres et le risque routier</description>
-        <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>La CHD Map est en ligne ! Une carte interactive de l&#x27;action humanitaire française</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260929-coordinationsud-chd-map-humanitaire-interactive.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260929-coordinationsud-chd-map-humanitaire-interactive.html</guid>
-        <description>La Coordination Humanitaire et Développement (CHD), collectif de Coordination SUD, lance la CHD Map, une carte interactive en accès libre qui recense les pays d&#x27;intervention de ses 61 organisations membres — 93 pays et 783 actions au total. Développée avec l&#x27;expertise de CartONG, la carte offre deux modes d&#x27;exploration (par organisation ou par pays) et vise à faciliter la transparence et les synergies entre acteurs de la solidarité internationale. — Key takeaways: La CHD Map recense visuellement les 93 pays d&#x27;intervention de 61 organisations membres de la Coordination Humanitaire et Développement, totalisant 783 actions ; La carte est en accès libre sur c-hd.org/map, sans restriction, pour le grand public comme pour les professionnels et décideurs ; Deux modes d&#x27;exploration : par organisation (visualiser les pays d&#x27;activité d&#x27;une ONG sélectionnée) ou par pays (visualiser les organisations actives dans un pays donné) ; Les données ont été extraites des rapports annuels et sites web des organisations membres, sans sollicitation directe, et feront l&#x27;objet d&#x27;une mise à jour régulière ; L&#x27;outil a été développé avec CartONG, organisation membre spécialisée dans la gestion de données géospatiales humanitaires ; L&#x27;objectif est de fournir un outil de transparence et de coordination, facilitant la connaissance et les synergies entre organisations humanitaires</description>
-        <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Tankrabatt 2026: Wer wirklich profitiert — und warum die Kritik falsch ist</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260929-freitag-tankrabatt-2026-tomtom-verkehrsdaten.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260929-freitag-tankrabatt-2026-tomtom-verkehrsdaten.html</guid>
-        <description>Le magazine allemand der Freitag publie une analyse défendant le bien-fondé du « Tankrabatt 2026 » (rabais sur les carburants) contre ses critiques. L&#x27;auteur s&#x27;appuie notamment sur des études du Ifo-Institut, du ZEW et du Bundeskartellamt, ainsi que sur des données de trafic anonymisées de TomTom, pour démontrer que le rabais a été effectivement transmis aux consommateurs, n&#x27;est pas nuisible au climat, et réduit même — marginalement — les inégalités de revenus. — Key takeaways: Le Tankrabatt 2026 (rabais sur les carburants en Allemagne) a été largement transmis aux consommateurs selon les évaluations du Ifo-Institut, du ZEW et du Bundeskartellamt, et non absorbé par les compagnies pétrolières ; Des chercheurs de la RWTH Aachen ont calculé que le rabat profite absolument à la classe moyenne et relativement à la classe moyenne inférieure, réduisant même — marginalement — les inégalités de revenus ; Le rabat n&#x27;est pas nuisible au climat car les conducteurs ne modifient pas leur comportement de conduite pour 17 centimes de plus ou de moins, ce qui est confirmé par des études et par les données de trafic anonymisées de TomTom ; L&#x27;auteur argue que la baisse du prix à la pompe est un instrument de relévation plus efficace que les paiements forfaitaires ou les déductions fiscales, car elle agit immédiatement et de manière visible ; Les vrais bénéfices des compagnies pétrolières proviennent de l&#x27;extraction à bas coût et de la vente sur les marchés mondiaux, et non de la pompe — ces bénéfices échappent aux instruments nationaux</description>
-        <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>What Major Events Reveal About a City&#x27;s Mobility System</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260929-tomtom-major-events-city-mobility-system.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260929-tomtom-major-events-city-mobility-system.html</guid>
-        <description>TomTom publie une analyse approfondie sur la manière dont les grands événements (Coupe du Monde, Jeux Olympiques, festivals) servent de test de résistance pour les systèmes de mobilité urbaine. L&#x27;article s&#x27;appuie sur des données de trafic réelles — notamment une prédiction de congestion validée lors de la finale de la Coupe du Monde 2026 — pour montrer comment ces événements révèlent les failles du réseau et créent des opportunités d&#x27;amélioration durable, avec des leçons tirées de Paris 2024 et de la gestion du trafic à Miami. — Key takeaways: Les grands événements concentrent la demande sur des lieux et horaires spécifiques, révélant les points faibles du réseau de mobilité qui sont difficiles à repérer en conditions normales ; Lors de la finale de la Coupe du Monde 2026, TomTom a prédit une hausse de trafic 2 à 3 heures avant le coup d&#x27;envoi : la congestion a atteint un pic de 196,3% à midi, soit exactement 3 heures avant le coup d&#x27;envoi de 15h ; Paris a utilisé les JO 2024 pour accélérer sa transformation vers une ville multimodale : 50 km de nouvelles pistes cyclables, réduction des vitesses, et première fois où tous les sites olympiques étaient accessibles en transports publics ; Les villes candidates à l&#x27;organisation de grands événements doivent soumettre un plan de mobilité comme condition préalable à l&#x27;attribution, selon AECOM ; Une étude sur les JO de Tokyo 2020 a montré que si la gestion de la demande a réduit le trafic de 2,9% le week-end, la demande induite a débordé sur les jours de semaine, causant une augmentation de 4,6% sur le réseau métropolitain ; AECOM a utilisé les données TomTom pour alimenter des modèles de prédiction par IA lors de 7 matchs à Miami pendant la Coupe du Monde 2026 ; La Coupe du Monde 2026 a démontré qu&#x27;une planification multimodale efficace permet de réduire considérablement le nombre de places de parking nécessaires autour des stades</description>
-        <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-        <title>Gaza Before and After: New Google Maps Imagery Shows Destruction of the Strip</title>
-        <link>https://mappingforward.fr/articles/2026-09/20260929-elpais-gaza-before-after-google-maps-satellite-imagery.html</link>
-        <guid isPermaLink="true">https://mappingforward.fr/articles/2026-09/20260929-elpais-gaza-before-after-google-maps-satellite-imagery.html</guid>
-        <description>EL PAÍS publie une analyse détaillée quartier par quartier des nouvelles images satellites de Google Maps sur la bande de Gaza, mises à jour avec des photos de février 2026. L&#x27;article contraste les images précédentes (2024, 2025) avec les plus récentes pour documenter l&#x27;ampleur des destructions — du village suédois disparu près de la frontière égyptienne aux ruines de l&#x27;hôpital Al-Shifa et du quartier de Rimal à Gaza City — et souligne que Google Maps a franchi un pas qu&#x27;Apple Maps n&#x27;a pas encore fait. — Key takeaways: Google Maps a mis à jour ses images satellites de la bande de Gaza avec des photos de février 2026, une première depuis plus d&#x27;un an, rendant visibles les destructions à l&#x27;échelle du territoire ; Google a mis à jour ses images en 2024, 2025 et 2026, un pas qu&#x27;Apple Maps n&#x27;a pas encore franchi ; À Tel al-Sultan (sud de la bande), à peine 10 bâtiments subsistent ; le « village suédois » près de la frontière égyptienne a entièrement disparu ; À Gaza City, 83% des bâtiments étaient endommagés dès octobre 2025 selon UNOSAT ; l&#x27;hôpital Al-Shifa, le plus grand complexe médical, est pratiquement détruit après deux sièges ; Le quartier de Rimal, autrefois le plus prospère, est en grande partie en ruines ; la tour Mushtaha (14 étages), le plus haut immeuble de Gaza, a été détruite en septembre 2025 ; L&#x27;ONU estime 1,9 million de personnes déplacées, 371 888 maisons détruites ou endommagées (plus de 60% de la population a perdu son logement), plus de la moitié des hôpitaux hors service ; L&#x27;économie de Gaza s&#x27;est contractée de 84% et le développement a été ramené en arrière de 77 ans selon l&#x27;ONU</description>
-        <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
     </item>
 
 </channel>

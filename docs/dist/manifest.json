@@ -1,9 +1,54 @@
 {
   "site": "Mapping Forward",
   "url": "https://mappingforward.fr",
-  "generated": "2026-10-06T06:06:23.150109",
-  "article_count": 1084,
+  "generated": "2026-10-07T06:09:59.981004",
+  "article_count": 1091,
   "articles": [
+    {
+      "title": "How Melting Glaciers Are Redrawing Switzerland's Maps",
+      "url": "https://mappingforward.fr/articles/2026-10/20261006-swissinfo-melting-glaciers-redrawing-switzerland-maps.html",
+      "date": "2026-10-06",
+      "source": "https://www.swissinfo.ch/eng/best-of-srg-content/how-melting-glaciers-are-redrawing-switzerlands-maps/92168751",
+      "author": "Matthias Heim, SRF/SWI swissinfo.ch",
+      "keywords": "Switzerland, glaciers, climate change, cartography, map updates, GLAMOS, ice loss, topographic maps",
+      "elevator_pitch": "Switzerland's glaciers lost 2.5 to 4 metres of average ice thickness between 2025 and 2026, forcing cartographers to redraw the country's topographic maps as glacier boundaries shift, lakes appear, and \"dead ice\" zones form."
+    },
+    {
+      "title": "Microsoft Signs Long-Term Xbox Deal and Expands AI Partner Ties with TomTom, ClickHouse, Atlan",
+      "url": "https://mappingforward.fr/articles/2026-10/20261006-simplywall-microsoft-tomtom-ai-partner-fabric.html",
+      "date": "2026-10-06",
+      "source": "https://simplywall.st/stocks/us/software/nasdaq-msft/microsoft/news/microsoft-msft-signs-long-term-xbox-deal-and-expands-ai-part",
+      "author": "Mitchell Lawler, Simply Wall St",
+      "keywords": "Microsoft, TomTom, ClickHouse, Atlan, DrugBank, Microsoft Fabric, Foundry, Copilot, AI partnerships, location intelligence",
+      "elevator_pitch": "Microsoft deepened enterprise and AI partnerships with TomTom, ClickHouse, Atlan, and DrugBank across Microsoft Fabric, Foundry, and Copilot, integrating location intelligence and specialized data into its AI infrastructure platform."
+    },
+    {
+      "title": "DJI's New GEO Training Programme Reaches the Benelux with First Certified Training Dealer",
+      "url": "https://mappingforward.fr/articles/2026-10/20261006-suasnews-dji-geo-training-benelux.html",
+      "date": "2026-10-06",
+      "source": "https://www.suasnews.com/2026/10/djis-new-geo-training-programme-reaches-the-benelux-first-certified-training-dealer/",
+      "author": "Press release, sUAS News",
+      "keywords": "DJI, GEO training, drone mapping, photogrammetry, LiDAR, Matrice 4E, Zenmuse L3, Benelux, Drone Parts Center, GIS, RTK",
+      "elevator_pitch": "DJI Enterprise launched an official GEO training programme for its mapping drones and sensors, with Drone Parts Center in Nivelles, Belgium becoming the first certified training dealer in the Benelux, offering Matrice 4E and Zenmuse L3 courses for professional mapping and GIS analysis."
+    },
+    {
+      "title": "Correcting the World Map: Harvard Examines the Shift from Mercator to Equal Earth",
+      "url": "https://mappingforward.fr/articles/2026-10/20261006-harvard-gazette-correcting-the-world-map.html",
+      "date": "2026-10-06",
+      "source": "https://news.harvard.edu/gazette/story/2026/10/correcting-the-world-map/",
+      "author": "Liz Mineo, Harvard Gazette",
+      "keywords": "world map, Mercator projection, Equal Earth projection, cartography, Africa, UN resolution, Harvard, map bias",
+      "elevator_pitch": "Harvard Gazette examines the ongoing effort to correct centuries of cartographic bias, as the Equal Earth projection — developed in 2018 — shows Africa at its actual size, challenging the Mercator projection that has distorted global perceptions of continent sizes for over 400 years."
+    },
+    {
+      "title": "Grounding AI with Location Intelligence: The Ground for AI to Stand On",
+      "url": "https://mappingforward.fr/articles/2026-10/20261006-tomtom-location-intelligence-ground-for-ai.html",
+      "date": "2026-10-06",
+      "source": "https://www.tomtom.com/newsroom/explainers-and-insights/tomtom-location-intelligence-the-ground-for-ai-to-stand-on",
+      "author": "Arpana Honap, TomTom Newsroom",
+      "keywords": "TomTom, location intelligence, AI grounding, Orbis Maps, Overture, data foundation, Microsoft, ESRI, automotive",
+      "elevator_pitch": "TomTom positions itself not as a mapping company but as a location intelligence provider, offering a trusted data foundation with 30+ years of mapping expertise, 235+ countries covered, and billions of validated data points to ground AI systems in real-world context."
+    },
     {
       "title": "Les raccourcis de Waze et Google Maps provoquent des bouchons cauchemar — une commune catalane réagit",
       "url": "https://mappingforward.fr/articles/2026-10/20261005-lindependant-waze-google-maps-raccourcis-bouchons-catalane.html",
@@ -59,6 +104,15 @@
       "elevator_pitch": "Des astronomes publient la première carte préliminaire à l'échelle de la Voie lactée de la distribution de glace d'eau, ouvrant une nouvelle fenêtre sur la chimie interstellaire et la formation stellaire."
     },
     {
+      "title": "From Geospatial Data to Action: Geo Sessions 2026 Puts GeoAI to the Operational Test",
+      "url": "https://mappingforward.fr/articles/2026-10/20261005-rivistageomedia-geo-sessions-2026-geoai-operational-test.html",
+      "date": "2026-10-05",
+      "source": "https://www.rivistageomedia.it/training/from-geospatial-data-to-action-geo-sessions-2026-puts-geoai-to-the-operational-test",
+      "author": "Edoardo Carlucci, Rivista Geomedia",
+      "keywords": "Geo Sessions 2026, GeoAI, SAR, LiDAR, spectral analysis, BIM, CAD, GIS, Earth Observation, infrastructure monitoring, NV5",
+      "elevator_pitch": "Geo Sessions 2026, organized by NV5 Geospatial Software on October 14-15, explores how GeoAI, SAR, LiDAR and spectral technologies are moving from research to operational use across BIM, CAD, GIS, Earth Observation and infrastructure monitoring."
+    },
+    {
       "title": "Google Maps : comment remplacer votre icône de navigation par une Formule 1 McLaren",
       "url": "https://mappingforward.fr/articles/2026-10/20261005-frandroid-google-maps-mclaren-f1-navigation-icon.html",
       "date": "2026-10-05",
@@ -84,6 +138,15 @@
       "author": "Ouest-France",
       "keywords": "Roman roads, archaeological mapping, Itiner-e, Tom Brughmans, Aarhus University, Empire roman, cartography, satellite imagery, historical GIS, mobility",
       "elevator_pitch": "Une équipe d'archéologues de l'université d'Aarhus a créé la carte la plus détaillée à ce jour du réseau routier de l'Empire romain (vers 150 apr. J.-C.), recensant près de 300 000 km de voies, disponible en ligne sur Itiner-e."
+    },
+    {
+      "title": "A Google Maps Shortcut from Hidden GPS Photo Data Saved Me Hours of Frustration",
+      "url": "https://mappingforward.fr/articles/2026-10/20261005-androidpolice-google-maps-tasker-gps-photo-automation.html",
+      "date": "2026-10-05",
+      "source": "https://www.androidpolice.com/google-maps-tasker-automation/",
+      "author": "Irene Okpanachi, Android Police",
+      "keywords": "Google Maps, Tasker, GPS, EXIF data, photo metadata, automation, shortcut, Android",
+      "elevator_pitch": "An Android Police writer discovered a Google Maps shortcut that uses hidden GPS data from photos to instantly navigate to the location where a photo was taken, saving hours of manual address entry through Tasker automation."
     },
     {
       "title": "Gemini intègre enfin Google Maps avec un nouvel outil dédié sur mobile",
