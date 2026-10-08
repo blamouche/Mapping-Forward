@@ -20,12 +20,22 @@ Articles per month:
 2026-07 | █████ 10<br>
 2026-08 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 267<br>
 2026-09 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 226<br>
-2026-10 | █████████████████████████████████████████████████████████ 52<br>
+2026-10 | ████████████████████████████████████████████████████████████████████████ 62<br>
 ## Articles
 
 ### 2026
 
-#### October (52 articles)
+#### October (62 articles)
+- [The Overlooked Geography Beneath the AI Economy: How Stripe Uses GIS to Track Tax Jurisdictions](src/2026-10/20261007-esri-stripe-gis-tax-jurisdictions-ai-economy.md)
+- [Live Map: Track the Path of Tropical Storm Isaias](src/2026-10/20261007-pbs-live-map-tropical-storm-isaias.md)
+- [Google Maps Lets Users Replace Navigation Arrow with a McLaren Race Car](src/2026-10/20261007-vietnam-google-maps-mclaren-navigation-icon.md)
+- [Video Mapping Festival Returns to Amiens, Illuminating Seven Iconic Landmarks](src/2026-10/20261007-amiens-video-mapping-festival.md)
+- [Google Maps: Eight Factors That Influence Local Business Visibility](src/2026-10/20261007-moncarnet-google-maps-eight-factors-local-visibility.md)
+- [Five Overlooked Google Maps Accessibility Features That Help Everyone](src/2026-10/20261007-howtogeek-google-maps-accessibility-features.md)
+- [Prague Drivers Spend 106 Hours Per Year in Traffic Jams, TomTom Traffic Index Shows](src/2026-10/20261007-idnes-prague-tomtom-traffic-index-106-hours.md)
+- [Major Disruptions on A50 in Marseille After Two-Wheeler Accident, TomTom Reports 45+ Minute Delays](src/2026-10/20261007-maritima-marseille-a50-tomtom-traffic-accident.md)
+- [Ankara Drivers Lose 112 Hours Per Year in Traffic, TomTom Traffic Index Reveals](src/2026-10/20261007-yeniankara-ankara-tomtom-traffic-index-112-hours.md)
+- [Palawan Waters Closed to Fishing Over Possible China Rocket Debris](src/2026-10/20261007-philstar-palawan-waters-mapbox-rocket-debris.md)
 - [Grounding AI with Location Intelligence: The Ground for AI to Stand On](src/2026-10/20261006-tomtom-location-intelligence-ground-for-ai.md)
 - [Microsoft Signs Long-Term Xbox Deal and Expands AI Partner Ties with TomTom, ClickHouse, Atlan](src/2026-10/20261006-simplywall-microsoft-tomtom-ai-partner-fabric.md)
 - [How Melting Glaciers Are Redrawing Switzerland's Maps](src/2026-10/20261006-swissinfo-melting-glaciers-redrawing-switzerland-maps.md)
