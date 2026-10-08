@@ -1,9 +1,99 @@
 {
   "site": "Mapping Forward",
   "url": "https://mappingforward.fr",
-  "generated": "2026-10-07T06:09:59.981004",
-  "article_count": 1091,
+  "generated": "2026-10-08T06:03:52.644476",
+  "article_count": 1101,
   "articles": [
+    {
+      "title": "Palawan Waters Closed to Fishing Over Possible China Rocket Debris",
+      "url": "https://mappingforward.fr/articles/2026-10/20261007-philstar-palawan-waters-mapbox-rocket-debris.html",
+      "date": "2026-10-07",
+      "source": "https://www.philstar.com/nation/2026/10/07/2561547/palawan-waters-closed-fishing-sailing-over-possible-china-rocket-debris",
+      "author": "Renalyn Ramirez, Philstar.com",
+      "keywords": "Mapbox, rocket debris, Palawan, Philippines, China, Long March 12, maritime safety, mapping",
+      "elevator_pitch": "Philippine authorities closed waters off Palawan to fishing and sailing after Mapbox imagery identified the drop zone for China's Long March 12 rocket launch on October 10, 2026, highlighting how mapping platforms inform maritime safety decisions."
+    },
+    {
+      "title": "The Overlooked Geography Beneath the AI Economy: How Stripe Uses GIS to Track Tax Jurisdictions",
+      "url": "https://mappingforward.fr/articles/2026-10/20261007-esri-stripe-gis-tax-jurisdictions-ai-economy.html",
+      "date": "2026-10-07",
+      "source": "https://www.esri.com/about/newsroom/publications/wherenext/stripe-ai-tax-jurisdictions",
+      "author": "Cindy Elliott, Esri WhereNext",
+      "keywords": "Esri, Stripe, GIS, tax jurisdictions, AI economy, Stripe Tax, JRS, geospatial, compliance",
+      "elevator_pitch": "Esri's WhereNext magazine details how Stripe uses GIS technology to manage the byzantine world of tax jurisdictions — over 16,000 combinations in the US alone — enabling AI companies to handle compliance through a jurisdiction resolution system that maps all US states, 3,200+ counties, 10,000+ cities, and 3,000+ districts."
+    },
+    {
+      "title": "Five Overlooked Google Maps Accessibility Features That Help Everyone",
+      "url": "https://mappingforward.fr/articles/2026-10/20261007-howtogeek-google-maps-accessibility-features.html",
+      "date": "2026-10-07",
+      "source": "https://www.howtogeek.com/useful-google-maps-accessibility-features-overlook-they-help-everyone/",
+      "author": "Viraj Gawde, How-To Geek",
+      "keywords": "Google Maps, accessibility, wheelchair routes, voice guidance, Lens in Maps, Auracast, mobility, vision, hearing",
+      "elevator_pitch": "How-To Geek highlights five Google Maps accessibility features — wheelchair-accessible routes, accessible places info, detailed voice guidance, Lens in Maps for visual recognition, and Auracast streaming — that benefit not just users with disabilities but all travelers."
+    },
+    {
+      "title": "Google Maps Lets Users Replace Navigation Arrow with a McLaren Race Car",
+      "url": "https://mappingforward.fr/articles/2026-10/20261007-vietnam-google-maps-mclaren-navigation-icon.html",
+      "date": "2026-10-07",
+      "source": "https://www.vietnam.vn/fr/bien-mui-ten-chi-duong-google-maps-thanh-xe-dua-mclaren",
+      "author": "Vietnam.vn",
+      "keywords": "Google Maps, McLaren, navigation icon, customization, branding, motorsport partnership",
+      "elevator_pitch": "Google Maps now allows users to replace the standard navigation arrow with a McLaren race car icon, deepening the commercial partnership between Google and the motorsport brand while offering a fun personalization option for navigation."
+    },
+    {
+      "title": "Google Maps: Eight Factors That Influence Local Business Visibility",
+      "url": "https://mappingforward.fr/articles/2026-10/20261007-moncarnet-google-maps-eight-factors-local-visibility.html",
+      "date": "2026-10-07",
+      "source": "https://moncarnet.com/2026/10/07/google-maps-huit-facteurs-qui-influencent-la-visibilite-des-entreprises-locales/",
+      "author": "Bruno Guglielminetti, Mon Carnet",
+      "keywords": "Google Maps, local SEO, Google Business, visibility, Localo, reviews, business listings",
+      "elevator_pitch": "An analysis of over two million Google Business profiles by Localo identifies eight recurring factors — from description completeness to review volume and photo count — that distinguish businesses ranking in the top positions of Google Maps local search results."
+    },
+    {
+      "title": "Ankara Drivers Lose 112 Hours Per Year in Traffic, TomTom Traffic Index Reveals",
+      "url": "https://mappingforward.fr/articles/2026-10/20261007-yeniankara-ankara-tomtom-traffic-index-112-hours.html",
+      "date": "2026-10-07",
+      "source": "https://www.yeniankara.com.tr/ankara/ankara-trafik-suresi-suruculer-yilda-kac-saat-trafikte-kaliyor-185439",
+      "author": "Yeni Ankara",
+      "keywords": "TomTom, Traffic Index, Ankara, Turkey, congestion, urban mobility, traffic data",
+      "elevator_pitch": "TomTom's 2025 Traffic Index data reveals that Ankara drivers lose approximately 112 hours per year in traffic during peak hours, with congestion levels rising 1.6 percentage points compared to 2024, and evening rush hour speeds dropping to just 19.5 km/h."
+    },
+    {
+      "title": "Major Disruptions on A50 in Marseille After Two-Wheeler Accident, TomTom Reports 45+ Minute Delays",
+      "url": "https://mappingforward.fr/articles/2026-10/20261007-maritima-marseille-a50-tomtom-traffic-accident.html",
+      "date": "2026-10-07",
+      "source": "https://maritima.fr/actualites/info-route/marseille/15959/de-grosses-perturbations-sur-la50-a-marseille-apres-un-accident-impliquant-un-deux-roues",
+      "author": "Jean-Michel Darras, Maritima",
+      "keywords": "TomTom, A50, Marseille, traffic, accident, real-time traffic data, navigation",
+      "elevator_pitch": "An accident between a car and a two-wheeler on the A50 near Marseille caused severe traffic disruptions, with TomTom data showing over 45 minutes needed to clear the jam, illustrating how real-time traffic platforms track and communicate incident-driven congestion."
+    },
+    {
+      "title": "Prague Drivers Spend 106 Hours Per Year in Traffic Jams, TomTom Traffic Index Shows",
+      "url": "https://mappingforward.fr/articles/2026-10/20261007-idnes-prague-tomtom-traffic-index-106-hours.html",
+      "date": "2026-10-07",
+      "source": "https://www.idnes.cz/praha/zpravy/praha-doprava-zacpy-cekani-hluk-pirati.A261007_093344_praha-zpravy_rts",
+      "author": "iDNES.cz",
+      "keywords": "TomTom, Traffic Index, Prague, Czech Republic, congestion, urban mobility, traffic data",
+      "elevator_pitch": "According to the TomTom Traffic Index, Prague residents spend 106 hours per year in traffic jams, with an iDNES commentary arguing that eight years of \"traffic terror\" in the city has turned evening roads into racing tracks as congestion eases."
+    },
+    {
+      "title": "Video Mapping Festival Returns to Amiens, Illuminating Seven Iconic Landmarks",
+      "url": "https://mappingforward.fr/articles/2026-10/20261007-amiens-video-mapping-festival.html",
+      "date": "2026-10-07",
+      "source": "https://www.amiens.fr/Actualites/Eclairs-de-genie",
+      "author": "Simon Playoult, Amiens Métropole",
+      "keywords": "video mapping, Amiens, festival, projection mapping, cultural heritage, Hauts-de-France, audiovisual",
+      "elevator_pitch": "The Video Mapping Festival returns to Amiens on October 16-17, 2026, illuminating seven landmarks including the cathedral, Tour Perret, and Hôtel de Berny, with the city recognized as a French pioneer in architectural projection mapping since its cathedral colorization in 1999."
+    },
+    {
+      "title": "Live Map: Track the Path of Tropical Storm Isaias",
+      "url": "https://mappingforward.fr/articles/2026-10/20261007-pbs-live-map-tropical-storm-isaias.html",
+      "date": "2026-10-07",
+      "source": "https://www.pbs.org/newshour/nation/live-map-track-the-path-of-tropical-storm-isaias",
+      "author": "PBS News",
+      "keywords": "live map, tropical storm, Isaias, hurricane tracker, weather mapping, NOAA, National Hurricane Center",
+      "elevator_pitch": "PBS News published a live tracking map for Tropical Storm Isaias, which formed early Wednesday October 7, 2026, providing real-time path visualization alongside the New York Times' interactive tracker showing wind speeds, direction, and rainfall forecasts."
+    },
     {
       "title": "How Melting Glaciers Are Redrawing Switzerland's Maps",
       "url": "https://mappingforward.fr/articles/2026-10/20261006-swissinfo-melting-glaciers-redrawing-switzerland-maps.html",
