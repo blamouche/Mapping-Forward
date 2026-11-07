@@ -1,3 +1,6 @@
+## 0.1.806 - 2026-11-07
+- Record blocked list-agent automation run: `agents/list-agent.md` is absent locally and from `origin/main`; `LIST.md` is empty.
+
 ## 0.1.805 - 2026-09-25
 - Add substack post: One geography, many instruments
 
