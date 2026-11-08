@@ -1,3 +1,6 @@
+## 0.1.808 - 2026-11-08
+- Finalize blocked list-agent run tracking after push to `main`.
+
 ## 0.1.807 - 2026-11-08
 - Record blocked list-agent automation run: `agents/list-agent.md` remains absent locally; `LIST.md` is empty.
 

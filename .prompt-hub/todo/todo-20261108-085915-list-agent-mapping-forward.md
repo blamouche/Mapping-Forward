@@ -9,7 +9,7 @@ Created: 2026-11-08 08:59:15 CET
 - [x] Record the blocked execution and update release/version tracking.
 - [x] Validate the tracked changes (`git diff --check` passed; queue remains empty).
 - [x] Commit the tracking result (`19fbb74b`, `Log blocked list-agent run`).
-- [ ] Push the tracking result to `main`.
+- [x] Push the tracking result to `main` (`8ef06cd2`; local `HEAD` matches `origin/main`).
 
 ## Assumption
 
@@ -17,4 +17,4 @@ The requested agent cannot run when its instruction file is absent. The safe out
 
 ## Review
 
-The workflow remains blocked because the required agent instruction file is absent. No queue content was changed. Tracking changes passed whitespace validation and were committed locally; remote-push validation remains.
+The workflow remains blocked because the required agent instruction file is absent. No queue content was changed. Tracking changes passed whitespace validation, the commit was pushed to `main`, and `HEAD` was verified against `origin/main`.
