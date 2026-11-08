@@ -1,3 +1,6 @@
+## 0.1.807 - 2026-11-08
+- Record blocked list-agent automation run: `agents/list-agent.md` remains absent locally; `LIST.md` is empty.
+
 ## 0.1.806 - 2026-11-07
 - Record blocked list-agent automation run: `agents/list-agent.md` is absent locally and from `origin/main`; `LIST.md` is empty.
 
